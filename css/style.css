@@ -1,0 +1,26 @@
+html, body, #map {
+    height: 100%;
+    width: 100%;
+}
+
+.leaflet-popup-content-wrapper {
+	padding: 1px;
+	text-align: left;
+    border-radius: 0px;
+    overflow: scroll;
+    max-height: 300px;
+    }
+table {
+    border-collapse: collapse;
+}
+
+table {
+   border-collapse: collapse;
+   width: 100%;
+}
+
+th, td {
+   text-align: left;
+   padding: 4px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
