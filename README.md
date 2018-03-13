@@ -10,3 +10,4 @@ Todos:
 - dynamische Zentrierung der Karte
 - mehr Glitzer / Design (schönere Pins, Anzeige der Daten)
 - Impressum, Infos, Links auf codefor und GitHub usw. 
+- Script für automatischen Datenabgleich zwischen OSM und Webseite schreiben
