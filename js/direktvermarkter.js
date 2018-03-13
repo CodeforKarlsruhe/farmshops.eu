@@ -20,12 +20,12 @@ function jederPunkt (feature, layer){
         popupcontent.push("<tr><td>" +prop.replace(":", " ").replace("addr ", "").replace("name", "Name").replace("opening_hours", "Öffnungszeiten").replace("city", "Stadt").replace("housenumber", "Hausnummer").replace("phone", "Telefon").replace("operator", "Betreiber").replace("postcode", "Postleitzahl").replace("street", "Straße").replace("organic", "Biologisch") + ": </td><td>" + feature.properties[prop].replace(";", ", ").replace("yes", "ja").replace("only", "nur") + "</td></tr>");
     }
 
-    var innereTabelle = popupcontent.join();
+    var innereTabelle = popupcontent.join("");
     
     layer.bindPopup(
         "<h1>" +feature.properties.name +"</h1>"
         +"<table>" +innereTabelle + "</table>"
-        +"Fehlende oder falsche Angaben? Trag sie für diesen Ort direkt auf Openstreetmap ein: <br>  <a href='http://openstreetmap.org/" +feature.id  +"'>Opentreetmap</a> <br>Die Daten werden regelmäßig abgeglichen."
+        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf Opentreetmap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>"
     );
 };
 
