@@ -32,3 +32,5 @@ function jederPunkt (feature, layer){
 L.geoJson(karlsruhe, {
     onEachFeature: jederPunkt
 }).addTo(map);
+
+L.control.scale().addTo(map);
