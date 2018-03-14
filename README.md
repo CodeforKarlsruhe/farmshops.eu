@@ -3,7 +3,7 @@ Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
 
 Vorläufige Webseite: http://stefang.cepheus.uberspace.de/farmshops/
 
-Todos:
+Todos: (siehe auch in Issues)
 - Unnötige Werte aus Tabelle ausblenden und den Rest sinnvoll sortieren
 - Links klickbar machen
 - Polygone als Punkte anzeigen
