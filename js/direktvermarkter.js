@@ -17,15 +17,62 @@ function popupcontent (feature, layer) {
 
     var popupcontent = [];
     for (var prop in feature.properties) {
-      if (prop == "@id" || prop == "shop"){
+      if (prop == "@id" || prop == "shop" || prop == "name"){
         //do nothing
         }
       else if (prop == "website" || prop == "contact:website"){
-          popupcontent.push("<tr><td>" +prop.replace("website","Internetseite").replace("contact:","") + ": </td><td>" + "<a link href='" + feature.properties[prop] + "' target='_blank'>" +feature.properties[prop] +"</a></td></tr>");
+          popupcontent.push("<tr><td>" 
+          +prop.replace("website","Internetseite").replace("contact:","") + ": </td><td>" + "<a link href='" 
+          + feature.properties[prop] + "' target='_blank'>" 
+          + feature.properties[prop] +"</a></td></tr>");
         }
+        else if (prop == "fixme"){
+            popupcontent.push("<tr><td>" 
+            +prop.replace("fixme","Unklare Daten") + ": </td><td>"
+            + feature.properties[prop].replace("position estimated","Position geschätzt") +" <a href='http://openstreetmap.org/" +feature.id  +"'> Daten Verbessern</a>");
+            }
 
         else {
-          popupcontent.push("<tr><td>" +prop.replace(":", " ").replace("addr ", "").replace("name", "Name").replace("opening_hours", "Öffnungszeiten").replace("city", "Stadt").replace("housenumber", "Hausnummer").replace("phone", "Telefon").replace("operator", "Betreiber").replace("postcode", "Postleitzahl").replace("street", "Straße").replace("organic", "Biologisch") + ": </td><td>" + feature.properties[prop].replace(";", ", ").replace("yes", "ja").replace("only", "nur") + "</td></tr>");
+          popupcontent.push("<tr><td>" 
+          + prop
+          .replace(":", " ")
+          .replace("addr ", "")
+          .replace("name", "Name")
+          .replace("opening_hours", "Öffnungszeiten")
+          .replace("city", "Stadt")
+          .replace("housenumber", "Hausnummer")
+          .replace("phone", "Telefon")
+          .replace("operator", "Betreiber")
+          .replace("postcode", "Postleitzahl")
+          .replace("street", "Straße")
+          .replace("organic", "Biologisch")
+          .replace("produce","Produzieren")
+          .replace("product","Produkt(e)")
+          .replace("contact","")
+          .replace("suburb","Bezirk")
+          .replace("description","Beschreibung")
+          .replace("building","Gebäude")
+          .replace("wheelchair","Rollstuhlgerecht")
+          .replace("payment coins","Nimmt Münzen")
+          .replace("payment notes","Nimmt Scheine")
+          .replace("payment cash","Nimmt Bargeld")
+          .replace("vending","Verkauft")
+          .replace("amenity","Einrichtung ")
+          .replace("country","Land")
+          .replace("houseName","Hausname")
+          .replace("milk", "Milch")
+          .replace("covered", "Überdacht")
+          .replace("lastcheck", "Letze Überprüfung")
+          .replace("source", "Quelle")
+
+          + ": </td><td>" 
+          + feature.properties[prop]
+          .replace(";", ", ")
+          .replace("yes", "ja")
+          .replace("only", "nur")
+          .replace("vending_machine","Verkaufsautomat")
+          .replace("raw_milk", "Rohmilch")
+          + "</td></tr>");
         }
     }
 
