@@ -80,7 +80,10 @@ function popupcontent (feature, layer) {
 
     var innereTabelle = popupcontent.join("");
     var htmlInhalt = "<h1>" +feature.properties.name +"</h1>"
-        +"<table>" +innereTabelle + "</table>"
+        +"<table>" 
+        +"<tr><th>Eigenschaft</th><th>Wert</th></tr>"
+        +innereTabelle 
+        + "</table>"
         +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf Opentreetmap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>"
 
 
