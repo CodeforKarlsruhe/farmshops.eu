@@ -3,18 +3,22 @@ html, body, #map {
     width: 100%;
 }
 
+h1 {
+    font-size: 18px;
+}
+
 .leaflet-popup-content-wrapper {
+   
 	padding: 1px;
 	text-align: left;
     border-radius: 0px;
     overflow: scroll;
     max-height: 300px;
+    font-size: 11px;
     }
-table {
-    border-collapse: collapse;
-}
 
 table {
+   font-size: 12px;
    border-collapse: collapse;
    width: 100%;
 }

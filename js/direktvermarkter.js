@@ -29,7 +29,8 @@ function popupcontent (feature, layer) {
         else if (prop == "fixme"){
             popupcontent.push("<tr><td>" 
             +prop.replace("fixme","Unklare Daten") + ": </td><td>"
-            + feature.properties[prop].replace("position estimated","Position geschätzt") +" <a href='http://openstreetmap.org/" +feature.id  +"'> Daten Verbessern</a>");
+            + feature.properties[prop].replace("position estimated","Position geschätzt") 
+            +" <a href='http://openstreetmap.org/" +feature.id  +"'> Daten Verbessern</a>");
             }
 
         else {
@@ -86,6 +87,8 @@ function popupcontent (feature, layer) {
 
     return htmlInhalt
 };
+
+//Darstellung
 
 var geojson1 = L.geoJson(karlsruhe,{
     onEachFeature: function(feature,layer){
