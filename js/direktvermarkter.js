@@ -21,20 +21,20 @@ function popupcontent (feature, layer) {
         //do nothing
         }
       else if (prop == "website" || prop == "contact:website"){
-          popupcontent.push("<tr><td>" 
-          +prop.replace("website","Internetseite").replace("contact:","") + ": </td><td>" + "<a link href='" 
+          popupcontent.push("<tr><td><strong>" 
+          +prop.replace("website","Internetseite").replace("contact:","") + ":</strong> </td><td>" + "<a link href='" 
           + feature.properties[prop] + "' target='_blank'>" 
           + feature.properties[prop] +"</a></td></tr>");
         }
         else if (prop == "fixme"){
-            popupcontent.push("<tr><td>" 
-            +prop.replace("fixme","Unklare Daten") + ": </td><td>"
+            popupcontent.push("<tr><td><strong>" 
+            +prop.replace("fixme","Unklare Daten") + ":</strong> </td><td>"
             + feature.properties[prop].replace("position estimated","Position geschätzt") 
             +" <a href='http://openstreetmap.org/" +feature.id  +"'> Daten Verbessern</a>");
             }
 
         else {
-          popupcontent.push("<tr><td>" 
+          popupcontent.push("<tr><td><strong>" 
           + prop
           .replace(":", " ")
           .replace("addr ", "")
@@ -66,7 +66,7 @@ function popupcontent (feature, layer) {
           .replace("lastcheck", "Letze Überprüfung")
           .replace("source", "Quelle")
 
-          + ": </td><td>" 
+          + ":</strong> </td><td>" 
           + feature.properties[prop]
           .replace(";", ", ")
           .replace("yes", "ja")
@@ -81,7 +81,6 @@ function popupcontent (feature, layer) {
     var innereTabelle = popupcontent.join("");
     var htmlInhalt = "<h1>" +feature.properties.name +"</h1>"
         +"<table>" 
-        +"<tr><th>Eigenschaft</th><th>Wert</th></tr>"
         +innereTabelle 
         + "</table>"
         +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf Opentreetmap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>"
