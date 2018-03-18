@@ -1,7 +1,7 @@
 //Karte
 
 var map = L.map('map',{
-    center: [49,8],
+    center: [48.94,8.42],
     zoom: 9,
     minZoom:2,
     maxZoom: 18
