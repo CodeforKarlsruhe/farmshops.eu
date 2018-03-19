@@ -1,15 +1,15 @@
 //Karte
 
 var map = L.map('map',{
-    center: [48.94,8.42],
-    zoom: 10,
+    center: [48.99,8.4242],
+    zoom: 11,
     minZoom:2,
     maxZoom: 18
 });
 
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    attribution: '&copy; &#124; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">Github</a>'
 }).addTo(map);
 
 //Daten
