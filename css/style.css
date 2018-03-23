@@ -1,20 +1,24 @@
-html, body, #map {
-    height: 98%;
-    width: 99%;
+#map {
+    height: 100%;
+    width: 100%;
 }
 
 h1 {
     font-size: 18px;
 }
 
+.leaflet-popup-content {
+    margin: 5px 9px;
+    line-height: 1.4;
+}
+
 .leaflet-popup-content-wrapper {
-   
-	padding: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 	text-align: left;
     border-radius: 0px;
     overflow: scroll;
-    max-height: 300px;
-    font-size: 11px;
+    max-height: 320px;
+    font-size: 10px;
     }
 
     table {
@@ -23,10 +27,19 @@ h1 {
     }
     th, td {
         text-align: left;
-        padding: 4px;
+        padding: 3px;
     }
     tr:nth-child(even){background-color: #f2f2f2}
     th {
         background-color: #4CAF50;
         color: white;
+    }
+
+    .leaflet-popup-content-wrapper a:link {
+        color: green;
+    }
+
+    /* visited link */
+    .leaflet-popup-content-wrapper a:visited {
+        color: green;
     }

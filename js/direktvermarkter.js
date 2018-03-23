@@ -1,40 +1,52 @@
 //Karte
 
 var map = L.map('map',{
-    center: [48.94,8.42],
-    zoom: 9,
+    center: [48.99,8.4242],
+    zoom: 11,
     minZoom:2,
     maxZoom: 18
 });
 
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    attribution: '&copy; &#124; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">Github</a>'
 }).addTo(map);
 
 //Daten
 function popupcontent (feature, layer) {
+  var street = "test";
+  var plz = "";
+  var housenr = "";
+  var city = "";
+  var country = "";
+  var suburb = "";
 
     var popupcontent = [];
     for (var prop in feature.properties) {
-      if (prop == "@id" || prop == "shop" || prop == "name"){
+
+
+      if (prop == "@id" || prop == "shop" || prop == "name"|| prop == "addr:city"|| prop == "addr:country"|| prop == "addr:housenumber"|| prop == "addr:postcode" || prop == "addr:suburb" || prop == "addr:street"){
+        console.log(prop +" "+feature.properties[prop] +" in Tabelle unsichtbar");
         //do nothing
         }
+      else if (prop == "addr:street"){
+          street = "feature.properties[prop]";
+          }
       else if (prop == "website" || prop == "contact:website"){
-          popupcontent.push("<tr><td><strong>" 
-          +prop.replace("website","Internetseite").replace("contact:","") + ":</strong> </td><td>" + "<a link href='" 
-          + feature.properties[prop] + "' target='_blank'>" 
+          popupcontent.unshift("<tr><td><strong>"
+          +prop.replace("website","Internetseite").replace("contact:","") + ":</strong> </td><td>" + "<a link href='"
+          + feature.properties[prop] + "' target='_blank'>"
           + feature.properties[prop] +"</a></td></tr>");
         }
         else if (prop == "fixme"){
-            popupcontent.push("<tr><td><strong>" 
+            popupcontent.push("<tr><td><strong>"
             +prop.replace("fixme","Unklare Daten") + ":</strong> </td><td>"
-            + feature.properties[prop].replace("position estimated","Position geschätzt") 
+            + feature.properties[prop].replace("position estimated","Position geschätzt")
             +" <a href='http://openstreetmap.org/" +feature.id  +"'> Daten Verbessern</a>");
             }
 
         else {
-          popupcontent.push("<tr><td><strong>" 
+          popupcontent.push("<tr><td><strong>"
           + prop
           .replace(":", " ")
           .replace("addr ", "")
@@ -66,7 +78,7 @@ function popupcontent (feature, layer) {
           .replace("lastcheck", "Letze Überprüfung")
           .replace("source", "Quelle")
 
-          + ":</strong> </td><td>" 
+          + ":</strong> </td><td>"
           + feature.properties[prop]
           .replace(";", ", ")
           .replace("yes", "ja")
@@ -75,15 +87,17 @@ function popupcontent (feature, layer) {
           .replace("raw_milk", "Rohmilch")
           + "</td></tr>");
         }
-    }
 
+
+    }
+    popupcontent.unshift("<tr><td><strong>Adresse </td><td>" +feature.properties.name +"</td></tr>");
 
     var innereTabelle = popupcontent.join("");
     var htmlInhalt = "<h1>" +feature.properties.name +"</h1>"
-        +"<table>" 
-        +innereTabelle 
+        +"<table>"
+        +innereTabelle
         + "</table>"
-        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf Opentreetmap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>"
+        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf Opentreetmap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>";
 
 
 
@@ -104,7 +118,7 @@ var geojson1 = L.geoJson(karlsruhe,{
         else if (feature.geometry.type === 'Point') {
             console.log("Point detected");
             layer.bindPopup(popupcontent(feature,layer));
-        
+
 }
 }});
 
