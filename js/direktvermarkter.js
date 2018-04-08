@@ -9,7 +9,7 @@ var map = L.map('map',{
 
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; &#124; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">Github</a>'
+    attribution: '&copy; &#124; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">GitHub</a>'
 }).addTo(map);
 
 //Daten
@@ -91,7 +91,7 @@ function popupcontent (feature, layer) {
         +"<table>"
         +innereTabelle
         + "</table>"
-        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf Opentreetmap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>";
+        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>";
 
 
 
