@@ -9,7 +9,7 @@ var map = L.map('map',{
 
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; &#124; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">GitHub</a>'
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &#124; <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">GitHub</a>'
 }).addTo(map);
 
 //Daten
