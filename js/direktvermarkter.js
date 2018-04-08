@@ -14,24 +14,15 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 //Daten
 function popupcontent (feature, layer) {
-  var street = "test";
-  var plz = "";
-  var housenr = "";
-  var city = "";
-  var country = "";
-  var suburb = "";
 
     var popupcontent = [];
     for (var prop in feature.properties) {
 
 
-      if (prop == "@id" || prop == "shop" || prop == "name"|| prop == "addr:city"|| prop == "addr:country"|| prop == "addr:housenumber"|| prop == "addr:postcode" || prop == "addr:suburb" || prop == "addr:street"){
+      if (prop == "@id" || prop == "shop" || prop == "name"|| prop == "addr:city"|| prop == "addr:country"|| prop == "addr:housenumber"|| prop == "addr:postcode" || prop == "addr:suburb" || prop == "addr:street" || prop == "opening_hours"){
         console.log(prop +" "+feature.properties[prop] +" in Tabelle unsichtbar");
         //do nothing
         }
-      else if (prop == "addr:street"){
-          street = "feature.properties[prop]";
-          }
       else if (prop == "website" || prop == "contact:website"){
           popupcontent.unshift("<tr><td><strong>"
           +prop.replace("website","Internetseite").replace("contact:","") + ":</strong> </td><td>" + "<a link href='"
@@ -90,10 +81,13 @@ function popupcontent (feature, layer) {
 
 
     }
-    popupcontent.unshift("<tr><td><strong>Adresse </td><td>" +feature.properties.name +"</td></tr>");
-
     var innereTabelle = popupcontent.join("");
     var htmlInhalt = "<h1>" +feature.properties.name +"</h1>"
+        +"<strong>Adresse:</strong><br>"
+        +feature.properties["addr:street"] +" " +feature.properties["addr:housenumber"]
+        +"<br>" +feature.properties["addr:postcode"] +" " +feature.properties["addr:city"]
+        +"<br><br><strong>Öffnungszeiten:</strong><br>" +feature.properties["opening_hours"]
+        +"<br><br><strong>Weitere Daten:</strong>"
         +"<table>"
         +innereTabelle
         + "</table>"
