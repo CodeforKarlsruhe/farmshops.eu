@@ -1,5 +1,5 @@
-# direktvermarkter
-Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
+# Direktvermarkter Karte
+Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der Region. Die Karte erhällt alle ihre Daten von Openstreetmap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
 
 Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
 
