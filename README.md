@@ -2,6 +2,7 @@
 Karte von Hofläden, Milchautomaten und anderen Direktvermarktern
 
 Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
+
 Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
 
 Todos: (siehe auch in Issues)
