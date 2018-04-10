@@ -2,8 +2,253 @@ var karlsruhe = {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2018-02-27T15:16:02Z",
+  "timestamp": "2018-04-10T20:54:02Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28987972",
+        "addr:city": "Walddorfhäslach",
+        "addr:country": "DE",
+        "addr:housenumber": "101,103",
+        "addr:postcode": "72141",
+        "addr:street": "Dorfstraße",
+        "addr:suburb": "Häslach",
+        "building": "yes",
+        "name": "Gaiser & Fischer Bioland Gärtnerei",
+        "organic": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2023254,
+              48.6012968
+            ],
+            [
+              9.200983,
+              48.6009059
+            ],
+            [
+              9.2015151,
+              48.6000488
+            ],
+            [
+              9.2028026,
+              48.6003383
+            ],
+            [
+              9.2026738,
+              48.6005615
+            ],
+            [
+              9.2027875,
+              48.6005921
+            ],
+            [
+              9.2023254,
+              48.6012968
+            ]
+          ]
+        ]
+      },
+      "id": "way/28987972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32933764",
+        "addr:city": "Markgröningen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "71706",
+        "addr:street": "Im Schafwiesen",
+        "building": "yes",
+        "name": "Hofladen Glaser",
+        "opening_hours": "Mo-Fr 09:00-12:00; Tu,We 09:00-12:00,17:00-18:30; Sa 09:00-18:30",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.0790465,
+              48.8940041
+            ],
+            [
+              9.0790331,
+              48.8939087
+            ],
+            [
+              9.0794877,
+              48.8938812
+            ],
+            [
+              9.0794945,
+              48.8939291
+            ],
+            [
+              9.0795958,
+              48.893923
+            ],
+            [
+              9.0796255,
+              48.8941353
+            ],
+            [
+              9.0790944,
+              48.8941675
+            ],
+            [
+              9.0790858,
+              48.8941064
+            ],
+            [
+              9.0793281,
+              48.8940917
+            ],
+            [
+              9.0793136,
+              48.8939879
+            ],
+            [
+              9.0790465,
+              48.8940041
+            ]
+          ]
+        ]
+      },
+      "id": "way/32933764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35930208",
+        "addr:city": "Leinfelden-Echterdingen",
+        "addr:country": "DE",
+        "addr:housenumber": "75",
+        "addr:postcode": "70771",
+        "addr:street": "Friedrich-List-Straße",
+        "building": "yes",
+        "contact:phone": "+49 711 793951",
+        "contact:website": "http://www.michaelshof.com/",
+        "name": "Michaelshof",
+        "opening_hours": "Fr 15:00-18:00",
+        "organic": "only",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.158308,
+              48.7011823
+            ],
+            [
+              9.1582394,
+              48.7011813
+            ],
+            [
+              9.1582394,
+              48.7011635
+            ],
+            [
+              9.1581263,
+              48.7011582
+            ],
+            [
+              9.1580921,
+              48.7011765
+            ],
+            [
+              9.1580856,
+              48.7012559
+            ],
+            [
+              9.1581649,
+              48.701258
+            ],
+            [
+              9.1581661,
+              48.7013026
+            ],
+            [
+              9.1581302,
+              48.7013039
+            ],
+            [
+              9.158116,
+              48.701418
+            ],
+            [
+              9.1581,
+              48.7014176
+            ],
+            [
+              9.1580845,
+              48.7015301
+            ],
+            [
+              9.1578484,
+              48.7015211
+            ],
+            [
+              9.1578876,
+              48.7012436
+            ],
+            [
+              9.1579842,
+              48.7012498
+            ],
+            [
+              9.1579997,
+              48.7011588
+            ],
+            [
+              9.1580266,
+              48.7011344
+            ],
+            [
+              9.1580228,
+              48.7011215
+            ],
+            [
+              9.1580987,
+              48.701063
+            ],
+            [
+              9.1581346,
+              48.7010513
+            ],
+            [
+              9.1582148,
+              48.701059
+            ],
+            [
+              9.1583367,
+              48.7011028
+            ],
+            [
+              9.158312,
+              48.7011338
+            ],
+            [
+              9.158323,
+              48.7011444
+            ],
+            [
+              9.158308,
+              48.7011823
+            ]
+          ]
+        ]
+      },
+      "id": "way/35930208"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -87,6 +332,261 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/43035961",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "84",
+        "addr:postcode": "70567",
+        "addr:street": "Vaihinger Straße",
+        "building": "yes",
+        "description": "Einkaufen auf dem Bauernhof",
+        "name": "Familie Eugen Schumacher",
+        "opening_hours": "Sa 06:30-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1406144,
+              48.7276392
+            ],
+            [
+              9.1405056,
+              48.7276872
+            ],
+            [
+              9.1404315,
+              48.727614
+            ],
+            [
+              9.1405404,
+              48.727566
+            ],
+            [
+              9.1406144,
+              48.7276392
+            ]
+          ]
+        ]
+      },
+      "id": "way/43035961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45728246",
+        "addr:city": "Remseck am Neckar",
+        "addr:housenumber": "100",
+        "addr:postcode": "71686",
+        "addr:street": "Ludwigsburger Steige",
+        "building": "yes",
+        "name": "Geflügelhof Walker",
+        "opening_hours": "Mo 07:30-14:00; Tu-Fr 07:30-18:30; Sa 07:30-16:00",
+        "phone": "+49 7146 90059",
+        "shop": "farm",
+        "website": "http://gefluegelhof-walker.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2391526,
+              48.8710752
+            ],
+            [
+              9.2391231,
+              48.8710866
+            ],
+            [
+              9.2390349,
+              48.8709883
+            ],
+            [
+              9.2389548,
+              48.8708991
+            ],
+            [
+              9.2392202,
+              48.870796
+            ],
+            [
+              9.2392966,
+              48.8708811
+            ],
+            [
+              9.239347,
+              48.8709372
+            ],
+            [
+              9.2393179,
+              48.8709485
+            ],
+            [
+              9.239409,
+              48.87105
+            ],
+            [
+              9.2392957,
+              48.871094
+            ],
+            [
+              9.239262,
+              48.8710564
+            ],
+            [
+              9.2391683,
+              48.8710927
+            ],
+            [
+              9.2391526,
+              48.8710752
+            ]
+          ]
+        ]
+      },
+      "id": "way/45728246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45836258",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:postcode": "70499",
+        "addr:street": "Ditzinger Straße",
+        "building": "yes",
+        "name": "Obsthof Hörnle",
+        "opening_hours": "\"Erdbeeren täglich\"; Sa 08:00-13:00",
+        "shop": "farm",
+        "url": "http://www.obsthofhoernle.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1046762,
+              48.8171306
+            ],
+            [
+              9.1047532,
+              48.8171451
+            ],
+            [
+              9.1048439,
+              48.8171621
+            ],
+            [
+              9.1048915,
+              48.8171711
+            ],
+            [
+              9.1047972,
+              48.8173885
+            ],
+            [
+              9.1045818,
+              48.817348
+            ],
+            [
+              9.1046762,
+              48.8171306
+            ]
+          ]
+        ]
+      },
+      "id": "way/45836258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53260215",
+        "addr:city": "Heilbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "74081",
+        "addr:street": "Ernst-Bader-Straße",
+        "building": "yes",
+        "name": "Wertsch's Hoflädle",
+        "shop": "farm",
+        "source": "Map Warper"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1691273,
+              49.1176526
+            ],
+            [
+              9.1690346,
+              49.1176291
+            ],
+            [
+              9.1691642,
+              49.1174402
+            ],
+            [
+              9.1692738,
+              49.117472
+            ],
+            [
+              9.1692891,
+              49.1174559
+            ],
+            [
+              9.1693436,
+              49.1174705
+            ],
+            [
+              9.1693137,
+              49.1175175
+            ],
+            [
+              9.1692683,
+              49.1175045
+            ],
+            [
+              9.1692456,
+              49.1175363
+            ],
+            [
+              9.1691821,
+              49.1176289
+            ],
+            [
+              9.1692114,
+              49.1176375
+            ],
+            [
+              9.1692051,
+              49.1176508
+            ],
+            [
+              9.1691721,
+              49.1176424
+            ],
+            [
+              9.1691594,
+              49.117658
+            ],
+            [
+              9.1691273,
+              49.1176526
+            ]
+          ]
+        ]
+      },
+      "id": "way/53260215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/53771161",
         "addr:city": "Rheinzabern",
         "addr:country": "DE",
@@ -125,6 +625,73 @@ var karlsruhe = {
         ]
       },
       "id": "way/53771161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55992959",
+        "addr:city": "Ilsfeld",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "74360",
+        "addr:street": "Lohmühle",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Mühlenladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2176249,
+              49.0530526
+            ],
+            [
+              9.2175386,
+              49.0530684
+            ],
+            [
+              9.2175219,
+              49.0530292
+            ],
+            [
+              9.217554,
+              49.0530233
+            ],
+            [
+              9.2175259,
+              49.0529573
+            ],
+            [
+              9.2177884,
+              49.0529093
+            ],
+            [
+              9.2178235,
+              49.0529916
+            ],
+            [
+              9.2177205,
+              49.0530104
+            ],
+            [
+              9.2177151,
+              49.0529978
+            ],
+            [
+              9.2176098,
+              49.0530171
+            ],
+            [
+              9.2176249,
+              49.0530526
+            ]
+          ]
+        ]
+      },
+      "id": "way/55992959"
     },
     {
       "type": "Feature",
@@ -268,6 +835,334 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/64973757",
+        "addr:city": "Rheinau",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "77866",
+        "addr:street": "Tullastraße",
+        "addr:suburb": "Linx",
+        "building": "yes",
+        "name": "Agrar Eier Sänger",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8917524,
+              48.6222346
+            ],
+            [
+              7.8915152,
+              48.622238
+            ],
+            [
+              7.8915082,
+              48.6221401
+            ],
+            [
+              7.8917491,
+              48.6221346
+            ],
+            [
+              7.8917524,
+              48.6222346
+            ]
+          ]
+        ]
+      },
+      "id": "way/64973757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/73078121",
+        "building": "yes",
+        "name": "Merz Gemüse",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3098995,
+              48.8029357
+            ],
+            [
+              9.310093,
+              48.8026865
+            ],
+            [
+              9.3104758,
+              48.8028168
+            ],
+            [
+              9.3102822,
+              48.803066
+            ],
+            [
+              9.3098995,
+              48.8029357
+            ]
+          ]
+        ]
+      },
+      "id": "way/73078121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79119883",
+        "addr:city": "Heilbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "74078",
+        "addr:street": "Böllinger Straße",
+        "building": "yes",
+        "name": "Obsthof Schoch",
+        "shop": "farm",
+        "source": "Map Warper Bild (3279)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2006061,
+              49.1739143
+            ],
+            [
+              9.2004958,
+              49.174029
+            ],
+            [
+              9.2003577,
+              49.1739722
+            ],
+            [
+              9.2003256,
+              49.1739589
+            ],
+            [
+              9.2004358,
+              49.1738443
+            ],
+            [
+              9.2006061,
+              49.1739143
+            ]
+          ]
+        ]
+      },
+      "id": "way/79119883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79134252",
+        "building": "yes",
+        "name": "Henzler's Rammerthof",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3163809,
+              48.5991275
+            ],
+            [
+              9.3163631,
+              48.5991525
+            ],
+            [
+              9.3161501,
+              48.5990858
+            ],
+            [
+              9.316168,
+              48.5990609
+            ],
+            [
+              9.3161085,
+              48.5990423
+            ],
+            [
+              9.3161266,
+              48.599017
+            ],
+            [
+              9.3160933,
+              48.5990066
+            ],
+            [
+              9.3162197,
+              48.5988299
+            ],
+            [
+              9.316253,
+              48.5988403
+            ],
+            [
+              9.3162708,
+              48.5988154
+            ],
+            [
+              9.3166078,
+              48.5989208
+            ],
+            [
+              9.3164454,
+              48.5991477
+            ],
+            [
+              9.3163809,
+              48.5991275
+            ]
+          ]
+        ]
+      },
+      "id": "way/79134252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89440506",
+        "addr:city": "Oppenau",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "77728",
+        "addr:street": "Vorderbühlweg",
+        "building": "yes",
+        "email": "info@kimmigs-hoflaedele.de",
+        "fax": "+49 7804 912070",
+        "name": "Kimmig´s Hoflädele",
+        "opening_hours": "Mo-Sa",
+        "phone": "+49 7804 3662",
+        "shop": "farm",
+        "website": "http://www.kimmigs-hoflaedele.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.1594667,
+              48.4667969
+            ],
+            [
+              8.1595336,
+              48.4667539
+            ],
+            [
+              8.1597104,
+              48.4668747
+            ],
+            [
+              8.1594519,
+              48.467041
+            ],
+            [
+              8.1593406,
+              48.4669649
+            ],
+            [
+              8.1593844,
+              48.4669368
+            ],
+            [
+              8.1593002,
+              48.4668792
+            ],
+            [
+              8.1592772,
+              48.466894
+            ],
+            [
+              8.1591187,
+              48.4667857
+            ],
+            [
+              8.1591919,
+              48.4667386
+            ],
+            [
+              8.159255,
+              48.4667817
+            ],
+            [
+              8.159301,
+              48.4667521
+            ],
+            [
+              8.1594657,
+              48.4668647
+            ],
+            [
+              8.1595174,
+              48.4668315
+            ],
+            [
+              8.1594667,
+              48.4667969
+            ]
+          ]
+        ]
+      },
+      "id": "way/89440506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91455460",
+        "building": "yes",
+        "name": "Conrad Bauernhof",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.246348,
+              49.0501907
+            ],
+            [
+              9.2462759,
+              49.0501764
+            ],
+            [
+              9.2463051,
+              49.0501129
+            ],
+            [
+              9.2463678,
+              49.0499769
+            ],
+            [
+              9.2467148,
+              49.0500455
+            ],
+            [
+              9.2466229,
+              49.0502451
+            ],
+            [
+              9.246348,
+              49.0501907
+            ]
+          ]
+        ]
+      },
+      "id": "way/91455460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/91894985",
         "addr:city": "Calw",
         "addr:housenumber": "2",
@@ -307,6 +1202,291 @@ var karlsruhe = {
         ]
       },
       "id": "way/91894985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92961002",
+        "building": "yes",
+        "name": "Hofmarkt Habermaß",
+        "opening_hours": "Fr 14:00-18:00; Sa 8:00-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2534663,
+              49.0585934
+            ],
+            [
+              9.2535028,
+              49.0585058
+            ],
+            [
+              9.2536337,
+              49.0585292
+            ],
+            [
+              9.2536303,
+              49.0585373
+            ],
+            [
+              9.2537333,
+              49.0585557
+            ],
+            [
+              9.2539771,
+              49.0585994
+            ],
+            [
+              9.2539439,
+              49.0586789
+            ],
+            [
+              9.2534663,
+              49.0585934
+            ]
+          ]
+        ]
+      },
+      "id": "way/92961002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93400452",
+        "addr:city": "Sankt Johann",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "72813",
+        "addr:street": "Untere Brühlstraße",
+        "addr:suburb": "Würtingen",
+        "amenity": "vending_machine",
+        "building": "yes",
+        "description": "Milchautomat, Frischwarenautomat (Eier, Kartoffeln, Äpfel), Feldgemüse, eingekochte Gemüse, selbst gekochter Fruchtaufstrich, Obst, Mehl, Nudeln, Milchprodukte",
+        "name": "Landvielfalt Blankenhorn",
+        "opening_hours": "Mo,Th 09:00-12:00; Tu-Fr 17:00-19:00; Sa 08:00-13:00; Su,PH off",
+        "operator": "Melanie Blankenhorn",
+        "phone": "+49 7122 825598",
+        "shop": "farm",
+        "vending": "milk,eggs,potatoes;apples",
+        "website": "http://www.kreis-reutlingen.de/de/Service%2BVerwaltung/B%C3%BCrgerservice-A-Z/Verbraucherforum-Ern%C3%A4hrung/Direktvermarkter",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3425216,
+              48.4562752
+            ],
+            [
+              9.3422325,
+              48.4561975
+            ],
+            [
+              9.3423045,
+              48.4560797
+            ],
+            [
+              9.3425935,
+              48.4561574
+            ],
+            [
+              9.3425216,
+              48.4562752
+            ]
+          ]
+        ]
+      },
+      "id": "way/93400452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95740009",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "86",
+        "addr:postcode": "70597",
+        "addr:street": "Albstraße",
+        "building": "yes",
+        "name": "Hofladen Straif",
+        "opening_hours": "Fr 10:00-18:00; Sa 08:30-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1662997,
+              48.7411011
+            ],
+            [
+              9.1663865,
+              48.7411754
+            ],
+            [
+              9.1662735,
+              48.7412328
+            ],
+            [
+              9.1661867,
+              48.7411585
+            ],
+            [
+              9.1662997,
+              48.7411011
+            ]
+          ]
+        ]
+      },
+      "id": "way/95740009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96146156",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "70597",
+        "addr:street": "Epplestraße",
+        "building": "yes",
+        "name": "Hofladen Wais",
+        "opening_hours": "We 10:00-12:00; Sa 08:00-12:00",
+        "shop": "farm",
+        "website": "http://www.gans-degerloch.de/hofladen/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1687744,
+              48.7449785
+            ],
+            [
+              9.1687918,
+              48.7450254
+            ],
+            [
+              9.1685811,
+              48.7450594
+            ],
+            [
+              9.1685414,
+              48.7449524
+            ],
+            [
+              9.1686625,
+              48.7449329
+            ],
+            [
+              9.1686536,
+              48.744909
+            ],
+            [
+              9.1689516,
+              48.744861
+            ],
+            [
+              9.1689827,
+              48.7449449
+            ],
+            [
+              9.1687744,
+              48.7449785
+            ]
+          ]
+        ]
+      },
+      "id": "way/96146156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97002860",
+        "addr:housenumber": "40",
+        "building": "yes",
+        "name": "Leibs Hofladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5475308,
+              49.4540676
+            ],
+            [
+              8.5473815,
+              49.4541205
+            ],
+            [
+              8.5472539,
+              49.4539684
+            ],
+            [
+              8.5474032,
+              49.4539155
+            ],
+            [
+              8.5475308,
+              49.4540676
+            ]
+          ]
+        ]
+      },
+      "id": "way/97002860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100059110",
+        "addr:city": "Meckenheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "67149",
+        "addr:street": "Bleichhof",
+        "building": "yes",
+        "name": "Bleichhof",
+        "shop": "farm",
+        "website": "http://www.bleichhof.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.2397879,
+              49.4119677
+            ],
+            [
+              8.2397199,
+              49.4122189
+            ],
+            [
+              8.2392954,
+              49.4121703
+            ],
+            [
+              8.2393634,
+              49.4119191
+            ],
+            [
+              8.2397879,
+              49.4119677
+            ]
+          ]
+        ]
+      },
+      "id": "way/100059110"
     },
     {
       "type": "Feature",
@@ -474,6 +1654,43 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/115880316",
+        "building": "yes",
+        "shop": "farm",
+        "website": "http://www.gaetschenberger.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2375624,
+              49.3715391
+            ],
+            [
+              9.2375901,
+              49.371364
+            ],
+            [
+              9.2379386,
+              49.3713874
+            ],
+            [
+              9.2379109,
+              49.3715625
+            ],
+            [
+              9.2375624,
+              49.3715391
+            ]
+          ]
+        ]
+      },
+      "id": "way/115880316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/117126011",
         "addr:city": "Unterreichenbach",
         "addr:housenumber": "3",
@@ -515,6 +1732,336 @@ var karlsruhe = {
         ]
       },
       "id": "way/117126011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117702158",
+        "building": "yes",
+        "name": "Eselsmühle",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2905213,
+              49.0035318
+            ],
+            [
+              9.2905083,
+              49.0035265
+            ],
+            [
+              9.2906022,
+              49.0034271
+            ],
+            [
+              9.2906206,
+              49.0034353
+            ],
+            [
+              9.2907206,
+              49.0034745
+            ],
+            [
+              9.290662,
+              49.003539
+            ],
+            [
+              9.2906538,
+              49.0035463
+            ],
+            [
+              9.2906269,
+              49.0035748
+            ],
+            [
+              9.2905213,
+              49.0035318
+            ]
+          ]
+        ]
+      },
+      "id": "way/117702158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117966003",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "70565",
+        "addr:street": "Handwerkstraße",
+        "building": "yes",
+        "name": "Brodbeck's Hofladen Beerenkulturen",
+        "shop": "farm",
+        "website": "http://www.beeren-brodbeck.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1276326,
+              48.718496
+            ],
+            [
+              9.1276296,
+              48.7185323
+            ],
+            [
+              9.1275344,
+              48.7185288
+            ],
+            [
+              9.1275374,
+              48.7184926
+            ],
+            [
+              9.1274757,
+              48.7184903
+            ],
+            [
+              9.1274796,
+              48.718445
+            ],
+            [
+              9.127453,
+              48.718444
+            ],
+            [
+              9.127456,
+              48.7184082
+            ],
+            [
+              9.1274825,
+              48.7184092
+            ],
+            [
+              9.1274871,
+              48.718355
+            ],
+            [
+              9.1276617,
+              48.7183614
+            ],
+            [
+              9.1276503,
+              48.7184967
+            ],
+            [
+              9.1276326,
+              48.718496
+            ]
+          ]
+        ]
+      },
+      "id": "way/117966003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120341482",
+        "addr:city": "Massenbachhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "74252",
+        "addr:street": "Gemminger Straße",
+        "building": "yes",
+        "name": "Hofladen Familie Schwarz",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.0428192,
+              49.1770491
+            ],
+            [
+              9.0427722,
+              49.1770019
+            ],
+            [
+              9.0428045,
+              49.1769882
+            ],
+            [
+              9.0429048,
+              49.1769456
+            ],
+            [
+              9.0430204,
+              49.1770619
+            ],
+            [
+              9.0430678,
+              49.1771096
+            ],
+            [
+              9.0429353,
+              49.1771659
+            ],
+            [
+              9.0428192,
+              49.1770491
+            ]
+          ]
+        ]
+      },
+      "id": "way/120341482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121770205",
+        "addr:city": "Schwaikheim",
+        "addr:country": "DE",
+        "addr:postcode": "71409",
+        "building": "yes",
+        "name": "Obstbau Frank",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3490216,
+              48.8761447
+            ],
+            [
+              9.3490953,
+              48.8760477
+            ],
+            [
+              9.349256,
+              48.8761006
+            ],
+            [
+              9.3491823,
+              48.8761975
+            ],
+            [
+              9.3490216,
+              48.8761447
+            ]
+          ]
+        ]
+      },
+      "id": "way/121770205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123433387",
+        "addr:city": "Waiblingen",
+        "addr:housenumber": "44",
+        "addr:postcode": "71336",
+        "addr:street": "Schärisweg",
+        "building": "yes",
+        "name": "Mayers Hofladen",
+        "opening_hours": "Fr 14:30-18:30; Sa 08:30-12:30",
+        "operator": "Familie Mayer",
+        "shop": "farm",
+        "website": "http://mayershofladen.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3321007,
+              48.8548298
+            ],
+            [
+              9.3321808,
+              48.8547089
+            ],
+            [
+              9.3322439,
+              48.854727
+            ],
+            [
+              9.3322327,
+              48.854744
+            ],
+            [
+              9.3323051,
+              48.8547647
+            ],
+            [
+              9.3323416,
+              48.8547097
+            ],
+            [
+              9.3324708,
+              48.8547468
+            ],
+            [
+              9.3325871,
+              48.8547801
+            ],
+            [
+              9.3325651,
+              48.8548134
+            ],
+            [
+              9.3326342,
+              48.8548332
+            ],
+            [
+              9.3326631,
+              48.8547896
+            ],
+            [
+              9.332793,
+              48.8548269
+            ],
+            [
+              9.332741,
+              48.8549055
+            ],
+            [
+              9.3328972,
+              48.8549503
+            ],
+            [
+              9.332945,
+              48.854964
+            ],
+            [
+              9.3328961,
+              48.8550379
+            ],
+            [
+              9.3325591,
+              48.8549412
+            ],
+            [
+              9.3325754,
+              48.8549166
+            ],
+            [
+              9.332515,
+              48.8548993
+            ],
+            [
+              9.3324876,
+              48.8549407
+            ],
+            [
+              9.3321007,
+              48.8548298
+            ]
+          ]
+        ]
+      },
+      "id": "way/123433387"
     },
     {
       "type": "Feature",
@@ -579,6 +2126,150 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/125735454",
+        "addr:city": "Reutlingen",
+        "addr:postcode": "72770",
+        "addr:street": "Alteburger Hof",
+        "amenity": "vending_machine",
+        "building": "yes",
+        "description": "Milch, Eier, Honig, Apfelsaft und Nudeln bekommen Sie 24h aus unseren Automaten im Milchhäusle.",
+        "name": "Hofladen Hofgut Alteburg",
+        "opening_hours": "17:00-18:30",
+        "operator": "Olaf Pank",
+        "phone": "+49 7121 22140",
+        "shop": "farm",
+        "vending": "milk;food",
+        "vending:applejuice": "yes",
+        "vending:eggs": "yes",
+        "vending:honey": "yes",
+        "vending:milk": "yes",
+        "vending:pasta": "yes",
+        "website": "https://hofgutalteburg.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1515691,
+              48.4618689
+            ],
+            [
+              9.1516609,
+              48.4617946
+            ],
+            [
+              9.1517538,
+              48.4618451
+            ],
+            [
+              9.151662,
+              48.4619193
+            ],
+            [
+              9.1515691,
+              48.4618689
+            ]
+          ]
+        ]
+      },
+      "id": "way/125735454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/136370186",
+        "building": "yes",
+        "name": "Apfel Land",
+        "organic": "yes",
+        "produce": "apple",
+        "shop": "farm",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.7296789,
+              49.3565868
+            ],
+            [
+              8.7296895,
+              49.3565946
+            ],
+            [
+              8.7295535,
+              49.3566743
+            ],
+            [
+              8.7293523,
+              49.3565279
+            ],
+            [
+              8.7294948,
+              49.3564444
+            ],
+            [
+              8.7295676,
+              49.3564017
+            ],
+            [
+              8.729608,
+              49.356378
+            ],
+            [
+              8.729596,
+              49.3563692
+            ],
+            [
+              8.7296486,
+              49.3563383
+            ],
+            [
+              8.7296677,
+              49.3563521
+            ],
+            [
+              8.7297161,
+              49.3563237
+            ],
+            [
+              8.7297549,
+              49.3563519
+            ],
+            [
+              8.7297041,
+              49.3563816
+            ],
+            [
+              8.7297141,
+              49.3563889
+            ],
+            [
+              8.7296687,
+              49.3564155
+            ],
+            [
+              8.7296883,
+              49.3564298
+            ],
+            [
+              8.7298036,
+              49.3565137
+            ],
+            [
+              8.7296789,
+              49.3565868
+            ]
+          ]
+        ]
+      },
+      "id": "way/136370186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/137632349",
         "addr:city": "Lichtenau",
         "addr:housenumber": "32",
@@ -632,6 +2323,72 @@ var karlsruhe = {
         ]
       },
       "id": "way/137632349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141219928",
+        "addr:city": "Murr",
+        "addr:housenumber": "14",
+        "addr:postcode": "71711",
+        "addr:street": "Hohenhartweg",
+        "building": "yes",
+        "name": "Biohof Bühler (Demeter)",
+        "organic": "only",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2515646,
+              48.967541
+            ],
+            [
+              9.2515916,
+              48.9674459
+            ],
+            [
+              9.2516747,
+              48.9674561
+            ],
+            [
+              9.2516921,
+              48.9673948
+            ],
+            [
+              9.2518688,
+              48.9674165
+            ],
+            [
+              9.2518442,
+              48.967503
+            ],
+            [
+              9.2522293,
+              48.9675501
+            ],
+            [
+              9.2521699,
+              48.9677589
+            ],
+            [
+              9.251752,
+              48.9677077
+            ],
+            [
+              9.2517915,
+              48.9675688
+            ],
+            [
+              9.2515646,
+              48.967541
+            ]
+          ]
+        ]
+      },
+      "id": "way/141219928"
     },
     {
       "type": "Feature",
@@ -740,14 +2497,566 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/141529160",
+        "addr:city": "Murr",
+        "addr:housenumber": "5",
+        "addr:postcode": "71711",
+        "addr:street": "Burgweg",
+        "building": "yes",
+        "name": "Demeter Sonneneck",
+        "organic": "only",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2406309,
+              48.9586787
+            ],
+            [
+              9.2406755,
+              48.9583684
+            ],
+            [
+              9.2408626,
+              48.95838
+            ],
+            [
+              9.2408795,
+              48.9582624
+            ],
+            [
+              9.2411066,
+              48.9582765
+            ],
+            [
+              9.2410879,
+              48.9584068
+            ],
+            [
+              9.2409324,
+              48.9583972
+            ],
+            [
+              9.2409049,
+              48.9585881
+            ],
+            [
+              9.241139,
+              48.9586026
+            ],
+            [
+              9.2411237,
+              48.9587092
+            ],
+            [
+              9.2406309,
+              48.9586787
+            ]
+          ]
+        ]
+      },
+      "id": "way/141529160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150092435",
+        "building": "farm",
+        "name": "Schmoll's Hofladen",
+        "opening_hours": "Mo-Fr 09:30-11:30,14:00-19:00; Sa 08:00-12:30",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1086438,
+              49.0773228
+            ],
+            [
+              9.1086428,
+              49.0774193
+            ],
+            [
+              9.108439,
+              49.0774177
+            ],
+            [
+              9.1084352,
+              49.0773219
+            ],
+            [
+              9.1086438,
+              49.0773228
+            ]
+          ]
+        ]
+      },
+      "id": "way/150092435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163807737",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:place": "Gewann Schläuchen",
+        "addr:postcode": "69121",
+        "building": "commercial",
+        "contact:email": "gaertnerei@biogemuese-heidelberg.de",
+        "contact:fax": "+49 6221 402242",
+        "contact:phone": "+49 6221 419164",
+        "contact:website": "http://www.biogemuese-heidelberg.de",
+        "name": "Bioland-Gärtnerei Wiesenäcker",
+        "opening_hours": "Tu 10:00-12:00,15:00-18:30; Fr 10:00-18:30; Sa 09:00-13:00",
+        "shop": "farm",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.666366,
+              49.4307742
+            ],
+            [
+              8.6660743,
+              49.4307163
+            ],
+            [
+              8.666174,
+              49.4305037
+            ],
+            [
+              8.6664658,
+              49.4305616
+            ],
+            [
+              8.666366,
+              49.4307742
+            ]
+          ]
+        ]
+      },
+      "id": "way/163807737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165638664",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "2",
+        "addr:postcode": "69124",
+        "addr:street": "Hagellachstraße",
+        "building": "yes",
+        "contact:fax": "+49 6221 786485",
+        "contact:phone": "+49 6221 712326",
+        "name": "Pfisterer",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-12:30",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6714824,
+              49.3788565
+            ],
+            [
+              8.6715715,
+              49.3787686
+            ],
+            [
+              8.6717068,
+              49.3785416
+            ],
+            [
+              8.6718611,
+              49.3785894
+            ],
+            [
+              8.6718115,
+              49.3786907
+            ],
+            [
+              8.6717007,
+              49.3786682
+            ],
+            [
+              8.6716221,
+              49.3788008
+            ],
+            [
+              8.6717187,
+              49.3788451
+            ],
+            [
+              8.6716535,
+              49.3789275
+            ],
+            [
+              8.6714824,
+              49.3788565
+            ]
+          ]
+        ]
+      },
+      "id": "way/165638664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169837274",
+        "building": "yes",
+        "name": "Schülke's Hof (Besen)",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.0003744,
+              49.009369
+            ],
+            [
+              9.0003867,
+              49.0091972
+            ],
+            [
+              9.0005931,
+              49.0092035
+            ],
+            [
+              9.0005809,
+              49.0093753
+            ],
+            [
+              9.0003744,
+              49.009369
+            ]
+          ]
+        ]
+      },
+      "id": "way/169837274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171811816",
+        "building": "yes",
+        "name": "Hofladen",
+        "opening_hours": "Mo-Th 12:00+, Fr-Su 11:00+",
+        "phone": "06221-6578959",
+        "shop": "farm",
+        "source:geometry": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.7393383,
+              49.4200941
+            ],
+            [
+              8.7394258,
+              49.4201572
+            ],
+            [
+              8.739495,
+              49.4202067
+            ],
+            [
+              8.7394848,
+              49.4202128
+            ],
+            [
+              8.7394886,
+              49.4202165
+            ],
+            [
+              8.7394913,
+              49.4202205
+            ],
+            [
+              8.739493,
+              49.4202248
+            ],
+            [
+              8.7394935,
+              49.4202292
+            ],
+            [
+              8.7394929,
+              49.4202337
+            ],
+            [
+              8.7394911,
+              49.4202379
+            ],
+            [
+              8.7394883,
+              49.420242
+            ],
+            [
+              8.7394844,
+              49.4202456
+            ],
+            [
+              8.7394797,
+              49.4202488
+            ],
+            [
+              8.7394742,
+              49.4202514
+            ],
+            [
+              8.7394681,
+              49.4202534
+            ],
+            [
+              8.7394616,
+              49.4202546
+            ],
+            [
+              8.7394549,
+              49.4202552
+            ],
+            [
+              8.7394481,
+              49.420255
+            ],
+            [
+              8.7394415,
+              49.420254
+            ],
+            [
+              8.7394352,
+              49.4202524
+            ],
+            [
+              8.7394294,
+              49.42025
+            ],
+            [
+              8.7394243,
+              49.4202471
+            ],
+            [
+              8.7394201,
+              49.4202436
+            ],
+            [
+              8.7394168,
+              49.4202398
+            ],
+            [
+              8.7394145,
+              49.4202356
+            ],
+            [
+              8.7394134,
+              49.4202312
+            ],
+            [
+              8.7394134,
+              49.4202268
+            ],
+            [
+              8.7394146,
+              49.4202224
+            ],
+            [
+              8.7394168,
+              49.4202183
+            ],
+            [
+              8.7394201,
+              49.4202144
+            ],
+            [
+              8.7394242,
+              49.4202112
+            ],
+            [
+              8.7392963,
+              49.4201187
+            ],
+            [
+              8.7393383,
+              49.4200941
+            ]
+          ]
+        ]
+      },
+      "id": "way/171811816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171886661",
+        "building": "yes",
+        "name": "Haap Gemüse",
+        "produce": "egg;vegetables",
+        "shop": "farm",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3173991,
+              48.8090984
+            ],
+            [
+              9.3172997,
+              48.8090935
+            ],
+            [
+              9.3173073,
+              48.8090261
+            ],
+            [
+              9.3174212,
+              48.8090317
+            ],
+            [
+              9.3174137,
+              48.8090991
+            ],
+            [
+              9.3173991,
+              48.8090984
+            ]
+          ]
+        ]
+      },
+      "id": "way/171886661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182587858",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "35",
+        "addr:postcode": "69121",
+        "addr:street": "Wiesenweg",
+        "building": "yes",
+        "contact:email": "peter@schlicksupp.de",
+        "contact:fax": "+49 (0)6221 419784",
+        "contact:phone": "+49 (0)6221 419781",
+        "contact:website": "http://www.gemuesebau-schlicksupp.de/",
+        "name": "Schlicksupp",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00",
+        "shop": "farm",
+        "source": "local knowledge",
+        "website": "http://www.gemuesebau-schlicksupp.de/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Ebenerdiger Zugang mit leichter Steigung am Eingang."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6780499,
+              49.4330234
+            ],
+            [
+              8.6780595,
+              49.4329882
+            ],
+            [
+              8.677951,
+              49.4329758
+            ],
+            [
+              8.6779658,
+              49.432921
+            ],
+            [
+              8.6781038,
+              49.4329368
+            ],
+            [
+              8.6782718,
+              49.4329554
+            ],
+            [
+              8.6782886,
+              49.4329574
+            ],
+            [
+              8.678264,
+              49.433048
+            ],
+            [
+              8.6780499,
+              49.4330234
+            ]
+          ]
+        ]
+      },
+      "id": "way/182587858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188317001",
+        "addr:housenumber": "48",
+        "addr:street": "Jägerstraße",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3242127,
+              48.8011655
+            ],
+            [
+              9.3243263,
+              48.8010107
+            ],
+            [
+              9.3244876,
+              48.801062
+            ],
+            [
+              9.324374,
+              48.8012168
+            ],
+            [
+              9.3242127,
+              48.8011655
+            ]
+          ]
+        ]
+      },
+      "id": "way/188317001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/194825881",
         "addr:city": "Althengstett",
-        "addr:housename": "Waldenserhof Jourdan",
         "addr:housenumber": "7",
         "addr:postcode": "75382",
         "addr:street": "Möttlinger Straße",
         "addr:suburb": "Neuhengstett",
         "building": "yes",
+        "name": "Waldenserhof Jourdan",
         "opening_hours": "Mo,We,Fr 17:00-19:00; Sa 09:00-12:00",
         "shop": "farm"
       },
@@ -885,6 +3194,201 @@ var karlsruhe = {
         ]
       },
       "id": "way/196784069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197859812",
+        "addr:city": "Waldenbuch",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "71111",
+        "addr:street": "Alte Dettenhäuser Straße",
+        "building": "yes",
+        "name": "Seitenbachmühle",
+        "opening_hours": "Mo-Fr 09:00-18:30;Sa 09:00-14:00",
+        "shop": "farm",
+        "source": "survey; http://www.stuttgart-tourist.de/a-seitenbachmuehle-waldenbuch"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1229705,
+              48.6337562
+            ],
+            [
+              9.1233983,
+              48.6339783
+            ],
+            [
+              9.1232742,
+              48.6340827
+            ],
+            [
+              9.123053,
+              48.6339679
+            ],
+            [
+              9.1230676,
+              48.6339556
+            ],
+            [
+              9.122861,
+              48.6338483
+            ],
+            [
+              9.1229705,
+              48.6337562
+            ]
+          ]
+        ]
+      },
+      "id": "way/197859812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198312273",
+        "addr:city": "Kernen im Remstal",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "71394",
+        "addr:street": "Seestraße",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3201073,
+              48.80501
+            ],
+            [
+              9.3202134,
+              48.8049472
+            ],
+            [
+              9.3203084,
+              48.805017
+            ],
+            [
+              9.3202021,
+              48.8050797
+            ],
+            [
+              9.3201073,
+              48.80501
+            ]
+          ]
+        ]
+      },
+      "id": "way/198312273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208436428",
+        "addr:city": "Achern",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "77855",
+        "addr:street": "Benz-Meisel-Straße",
+        "building": "yes",
+        "name": "Weingut Maximilian Bohnert",
+        "shop": "farm",
+        "website": "http://www.weinvommax.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.0843013,
+              48.6194721
+            ],
+            [
+              8.0840331,
+              48.6194402
+            ],
+            [
+              8.0839392,
+              48.6194083
+            ],
+            [
+              8.0840063,
+              48.6191742
+            ],
+            [
+              8.0841216,
+              48.6191884
+            ],
+            [
+              8.0841002,
+              48.6193019
+            ],
+            [
+              8.0843469,
+              48.6193267
+            ],
+            [
+              8.0843032,
+              48.6194661
+            ],
+            [
+              8.0843013,
+              48.6194721
+            ]
+          ]
+        ]
+      },
+      "id": "way/208436428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/214836684",
+        "addr:city": "Achern",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "77855",
+        "addr:street": "Im Gässel",
+        "addr:suburb": "Wagshurst",
+        "building": "yes",
+        "name": "Bioland Späth",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9947771,
+              48.6210773
+            ],
+            [
+              7.9948068,
+              48.6210232
+            ],
+            [
+              7.9949158,
+              48.6210544
+            ],
+            [
+              7.9948848,
+              48.6211076
+            ],
+            [
+              7.9947771,
+              48.6210773
+            ]
+          ]
+        ]
+      },
+      "id": "way/214836684"
     },
     {
       "type": "Feature",
@@ -1035,10 +3539,14 @@ var karlsruhe = {
       "type": "Feature",
       "properties": {
         "@id": "way/230556549",
+        "addr:city": "Winden",
+        "addr:country": "DE",
+        "addr:postcode": "76872",
         "building": "yes",
         "description": "Äpfel",
         "name": "Meyer",
-        "shop": "farm"
+        "shop": "farm",
+        "source": "DigitalGlobe"
       },
       "geometry": {
         "type": "Polygon",
@@ -1068,6 +3576,197 @@ var karlsruhe = {
         ]
       },
       "id": "way/230556549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231955688",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "Neubotzheim",
+        "addr:postcode": "68526",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6264361,
+              49.4574584
+            ],
+            [
+              8.6260583,
+              49.4572673
+            ],
+            [
+              8.6261554,
+              49.4571862
+            ],
+            [
+              8.6262489,
+              49.4572335
+            ],
+            [
+              8.6262657,
+              49.4572196
+            ],
+            [
+              8.6264852,
+              49.4573306
+            ],
+            [
+              8.6266496,
+              49.4571933
+            ],
+            [
+              8.62639,
+              49.457062
+            ],
+            [
+              8.6264672,
+              49.4569975
+            ],
+            [
+              8.6265089,
+              49.4570186
+            ],
+            [
+              8.6265435,
+              49.4569896
+            ],
+            [
+              8.6268388,
+              49.4571391
+            ],
+            [
+              8.6267274,
+              49.4572322
+            ],
+            [
+              8.6267147,
+              49.4572257
+            ],
+            [
+              8.6264361,
+              49.4574584
+            ]
+          ]
+        ]
+      },
+      "id": "way/231955688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231955689",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:place": "Neubotzheim",
+        "addr:postcode": "68526",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6258545,
+              49.457017
+            ],
+            [
+              8.6258404,
+              49.4570289
+            ],
+            [
+              8.6259382,
+              49.457078
+            ],
+            [
+              8.6258409,
+              49.4571598
+            ],
+            [
+              8.6257464,
+              49.4571123
+            ],
+            [
+              8.6256116,
+              49.457231
+            ],
+            [
+              8.625436,
+              49.4571469
+            ],
+            [
+              8.6255737,
+              49.4570255
+            ],
+            [
+              8.6254629,
+              49.4569697
+            ],
+            [
+              8.6255742,
+              49.4568761
+            ],
+            [
+              8.6258545,
+              49.457017
+            ]
+          ]
+        ]
+      },
+      "id": "way/231955689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237077959",
+        "building": "yes",
+        "name": "Der Hofladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6781891,
+              49.5098752
+            ],
+            [
+              8.6782328,
+              49.5098052
+            ],
+            [
+              8.6783136,
+              49.5097673
+            ],
+            [
+              8.6783629,
+              49.5098115
+            ],
+            [
+              8.6783046,
+              49.5098403
+            ],
+            [
+              8.6782687,
+              49.5098956
+            ],
+            [
+              8.6781891,
+              49.5098752
+            ]
+          ]
+        ]
+      },
+      "id": "way/237077959"
     },
     {
       "type": "Feature",
@@ -1182,6 +3881,268 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/264072888",
+        "building": "yes",
+        "name": "Hegehof",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6822006,
+              49.3548411
+            ],
+            [
+              8.6822159,
+              49.3548255
+            ],
+            [
+              8.6822442,
+              49.3548263
+            ],
+            [
+              8.6822574,
+              49.3548427
+            ],
+            [
+              8.6822421,
+              49.3548583
+            ],
+            [
+              8.6822138,
+              49.3548575
+            ],
+            [
+              8.6822006,
+              49.3548411
+            ]
+          ]
+        ]
+      },
+      "id": "way/264072888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273335721",
+        "building": "yes",
+        "name": "Kummermehr",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3844615,
+              49.4513964
+            ],
+            [
+              8.3844855,
+              49.4513433
+            ],
+            [
+              8.3847016,
+              49.4513839
+            ],
+            [
+              8.3846824,
+              49.4514463
+            ],
+            [
+              8.3844615,
+              49.4513964
+            ]
+          ]
+        ]
+      },
+      "id": "way/273335721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273335722",
+        "building": "yes",
+        "name": "Wolf",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3870446,
+              49.4526324
+            ],
+            [
+              8.387107,
+              49.452492
+            ],
+            [
+              8.3873423,
+              49.4525357
+            ],
+            [
+              8.3872751,
+              49.4526699
+            ],
+            [
+              8.3870446,
+              49.4526324
+            ]
+          ]
+        ]
+      },
+      "id": "way/273335722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284974471",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "70567",
+        "addr:street": "Unteraicher Straße",
+        "building": "yes",
+        "name": "Reyer-Hofladen",
+        "organic": "only",
+        "phone": "+49711711890",
+        "produce": "egg;milk;vegetables",
+        "produced_on_site": "yes",
+        "shop": "farm",
+        "website": "http://www.reyerhof.de/der-laden-1/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1450246,
+              48.7245993
+            ],
+            [
+              9.1450115,
+              48.7245781
+            ],
+            [
+              9.1450386,
+              48.7245708
+            ],
+            [
+              9.1450192,
+              48.7245394
+            ],
+            [
+              9.145127,
+              48.7245165
+            ],
+            [
+              9.1451615,
+              48.7246
+            ],
+            [
+              9.1450384,
+              48.7246251
+            ],
+            [
+              9.1450246,
+              48.7245993
+            ]
+          ]
+        ]
+      },
+      "id": "way/284974471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284974476",
+        "crop": "strawberry",
+        "food:strawberry": "yes",
+        "landuse": "farmland",
+        "layer": "1",
+        "name": "Beeren-Brodbeck",
+        "seasonal": "yes",
+        "shop": "farm",
+        "website": "http://www.beeren-brodbeck.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1601642,
+              48.7302416
+            ],
+            [
+              9.1606856,
+              48.7302301
+            ],
+            [
+              9.1605292,
+              48.7319937
+            ],
+            [
+              9.1600165,
+              48.7318657
+            ],
+            [
+              9.1601642,
+              48.7302416
+            ]
+          ]
+        ]
+      },
+      "id": "way/284974476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285767850",
+        "crop": "strawberry",
+        "food:strawberry": "yes",
+        "landuse": "farmland",
+        "layer": "1",
+        "name": "Beeren-Brodbeck",
+        "seasonal": "yes",
+        "shop": "farm",
+        "website": "http://www.beeren-brodbeck.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1598676,
+              48.7331087
+            ],
+            [
+              9.1602764,
+              48.7320372
+            ],
+            [
+              9.1608,
+              48.7321542
+            ],
+            [
+              9.1603759,
+              48.7332058
+            ],
+            [
+              9.1598676,
+              48.7331087
+            ]
+          ]
+        ]
+      },
+      "id": "way/285767850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/288499791",
         "check_date": "2015-12-11",
         "indoor": "room",
@@ -1226,6 +4187,105 @@ var karlsruhe = {
         ]
       },
       "id": "way/288499791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293743107",
+        "building": "commercial",
+        "email": "info@fruechtle.com",
+        "name": "Früchtele",
+        "phone": "+49 711 534128",
+        "shop": "farm",
+        "website": "http://www.bauerle-fellbach.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2545889,
+              48.8193185
+            ],
+            [
+              9.2541655,
+              48.8192588
+            ],
+            [
+              9.2542712,
+              48.8189341
+            ],
+            [
+              9.2546946,
+              48.8189938
+            ],
+            [
+              9.2545889,
+              48.8193185
+            ]
+          ]
+        ]
+      },
+      "id": "way/293743107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297618582",
+        "building": "farm",
+        "name": "Biolandhof Trautwein",
+        "organic": "only",
+        "shop": "farm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3455742,
+              48.9411105
+            ],
+            [
+              9.3456041,
+              48.940971
+            ],
+            [
+              9.3459367,
+              48.9410017
+            ],
+            [
+              9.345929,
+              48.9410376
+            ],
+            [
+              9.3459067,
+              48.9410356
+            ],
+            [
+              9.3458973,
+              48.9410794
+            ],
+            [
+              9.3458484,
+              48.9410749
+            ],
+            [
+              9.3458355,
+              48.9411346
+            ],
+            [
+              9.3457533,
+              48.941127
+            ],
+            [
+              9.3455742,
+              48.9411105
+            ]
+          ]
+        ]
+      },
+      "id": "way/297618582"
     },
     {
       "type": "Feature",
@@ -1320,6 +4380,54 @@ var karlsruhe = {
         ]
       },
       "id": "way/321151358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322320429",
+        "addr:city": "Murr",
+        "addr:postcode": "71711",
+        "building": "yes",
+        "name": "Gärtnerei Michelfelder",
+        "shop": "farm",
+        "website": "http://www.michelfelder-gartenbau.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.2518624,
+              48.9656629
+            ],
+            [
+              9.2521946,
+              48.9656811
+            ],
+            [
+              9.2521738,
+              48.9658634
+            ],
+            [
+              9.252121,
+              48.9658619
+            ],
+            [
+              9.2521036,
+              48.9660341
+            ],
+            [
+              9.2518308,
+              48.9660212
+            ],
+            [
+              9.2518624,
+              48.9656629
+            ]
+          ]
+        ]
+      },
+      "id": "way/322320429"
     },
     {
       "type": "Feature",
@@ -1454,6 +4562,186 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/364556577",
+        "building": "yes",
+        "name": "Haldenhof",
+        "opening_hours": "Fr 09:00-18:00; Sa 08:00-12:00",
+        "shop": "farm",
+        "website": "http://www.schwaiger.hoffrisch.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1899455,
+              48.6640728
+            ],
+            [
+              9.1902074,
+              48.6638268
+            ],
+            [
+              9.1901742,
+              48.6638114
+            ],
+            [
+              9.1901632,
+              48.6638217
+            ],
+            [
+              9.1900991,
+              48.6637919
+            ],
+            [
+              9.1901796,
+              48.6637163
+            ],
+            [
+              9.1902402,
+              48.6637445
+            ],
+            [
+              9.1903008,
+              48.6637726
+            ],
+            [
+              9.1903138,
+              48.6637604
+            ],
+            [
+              9.1904166,
+              48.6638081
+            ],
+            [
+              9.1903345,
+              48.6638853
+            ],
+            [
+              9.1904067,
+              48.6639188
+            ],
+            [
+              9.1903736,
+              48.66395
+            ],
+            [
+              9.1905189,
+              48.6640174
+            ],
+            [
+              9.1904008,
+              48.6641283
+            ],
+            [
+              9.1904988,
+              48.6641738
+            ],
+            [
+              9.1904254,
+              48.6642428
+            ],
+            [
+              9.1903181,
+              48.6641929
+            ],
+            [
+              9.1902804,
+              48.6642283
+            ],
+            [
+              9.1899455,
+              48.6640728
+            ]
+          ]
+        ]
+      },
+      "id": "way/364556577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370912256",
+        "building": "yes",
+        "opening_hours": "Apr-Jun: Mo-Fr 09:00-11:00,15:00-19:00;Sa 09:00-16:00; Su 09:00-12:00",
+        "shop": "farm",
+        "source": "bing",
+        "website": "http://www.spargelgut-wasserschloss.de/hofladen.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.978998,
+              49.3230993
+            ],
+            [
+              8.9789168,
+              49.3231066
+            ],
+            [
+              8.9789112,
+              49.3230804
+            ],
+            [
+              8.9788938,
+              49.322998
+            ],
+            [
+              8.978975,
+              49.3229907
+            ],
+            [
+              8.978998,
+              49.3230993
+            ]
+          ]
+        ]
+      },
+      "id": "way/370912256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378661593",
+        "addr:housenumber": "50",
+        "addr:street": "Jägerstraße",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.3240159,
+              48.8011285
+            ],
+            [
+              9.3238895,
+              48.8010943
+            ],
+            [
+              9.3239603,
+              48.800981
+            ],
+            [
+              9.3240867,
+              48.8010153
+            ],
+            [
+              9.3240159,
+              48.8011285
+            ]
+          ]
+        ]
+      },
+      "id": "way/378661593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/410934477",
         "addr:city": "Steinweiler",
         "addr:housenumber": "9",
@@ -1534,6 +4822,68 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/521650567",
+        "addr:city": "Kusterdingen",
+        "addr:housenumber": "20",
+        "addr:postcode": "72127",
+        "addr:street": "Hauptstraße",
+        "building": "yes",
+        "fixme": "Grundriss nur vom Luftbild",
+        "name": "Landgut Kemmler",
+        "opening_hours": "Di-Fr: 8.30-19.00, Sa: 7.30-17.00",
+        "phone": "+49 7071 8599540",
+        "shop": "farm",
+        "website": "http://www.landgut-kemmler.de/hofladen/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1013413,
+              48.4988792
+            ],
+            [
+              9.1014754,
+              48.4989076
+            ],
+            [
+              9.1013949,
+              48.4990925
+            ],
+            [
+              9.1014164,
+              48.4990996
+            ],
+            [
+              9.1013842,
+              48.4991724
+            ],
+            [
+              9.1011133,
+              48.4991102
+            ],
+            [
+              9.1011562,
+              48.4990178
+            ],
+            [
+              9.1012715,
+              48.4990445
+            ],
+            [
+              9.1013413,
+              48.4988792
+            ]
+          ]
+        ]
+      },
+      "id": "way/521650567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/270760144",
         "name": "Schleicher Hofladen",
         "shop": "farm"
@@ -1565,6 +4915,25 @@ var karlsruhe = {
         ]
       },
       "id": "node/271908783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282912931",
+        "name": "Helmut und Elsbeth Günther",
+        "opening_hours": "Tu 08:00-17:00; Fr 08:00-17:00; Sa 08:00-13:00",
+        "shop": "farm",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1462911,
+          48.730244
+        ]
+      },
+      "id": "node/282912931"
     },
     {
       "type": "Feature",
@@ -1607,6 +4976,22 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/339169558",
+        "name": "Hofladen Linckh",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0258866,
+          48.9064438
+        ]
+      },
+      "id": "node/339169558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/358342502",
         "addr:city": "Ottersweier",
         "addr:country": "DE",
@@ -1632,6 +5017,69 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/371071623",
+        "addr:housenumber": "181",
+        "addr:street": "Hauptstraße",
+        "building": "yes",
+        "name": "Hammermühle",
+        "opening_hours": "Tu,Th 14:00-16:30; We 10:00-12:00,13:00-18:00, Fr 10:00-15:00",
+        "phone": "06321 95 890",
+        "shop": "farm",
+        "website": "https://www.hammermuehle-shop.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1495606,
+          49.3037346
+        ]
+      },
+      "id": "node/371071623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/406883489",
+        "addr:city": "Gundelsheim",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "74831",
+        "addr:street": "Michaelsberg",
+        "addr:suburb": "Böttingen",
+        "name": "Hofladen",
+        "opening_hours": "Fr 14:00-18:00; Sa 09:00-15:00",
+        "shop": "farm",
+        "website": "http://www.ferienhof-michaelsberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15272,
+          49.2913146
+        ]
+      },
+      "id": "node/406883489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409474822",
+        "name": "Hofladen",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.228489,
+          49.292896
+        ]
+      },
+      "id": "node/409474822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/515019998",
         "shop": "farm"
       },
@@ -1643,6 +5091,136 @@ var karlsruhe = {
         ]
       },
       "id": "node/515019998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598602196",
+        "addr:city": "Neustetten",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "72149",
+        "addr:street": "Brühlstraße",
+        "addr:suburb": "Remmingsheim",
+        "name": "Geflügelhof Maier",
+        "shop": "farm",
+        "website": "http://www.maier-gefluegelhof.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8871971,
+          48.4828352
+        ]
+      },
+      "id": "node/598602196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/603199390",
+        "addr:city": "Helmstadt-Bargen",
+        "addr:housenumber": "23",
+        "addr:postcode": "74921",
+        "addr:street": "Hausener Straße",
+        "addr:suburb": "Helmstadt",
+        "name": "Hofladen Stech",
+        "phone": "+49 7263 5786",
+        "shop": "farm",
+        "source:address": "LGL-BW, www.lgl-bw.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9762846,
+          49.3279091
+        ]
+      },
+      "id": "node/603199390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/669891330",
+        "name": "Hofladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2047956,
+          48.7246456
+        ]
+      },
+      "id": "node/669891330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/747359172",
+        "addr:city": "Achern",
+        "addr:housenumber": "35",
+        "addr:postcode": "77855",
+        "addr:street": "Önsbacher Straße",
+        "addr:suburb": "Mösbach",
+        "contact:phone": "+49 7841 5636",
+        "name": "Kern's Hofladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.053603,
+          48.5924072
+        ]
+      },
+      "id": "node/747359172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/748143517",
+        "contact:phone": "+49 7841 22957",
+        "contact:website": "http://www.rettigs-hofladen.de/",
+        "name": "Rettig's Hofladen",
+        "opening_hours": "Mo-Th 17:00-19:00; We off; Fr 08:00-19:00; Sa 09:00-14:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0632356,
+          48.596669
+        ]
+      },
+      "id": "node/748143517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/780122184",
+        "description": "Hofladen Spargelhof Mayer",
+        "fax": "+49 6227 63403",
+        "name": "Bauernladen Mayer",
+        "opening_hours": "Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-13:00; PH off",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "phone": "+49 6227 4235",
+        "shop": "farm",
+        "website": "http://www.spargelhof-mayer.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.638012,
+          49.3028032
+        ]
+      },
+      "id": "node/780122184"
     },
     {
       "type": "Feature",
@@ -1697,6 +5275,22 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/976688413",
+        "name": "Obsthof Eisenmann",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.328425,
+          48.96067
+        ]
+      },
+      "id": "node/976688413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/977635174",
         "amenity": "vending_machine",
         "name": "Eier-Verkaufsautomat",
@@ -1741,6 +5335,42 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1082693943",
+        "contact:phone": "+49 7841 669050",
+        "contact:website": "http://www.webers-schnapsnase.de",
+        "name": "Obsthof & Brennerei Weber",
+        "opening_hours": "Tu 18:00-20:15; Fr 18:00-20:00; Sa 11:00-13:00; Su 10:00-12:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0639495,
+          48.5968686
+        ]
+      },
+      "id": "node/1082693943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1091214739",
+        "name": "Fischers Hofladen",
+        "opening_hours": "Mo-Fr 9:00-13:00; Mo, Tu, Th, Fr 14:30-18:00; Sa 08:30-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4151121,
+          49.4442285
+        ]
+      },
+      "id": "node/1091214739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1112394269",
         "addr:city": "Ehningen",
         "addr:country": "DE",
@@ -1768,6 +5398,51 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1117320574",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "4",
+        "addr:place": "Gewann Fischpfad",
+        "addr:postcode": "69121",
+        "amenity": "vending_machine",
+        "contact:fax": "+49 6221 480614",
+        "contact:phone": "+49 6221 402847",
+        "name": "Obst-Gemüse-Automat",
+        "note": "Automat mit Obst, Gemüse und anderen Dingen. 24 Stunden, 7 Tage die Woche geöffnet. Für Menschen mit einem Rollstuhl könnte der Geldeinwurf zu hoch sein.",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-13:00",
+        "operator": "Gärtnerei Lenz",
+        "shop": "farm",
+        "vending": "vegetables",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6724319,
+          49.4317554
+        ]
+      },
+      "id": "node/1117320574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208526476",
+        "name": "Hofgut Laden",
+        "organic": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1976334,
+          48.4719937
+        ]
+      },
+      "id": "node/1208526476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1209214241",
         "amenity": "vending_machine",
         "name": "Eier-Verkaufsautomat",
@@ -1786,6 +5461,33 @@ var karlsruhe = {
         ]
       },
       "id": "node/1209214241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1267855261",
+        "addr:city": "Ditzingen",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:place": "Tonmühle",
+        "addr:postcode": "71254",
+        "email": "info@tonmuehle.de",
+        "fax": "+49 7156 17809330",
+        "name": "Tonmühle",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-14:00; PH off",
+        "organic": "yes",
+        "phone": "+49 7156 1780930",
+        "shop": "farm",
+        "website": "http://www.tonmuehle.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.048944,
+          48.8161289
+        ]
+      },
+      "id": "node/1267855261"
     },
     {
       "type": "Feature",
@@ -1868,6 +5570,47 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1354254312",
+        "name": "Maisch",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.049365,
+          48.8037969
+        ]
+      },
+      "id": "node/1354254312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1356603157",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "7",
+        "addr:postcode": "69124",
+        "addr:street": "Kurpfalzhof",
+        "contact:email": "Mampel-Gemuesebau@gmx.de",
+        "contact:fax": "+49 (0)6221 763227",
+        "contact:phone": "+49 (0)6221 763227",
+        "contact:website": "www.Mampel-Gemuesebau.de",
+        "name": "Mampel Hofladen",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-14:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615951,
+          49.3741634
+        ]
+      },
+      "id": "node/1356603157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1472922151",
         "name": "Iris' Hoflädle",
         "shop": "farm"
@@ -1884,6 +5627,107 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1501831945",
+        "addr:city": "Erligheim",
+        "addr:country": "DE",
+        "addr:housenumber": "48",
+        "addr:postcode": "74391",
+        "addr:street": "Mühlstraße",
+        "contact:phone": "+49 7143 881515",
+        "contact:website": "http://www.erligheimer-muehle.de/",
+        "lastcheck": "2016-11-09",
+        "man_made": "mill",
+        "name": "Erligheimer Mühle",
+        "opening_hours": "Mo-Sa 08:00-12:00; Tu-Fr 08:00-12:00,15:00-18:30",
+        "product": "flour",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1076248,
+          49.0153888
+        ]
+      },
+      "id": "node/1501831945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1548439832",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3278614,
+          48.8680585
+        ]
+      },
+      "id": "node/1548439832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1584912954",
+        "image": "https://commons.wikimedia.org/wiki/File:Hofladen_Frey_Mannheim-Seckenheim.jpg",
+        "name": "Hofladen Frey",
+        "opening_hours": "Mo-Sa 8:30-13:00;Tu,Fr 15:00-18:30",
+        "phone": "+49 621 475416",
+        "shop": "farm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5591747,
+          49.4650921
+        ]
+      },
+      "id": "node/1584912954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1585385174",
+        "name": "Hofladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5615537,
+          49.4642773
+        ]
+      },
+      "id": "node/1585385174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651952565",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "68169",
+        "addr:street": "Am Messplatz",
+        "name": "Edith's Stadthofladen",
+        "shop": "farm",
+        "website": "http://www.ediths.eu",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.471895,
+          49.4967746
+        ]
+      },
+      "id": "node/1651952565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1707576949",
         "name": "Bauernhof Kieffer",
         "shop": "farm"
@@ -1896,6 +5740,29 @@ var karlsruhe = {
         ]
       },
       "id": "node/1707576949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1767864188",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "10",
+        "addr:postcode": "69123",
+        "addr:street": "Steinhofweg",
+        "contact:phone": "+49 6221 776358",
+        "name": "Imkerei - Thaler",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "produce": "honey",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6510226,
+          49.3982037
+        ]
+      },
+      "id": "node/1767864188"
     },
     {
       "type": "Feature",
@@ -1922,6 +5789,223 @@ var karlsruhe = {
         ]
       },
       "id": "node/1769301517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1794865616",
+        "opening_hours": "Mo-Su 18:45-19:15",
+        "produce": "milk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237018,
+          48.7265111
+        ]
+      },
+      "id": "node/1794865616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1794865622",
+        "produce": "eggs",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2372994,
+          48.7283105
+        ]
+      },
+      "id": "node/1794865622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1794865682",
+        "produce": "vegetables",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2485248,
+          48.7324143
+        ]
+      },
+      "id": "node/1794865682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820044037",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "9a",
+        "addr:postcode": "69123",
+        "addr:street": "Diebsweg",
+        "contact:email": "hans.ehrler@arcor.de",
+        "contact:fax": "+49 6221 776179",
+        "contact:phone": "+49 6221 776171",
+        "contact:website": "http://www.gefluegelhof-ehrler.de",
+        "name": "Geflügelhof Ehrler",
+        "opening_hours": "Mo-Tu 09:00-12:00; We-Fr 09:00-12:00,14:00-18:00; Sa 08:00-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6553297,
+          49.3992527
+        ]
+      },
+      "id": "node/1820044037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820054082",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "9",
+        "addr:postcode": "69124",
+        "addr:street": "Kirchheimer Hof",
+        "contact:email": "karlheinz.rehm@gmx.de",
+        "contact:fax": "+49 (0)6221 716296",
+        "contact:phone": "+49 (0)6221 782655",
+        "name": "Reit- und Spargelhof Rehm BIOLAND",
+        "opening_hours": "Mo-Su 10:00-12:00,17:00-19:00 open \"Spargelsaison Apr-Jun\"",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6511595,
+          49.3725474
+        ]
+      },
+      "id": "node/1820054082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820060971",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "5",
+        "addr:postcode": "69124",
+        "addr:street": "Kirchheimer Hof",
+        "contact:email": "m.sauter57@web.de",
+        "contact:fax": "+49 (0)6221 7152291",
+        "contact:phone": "+49 (0)6221 782723",
+        "name": "QueerBeet Hofladen Sauter",
+        "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:30-12:00,14:00-18:00; Sa 09:30-16:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6515323,
+          49.3686349
+        ]
+      },
+      "id": "node/1820060971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820068602",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "2",
+        "addr:postcode": "69124",
+        "addr:street": "Neurott",
+        "contact:email": "gemuesehof-spiess@web.de",
+        "contact:fax": "+49 (0)6221 768114",
+        "contact:phone": "+49 (0)6221 763367",
+        "contact:website": "www.gemuesehof-spiess.de",
+        "name": "Gemüsehof Spieß",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:00-16:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6235922,
+          49.3652825
+        ]
+      },
+      "id": "node/1820068602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820090691",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "4",
+        "addr:postcode": "69124",
+        "addr:street": "Kurpfalzhof",
+        "contact:phone": "+49-6221-763102",
+        "name": "Hofladen Hartmann",
+        "opening_hours": "Mo-Su 09:30-19:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6156133,
+          49.3758087
+        ]
+      },
+      "id": "node/1820090691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821455278",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "69124",
+        "addr:street": "Kurpfalzhof",
+        "contact:email": "becker-kurpfalzhof@web.de",
+        "contact:fax": "+49 (0)6221 766182",
+        "contact:phone": "+49 (0)6221 764171",
+        "name": "Spargel- und Gemüsehof Becker",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 08:00-16:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6170054,
+          49.376253
+        ]
+      },
+      "id": "node/1821455278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821461219",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "5",
+        "addr:postcode": "69124",
+        "addr:street": "Kurpfalzhof",
+        "contact:email": "ralfgieser@obsthof-gieser.de",
+        "contact:phone": "+49-6221-769606",
+        "contact:website": "www.obsthof-gieser.de",
+        "name": "Obsthof Gieser",
+        "opening_hours": "Mo-Fr 08:00-19:00; Jul 01-May 31: Sa 08:00-16:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6163355,
+          49.3747347
+        ]
+      },
+      "id": "node/1821461219"
     },
     {
       "type": "Feature",
@@ -1969,6 +6053,27 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1943914791",
+        "crop": "apples",
+        "name": "Obsthof Bitzel",
+        "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-16:00",
+        "operator": "Karl-Jürgen Bitzel",
+        "shop": "farm",
+        "website": "http://www.obsthof-bitzel.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6473002,
+          49.5130409
+        ]
+      },
+      "id": "node/1943914791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1949102477",
         "contact:city": "Roppenheim",
         "contact:housenumber": "7",
@@ -2009,7 +6114,94 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2077483442",
+        "addr:city": "Nußloch",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "69226",
+        "addr:street": "Ortsstraße",
+        "addr:suburb": "Maisbach",
+        "name": "Markushof",
+        "opening_hours": "Fr 16:00-19:00; Sa 10:00-13:00",
+        "organic": "only",
+        "shop": "farm",
+        "website": "http://www.markushof-naturkost.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.728863,
+          49.3274778
+        ]
+      },
+      "id": "node/2077483442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2083967357",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "70327",
+        "addr:street": "Buchauer Straße",
+        "name": "Weltlädle Wangen",
+        "opening_hours": "Tu-Fr 09:00-12:00,15:00-18:00;Sa 10:00-13:00;PH off",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2424903,
+          48.7725176
+        ]
+      },
+      "id": "node/2083967357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2156639584",
+        "name": "Hofladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3238416,
+          48.4869709
+        ]
+      },
+      "id": "node/2156639584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2180959192",
+        "name": "Demeter-Hofladen Haghof",
+        "opening_hours": "Fr 09:00-18:00; Sa 09:00-12:00",
+        "operator": "Roland Gamnitzer",
+        "organic": "only",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1165582,
+          49.0580429
+        ]
+      },
+      "id": "node/2180959192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2189856258",
+        "addr:city": "Bad Liebenzell",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "Georgenau",
+        "addr:postcode": "75378",
         "name": "Hofgut Georgenau",
         "opening_hours": "Tu-Fr 09:30-13:00, 15:30-18:30; Sa 09:30-13:00",
         "shop": "farm",
@@ -2018,11 +6210,36 @@ var karlsruhe = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.780795,
-          48.7584114
+          8.7807932,
+          48.7583928
         ]
       },
       "id": "node/2189856258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2196359505",
+        "addr:city": "Brackenheim",
+        "addr:country": "DE",
+        "addr:postcode": "74336",
+        "addr:street": "Burgermühle",
+        "contact:phone": "+49 7135 98150",
+        "contact:website": "http://www.spielberger-muehle.de/de/unsere-muehle/zum-muehlenladen.html",
+        "name": "Mühlenladen Spielberger",
+        "opening_hours": "Fr 09:00-19:00; Sa 09:00-13:00",
+        "organic": "only",
+        "organic:label": "demeter",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0746634,
+          49.0703532
+        ]
+      },
+      "id": "node/2196359505"
     },
     {
       "type": "Feature",
@@ -2054,6 +6271,218 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2261289466",
+        "name": "Obsthof Volk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6474041,
+          49.491244
+        ]
+      },
+      "id": "node/2261289466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269077675",
+        "addr:city": "Remseck am Neckar",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "71686",
+        "addr:street": "Beim Rötelbrunnen",
+        "amenity": "vending_machine",
+        "name": "Bauernhof Eppinger",
+        "opening_hours": "06:00-22:00",
+        "operator": "Melanie und Jörg Eppinger",
+        "shop": "farm",
+        "vending": "milk;food",
+        "website": "http://milch-automat.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2910211,
+          48.8760675
+        ]
+      },
+      "id": "node/2269077675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2357442211",
+        "addr:city": "Speyer",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "67346",
+        "addr:street": "Auestraße",
+        "name": "Speierling Hofladen",
+        "phone": "+49 6326 5590",
+        "shop": "farm",
+        "website": "http://www.speierlinghof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4376061,
+          49.3345813
+        ]
+      },
+      "id": "node/2357442211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2381343399",
+        "addr:city": "Enkenbach-Alsenborn",
+        "addr:housenumber": "1",
+        "addr:postcode": "67677",
+        "addr:street": "Neuwoog",
+        "name": "Hofladen Klug",
+        "opening_hours": "Mo-Fr 08:00-12:30,14:00-18:00; We 08:00-12:30; Sa 08:00-12:00",
+        "phone": "+496303983463",
+        "shop": "farm",
+        "website": "http://www.hofladen-klug.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8871232,
+          49.4959447
+        ]
+      },
+      "id": "node/2381343399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2384445223",
+        "name": "Hofladen Müller Lindenhof",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2471924,
+          49.4025953
+        ]
+      },
+      "id": "node/2384445223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426508183",
+        "name": "Helmut Koch",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6114364,
+          49.4448723
+        ]
+      },
+      "id": "node/2426508183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2433861197",
+        "addr:city": "Lambsheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "67245",
+        "addr:street": "Niedergärten",
+        "name": "Gemüsehof Schuhmann",
+        "opening_hours": "Tu-Th, Sa 10:00-14:00; Fr 10:00-14:00, 16:00-18:00",
+        "phone": "+49 6233 54887",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2966366,
+          49.5165623
+        ]
+      },
+      "id": "node/2433861197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2489633004",
+        "addr:city": "Hockenheim",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "68766",
+        "addr:street": "Seewaldsiedlung",
+        "name": "Biohof Zahn",
+        "organic": "only",
+        "shop": "farm",
+        "website": "http://hofladen-zahn.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5064971,
+          49.3476334
+        ]
+      },
+      "id": "node/2489633004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2489633008",
+        "addr:city": "Hockenheim",
+        "addr:housenumber": "5",
+        "addr:postcode": "68766",
+        "addr:street": "Seewaldsiedlung",
+        "name": "Johanneshof",
+        "shop": "farm",
+        "website": "http://www.johanneshof.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5053614,
+          49.349396
+        ]
+      },
+      "id": "node/2489633008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499247486",
+        "addr:city": "Schwieberdingen",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "71706",
+        "addr:street": "Stuttgarter Straße",
+        "addr:suburb": "Hardthof",
+        "name": "Hofladen Gutscher",
+        "opening_hours": "Th-Fr 08:30-12:30,14:00-18:00; Sa 08:30-11:30",
+        "operator": "Bauernhof Gutscher",
+        "organic": "yes",
+        "produce": "meat;egg;noodles;wine;oil;vegetables;fruits",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0413536,
+          48.8888896
+        ]
+      },
+      "id": "node/2499247486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2501724940",
         "addr:city": "Oberderdingen",
         "addr:country": "DE",
@@ -2075,6 +6504,700 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2510478714",
+        "addr:housenumber": "6",
+        "email": "mushof@rhein-neckar-aktuell.de",
+        "fax": "+49 6220 911613",
+        "name": "Wilhelmsfelder Mushof",
+        "phone": "+49 6220 912314",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7573298,
+          49.4700341
+        ]
+      },
+      "id": "node/2510478714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2520783485",
+        "addr:city": "Gerlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "70839",
+        "addr:street": "Im Brückle",
+        "name": "Im Brückle",
+        "opening_hours": "Tu-Fr 17:00-19:00, Sa 09:00-11:00",
+        "operator": "Familie Michael Volz",
+        "shop": "farm",
+        "website": "www.imbrueckle.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0513241,
+          48.8040416
+        ]
+      },
+      "id": "node/2520783485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2523975065",
+        "produce": "honey",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6297343,
+          49.4023569
+        ]
+      },
+      "id": "node/2523975065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2544559875",
+        "addr:city": "Böhl-Iggelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "128",
+        "addr:postcode": "67459",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Böhl",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2940168,
+          49.3887868
+        ]
+      },
+      "id": "node/2544559875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2544559876",
+        "addr:city": "Böhl-Iggelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "130",
+        "addr:postcode": "67459",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Böhl",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2939028,
+          49.388884
+        ]
+      },
+      "id": "node/2544559876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2545346303",
+        "addr:city": "Böhl-Iggelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "99",
+        "addr:postcode": "67459",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Böhl",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2939611,
+          49.3885965
+        ]
+      },
+      "id": "node/2545346303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2545484772",
+        "addr:city": "Böhl-Iggelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "67459",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Böhl",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2921357,
+          49.3854125
+        ]
+      },
+      "id": "node/2545484772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552285611",
+        "addr:city": "Böhl-Iggelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "67459",
+        "addr:street": "Kirchenstraße",
+        "addr:suburb": "Böhl",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2926755,
+          49.3854632
+        ]
+      },
+      "id": "node/2552285611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552328196",
+        "addr:city": "Böhl-Iggelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "67459",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Böhl",
+        "building": "yes",
+        "description": "Obstverkauf",
+        "opening_hours": "Mo-Sa 08:30-12:30; Fr 14:30-18:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2990763,
+          49.3835997
+        ]
+      },
+      "id": "node/2552328196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552328309",
+        "addr:city": "Böhl-Iggelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "25a",
+        "addr:postcode": "67459",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Böhl",
+        "building": "yes",
+        "description": "Honigverkauf",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2984908,
+          49.384231
+        ]
+      },
+      "id": "node/2552328309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2556715938",
+        "addr:housenumber": "1",
+        "addr:street": "Ruchheimer Straße",
+        "name": "Honig vom Imker",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2927909,
+          49.4613234
+        ]
+      },
+      "id": "node/2556715938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2557826459",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2883972,
+          48.7562593
+        ]
+      },
+      "id": "node/2557826459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2570044841",
+        "addr:city": "Dudenhofen",
+        "addr:housename": "Marinshof",
+        "addr:postcode": "67373",
+        "addr:street": "Zollhäuserweg",
+        "name": "Hofladen",
+        "note": "Spargelhof Beck Verkauf nur in der Spargelsaison Täglich von 08.00-19.00 Uhr auch Sonn- und Feiertags",
+        "operator": "Martinshof Fam. Beck",
+        "shop": "farm",
+        "website": "http://www.martinshof-beck.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3938183,
+          49.3070266
+        ]
+      },
+      "id": "node/2570044841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2570199683",
+        "email": "info@biolandhof-alber.de",
+        "name": "Baiersbachhof Familie Alber",
+        "phone": "+49 7127 56688",
+        "shop": "farm",
+        "website": "www.biolandhof-alber.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2462767,
+          48.6190422
+        ]
+      },
+      "id": "node/2570199683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2574036274",
+        "addr:housenumber": "11",
+        "addr:street": "Hauptstraße",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4283522,
+          49.4218292
+        ]
+      },
+      "id": "node/2574036274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2574036372",
+        "addr:housenumber": "28",
+        "addr:street": "Speyerer Straße",
+        "name": "Spargelhof Fischer",
+        "phone": "06236 500725",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.429855,
+          49.4192414
+        ]
+      },
+      "id": "node/2574036372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2584644706",
+        "addr:city": "Mutterstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "67112",
+        "addr:street": "Oggersheimer Straße",
+        "name": "Magin",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3546025,
+          49.4429256
+        ]
+      },
+      "id": "node/2584644706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2588476632",
+        "name": "Hofladen Bäßler",
+        "opening_hours": "Mo-Th 09:00-12:30,14:30-18:00; We off; Fr 09:00-18:00; Sa 08:00-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0845795,
+          48.9024903
+        ]
+      },
+      "id": "node/2588476632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620786428",
+        "addr:housenumber": "59",
+        "addr:street": "Fußgönheimer Straße",
+        "name": "Casa Verdura - Edith's Hofladen",
+        "phone": "06237-597339",
+        "shop": "farm",
+        "website": "http://www.casaverdura.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3230828,
+          49.4721348
+        ]
+      },
+      "id": "node/2620786428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620786488",
+        "addr:housenumber": "61",
+        "addr:street": "Fußgönheimer Straße",
+        "description": "Kartoffelverkauf",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3229298,
+          49.4721151
+        ]
+      },
+      "id": "node/2620786488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620786496",
+        "addr:housenumber": "7",
+        "addr:street": "Mutterstadter Straße",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3283148,
+          49.4723674
+        ]
+      },
+      "id": "node/2620786496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620786501",
+        "addr:housenumber": "74",
+        "addr:street": "Fußgönheimer Straße",
+        "description": "Honigverkauf",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3213021,
+          49.4717753
+        ]
+      },
+      "id": "node/2620786501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2624387795",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4217935,
+          49.4454235
+        ]
+      },
+      "id": "node/2624387795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639364357",
+        "addr:housenumber": "180",
+        "addr:street": "Hauptstraße",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3194786,
+          49.423534
+        ]
+      },
+      "id": "node/2639364357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2641785989",
+        "addr:housenumber": "157",
+        "addr:street": "Hauptstraße",
+        "building": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3203211,
+          49.4231297
+        ]
+      },
+      "id": "node/2641785989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2655613520",
+        "addr:housenumber": "9",
+        "addr:street": "Langstraße",
+        "building": "yes",
+        "description": "Fleisch und Kartoffel Verkauf",
+        "name": "Bauernhof Schalter",
+        "opening_hours": "Tu,Th,Fr 8:00-18:00; Sa 8:00-15:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2847707,
+          49.4236026
+        ]
+      },
+      "id": "node/2655613520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669043161",
+        "addr:housenumber": "6",
+        "addr:street": "Freinsheimerstraße",
+        "building": "yes",
+        "name": "Gästehaus Hubach",
+        "phone": "06353 7336",
+        "shop": "farm",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2243439,
+          49.4901873
+        ]
+      },
+      "id": "node/2669043161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669728298",
+        "addr:housenumber": "12",
+        "addr:street": "Bahnhofstraße",
+        "building": "yes",
+        "description": "Birnen, Zwetschgen, Weintrauben, Tafeltrauben, Kartoffeln, Zwiebeln.",
+        "email": "apfelhof-hilberth@web.de",
+        "fax": "+49 6353 6276",
+        "name": "Landhaus-Hilberth Erpolzheim",
+        "opening_hours": "9:00-18:30",
+        "phone": "+49 6353 1587",
+        "shop": "farm",
+        "tourism": "guest_house",
+        "website": "http://www.landhaus-hilberth.de/f_index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2182179,
+          49.4891949
+        ]
+      },
+      "id": "node/2669728298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669728300",
+        "addr:housenumber": "14",
+        "addr:street": "Bahnhofstraße",
+        "building": "yes",
+        "description": "Apfel- und Birnen, Edelbränden",
+        "name": "Obsthof und Gästehaus Brust",
+        "opening_hours": "Mo-Fr 09:00-18:00;Sa 09:00-17:30",
+        "phone": "+49 6353 8765",
+        "shop": "farm",
+        "tourism": "guest_house",
+        "website": "http://www.obsthof-gaestehaus-brust.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2180034,
+          49.4891224
+        ]
+      },
+      "id": "node/2669728300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669902980",
+        "addr:housenumber": "21",
+        "addr:street": "Bahnhofstraße",
+        "building": "yes",
+        "name": "Ziegelhof",
+        "phone": "+49 6353 914936",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2166771,
+          49.488721
+        ]
+      },
+      "id": "node/2669902980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2749936681",
+        "name": "Stern's Hofladen",
+        "opening_hours": "Th 07:00-12:30,14:00-18:00; Fr 07:00-12:30,15:00-18:00; Sa 07:00-13:00",
+        "shop": "farm",
+        "website": "http://sterns-hofladen.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7992331,
+          49.3393078
+        ]
+      },
+      "id": "node/2749936681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814345596",
+        "name": "Gemüse Schneider",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0543096,
+          49.0062781
+        ]
+      },
+      "id": "node/2814345596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2873897170",
+        "name": "Beerenhof Wormser",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2686359,
+          49.0838402
+        ]
+      },
+      "id": "node/2873897170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2958632869",
+        "addr:city": "Appenweier",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "77767",
+        "addr:street": "Bachstraße",
+        "name": "Sauers Bauernladen",
+        "opening_hours": "Tu,Fr 08:00-19:00; Sa 08:00-12:00",
+        "phone": "+49 7805 2326",
+        "shop": "farm",
+        "website": "http://www.bauer-sauer.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9818693,
+          48.5381644
+        ]
+      },
+      "id": "node/2958632869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973015556",
+        "name": "Hofladen Bärenbrunnerhof",
+        "organic": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8529308,
+          49.155139
+        ]
+      },
+      "id": "node/2973015556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2992019979",
         "name": "Merkelhof",
         "shop": "farm"
@@ -2091,12 +7214,28 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3023857580",
+        "name": "Hofladen Wolk",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5787942,
+          49.5205611
+        ]
+      },
+      "id": "node/3023857580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3112733631",
         "name": "Hofgut Mauren",
         "opening_hours": "Mo,Tu 09:00-13:00,16:00-18:30; We 09:00-18:30; Th,Fr 08:00-18:30; Sa 08:00-13:00; Aug Mo,Tu 09:00-13:00; PH off",
         "phone": "+49 7034 653542",
         "shop": "farm",
-        "website": "http://www.hofgut-mauren.de/hofladen/hofladen_intro.htm"
+        "website": "http://www.hofgut-mauren.de/"
       },
       "geometry": {
         "type": "Point",
@@ -2131,6 +7270,31 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3395083171",
+        "addr:city": "Kusterdingen",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "72127",
+        "addr:street": "Albstraße",
+        "addr:suburb": "Wankheim",
+        "name": "Biolandhof",
+        "opening_hours": "Tu 09:30-12:30,16:00-18:00, Sa 09:30-12:30",
+        "operator": "Gerhard Braun",
+        "organic": "only",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1006248,
+          48.4937645
+        ]
+      },
+      "id": "node/3395083171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3419465605",
         "addr:city": "Keltern",
         "addr:housenumber": "1",
@@ -2152,6 +7316,24 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3444550581",
+        "fixme": "unklar in welchem Gebäude",
+        "name": "Kellers Hofladen",
+        "shop": "farm",
+        "source": "estimation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0991235,
+          49.0827377
+        ]
+      },
+      "id": "node/3444550581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3456220402",
         "contact:website": "http://www.stefan-fischer-weingut.de",
         "name": "Weingut Stefan Fischer",
@@ -2165,6 +7347,41 @@ var karlsruhe = {
         ]
       },
       "id": "node/3456220402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3462151977",
+        "opening_hours": "Fr evening; Sa morning",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2481906,
+          48.8184369
+        ]
+      },
+      "id": "node/3462151977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3472589203",
+        "image": "https://commons.wikimedia.org/wiki/File:Herrmanns_Hofladen_Mannheim-K%C3%A4fertal.jpg",
+        "name": "Herrmanns Hofladen",
+        "opening_hours": "Mo,Tu 9:00-13:00,15:00-18:30;Th,Fr 9:00-18:30;We,Sa 9:00-14:00",
+        "shop": "farm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5192817,
+          49.5121565
+        ]
+      },
+      "id": "node/3472589203"
     },
     {
       "type": "Feature",
@@ -2188,6 +7405,23 @@ var karlsruhe = {
         ]
       },
       "id": "node/3474962819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481818161",
+        "name": "Putenhof Bauer",
+        "opening_hours": "Th 15:00-19:00; Fr 08:30-18:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0108452,
+          48.8651294
+        ]
+      },
+      "id": "node/3481818161"
     },
     {
       "type": "Feature",
@@ -2221,6 +7455,153 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3568925993",
+        "food:asparagus": "yes",
+        "name": "Spargelhof Wendel",
+        "seasonal": "yes",
+        "shop": "farm",
+        "website": "http://spargelhof-wendel.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1693488,
+          48.7453806
+        ]
+      },
+      "id": "node/3568925993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3568925994",
+        "food:asparagus": "yes",
+        "food:strawberry": "yes",
+        "name": "Fritz Wassmer",
+        "seasonal": "yes",
+        "shop": "farm",
+        "website": "http://www.wassmer-spargel-erdbeeren.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1661454,
+          48.7410998
+        ]
+      },
+      "id": "node/3568925994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3575712043",
+        "name": "Hofladen Busch Gemüsebau",
+        "opening_hours": "Tu 14:30-18:00; Fr 09:30-12:00,14:30-18:00; Sa 09:00-12:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1030749,
+          48.83361
+        ]
+      },
+      "id": "node/3575712043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3587668336",
+        "food:strawberry": "yes",
+        "seasonal": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2155548,
+          48.6995893
+        ]
+      },
+      "id": "node/3587668336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3587668337",
+        "food:strawberry": "yes",
+        "seasonal": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2090583,
+          48.7219313
+        ]
+      },
+      "id": "node/3587668337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594909156",
+        "food:strawberry": "yes",
+        "name": "Beeren-Brodbeck",
+        "seasonal": "yes",
+        "shop": "farm",
+        "website": "http://www.beeren-brodbeck.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1225744,
+          48.7298241
+        ]
+      },
+      "id": "node/3594909156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3595008998",
+        "food:asparagus": "yes",
+        "food:strawberry": "yes",
+        "name": "Spargelhof Häring",
+        "seasonal": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1245849,
+          48.7295096
+        ]
+      },
+      "id": "node/3595008998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3602727564",
+        "food:strawberry": "yes",
+        "name": "Beeren-Brodbeck",
+        "seasonal": "yes",
+        "shop": "farm",
+        "website": "http://www.beeren-brodbeck.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1672495,
+          48.7291024
+        ]
+      },
+      "id": "node/3602727564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3624082798",
         "fixme": "position estimated",
         "shop": "farm"
@@ -2237,7 +7618,57 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3628500958",
+        "addr:city": "Kusterdingen",
+        "addr:housenumber": "20",
+        "addr:postcode": "72127",
+        "addr:street": "Ohmenhäuser Straße",
+        "amenity": "vending_machine",
+        "description": "Heu & Stroh für Tiere, frische Eier, Apfelsaft und weitere Produkte",
+        "name": "Hofladen Kasch",
+        "opening_hours": "Tu 09:00-12:00; Fr 15:00-18:00; Sa 09:00-12:00",
+        "operator": "Liane Kasch",
+        "shop": "farm",
+        "vending": "food",
+        "vending:applejuice": "yes",
+        "vending:eggs": "yes",
+        "vending:hay": "yes",
+        "vending:straw": "yes",
+        "website": "http://hofladen-kasch.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1164353,
+          48.4808258
+        ]
+      },
+      "id": "node/3628500958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3643008958",
+        "name": "Maier",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9990337,
+          48.6249674
+        ]
+      },
+      "id": "node/3643008958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3652380840",
+        "addr:city": "Simmozheim",
+        "addr:housenumber": "16",
+        "addr:street": "Büchelbronn",
+        "building": "yes",
         "name": "Häberle GbR Direktvermarktung",
         "produce": "meat;maultaschen;sausage;linseed;lenses",
         "shop": "farm",
@@ -2255,6 +7686,46 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3662921932",
+        "name": "s'Mühlelädle",
+        "opening_hours": "Mo,Tu,Th,FR 08:00-18:30; We,Sa 08:00-12:30",
+        "shop": "farm",
+        "website": "http://www.getreidemuehle-kienzlen.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9798567,
+          48.5248774
+        ]
+      },
+      "id": "node/3662921932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3713936255",
+        "addr:city": "Neckartenzlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "72654",
+        "addr:street": "Mühlstraße",
+        "name": "Gesund Haus Neckaralb",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237127,
+          48.5908111
+        ]
+      },
+      "id": "node/3713936255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3722042980",
         "name": "Hofladen Gut Batzenhof",
         "shop": "farm",
@@ -2268,6 +7739,38 @@ var karlsruhe = {
         ]
       },
       "id": "node/3722042980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738872462",
+        "name": "Josefs Gemüsestand",
+        "shop": "farm",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6742144,
+          49.4262695
+        ]
+      },
+      "id": "node/3738872462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738872463",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6759824,
+          49.4301629
+        ]
+      },
+      "id": "node/3738872463"
     },
     {
       "type": "Feature",
@@ -2297,6 +7800,166 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3782570244",
+        "addr:city": "Neulußheim",
+        "addr:housenumber": "14",
+        "addr:postcode": "68809",
+        "addr:street": "Hockenheimer Straße",
+        "contact:website": "http://www.obsthof-hoffmann.de",
+        "description": "Hofladen",
+        "name": "Obsthof Hoffmann",
+        "opening_hours": "Mo-Fr 08:30-13:00,14:00-18:30;Sa 08:30-13:00",
+        "organic": "no",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5230015,
+          49.2945985
+        ]
+      },
+      "id": "node/3782570244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789657757",
+        "name": "Bauer Klaus",
+        "opening_hours": "Mo 15:00-18:30; Fr 15:00-18:30",
+        "shop": "farm",
+        "website": "http://www.bauerklaus.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1462379,
+          48.7152554
+        ]
+      },
+      "id": "node/3789657757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3799705925",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "70597",
+        "addr:street": "Im Hoftäle",
+        "description": "Milchverkauf",
+        "name": "Hofladen Hiller",
+        "opening_hours": "Mo-Fr 17:30-18:00; Sa 17:00-17:30",
+        "phone": "+49 711 7227569",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1832602,
+          48.7314399
+        ]
+      },
+      "id": "node/3799705925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3817871232",
+        "description": "Verkauf von Kraut, Kartoffeln, Zwiebeln etc.",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2195986,
+          48.6994155
+        ]
+      },
+      "id": "node/3817871232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3817874067",
+        "contact:phone": "+49 7133 14206",
+        "name": "Steng Hofladen",
+        "note": "Selbstbediengungsladen mit Vertrauenskasse unter Dach",
+        "opening_hours": "24/7",
+        "shop": "farm",
+        "website": "http://www.steng-lauffen.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1380851,
+          49.0951049
+        ]
+      },
+      "id": "node/3817874067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3840018254",
+        "addr:housenumber": "8",
+        "addr:street": "Korntaler Straße",
+        "contact:phone": "+49 711 81041676",
+        "contact:website": "http://www.gerrisgarten.de/",
+        "delivery": "yes",
+        "name": "Gerris Garten",
+        "opening_hours": "Mo,We 09:00-13:00,15:00-19:00; Tu closed; Th 15:00-19:00; Fr 08:00-13:00,15:00-19:00; Sa 09:00-13:00",
+        "organic": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1597362,
+          48.8477388
+        ]
+      },
+      "id": "node/3840018254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3862397448",
+        "amenity": "restaurant",
+        "name": "Straußwirtschaft Weingut Walter Henninger",
+        "outdoor_seating": "yes",
+        "shop": "farm",
+        "website": "http://www.weingut-henninger.de/kallstadt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1782877,
+          49.4869874
+        ]
+      },
+      "id": "node/3862397448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887860663",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.331718,
+          49.5094057
+        ]
+      },
+      "id": "node/3887860663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3904730915",
         "addr:street": "Am Derdinger Brünnle",
         "name": "Hofladen Burkhard",
@@ -2312,6 +7975,66 @@ var karlsruhe = {
         ]
       },
       "id": "node/3904730915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3906711450",
+        "name": "Mittlere Mühle",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.027481,
+          48.6399606
+        ]
+      },
+      "id": "node/3906711450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3912828999",
+        "addr:city": "Sasbachwalden",
+        "addr:housenumber": "2",
+        "addr:postcode": "77887",
+        "addr:street": "Kestenhalde",
+        "name": "Hofladen \"Hof Kestenhalde\"",
+        "operator": "Familie Maurath",
+        "shop": "farm",
+        "website": "http://www.hof-kestenhalde.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1295116,
+          48.6102056
+        ]
+      },
+      "id": "node/3912828999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3924325457",
+        "addr:city": "Altlußheim",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "68804",
+        "addr:street": "Rheinhäuser Straße",
+        "name": "Obsthof Schmidt Hofladen",
+        "operator": "Obsthof Schmidt",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4974376,
+          49.2989579
+        ]
+      },
+      "id": "node/3924325457"
     },
     {
       "type": "Feature",
@@ -2334,6 +8057,21 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3964384547",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3630517,
+          48.768706
+        ]
+      },
+      "id": "node/3964384547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4064705918",
         "shop": "farm"
       },
@@ -2345,6 +8083,44 @@ var karlsruhe = {
         ]
       },
       "id": "node/4064705918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4098998259",
+        "addr:housenumber": "4",
+        "addr:street": "Hauptstraße",
+        "name": "Bioland Gärtnerei Blattlaus",
+        "opening_hours": "Tu 10:00-13:00,14:40-18:00;We,Th 10:00-13:00;Fr 9:00-18:00;Sa 9:00-13:00",
+        "phone": "06237 80725",
+        "shop": "farm",
+        "website": "http://www.blattlaus-maxdorf.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3002153,
+          49.4827776
+        ]
+      },
+      "id": "node/4098998259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4141611575",
+        "name": "Landwürth",
+        "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-14:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1594648,
+          48.8786892
+        ]
+      },
+      "id": "node/4141611575"
     },
     {
       "type": "Feature",
@@ -2470,7 +8246,7 @@ var karlsruhe = {
         "addr:housenumber": "34a",
         "addr:postcode": "76275",
         "addr:street": "Durlacher Straße",
-        "description": "potatoes, vegetables, salad, fruits, eggs, nudles",
+        "description": "potatoes, vegetables, salad, fruits, eggs, noodles",
         "fixme": "position estimated",
         "name": "Hofladen zum 1. Brückle",
         "opening_hours": "Tu, Fr 14:00-18:00; Sa 09:00-13:00",
@@ -2544,6 +8320,22 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4188064948",
+        "name": "Hofverkauf Schaaf",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.599437,
+          49.505699
+        ]
+      },
+      "id": "node/4188064948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4198725433",
         "addr:city": "Schwegenheim",
         "addr:housenumber": "100",
@@ -2565,7 +8357,96 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4216849750",
+        "fax": "0 63 22 6 61 78",
+        "name": "Apfelgut Zimmermann",
+        "opening_hours": "Mo-Fr 10:00-12:30; Mo,Tu,Th,Fr 16:00-18:30;Sa 9:00-16:00",
+        "phone": "0 63 22 82 20",
+        "shop": "farm",
+        "website": "http://www.apfelgut-zimmermann.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1864426,
+          49.4382436
+        ]
+      },
+      "id": "node/4216849750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294016478",
+        "addr:city": "Tübingen",
+        "addr:country": "DE",
+        "addr:housenumber": "48",
+        "addr:postcode": "72070",
+        "addr:street": "Geißwiesenstraße",
+        "addr:suburb": "Hagelloch",
+        "amenity": "animal_boarding",
+        "animal_boarding": "horse",
+        "email": "info@kreuzberger-hof.de",
+        "name": "Kreuzberger Hof",
+        "organic": "yes",
+        "phone": "+49 7071 61220",
+        "shop": "farm",
+        "website": "http://www.kreuzberger-hof.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0117913,
+          48.5349323
+        ]
+      },
+      "id": "node/4294016478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4308469840",
+        "name": "Klings Lehmgrubenhof",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 08:00-17:00",
+        "phone": "06324 81688",
+        "shop": "farm",
+        "website": "http://www.lehmgrubenhof.de/hofladen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2485767,
+          49.375135
+        ]
+      },
+      "id": "node/4308469840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310428643",
+        "name": "Obsthof Schmallenberg",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2411004,
+          49.4025554
+        ]
+      },
+      "id": "node/4310428643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4316643199",
+        "addr:city": "Sindelfingen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "71069",
+        "addr:street": "Stuttgarter Straße",
+        "addr:suburb": "Maichingen",
         "name": "Messners Bauernladen",
         "organic": "yes",
         "shop": "farm",
@@ -2580,6 +8461,53 @@ var karlsruhe = {
         ]
       },
       "id": "node/4316643199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319173942",
+        "name": "HS Bauernladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1315431,
+          49.3383365
+        ]
+      },
+      "id": "node/4319173942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331947336",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7710204,
+          49.2918546
+        ]
+      },
+      "id": "node/4331947336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340102689",
+        "name": "Hofladen Bläsiberg",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0746443,
+          48.4913517
+        ]
+      },
+      "id": "node/4340102689"
     },
     {
       "type": "Feature",
@@ -2620,6 +8548,21 @@ var karlsruhe = {
         ]
       },
       "id": "node/4350708075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367528901",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1363387,
+          48.8677758
+        ]
+      },
+      "id": "node/4367528901"
     },
     {
       "type": "Feature",
@@ -2667,6 +8610,104 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4418021576",
+        "operator": "Lerchenhof",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2299103,
+          48.7304173
+        ]
+      },
+      "id": "node/4418021576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4424853994",
+        "addr:city": "Untereisesheim",
+        "addr:housenumber": "24",
+        "addr:postcode": "74257",
+        "addr:street": "Herzog-Magnus-Straße",
+        "name": "Sommerers Hofladen",
+        "opening_hours": "Mo,Tu,Th 09:00-12:30,16:00-18:00; We off; Fr 09:00-12:30,15:00-18:00; Sa 09:00-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1975212,
+          49.2087217
+        ]
+      },
+      "id": "node/4424853994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4429415838",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7270017,
+          49.0867252
+        ]
+      },
+      "id": "node/4429415838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437862970",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6972415,
+          49.4753276
+        ]
+      },
+      "id": "node/4437862970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442411184",
+        "name": "Fam Groß",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2329333,
+          49.4025876
+        ]
+      },
+      "id": "node/4442411184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442412587",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.241989,
+          49.4076614
+        ]
+      },
+      "id": "node/4442412587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4445173392",
         "addr:city": "Ehningen",
         "addr:country": "DE",
@@ -2693,6 +8734,31 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4512250190",
+        "addr:housenumber": "4",
+        "addr:street": "Weinstraße",
+        "description": "Hofladen der Familie Broß, Selbstbedienung und -kassieren",
+        "name": "Hofladen Broß",
+        "opening_hours": "24/7",
+        "organic": "no",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "shop": "farm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9844992,
+          48.4733594
+        ]
+      },
+      "id": "node/4512250190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4569976572",
         "name": "Tätigerhof Croissant",
         "shop": "farm"
@@ -2705,6 +8771,121 @@ var karlsruhe = {
         ]
       },
       "id": "node/4569976572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580157489",
+        "name": "Hofladen Müller",
+        "shop": "farm",
+        "website": "http://www.hühnerhof-müller.de/hofladen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.066203,
+          48.8002583
+        ]
+      },
+      "id": "node/4580157489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4581640045",
+        "name": "Auhof",
+        "phone": "+49 7144 39427",
+        "shop": "farm",
+        "website": "http://www.auhof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3260327,
+          48.9142804
+        ]
+      },
+      "id": "node/4581640045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4585203153",
+        "addr:city": "Jettingen",
+        "addr:housenumber": "1",
+        "addr:postcode": "71131",
+        "addr:street": "Franziska-von-Hohenheim-Straße",
+        "name": "Lindenhäusle (Selbstbedienungs-Hofladen)",
+        "operator": "Familie Renschler",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7993606,
+          48.5686485
+        ]
+      },
+      "id": "node/4585203153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588813581",
+        "name": "Mettermühle",
+        "opening_hours": "Mo-Fr 07:30-12:00,13:00-18:00; Sa 07:30-12:00",
+        "operator": "Familie Hübner",
+        "shop": "farm",
+        "website": "www.mettermuehle.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1148668,
+          48.958203
+        ]
+      },
+      "id": "node/4588813581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4650298136",
+        "addr:city": "Renchen",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "77871",
+        "addr:street": "Eisenbahnstraße",
+        "name": "Eda Frischmarkt",
+        "opening_hours": "Sa 08:00-13:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0092877,
+          48.5887885
+        ]
+      },
+      "id": "node/4650298136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699207279",
+        "name": "Der Mühleladen",
+        "opening_hours": "Mo-Tu 08:30-12:30,14:30-18:00;We 08:30-12:30;Th-Fr 08:30-12:30,14:30-18:00;Sa 07:30-13:00;Su off;PH off",
+        "operator": "Eugen Müller",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0660497,
+          48.8283513
+        ]
+      },
+      "id": "node/4699207279"
     },
     {
       "type": "Feature",
@@ -2729,6 +8910,40 @@ var karlsruhe = {
         ]
       },
       "id": "node/4730740744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748421759",
+        "name": "Bauernhof Meng - Hofladen",
+        "phone": "+49 6203 3579",
+        "shop": "farm",
+        "website": "http://www.hofladen-bauernladen.info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6119555,
+          49.4903472
+        ]
+      },
+      "id": "node/4748421759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4750827920",
+        "name": "Hofladen Gnamm",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.316667,
+          48.8695636
+        ]
+      },
+      "id": "node/4750827920"
     },
     {
       "type": "Feature",
@@ -2822,6 +9037,23 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4853597974",
+        "description": "Honig-Verkauf",
+        "name": "Erlebnis Biene am Ruhestein",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2213387,
+          48.5610504
+        ]
+      },
+      "id": "node/4853597974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4887146475",
         "description": "Wein, Sekt Säfte",
         "name": "Weingut Johanneshof",
@@ -2868,6 +9100,53 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4945834239",
+        "addr:city": "Bondorf",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "71149",
+        "addr:street": "Im Hopfengarten",
+        "name": "SAUTTER's Kartoffel-Lädle",
+        "opening_hours": "Mo-Sa 09:30-12:30; Fr 15:00-18:00",
+        "operator": "SAUTTER Kartoffelverarbeitung",
+        "shop": "farm",
+        "website": "www.kartoffelverarbeitung-sautter.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8218069,
+          48.5223916
+        ]
+      },
+      "id": "node/4945834239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5024591922",
+        "addr:city": "Ditzingen",
+        "addr:housenumber": "6",
+        "addr:postcode": "71254",
+        "addr:street": "Krebsäckerweg",
+        "name": "Biohofladen Hagenlocher",
+        "opening_hours": "Tu,Fr 15:30-18:30, Fr,Sa 09:00-12:00; PH off",
+        "phone": "+49 7156 7447",
+        "shop": "farm",
+        "website": "http://www.bauernhof-hagenlocher.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0427489,
+          48.8373208
+        ]
+      },
+      "id": "node/5024591922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5061061549",
         "addr:city": "Pfinztal",
         "addr:country": "DE",
@@ -2893,6 +9172,26 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5089698546",
+        "addr:housenumber": "201",
+        "addr:street": "Uhlbacher Straße",
+        "name": "Biofrucht Ortlieb",
+        "opening_hours": "Tu,Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00",
+        "organic": "only",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2765104,
+          48.7751612
+        ]
+      },
+      "id": "node/5089698546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5104588745",
         "name": "Kartoffelhof Böhm",
         "shop": "farm"
@@ -2905,6 +9204,59 @@ var karlsruhe = {
         ]
       },
       "id": "node/5104588745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5108955785",
+        "addr:street": "Normannenstraße",
+        "level": "0",
+        "name": "Hegehof",
+        "opening_hours": "Apr-Oct: Mo-Sa 08:00-19:00; Apr-Oct: Su 09:00-17:00",
+        "operator": "Dieter & Brigitte Hege GbR, Ladenburg-Neuzeilsheim",
+        "shop": "farm",
+        "website": "http://www.hegehof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5579506,
+          49.499324
+        ]
+      },
+      "id": "node/5108955785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150051029",
+        "name": "Mühlenladen",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0184061,
+          48.9632686
+        ]
+      },
+      "id": "node/5150051029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5156762357",
+        "name": "Schollenhof",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0043165,
+          48.6287596
+        ]
+      },
+      "id": "node/5156762357"
     },
     {
       "type": "Feature",
@@ -2927,6 +9279,22 @@ var karlsruhe = {
         ]
       },
       "id": "node/5162833322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221179638",
+        "name": "Bauer Beck",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1671519,
+          48.6910491
+        ]
+      },
+      "id": "node/5221179638"
     },
     {
       "type": "Feature",
@@ -2955,6 +9323,27 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5350980321",
+        "addr:city": "Oberstenfeld",
+        "addr:housenumber": "3",
+        "addr:postcode": "71720",
+        "addr:street": "Ziegelstraße",
+        "name": "Hofladen Geflügelhof Heß",
+        "organic": "yes",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3249707,
+          49.0227653
+        ]
+      },
+      "id": "node/5350980321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5398120737",
         "name": "Hofladen Starck",
         "opening_hours": "Mo-Fr 08:00-13:00",
@@ -2969,6 +9358,70 @@ var karlsruhe = {
         ]
       },
       "id": "node/5398120737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411352312",
+        "addr:city": "Ammerbuch",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "72119",
+        "addr:street": "Banngarten",
+        "addr:suburb": "Poltringen",
+        "contact:email": "info@muehleladen.de",
+        "contact:fax": "+49 7073 913203",
+        "contact:phone": "+49 7073 91255",
+        "contact:website": "http://www.muehleladen.de",
+        "name": "Mühleladen",
+        "opening_hours": "Mo-Tu 08:00-18:00; Th-Fr 08:00-18:00; Sa 07:30-13:00; PH off",
+        "organic": "yes",
+        "ref:vatin": "DE169487958",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9426418,
+          48.536329
+        ]
+      },
+      "id": "node/5411352312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5514409352",
+        "name": "Hofladen Petry",
+        "opening_hours": "Mo,We,Fr 10:00-12:00; Mo-Th 16:00-18:00; Fr 14:00-18:00; Sa 16:30-18:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2998918,
+          49.5115891
+        ]
+      },
+      "id": "node/5514409352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5523021445",
+        "name": "Stirm's Hofladen",
+        "phone": "+49 (7144) 37900",
+        "shop": "farm",
+        "website": "http://www.obstbaustirm.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3350905,
+          48.9590069
+        ]
+      },
+      "id": "node/5523021445"
     }
   ]
 };
