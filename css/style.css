@@ -44,3 +44,25 @@ h1 {
     .leaflet-popup-content-wrapper a:visited {
         color: green;
     }
+
+    #adress {
+        float: left;
+        margin-bottom: 6px;
+
+    }
+    #links {
+        float: right;
+        padding:2px;
+        border-left: 2px solid grey;
+    }
+
+    #times{
+        clear:both;
+        margin-bottom: 6px;
+    }
+    #table {
+        clear:both;
+    }
+    #wrapper {
+        clear:both;
+    }
