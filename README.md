@@ -13,3 +13,9 @@ Todos: (siehe auch in Issues)
 - mehr Glitzer / Design (schönere Pins, Anzeige der Daten)
 - Impressum, Infos, Links auf codefor und GitHub usw. 
 - Script für automatischen Datenabgleich zwischen OSM und Webseite schreiben
+
+
+<h2>Forks:</h2>
+<b>Metropolregion Nürnberg</b>
+https://markus-bb.github.io/direktvermarkter/
+https://github.com/markus-bb/direktvermarkter
