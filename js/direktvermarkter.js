@@ -4,12 +4,19 @@ var map = L.map('map',{
     center: [48.99,8.4242],
     zoom: 11,
     minZoom:2,
-    maxZoom: 18
+    maxZoom: 18,
+    zoomControl: false
 });
+L.control.scale().addTo(map);
+
+
+L.control.zoom({
+    position:'bottomright'
+}).addTo(map);
 
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &#124; <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">GitHub</a>'
+    attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
 }).addTo(map);
 
 //Daten
@@ -23,17 +30,19 @@ function popupcontent (feature, layer) {
         console.log(prop +" "+feature.properties[prop] +" in Tabelle unsichtbar");
         //do nothing
         }
-      else if (prop == "website" || prop == "contact:website"){
+      else if (prop == "website" || prop == "contact:website" || prop == "url"){
           popupcontent.unshift("<tr><td><strong>"
-          +prop.replace("website","Internetseite").replace("contact:","") + ":</strong> </td><td>" + "<a link href='"
+          +prop.replace("website","Internetseite").replace("contact:","") + ":</strong> </td><td>" + "<a target='_blank' link href='"
           + feature.properties[prop] + "' target='_blank'>"
           + feature.properties[prop] +"</a></td></tr>");
+          console.log(prop +" "+feature.properties[prop] +" als Link Formatiert");
         }
         else if (prop == "fixme"){
             popupcontent.push("<tr><td><strong>"
             +prop.replace("fixme","Unklare Daten") + ":</strong> </td><td>"
             + feature.properties[prop].replace("position estimated","Position geschätzt")
-            +" <a href='http://openstreetmap.org/" +feature.id  +"'> Daten Verbessern</a>");
+            +" <a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'> Daten Verbessern</a>");
+            console.log(prop +" "+feature.properties[prop] +" (fixme)");
             }
 
         else {
@@ -81,6 +90,23 @@ function popupcontent (feature, layer) {
 
 
     }
+
+    var linkLat;
+    var linkLong;
+
+    if (feature.geometry.type === 'Polygon') {
+        console.log('Polygon for Links detected');
+        var centroid = turf.centroid(feature);
+        var linkLat = centroid.geometry.coordinates[0];
+        var linkLong = centroid.geometry.coordinates[1];
+    }
+    else if (feature.geometry.type === 'Point') {
+        console.log("Point for Links detected");
+        var linkLat = feature.geometry.coordinates[0];
+        var linkLong = feature.geometry.coordinates[1];
+
+}
+
     var innereTabelle = popupcontent.join("");
     var htmlInhalt = "<h1>" +feature.properties.name +"</h1>"
         +"<div id='wrapper'><div id='adress'>"
@@ -90,9 +116,8 @@ function popupcontent (feature, layer) {
         +"</div><div id='links'>"
         +"<strong>Dieser Ort auf</strong><br>"
         +"<a href='http://openstreetmap.org/" +feature.id  +"'>OpenStreetMap</a>"
-        +"<br>Open Routservice <br>Google Maps"
-        //+"<a href='https://maps.openrouteservice.org/directions?n1=" +feature.geometry.coordinates +"'>Open Routeservice</a>"
-        //+"<br><a href='http://maps.google.de/maps?q=" +feature.geometry.coordinates +"'>Google Maps</a>"
+        +"<br><a target='_blank' href='https://maps.openrouteservice.org/directions?n1=" +linkLong +"&n2=" +linkLat +"&n3=14&a=null,null," +linkLong +"," +linkLat +"&b=0&c=0&k1=en-US&k2=km'>Open Routeservice</a>"
+        +"<br><a target='_blank' href='http://maps.google.de/maps?q=" +linkLong +"," +linkLat +"'>Google Maps</a>"
         
         +"</div></div><div id='times'>"
         +"<strong>Öffnungszeiten:</strong><br>" +feature.properties["opening_hours"]
@@ -101,7 +126,7 @@ function popupcontent (feature, layer) {
         +"<table>"
         +innereTabelle
         + "</table></div>"
-        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a href='http://openstreetmap.org/" +feature.id  +"'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>";
+        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>";
 
 
 
@@ -130,4 +155,4 @@ geojson1.addTo(map);
 
 
 
-L.control.scale().addTo(map);
+
