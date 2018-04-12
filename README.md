@@ -5,14 +5,19 @@ Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
 
 Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
 
-Todos: (siehe auch in Issues)
-- Unnötige Werte aus Tabelle ausblenden und den Rest sinnvoll sortieren ✓
-- Links klickbar machen ✓
-- Polygone als Punkte anzeigen ✓
-- dynamische Zentrierung der Karte
-- mehr Glitzer / Design (schönere Pins, Anzeige der Daten)
+Features:
+- Zeigt alle Punkte aus der Region Karlsruhe mit dem Wert shop:farm aus einem GeoJson export von Openstreetmap an (von overpass-turbo.eu)
+- Bereitet Daten auf, macht Links klickbar und Übersetzt die häufigsten Begriffe
+- Verlinkt von jedem Punkt auf die identischen Koordinaten auf openstreetmap.org, OpenRouteService und Google Maps
+- Zeigt Punkte und Polygone gleichermaßen an. Polygone erhalten einen Pin in ihrem Zentrum.
+
+ToDo (siehe auch Issues):
+- mehr Glitzer / Design (schönere Pins, Anzeige der Daten, Fonts,...)
 - Impressum, Infos, Links auf codefor und GitHub usw. 
 - Script für automatischen Datenabgleich zwischen OSM und Webseite schreiben
+- Suchfunktion
+- Auswahlmöglichkeit für verschiedene Regionen
+- dynamische Zentrierung der Karte
 
 
 <h2>Forks:</h2>
