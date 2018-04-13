@@ -167,13 +167,13 @@ function popupcontent (feature, layer) {
     var linkLat;
     var linkLong;
 
-    if (feature.geometry.type === 'Polygon') {
+    if (feature.geometry.type == 'Polygon') {
         console.log('Polygon for Links detected');
         var centroid = turf.centroid(feature);
         var linkLat = centroid.geometry.coordinates[0];
         var linkLong = centroid.geometry.coordinates[1];
     }
-    else if (feature.geometry.type === 'Point') {
+    else if (feature.geometry.type == 'Point') {
         console.log("Point for Links detected");
         var linkLat = feature.geometry.coordinates[0];
         var linkLong = feature.geometry.coordinates[1];
@@ -210,21 +210,35 @@ function popupcontent (feature, layer) {
 
 var geojson1 = L.geoJson(karlsruhe,{
     onEachFeature: function(feature,layer){
-        if (feature.geometry.type === 'Polygon') {
+        if (feature.geometry.type == 'Polygon' && feature.properties.amenity == 'vending_machine') {
+            console.log('Polygon detected');
+            var centroid = turf.centroid(feature);
+            var lon = centroid.geometry.coordinates[0];
+            var lat = centroid.geometry.coordinates[1];
+            L.marker([lat,lon],{icon: redIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
+        }
+        else if (feature.geometry.type == 'Polygon' && feature.properties.amenity != 'vending_machine') {
             console.log('Polygon detected');
             var centroid = turf.centroid(feature);
             var lon = centroid.geometry.coordinates[0];
             var lat = centroid.geometry.coordinates[1];
             L.marker([lat,lon],{icon: greenIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
         }
-        else if (feature.geometry.type === 'Point') {
+        else if (feature.geometry.type == 'Point' && feature.properties.amenity == 'vending_machine') {
             console.log("Point detected");
-            layer.bindPopup(popupcontent(feature,layer));
-
-}
+            var lon = feature.geometry.coordinates[0];
+            var lat = feature.geometry.coordinates[1];
+            L.marker([lat,lon],{icon: redIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
+        }
+        else if (feature.geometry.type == 'Point' && feature.properties.amenity != 'vending_machine' ) {
+            console.log("Point detected");
+            var lon = feature.geometry.coordinates[0];
+            var lat = feature.geometry.coordinates[1];
+            L.marker([lat,lon],{icon: greenIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
+        }
 }});
 
-geojson1.addTo(map);
+//geojson1.addTo(map);
 
 
 
