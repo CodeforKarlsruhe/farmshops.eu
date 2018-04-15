@@ -15,9 +15,25 @@ L.control.zoom({
 }).addTo(map);
 
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
+L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
+    attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
 }).addTo(map);
+
+var greenMarker = L.ExtraMarkers.icon({
+    icon: 'fa-number',
+    markerColor: 'green-light',
+    shape: 'circle',
+    prefix: 'fa',
+    number: 'H'
+  });
+
+  var blueMarker = L.ExtraMarkers.icon({
+    icon: 'fa-number',
+    markerColor: 'blue',
+    shape: 'circle',
+    prefix: 'fa',
+    number: 'A'
+  });
 
 var blueIcon = new L.Icon({
 	iconUrl: 'img/marker-icon-2x-blue.png',
@@ -215,26 +231,26 @@ var geojson1 = L.geoJson(karlsruhe,{
             var centroid = turf.centroid(feature);
             var lon = centroid.geometry.coordinates[0];
             var lat = centroid.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: redIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
+            L.marker([lat,lon],{icon: blueMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
         }
         else if (feature.geometry.type == 'Polygon' && feature.properties.amenity != 'vending_machine') {
             console.log('Polygon detected');
             var centroid = turf.centroid(feature);
             var lon = centroid.geometry.coordinates[0];
             var lat = centroid.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: greenIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
+            L.marker([lat,lon],{icon: greenMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
         }
         else if (feature.geometry.type == 'Point' && feature.properties.amenity == 'vending_machine') {
             console.log("Point detected");
             var lon = feature.geometry.coordinates[0];
             var lat = feature.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: redIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
+            L.marker([lat,lon],{icon: blueMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
         }
         else if (feature.geometry.type == 'Point' && feature.properties.amenity != 'vending_machine' ) {
             console.log("Point detected");
             var lon = feature.geometry.coordinates[0];
             var lat = feature.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: greenIcon}).addTo(map).bindPopup(popupcontent(feature,layer));
+            L.marker([lat,lon],{icon: greenMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
         }
 }});
 
