@@ -197,7 +197,7 @@ function popupcontent (feature, layer) {
 }
 
     var innereTabelle = popupcontent.join("");
-    var htmlInhalt = "<h1>" +feature.properties.name +"</h1>"
+    var htmlInhalt = "<div id='headline'><h1>" +feature.properties.name +"</h1></div>"
         +"<div id='wrapper'><div id='adress'>"
         +"<strong>Adresse:</strong><br>"
         +feature.properties["addr:street"] +" " +feature.properties["addr:housenumber"]
@@ -208,14 +208,14 @@ function popupcontent (feature, layer) {
         +"<br><a target='_blank' href='https://maps.openrouteservice.org/directions?n1=" +linkLong +"&n2=" +linkLat +"&n3=14&a=null,null," +linkLong +"," +linkLat +"&b=0&c=0&k1=en-US&k2=km'>Open Routeservice</a>"
         +"<br><a target='_blank' href='http://maps.google.de/?q=" +linkLong +"," +linkLat +"'>Google Maps</a>"
         
-        +"</div></div><div id='times'>"
+        +"</div><div id='times'>"
         +"<strong>Öffnungszeiten:</strong><br>" +feature.properties["opening_hours"]
         +"</div><div id='table'>"
-        +"<strong>Weitere Daten:</strong>"
         +"<table>"
+        +"<th colspan='2'>Weitere Daten:</th>"
         +innereTabelle
         + "</table></div>"
-        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>";
+        +"<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p></div>";
 
 
 
