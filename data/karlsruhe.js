@@ -2,7 +2,7 @@ var karlsruhe = {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2018-04-15T20:55:02Z",
+  "timestamp": "2018-04-16T09:15:02Z",
   "features": [
     {
       "type": "Feature",
@@ -1688,6 +1688,43 @@ var karlsruhe = {
         ]
       },
       "id": "way/117702158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117966001",
+        "amenity": "vending_machine",
+        "building": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1272931,
+              48.718919
+            ],
+            [
+              9.1272829,
+              48.7188814
+            ],
+            [
+              9.1273533,
+              48.7188731
+            ],
+            [
+              9.1273635,
+              48.7189107
+            ],
+            [
+              9.1272931,
+              48.718919
+            ]
+          ]
+        ]
+      },
+      "id": "way/117966001"
     },
     {
       "type": "Feature",
@@ -3823,6 +3860,44 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/242462323",
+        "landuse": "retail",
+        "name": "Eierautomat Gutscher",
+        "vending": "food",
+        "vending_machine": "food"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.0396726,
+              48.888542
+            ],
+            [
+              9.0396781,
+              48.8885678
+            ],
+            [
+              9.0396491,
+              48.8885704
+            ],
+            [
+              9.0396437,
+              48.8885446
+            ],
+            [
+              9.0396726,
+              48.888542
+            ]
+          ]
+        ]
+      },
+      "id": "way/242462323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/251221262",
         "addr:city": "Kandel",
         "addr:country": "DE",
@@ -5003,6 +5078,36 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/31605830",
+        "addr:city": "Tübingen",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "72074",
+        "addr:street": "Dorfackerstraße",
+        "amenity": "vending_machine",
+        "email": "metzgerei.raiser@googlemail.com",
+        "fax": "+49 7071 84629",
+        "name": "Metzgerei Raiser",
+        "opening_hours": "Mo,Sa 07:00-12:30; Tu-Fr 07:00-12:30,14:30-18:00",
+        "phone": "+49 7071 81835",
+        "shop": "butcher",
+        "source": "knowledge",
+        "vending": "food",
+        "website": "http://www.metzgerei-raiser.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0796524,
+          48.5308688
+        ]
+      },
+      "id": "node/31605830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/270760144",
         "name": "Schleicher Hofladen",
         "shop": "farm"
@@ -5074,6 +5179,22 @@ var karlsruhe = {
         ]
       },
       "id": "node/309766316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/314275476",
+        "amenity": "vending_machine",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9897713,
+          49.65672
+        ]
+      },
+      "id": "node/314275476"
     },
     {
       "type": "Feature",
@@ -5443,6 +5564,23 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/973538649",
+        "amenity": "vending_machine",
+        "name": "Kartoffelautomat",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1708477,
+          49.0388452
+        ]
+      },
+      "id": "node/973538649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/976688413",
         "name": "Obsthof Eisenmann",
         "shop": "farm"
@@ -5807,6 +5945,24 @@ var karlsruhe = {
         ]
       },
       "id": "node/1356603157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1393646918",
+        "amenity": "vending_machine",
+        "name": "Milch-Tankstelle",
+        "operator": "Großhans",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6475125,
+          49.5358646
+        ]
+      },
+      "id": "node/1393646918"
     },
     {
       "type": "Feature",
@@ -6632,6 +6788,26 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2428515078",
+        "amenity": "vending_machine",
+        "note": "Obst",
+        "operator": "Wein- und Obstbau Riedel",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3253859,
+          49.1310438
+        ]
+      },
+      "id": "node/2428515078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2433861197",
         "addr:city": "Lambsheim",
         "addr:housenumber": "1",
@@ -6650,6 +6826,27 @@ var karlsruhe = {
         ]
       },
       "id": "node/2433861197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476952892",
+        "amenity": "vending_machine",
+        "name": "STUGGImat",
+        "operator": "Metzgerei Bless GmbH",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food",
+        "website": "http://www.metzgerei-bless.de/stuggimat.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1464107,
+          48.7231993
+        ]
+      },
+      "id": "node/2476952892"
     },
     {
       "type": "Feature",
@@ -7403,6 +7600,24 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2728669143",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "name": "Bauernladen Bechtle",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0539919,
+          48.5454425
+        ]
+      },
+      "id": "node/2728669143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2749936681",
         "name": "Stern's Hofladen",
         "opening_hours": "Th 07:00-12:30,14:00-18:00; Fr 07:00-12:30,15:00-18:00; Sa 07:00-13:00",
@@ -7417,6 +7632,24 @@ var karlsruhe = {
         ]
       },
       "id": "node/2749936681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2807960890",
+        "amenity": "vending_machine",
+        "name": "Milchautomat",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.625987,
+          49.4570743
+        ]
+      },
+      "id": "node/2807960890"
     },
     {
       "type": "Feature",
@@ -7453,6 +7686,43 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2888496329",
+        "amenity": "vending_machine",
+        "contact:website": "http://www.distrib-alsace.fr",
+        "name": "Distrib'Alsace",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7472946,
+          48.6041648
+        ]
+      },
+      "id": "node/2888496329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2889004784",
+        "amenity": "vending_machine",
+        "note": "Regiomat, haupsächlich Eier und Wurst",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1673983,
+          48.9055369
+        ]
+      },
+      "id": "node/2889004784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2958632869",
         "addr:city": "Appenweier",
         "addr:country": "DE",
@@ -7473,6 +7743,26 @@ var karlsruhe = {
         ]
       },
       "id": "node/2958632869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964163257",
+        "amenity": "vending_machine",
+        "name": "Forlenhof",
+        "operator": "Forlenhof",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1055024,
+          48.7185283
+        ]
+      },
+      "id": "node/2964163257"
     },
     {
       "type": "Feature",
@@ -7506,6 +7796,23 @@ var karlsruhe = {
         ]
       },
       "id": "node/2992019979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2995328042",
+        "amenity": "vending_machine",
+        "name": "Obstverkaufs-Automat",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6447146,
+          49.5150869
+        ]
+      },
+      "id": "node/2995328042"
     },
     {
       "type": "Feature",
@@ -7766,6 +8073,31 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3497682687",
+        "amenity": "vending_machine",
+        "indoor": "yes",
+        "level": "-1",
+        "manufacturer": "N&W Global Vending GmbH",
+        "model": "Festival",
+        "operator": "CASE Catering & Service",
+        "payment:KITCard": "yes",
+        "payment:others": "no",
+        "ref": "26131110",
+        "surveillance": "indoor",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4164526,
+          49.0109663
+        ]
+      },
+      "id": "node/3497682687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3502873080",
         "name": "Lux",
         "shop": "farm"
@@ -7992,6 +8324,25 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3623842316",
+        "amenity": "vending_machine",
+        "contact:website": "http://www.my-balzhofen-shop.de/",
+        "operator": "MY balzHOFen Shop",
+        "payment:coins": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0922102,
+          48.7123254
+        ]
+      },
+      "id": "node/3623842316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3624082798",
         "fixme": "position estimated",
         "shop": "farm"
@@ -8065,6 +8416,42 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3677336682",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "operator": "Wolf",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0794363,
+          49.0895379
+        ]
+      },
+      "id": "node/3677336682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3692237608",
+        "amenity": "vending_machine",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9839437,
+          49.4658322
+        ]
+      },
+      "id": "node/3692237608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3708624662",
         "addr:city": "Widdern",
         "addr:country": "DE",
@@ -8089,6 +8476,23 @@ var karlsruhe = {
         ]
       },
       "id": "node/3708624662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710734582",
+        "amenity": "vending_machine",
+        "description": "Nudeln, Eier, Joghurt, Milch, Wurst, ...",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7749032,
+          49.0451636
+        ]
+      },
+      "id": "node/3710734582"
     },
     {
       "type": "Feature",
@@ -8291,6 +8695,24 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3818496017",
+        "amenity": "vending_machine",
+        "name": "Milchhäusle",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3695654,
+          49.5735073
+        ]
+      },
+      "id": "node/3818496017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3840018254",
         "addr:housenumber": "8",
         "addr:street": "Korntaler Straße",
@@ -8310,6 +8732,47 @@ var karlsruhe = {
         ]
       },
       "id": "node/3840018254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3853178328",
+        "amenity": "vending_machine",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "www.Beeren-Brodbeck.de",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1271286,
+          48.718145
+        ]
+      },
+      "id": "node/3853178328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3855310236",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "operator": "Metzgerei Heinkele",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9073926,
+          48.7135981
+        ]
+      },
+      "id": "node/3855310236"
     },
     {
       "type": "Feature",
@@ -8475,6 +8938,26 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3968423168",
+        "amenity": "vending_machine",
+        "note": "Gekauft werden konnte neulich: Äpfel, Birnen, Karotten, Eier (roh und in Farbe), Nudeln, Feldsalat, Suppengrün, Rosenkohl",
+        "operator": "Familien Keyl und Zwecker",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5117981,
+          48.6867846
+        ]
+      },
+      "id": "node/3968423168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4064705918",
         "shop": "farm"
       },
@@ -8486,6 +8969,28 @@ var karlsruhe = {
         ]
       },
       "id": "node/4064705918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4083753515",
+        "addr:city": "Landau in der Pfalz",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "76829",
+        "addr:street": "Zweibrücker Straße",
+        "amenity": "vending_machine",
+        "name": "Regiomat",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1117659,
+          49.1916109
+        ]
+      },
+      "id": "node/4083753515"
     },
     {
       "type": "Feature",
@@ -8543,6 +9048,23 @@ var karlsruhe = {
         ]
       },
       "id": "node/4141611575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170440373",
+        "amenity": "vending_machine",
+        "description": "Eierautomat",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6259828,
+          49.5195346
+        ]
+      },
+      "id": "node/4170440373"
     },
     {
       "type": "Feature",
@@ -8742,6 +9264,25 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4188064947",
+        "amenity": "vending_machine",
+        "name": "Eierautomat Bach",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.601935,
+          49.5045777
+        ]
+      },
+      "id": "node/4188064947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4188064948",
         "name": "Hofverkauf Schaaf",
         "shop": "farm"
@@ -8795,6 +9336,22 @@ var karlsruhe = {
         ]
       },
       "id": "node/4216849750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4277298310",
+        "amenity": "vending_machine",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5787313,
+          48.943854
+        ]
+      },
+      "id": "node/4277298310"
     },
     {
       "type": "Feature",
@@ -8903,6 +9460,28 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4329774331",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "email": "info@eierlaedle.de",
+        "name": "'s Eierlädle",
+        "operator": "Daniel M. Dormeyer",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1601349,
+          48.8098361
+        ]
+      },
+      "id": "node/4329774331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4331947336",
         "shop": "farm"
       },
@@ -8954,6 +9533,24 @@ var karlsruhe = {
         ]
       },
       "id": "node/4350708075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4366133399",
+        "amenity": "vending_machine",
+        "operator": "Snack-IT",
+        "payment:coins": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3581945,
+          49.3210993
+        ]
+      },
+      "id": "node/4366133399"
     },
     {
       "type": "Feature",
@@ -9017,6 +9614,33 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4381355449",
+        "addr:city": "Herrenberg",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "71083",
+        "addr:street": "Hindenburgstraße",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "opening_hours": "24/7",
+        "opening_hours:lastcheck": "2016-09-02",
+        "operator": "Metzgerei Schill",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.870527,
+          48.5945824
+        ]
+      },
+      "id": "node/4381355449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4393192420",
         "addr:city": "Stutensee",
         "addr:country": "DE",
@@ -9037,6 +9661,23 @@ var karlsruhe = {
         ]
       },
       "id": "node/4393192420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405786825",
+        "amenity": "vending_machine",
+        "note": "Eier (eggs)",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641767,
+          49.0850417
+        ]
+      },
+      "id": "node/4405786825"
     },
     {
       "type": "Feature",
@@ -9072,6 +9713,25 @@ var karlsruhe = {
         ]
       },
       "id": "node/4418021576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4418021577",
+        "amenity": "vending_machine",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Lerchenhof",
+        "payment:cash": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.229972,
+          48.7304271
+        ]
+      },
+      "id": "node/4418021577"
     },
     {
       "type": "Feature",
@@ -9184,6 +9844,71 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4477906861",
+        "amenity": "vending_machine",
+        "contact:website": "http://www.hofgut-schleinkofer.de/milchautomat.html",
+        "name": "Wurst-Automat",
+        "opening_hours": "08:00-20:00",
+        "payment:coins": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.388146,
+          48.9656275
+        ]
+      },
+      "id": "node/4477906861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4553833996",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "operator": "Landseehof",
+        "payment:coins": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2102981,
+          48.819948
+        ]
+      },
+      "id": "node/4553833996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560490739",
+        "addr:city": "Herrenberg",
+        "addr:country": "DE",
+        "addr:housenumber": "45",
+        "addr:postcode": "71083",
+        "addr:street": "Oberjesinger Straße",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "payment:notes": "unknown",
+        "vending": "food",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8423822,
+          48.6130318
+        ]
+      },
+      "id": "node/4560490739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4569976572",
         "name": "Tätigerhof Croissant",
         "shop": "farm"
@@ -9196,6 +9921,23 @@ var karlsruhe = {
         ]
       },
       "id": "node/4569976572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4576143752",
+        "amenity": "vending_machine",
+        "payment:cash": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9745758,
+          48.9338472
+        ]
+      },
+      "id": "node/4576143752"
     },
     {
       "type": "Feature",
@@ -9275,6 +10017,67 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4588984655",
+        "amenity": "vending_machine",
+        "contact:website": "https://www.geigeragrar.de/milchautomat/",
+        "milk": "raw_milk",
+        "name": "Frisch Milch Automat",
+        "opening_hours": "24/7",
+        "operator": "Familie Geiger",
+        "payment:coins": "yes",
+        "vending": "milk",
+        "website": "https://de-de.facebook.com/geigeragrar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1038545,
+          48.9340137
+        ]
+      },
+      "id": "node/4588984655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4640406948",
+        "amenity": "vending_machine",
+        "brand": "Selecta",
+        "covered": "yes",
+        "direction": "35",
+        "level": "0",
+        "operator": "Selecta",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4701724,
+          49.4790903
+        ]
+      },
+      "id": "node/4640406948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4642881322",
+        "amenity": "vending_machine",
+        "source": "survey",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3400982,
+          48.7562966
+        ]
+      },
+      "id": "node/4642881322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4650298136",
         "addr:city": "Renchen",
         "addr:country": "DE",
@@ -9315,6 +10118,26 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4701956373",
+        "amenity": "vending_machine",
+        "contact:website": "http://www.hofgut-schleinkofer.de/milchautomat.html",
+        "name": "Milch-Automat",
+        "opening_hours": "08:00-20:00",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3881404,
+          48.9656114
+        ]
+      },
+      "id": "node/4701956373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4730740744",
         "contact:email": "pfinzhof@gmx.de",
         "contact:fax": "+49 7249 9549610",
@@ -9335,6 +10158,24 @@ var karlsruhe = {
         ]
       },
       "id": "node/4730740744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4735150984",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "operator": "Hofgut Mauren",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9785969,
+          48.6509403
+        ]
+      },
+      "id": "node/4735150984"
     },
     {
       "type": "Feature",
@@ -9446,6 +10287,30 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4789486513",
+        "amenity": "vending_machine",
+        "name": "Milchautomat",
+        "opening_hours": "24/7",
+        "operator": "Bauernhof Familie Gläser",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:notes": "no",
+        "source": "own survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4086147,
+          48.9670226
+        ]
+      },
+      "id": "node/4789486513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4818296488",
         "name": "Eier, Milch, Apfelsaft und mehr",
         "shop": "farm"
@@ -9458,6 +10323,27 @@ var karlsruhe = {
         ]
       },
       "id": "node/4818296488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821014067",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "operator": "Hühner- und Pferdehof Burkhard",
+        "payment:cash": "yes",
+        "phone": "+49 7252 41543",
+        "vending": "food",
+        "website": "http://huehnerhof-burkhard.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8043195,
+          49.0689681
+        ]
+      },
+      "id": "node/4821014067"
     },
     {
       "type": "Feature",
@@ -9496,6 +10382,23 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4854155681",
+        "amenity": "vending_machine",
+        "opening_hours": "24/7",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9977379,
+          48.656113
+        ]
+      },
+      "id": "node/4854155681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4887146475",
         "description": "Wein, Sekt Säfte",
         "name": "Weingut Johanneshof",
@@ -9509,6 +10412,24 @@ var karlsruhe = {
         ]
       },
       "id": "node/4887146475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4899855610",
+        "amenity": "vending_machine",
+        "operator": "Bauernhof Kurz",
+        "vending": "food",
+        "website": "www.kurz-hof.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0240321,
+          48.9932457
+        ]
+      },
+      "id": "node/4899855610"
     },
     {
       "type": "Feature",
@@ -9542,6 +10463,22 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4960516136",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4554905,
+          49.0029195
+        ]
+      },
+      "id": "node/4960516136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5024591922",
         "addr:city": "Ditzingen",
         "addr:housenumber": "6",
@@ -9561,6 +10498,46 @@ var karlsruhe = {
         ]
       },
       "id": "node/5024591922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5046616406",
+        "amenity": "vending_machine",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Familie Gieser",
+        "payment:coins": "yes",
+        "payment:notes": "no",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6509703,
+          49.3719385
+        ]
+      },
+      "id": "node/5046616406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055774932",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "name": "Milchautomat",
+        "opening_hours": "24/7",
+        "payment:coins": "yes",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1386911,
+          49.2257257
+        ]
+      },
+      "id": "node/5055774932"
     },
     {
       "type": "Feature",
@@ -9666,6 +10643,26 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5140791337",
+        "amenity": "vending_machine",
+        "note": "Sortiment: Eier, Kartoffeln, Schinken, Käse, Marmelade, Honig, Dosenwurst",
+        "operator": "Birkenhof",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8694108,
+          48.5660055
+        ]
+      },
+      "id": "node/5140791337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5150051029",
         "name": "Mühlenladen",
         "shop": "farm"
@@ -9760,6 +10757,44 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5237095484",
+        "amenity": "vending_machine",
+        "covered": "yes",
+        "name": "Bauernladen",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2542095,
+          48.6536861
+        ]
+      },
+      "id": "node/5237095484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5246155526",
+        "amenity": "vending_machine",
+        "name": "Roßwälder Milchhäusle",
+        "operator": "Familie Zwicker",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5122665,
+          48.6868268
+        ]
+      },
+      "id": "node/5246155526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5257307930",
         "name": "Guckert's Hofladen",
         "opening_hours": "Tu,We 14:00-18:30;Th,Fr 9:00-12:00,14:00- 18:30;Sa 9:00-12:00",
@@ -9775,6 +10810,48 @@ var karlsruhe = {
         ]
       },
       "id": "node/5257307930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273698467",
+        "alt_name": "KesselKiste",
+        "amenity": "vending_machine",
+        "contact:website": "http://smark.de/",
+        "level": "1",
+        "name": "smark",
+        "opening_hours": "24/7",
+        "operator": "smark GmbH",
+        "start_date": "2017-07",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1819248,
+          48.7836601
+        ]
+      },
+      "id": "node/5273698467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5274194560",
+        "amenity": "vending_machine",
+        "name": "Milchzapfstelle Annenhof",
+        "source": "survey",
+        "vending": "milk",
+        "website": "http://www.milchhessen.de/milchautomaten_hessen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7517611,
+          49.59313
+        ]
+      },
+      "id": "node/5274194560"
     },
     {
       "type": "Feature",
@@ -9868,6 +10945,40 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5490854201",
+        "amenity": "vending_machine",
+        "vending": "food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4969511,
+          49.2542018
+        ]
+      },
+      "id": "node/5490854201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5508738303",
+        "amenity": "vending_machine",
+        "fixme": "verify exact location!",
+        "operator": "Familie Berner",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8750407,
+          48.6353627
+        ]
+      },
+      "id": "node/5508738303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5514409352",
         "name": "Hofladen Petry",
         "opening_hours": "Mo,We,Fr 10:00-12:00; Mo-Th 16:00-18:00; Fr 14:00-18:00; Sa 16:30-18:00",
@@ -9881,6 +10992,22 @@ var karlsruhe = {
         ]
       },
       "id": "node/5514409352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518187674",
+        "amenity": "vending_machine",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8410464,
+          48.8302995
+        ]
+      },
+      "id": "node/5518187674"
     },
     {
       "type": "Feature",
@@ -9903,6 +11030,29 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5538226019",
+        "addr:housenumber": "1",
+        "addr:street": "Stutenweg",
+        "amenity": "vending_machine",
+        "currency:EUR": "yes",
+        "name": "Milchautomat Hofmann",
+        "operator": "Frank Hofmann",
+        "payment:coins": "yes",
+        "source": "survey",
+        "vending": "milk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0538642,
+          49.0109229
+        ]
+      },
+      "id": "node/5538226019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5553135033",
         "addr:city": "Graben-Neudorf",
         "addr:country": "DE",
@@ -9920,6 +11070,23 @@ var karlsruhe = {
         ]
       },
       "id": "node/5553135033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555282739",
+        "name": "Hoflädchen Jöst",
+        "shop": "farm",
+        "website": "https://www.hoflaedchen-joest.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7642199,
+          49.5463541
+        ]
+      },
+      "id": "node/5555282739"
     }
   ]
 };
