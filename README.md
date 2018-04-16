@@ -5,6 +5,8 @@ Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
 
 Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
 
+![Map example](https://raw.githubusercontent.com/codeforkarlsruhe/direktvermarkter/master/img/direktvermarkter.png)
+
 Features:
 - Zeigt alle Punkte aus der Region Karlsruhe mit dem Wert shop:farm aus einem GeoJson export von Openstreetmap an (von overpass-turbo.eu)
 - Bereitet Daten auf, macht Links klickbar und Übersetzt die häufigsten Begriffe
