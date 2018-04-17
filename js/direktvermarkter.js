@@ -204,7 +204,7 @@ function popupcontent (feature, layer) {
             
         }
         else {
-            var adresse = "<strong>Adresse:</strong><br> Unbekannt.";
+            var adresse = "<strong>Adresse:</strong><br> Unbekannt";
         }
         return adresse;
         }
@@ -215,7 +215,7 @@ function popupcontent (feature, layer) {
             
         }
         else {
-            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>Unbekannt. <a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'>Auf OpenStreetMap eintragen</a> ";
+            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>Unbekannt <p><a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'>Auf OSM bearbeiten.</a></p>";
         }
         return oefnungszeiten;
         }
