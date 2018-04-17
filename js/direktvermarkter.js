@@ -196,12 +196,34 @@ function popupcontent (feature, layer) {
 
 }
 
+        function adress (){
+            if (feature.properties["addr:street"]){
+            var adresse = "<strong>Adresse:</strong><br>"
+            +feature.properties["addr:street"] +" " +feature.properties["addr:housenumber"]
+            +"<br>" +feature.properties["addr:postcode"] +" " +feature.properties["addr:city"];
+            
+        }
+        else {
+            var adresse = "<strong>Adresse:</strong><br> Unbekannt.";
+        }
+        return adresse;
+        }
+
+        function oefnungszeiten (){
+            if (feature.properties["opening_hours"]){
+            var oefnungszeiten ="<strong>Öffnungszeiten:</strong><br>" +feature.properties["opening_hours"];
+            
+        }
+        else {
+            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>Unbekannt. <a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'>Auf OpenStreetMap eintragen</a> ";
+        }
+        return oefnungszeiten;
+        }
+
     var innereTabelle = popupcontent.join("");
     var htmlInhalt = "<div id='headline'><h1>" +feature.properties.name +"</h1></div>"
         +"<div id='wrapper'><div id='adress'>"
-        +"<strong>Adresse:</strong><br>"
-        +feature.properties["addr:street"] +" " +feature.properties["addr:housenumber"]
-        +"<br>" +feature.properties["addr:postcode"] +" " +feature.properties["addr:city"]
+        +adress()
         +"</div><div id='links'>"
         +"<strong>Dieser Ort auf</strong><br>"
         +"<a href='http://openstreetmap.org/" +feature.id  +"'>OpenStreetMap</a>"
@@ -209,7 +231,7 @@ function popupcontent (feature, layer) {
         +"<br><a target='_blank' href='http://maps.google.de/?q=" +linkLong +"," +linkLat +"'>Google Maps</a>"
         
         +"</div><div id='times'>"
-        +"<strong>Öffnungszeiten:</strong><br>" +feature.properties["opening_hours"]
+        +oefnungszeiten()
         +"</div><div id='table'>"
         +"<table>"
         +"<th colspan='2'>Weitere Daten:</th>"
