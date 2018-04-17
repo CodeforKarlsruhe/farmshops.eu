@@ -2,7 +2,7 @@ var karlsruhe = {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2018-04-16T09:15:02Z",
+  "timestamp": "2018-04-17T20:50:02Z",
   "features": [
     {
       "type": "Feature",
@@ -2559,6 +2559,50 @@ var karlsruhe = {
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/144284866",
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "76275",
+        "addr:street": "Lange Straße",
+        "addr:suburb": "Schluttenbach",
+        "building": "yes",
+        "name": "Der Hofladen",
+        "shop": "farm",
+        "source": "Maps4BW, LGL, www.lgl-bw.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3961897,
+              48.8987703
+            ],
+            [
+              8.3961917,
+              48.8986875
+            ],
+            [
+              8.3963428,
+              48.898689
+            ],
+            [
+              8.3963408,
+              48.8987718
+            ],
+            [
+              8.3961897,
+              48.8987703
+            ]
+          ]
+        ]
+      },
+      "id": "way/144284866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/150092435",
         "building": "farm",
         "name": "Schmoll's Hofladen",
@@ -4563,6 +4607,7 @@ var karlsruhe = {
         "addr:city": "Rheinmünster",
         "addr:housenumber": "1",
         "addr:place": "Mederhof",
+        "amenity": "vending_machine",
         "building": "yes",
         "name": "Mederhof - Hofladen Rieger",
         "shop": "farm"
