@@ -2,7 +2,7 @@ var karlsruhe = {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2018-04-17T20:50:02Z",
+  "timestamp": "2018-04-18T20:58:02Z",
   "features": [
     {
       "type": "Feature",
@@ -8114,31 +8114,6 @@ var karlsruhe = {
         ]
       },
       "id": "node/3481818161"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/3497682687",
-        "amenity": "vending_machine",
-        "indoor": "yes",
-        "level": "-1",
-        "manufacturer": "N&W Global Vending GmbH",
-        "model": "Festival",
-        "operator": "CASE Catering & Service",
-        "payment:KITCard": "yes",
-        "payment:others": "no",
-        "ref": "26131110",
-        "surveillance": "indoor",
-        "vending": "food"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4164526,
-          49.0109663
-        ]
-      },
-      "id": "node/3497682687"
     },
     {
       "type": "Feature",
