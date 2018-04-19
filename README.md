@@ -19,7 +19,7 @@ Es ist ein node script, dass nach instalation des Packets "query-overpass" mit "
 
 Hier ein Einzeiler zum Updaten und Veröffentlichen der Daten:
 
->cde [PFAD]/direktvermarkter/ && node update_data.js && git add . && git commit -m "autom. Datenupdate" && git push origin master
+> cde [PFAD]/direktvermarkter/ && node update_data.js && git add . && git commit -m "autom. Datenupdate" && git push origin master
 
 The script uses http://overpass-turbo.eu/ to extract these tags from Openstreetmap:
 
