@@ -9,6 +9,7 @@ Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
 
 Features:
 - Zeigt alle Punkte aus der Region Karlsruhe mit dem Wert shop:farm aus einem GeoJson export von Openstreetmap an (von overpass-turbo.eu)
+- Unterscheidet Automaten und Hofläden durch grüne und blaue Marker
 - Bereitet Daten auf, macht Links klickbar und Übersetzt die häufigsten Begriffe
 - Verlinkt von jedem Punkt auf die identischen Koordinaten auf openstreetmap.org, OpenRouteService und Google Maps
 - Zeigt Punkte und Polygone gleichermaßen an. Polygone erhalten einen Pin in ihrem Zentrum.
@@ -21,7 +22,7 @@ Hier ein Einzeiler zum Updaten und Veröffentlichen der Daten:
 
 > cde [PFAD]/direktvermarkter/ && node update_data.js && git add . && git commit -m "autom. Datenupdate" && git push origin master
 
-The script uses http://overpass-turbo.eu/ to extract these tags from Openstreetmap:
+Das Script verwendet http://overpass-turbo.eu/ um diese Tags von Openstreetmap zu ziehen:
 
 - https://wiki.openstreetmap.org/wiki/DE:Tag:shop=farm
 - https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine
