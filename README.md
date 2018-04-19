@@ -13,10 +13,22 @@ Features:
 - Verlinkt von jedem Punkt auf die identischen Koordinaten auf openstreetmap.org, OpenRouteService und Google Maps
 - Zeigt Punkte und Polygone gleichermaßen an. Polygone erhalten einen Pin in ihrem Zentrum.
 
+## Datenabgleich
+Die Daten stammen aus OSM und werden vom script update_data.js aktualisiert. Siehe dazu auch #6
+Es ist ein node script, dass nach instalation des Packets "query-overpass" mit "node update_data.js" ausgeführt werden kann.
+
+Hier ein Einzeiler zum Updaten und Veröffentlichen der Daten:
+
+>cde [PFAD]/direktvermarkter/ && node update_data.js && git add . && git commit -m "autom. Datenupdate" && git push origin master
+
+The script uses http://overpass-turbo.eu/ to extract these tags from Openstreetmap:
+
+- https://wiki.openstreetmap.org/wiki/DE:Tag:shop=farm
+- https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine
+ Wobei vending machines indirekt über die Tags vending:milk und vending:food gezogen werden.
+
 ToDo (siehe auch Issues):
-- mehr Glitzer / Design (schönere Pins, Anzeige der Daten, Fonts,...)
 - Impressum, Infos, Links auf codefor und GitHub usw. 
-- Script für automatischen Datenabgleich zwischen OSM und Webseite schreiben
 - Suchfunktion
 - Auswahlmöglichkeit für verschiedene Regionen
 - dynamische Zentrierung der Karte
