@@ -115,7 +115,7 @@ function popupcontent (feature, layer) {
     for (var prop in feature.properties) {
 
 
-      if (prop == "@id" || prop == "shop" || prop == "name"|| prop == "addr:city"|| prop == "addr:country"|| prop == "addr:housenumber"|| prop == "addr:postcode" || prop == "addr:suburb" || prop == "addr:street" || prop == "opening_hours"){
+      if (prop == "id" || prop == "shop" || prop == "name"|| prop == "addr:city"|| prop == "addr:country"|| prop == "addr:housenumber"|| prop == "addr:postcode" || prop == "addr:suburb" || prop == "addr:street" || prop == "opening_hours"){
         console.log(prop +" "+feature.properties[prop] +" in Tabelle unsichtbar");
         //do nothing
         }
