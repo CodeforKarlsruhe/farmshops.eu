@@ -3,7 +3,8 @@ const fs = require("fs")
 
 let filename = "data/karlsruhe.js"
 let bbox = "48.52388120259336,7.6519775390625,49.66407240384585,9.53887939453125";
-console.log('starting query for ' +filename +' bbox: ' +bbox)
+console.log('starting query for ' +filename)
+console.log('bbox: ' +bbox)
 let query = ` 
   [out:json][timeout:25];
   // gather results
