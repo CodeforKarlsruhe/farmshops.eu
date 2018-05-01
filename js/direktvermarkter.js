@@ -250,7 +250,7 @@ function popupcontent (feature, layer) {
 //Dropdown
 var legend = L.control({position: 'topright'});
 legend.onAdd = function (map) {
-    var div = L.DomUtil.create('div', 'info legend');
+    var div = L.DomUtil.create('div', 'dropdown-wrapper');
     div.innerHTML = '<span id="choose">Wähle deine Region: </span>'
     +'<select> <optgroup label="Baden Württemberg">'
     +'<option value="Karlsruhe" selected="selected">Regierungsbezirk Karlsruhe</option>'
@@ -265,17 +265,24 @@ legend.addTo(map);
 
 $('select').change(function(){
     if ($(this).val() == "Freiburg"){
-        map.panTo(new L.LatLng(47.9929,7.8365));
+
+        map.setView([47.9929,7.8365], 9);
      }   
      else if ($(this).val() == "Stuttgart"){
-        map.panTo(new L.LatLng(48.7790,9.1801));
+        map.setView([48.7790,9.1801], 9);
+        //map.panTo(new L.LatLng(48.7790,9.1801));
+        //map.setZoom(9);
      }  
      else if ($(this).val() == "Karlsruhe"){
-        map.panTo(new L.LatLng(48.99,8.4242));
+        map.setView([48.99,8.4242], 9);
+        //map.panTo(new L.LatLng(48.99,8.4242));
+        //map.setZoom(9);
      }  
      else if ($(this).val() == "Tübingen"){
-        map.panTo(new L.LatLng(48.5157,9.0562));
-        map.removeLayer(karlsruhe);
+        map.setView([48.5157,9.0562], 9);
+        //map.panTo(new L.LatLng(48.5157,9.0562));
+        //map.removeLayer(karlsruhe);
+        //map.setZoom(9);
      } 
 });
 

@@ -25,6 +25,13 @@ h1 {
     
 }
 
+.dropdown-wrapper{
+    font-size: 14px;
+    border: 2px solid rgba(0,0,0,0.2);
+    background-color: white;
+    padding: 4px;
+}
+
 .leaflet-popup-content {
     margin: 0px 0px;
     line-height: 1.4;
