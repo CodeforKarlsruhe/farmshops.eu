@@ -306,7 +306,7 @@ $('select').change(function(){
         map.setView([48.99,8.4242], 9);
      }  
      else if ($(this).val() == "Tübingen"){
-        map.setView([48.5157,9.0562], 9);
+        map.setView([48.2274,9.2917], 9);
         map.removeLayer(marker)
      } 
 });

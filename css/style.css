@@ -26,9 +26,10 @@ h1 {
 }
 
 .dropdown-wrapper{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
-    border: 2px solid rgba(0,0,0,0.2);
-    background-color: white;
+    color: white; 
+    background-color: #4ca7ce;
     padding: 4px;
 }
 
@@ -46,7 +47,7 @@ h1 {
 .leaflet-container a.leaflet-popup-close-button:hover {
     background-color:#999;
     border: 2px solid rgba(0,0,0,0.2);
-    color: #c3c3c3;
+    color: #c3c3c3; 
 }
 
 .leaflet-popup-content-wrapper {

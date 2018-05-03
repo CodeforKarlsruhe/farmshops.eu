@@ -2,7 +2,7 @@ const query_overpass = require("query-overpass");
 const fs = require("fs")
 
 let filename = "data/karlsruhe.js"
-let bbox = "48.52388120259336,7.6519775390625,49.66407240384585,9.53887939453125";
+let bbox = "47.301584511330795,7.2015380859375,49.62138710925949,10.5853271484375";
 console.log('starting query for ' +filename)
 console.log('bbox: ' +bbox)
 let query = ` 
