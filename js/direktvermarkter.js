@@ -19,6 +19,39 @@ L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
     attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
 }).addTo(map);
 
+//Dropdown
+var legend = L.control({position: 'topright'});
+legend.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'dropdown-wrapper');
+    div.innerHTML = '<span id="choose">Wähle deine Region: </span>'
+    +'<select> <optgroup label="Baden Württemberg">'
+    +'<option value="Karlsruhe" selected="selected">Regierungsbezirk Karlsruhe</option>'
+    +'<option value="Freiburg">Regierungsbezirk Freiburg</option>'
+    +'<option value="Stuttgart">Regierungsbezirk Stuttgart</option>'
+    +'<option value="Tübingen">Regierungsbezirk Tübingen</option>'
+    +'</optgroup></select>';
+    div.firstChild.onmousedown = div.firstChild.ondblclick = L.DomEvent.stopPropagation;
+    return div;
+};
+legend.addTo(map);
+
+$('select').change(function(){
+    if ($(this).val() == "Freiburg"){
+
+        map.setView([47.9929,7.8365], 9);
+     }   
+     else if ($(this).val() == "Stuttgart"){
+        map.setView([48.7790,9.1801], 9);
+     }  
+     else if ($(this).val() == "Karlsruhe"){
+        map.setView([48.99,8.4242], 9);
+     }  
+     else if ($(this).val() == "Tübingen"){
+        map.setView([48.12706,9.43461], 9);
+        map.removeLayer(marker)
+     } 
+});
+
 var greenMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'green-light',
@@ -248,6 +281,35 @@ function popupcontent (feature, layer) {
 
 //Marker 
 
+var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			maxZoom: 18,
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+		});
+
+var geojson1 = L.geoJson(karlsruhe,{
+
+    onEachFeature: function (feature, layer) {
+        layer.once("click", ()=>{
+            layer.bindPopup(popupcontent(feature,layer)).openPopup();
+          });
+    }
+})
+                .addLayer(tiles);
+                
+		var markers = L.markerClusterGroup({
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: true,
+            zoomToBoundsOnClick: true,
+            disableClusteringAtZoom: 10,
+            removeOutsideVisibleBounds:true,
+            
+        });
+		var geoJsonLayer = L.geoJson(karlsruhe, {
+        });
+
+
+        
+/*
 var geojson1 = L.geoJson(karlsruhe,{
     onEachFeature: function(feature,layer){
         if (feature.geometry.type == 'Polygon' && feature.properties.amenity == 'vending_machine') {
@@ -276,40 +338,13 @@ var geojson1 = L.geoJson(karlsruhe,{
             var lat = feature.geometry.coordinates[1];
             L.marker([lat,lon],{icon: greenMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
         }
-}});
+}});*/
 
-//Dropdown
-var legend = L.control({position: 'topright'});
-legend.onAdd = function (map) {
-    var div = L.DomUtil.create('div', 'dropdown-wrapper');
-    div.innerHTML = '<span id="choose">Wähle deine Region: </span>'
-    +'<select> <optgroup label="Baden Württemberg">'
-    +'<option value="Karlsruhe" selected="selected">Regierungsbezirk Karlsruhe</option>'
-    +'<option value="Freiburg">Regierungsbezirk Freiburg</option>'
-    +'<option value="Stuttgart">Regierungsbezirk Stuttgart</option>'
-    +'<option value="Tübingen">Regierungsbezirk Tübingen</option>'
-    +'</optgroup></select>';
-    div.firstChild.onmousedown = div.firstChild.ondblclick = L.DomEvent.stopPropagation;
-    return div;
-};
-legend.addTo(map);
+		markers.addLayer(geojson1);
+		map.addLayer(markers);
+        //map.fitBounds(markers.getBounds());
 
-$('select').change(function(){
-    if ($(this).val() == "Freiburg"){
 
-        map.setView([47.9929,7.8365], 9);
-     }   
-     else if ($(this).val() == "Stuttgart"){
-        map.setView([48.7790,9.1801], 9);
-     }  
-     else if ($(this).val() == "Karlsruhe"){
-        map.setView([48.99,8.4242], 9);
-     }  
-     else if ($(this).val() == "Tübingen"){
-        map.setView([48.12706,9.43461], 9);
-        map.removeLayer(marker)
-     } 
-});
 
 
 
