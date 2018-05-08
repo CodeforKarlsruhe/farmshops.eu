@@ -30,7 +30,7 @@ let query = `
 
 // query overpass, write result to file
 query_overpass(query, (error, data)  => {
-    data = JSON.stringify(data)
+    data = JSON.stringify(data , null, 1)
     fs.writeFile(filename, `var karlsruhe = ${data};` , ["utf-8"], (error, data) => {if (error) {console.log(error)}})
   }, {flatProperties: true}
 )
