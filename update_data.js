@@ -1,8 +1,9 @@
 const query_overpass = require("query-overpass");
+const turf = require ("turf");
 const fs = require("fs")
-
+let test
 let filename = "data/karlsruhe.js"
-let bbox = "47.301584511330795,7.2015380859375,49.62138710925949,10.5853271484375";
+let bbox = "48.91821286473131,8.309097290039062,49.0610446187357,8.520584106445312";
 console.log('starting query for ' +filename)
 console.log('bbox: ' +bbox)
 let query = ` 
@@ -31,6 +32,11 @@ let query = `
 // query overpass, write result to file
 query_overpass(query, (error, data)  => {
     data = JSON.stringify(data , null, 1)
+    console.log(data)
+    test = JSON.parse(data)
+    
+    console.log("Log: " +test.features[1].geometry.type)
     fs.writeFile(filename, `var karlsruhe = ${data};` , ["utf-8"], (error, data) => {if (error) {console.log(error)}})
   }, {flatProperties: true}
 )
+
