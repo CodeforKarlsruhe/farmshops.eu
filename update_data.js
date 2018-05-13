@@ -35,8 +35,28 @@ query_overpass(query, (error, data)  => {
     console.log(data)
     test = JSON.parse(data)
     
-    console.log("Log: " +test.features[1].geometry.type)
-    fs.writeFile(filename, `var karlsruhe = ${data};` , ["utf-8"], (error, data) => {if (error) {console.log(error)}})
+   
+
+    for (var i = 0; i < test.features.length; i++) { 
+      console.log("Log: " +test.features[i].geometry.type)
+      console.log("Log: " +test.features[i].properties.name)
+      if (test.features[i].geometry.type === "Polygon"){
+        console.log("polygon erkannt")
+        var centroid = turf.centroid(test.features[i]);
+            var lon = centroid.geometry.coordinates[0];
+            var lat = centroid.geometry.coordinates[1];
+            console.log(" lon: " +lon +" lat: " +lat)
+            delete test.features[i]
+            //test.features[i].geometry.type = 'Point'
+            console.log("polygon zu point geändet")
+            //console.log(test.features[i].geometry.type)
+      }
+      
+  }
+  console.log(test)
+  //   fs.writeFile(filename, `var karlsruhe = ${data};` , ["utf-8"], (error, data) => {if (error) {console.log(error)}})
+  // }, {flatProperties: true}
+  fs.writeFile("data/test.js", `var test = ${data};` , ["utf-8"], (error, test) => {if (error) {console.log(error)}})
   }, {flatProperties: true}
 )
 
