@@ -288,7 +288,16 @@ var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 var geojson1 = L.geoJson(karlsruhe,{
     pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, {icon: greenMarker});
+        if(feature.properties.amenity != 'vending_machine'){
+            return L.marker(latlng, {icon: greenMarker});
+            console.log("grüner Hofladen Marker erstellt");
+        }
+        else {
+            return L.marker(latlng, {icon: blueMarker});
+            console.log("blauer Automaten-Marker erstellt");
+            
+        }
+        
     },
 
     onEachFeature: function (feature, layer) {
