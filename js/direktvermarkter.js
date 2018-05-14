@@ -301,7 +301,6 @@ var geojson1 = L.geoJson(karlsruhe,{
     },
 
     onEachFeature: function (feature, layer) {
-        //layer.setIcon(blueIcon)
         layer.once("click", ()=>{
             layer.bindPopup(popupcontent(feature,layer)).openPopup();
           });
@@ -314,54 +313,17 @@ var markers = L.markerClusterGroup({
     iconCreateFunction: function (cluster) {
         var markers = cluster.getAllChildMarkers();
         
-        var html = '<div class="circle">' + markers.length + ' Hofläden</div>';
-        return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(92, 102) });
+        var html = '<div class="circle">' + markers.length + '</div>';
+        return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(42, 42) });
     },
     spiderfyOnMaxZoom: true,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
-    disableClusteringAtZoom: 10,
     removeOutsideVisibleBounds:true,
-            
 });
-
-
-
-        
-/*
-var geojson1 = L.geoJson(karlsruhe,{
-    onEachFeature: function(feature,layer){
-        if (feature.geometry.type == 'Polygon' && feature.properties.amenity == 'vending_machine') {
-            console.log('Polygon detected');
-            var centroid = turf.centroid(feature);
-            var lon = centroid.geometry.coordinates[0];
-            var lat = centroid.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: blueMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
-        }
-        else if (feature.geometry.type == 'Polygon' && feature.properties.amenity != 'vending_machine') {
-            console.log('Polygon detected');
-            var centroid = turf.centroid(feature);
-            var lon = centroid.geometry.coordinates[0];
-            var lat = centroid.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: greenMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
-        }
-        else if (feature.geometry.type == 'Point' && feature.properties.amenity == 'vending_machine') {
-            console.log("Point detected");
-            var lon = feature.geometry.coordinates[0];
-            var lat = feature.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: blueMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
-        }
-        else if (feature.geometry.type == 'Point' && feature.properties.amenity != 'vending_machine' ) {
-            console.log("Point detected");
-            var lon = feature.geometry.coordinates[0];
-            var lat = feature.geometry.coordinates[1];
-            L.marker([lat,lon],{icon: greenMarker}).addTo(map).bindPopup(popupcontent(feature,layer));
-        }
-}});*/
 
 		markers.addLayer(geojson1);
 		map.addLayer(markers);
-        //map.fitBounds(markers.getBounds());
 
 
 

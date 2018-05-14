@@ -142,12 +142,19 @@ h1 {
         margin: 0px;
     }
 
+    .leaflet-marker-icon.mycluster.leaflet-zoom-animated.leaflet-interactive {
+        /* außeres Div von markercluster */
+    }
+
     .circle {
-        background-color:green;
+        color: #f2f2f2;
+        font-weight: bold;
+        background: #4ca7ce;
+        opacity: 0.7;
         text-align: center;
-        -moz-border-radius: 100px / 50px; 
-        -webkit-border-radius: 100px / 50px; 
-        border-radius: 100px / 50px;
+        -moz-border-radius: 100px / 100px; 
+        -webkit-border-radius: 100px / 100px; 
+        border-radius: 100px / 100px;
         line-height: 1;
         padding: 8px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
