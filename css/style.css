@@ -141,3 +141,15 @@ h1 {
     .leaflet-popup-content p {
         margin: 0px;
     }
+
+    .circle {
+        background-color:green;
+        text-align: center;
+        -moz-border-radius: 100px / 50px; 
+        -webkit-border-radius: 100px / 50px; 
+        border-radius: 100px / 50px;
+        line-height: 1;
+        padding: 8px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+    }

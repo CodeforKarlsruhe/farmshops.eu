@@ -287,25 +287,35 @@ var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		});
 
 var geojson1 = L.geoJson(karlsruhe,{
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, {icon: greenMarker});
+    },
 
     onEachFeature: function (feature, layer) {
+        //layer.setIcon(blueIcon)
         layer.once("click", ()=>{
             layer.bindPopup(popupcontent(feature,layer)).openPopup();
           });
+         
     }
 })
-                .addLayer(tiles);
+.addLayer(tiles);
                 
-		var markers = L.markerClusterGroup({
-            spiderfyOnMaxZoom: true,
-            showCoverageOnHover: true,
-            zoomToBoundsOnClick: true,
-            disableClusteringAtZoom: 10,
-            removeOutsideVisibleBounds:true,
+var markers = L.markerClusterGroup({
+    iconCreateFunction: function (cluster) {
+        var markers = cluster.getAllChildMarkers();
+        
+        var html = '<div class="circle">' + markers.length + ' Hofläden</div>';
+        return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(92, 102) });
+    },
+    spiderfyOnMaxZoom: true,
+    showCoverageOnHover: true,
+    zoomToBoundsOnClick: true,
+    disableClusteringAtZoom: 10,
+    removeOutsideVisibleBounds:true,
             
-        });
-		var geoJsonLayer = L.geoJson(karlsruhe, {
-        });
+});
+
 
 
         
