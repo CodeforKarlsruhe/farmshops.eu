@@ -7,7 +7,7 @@ let bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
 console.log('starting query for ' +filename)
 console.log('bbox: ' +bbox)
 let query = ` 
-  [out:json][timeout:25];
+  [out:json][timeout:205];
   // gather results
   (
   // query part for: “vending=milk”
@@ -24,14 +24,12 @@ let query = `
   relation["vending"="food"](${bbox});
   );
   // print results
-  out body;
-  >;
-  out skel qt;
+  out center;
 `;
 
 // query overpass, write result to file
 query_overpass(query, (error, data)  => {
-    data = JSON.stringify(data , null, 1)
+    data = JSON.stringify(data , null, 0)
     console.log(data)
     test = JSON.parse(data)
     

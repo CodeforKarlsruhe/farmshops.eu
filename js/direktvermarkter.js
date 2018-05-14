@@ -20,37 +20,37 @@ L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 //Dropdown
-var legend = L.control({position: 'topright'});
-legend.onAdd = function (map) {
-    var div = L.DomUtil.create('div', 'dropdown-wrapper');
-    div.innerHTML = '<span id="choose">Wähle deine Region: </span>'
-    +'<select> <optgroup label="Baden Württemberg">'
-    +'<option value="Karlsruhe" selected="selected">Regierungsbezirk Karlsruhe</option>'
-    +'<option value="Freiburg">Regierungsbezirk Freiburg</option>'
-    +'<option value="Stuttgart">Regierungsbezirk Stuttgart</option>'
-    +'<option value="Tübingen">Regierungsbezirk Tübingen</option>'
-    +'</optgroup></select>';
-    div.firstChild.onmousedown = div.firstChild.ondblclick = L.DomEvent.stopPropagation;
-    return div;
-};
-legend.addTo(map);
+// var legend = L.control({position: 'topright'});
+// legend.onAdd = function (map) {
+//     var div = L.DomUtil.create('div', 'dropdown-wrapper');
+//     div.innerHTML = '<span id="choose">Wähle deine Region: </span>'
+//     +'<select> <optgroup label="Baden Württemberg">'
+//     +'<option value="Karlsruhe" selected="selected">Regierungsbezirk Karlsruhe</option>'
+//     +'<option value="Freiburg">Regierungsbezirk Freiburg</option>'
+//     +'<option value="Stuttgart">Regierungsbezirk Stuttgart</option>'
+//     +'<option value="Tübingen">Regierungsbezirk Tübingen</option>'
+//     +'</optgroup></select>';
+//     div.firstChild.onmousedown = div.firstChild.ondblclick = L.DomEvent.stopPropagation;
+//     return div;
+// };
+// legend.addTo(map);
 
-$('select').change(function(){
-    if ($(this).val() == "Freiburg"){
+// $('select').change(function(){
+//     if ($(this).val() == "Freiburg"){
 
-        map.setView([47.9929,7.8365], 9);
-     }   
-     else if ($(this).val() == "Stuttgart"){
-        map.setView([48.7790,9.1801], 9);
-     }  
-     else if ($(this).val() == "Karlsruhe"){
-        map.setView([48.99,8.4242], 9);
-     }  
-     else if ($(this).val() == "Tübingen"){
-        map.setView([48.12706,9.43461], 9);
-        map.removeLayer(marker)
-     } 
-});
+//         map.setView([47.9929,7.8365], 9);
+//      }   
+//      else if ($(this).val() == "Stuttgart"){
+//         map.setView([48.7790,9.1801], 9);
+//      }  
+//      else if ($(this).val() == "Karlsruhe"){
+//         map.setView([48.99,8.4242], 9);
+//      }  
+//      else if ($(this).val() == "Tübingen"){
+//         map.setView([48.12706,9.43461], 9);
+//         map.removeLayer(marker)
+//      } 
+// });
 
 var greenMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
@@ -316,7 +316,8 @@ var markers = L.markerClusterGroup({
         var html = '<div class="circle">' + markers.length + '</div>';
         return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(52, 52) });
     },
-    spiderfyOnMaxZoom: true,
+    spiderfyOnMaxZoom: false,
+    disableClusteringAtZoom: 11,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
     removeOutsideVisibleBounds:true,
