@@ -314,7 +314,7 @@ var markers = L.markerClusterGroup({
         var markers = cluster.getAllChildMarkers();
         
         var html = '<div class="circle">' + markers.length + '</div>';
-        return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(42, 42) });
+        return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(52, 52) });
     },
     spiderfyOnMaxZoom: true,
     showCoverageOnHover: true,
