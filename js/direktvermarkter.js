@@ -286,7 +286,7 @@ var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 		});
 
-var geojson1 = L.geoJson(karlsruhe,{
+var geojson1 = L.geoJson(farmshopGeoJson,{
     pointToLayer: function (feature, latlng) {
         if(feature.properties.amenity != 'vending_machine'){
             return L.marker(latlng, {icon: greenMarker});
