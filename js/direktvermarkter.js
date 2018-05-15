@@ -320,7 +320,7 @@ var markers = L.markerClusterGroup({
     disableClusteringAtZoom: 11,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
-    removeOutsideVisibleBounds:true,
+    removeOutsideVisibleBounds:false,
 });
 
 		markers.addLayer(geojson1);
