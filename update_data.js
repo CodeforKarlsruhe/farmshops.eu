@@ -1,5 +1,4 @@
 const query_overpass = require("query-overpass");
-const turf = require ("turf");
 const fs = require("fs")
 let test
 let filename = "data/karlsruhe.js"
