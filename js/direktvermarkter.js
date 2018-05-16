@@ -1,5 +1,4 @@
 //Karte
-
 var map = L.map('map',{
     center: [48.99,8.4242],
     zoom: 11,
@@ -323,10 +322,9 @@ var markers = L.markerClusterGroup({
     removeOutsideVisibleBounds:true,
 });
 
-		markers.addLayer(geojson1);
-		map.addLayer(markers);
-
-
+markers.addLayer(geojson1);
+map.addLayer(markers);
+console.log(lastUpdate);
 
 
 
