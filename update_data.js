@@ -1,6 +1,7 @@
 const query_overpass = require("query-overpass");
 const fs = require("fs")
 var today = new Date();
+var hh = today.getHours();
 var dd = today.getDate();
 var mm = today.getMonth()+1; //January is 0!
 var yyyy = today.getFullYear();
@@ -10,7 +11,7 @@ if(dd<10) {
 if(mm<10) {
     mm = '0'+mm
 } 
-lastUpdate = dd + '-' + mm + '-' + yyyy;
+lastUpdate ='Letzter Dantenabgleich war am ' +dd + '.' + mm + '.' + yyyy +' ungefähr um ' +hh +' Uhr';
 console.log(lastUpdate)
 let filename = "data/farmshopGeoJson.js"
 let bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
@@ -45,4 +46,3 @@ query_overpass(query, (error, data)  => {
 var farmshopGeoJson = ${data};` , ["utf-8"], (error, data) => {if (error) {console.log(error)}})
  }, {flatProperties: true}
 )
-
