@@ -1,28 +1,28 @@
 # Direktvermarkter Karte
-Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der Region. Die Karte erhält alle ihre Daten von Openstreetmap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
+Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der Region. Die Karte erhält alle ihre Daten von OpenstreetMap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
 
 Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
 
-Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
+Mirror: http://stefang.cepheus.uberspace.de/farmshops/
 
 ![Map example](https://raw.githubusercontent.com/codeforkarlsruhe/direktvermarkter/master/img/direktvermarkter.png)
 
 Features:
-- Zeigt alle Punkte aus der Region Karlsruhe mit dem Wert shop:farm aus einem GeoJson export von Openstreetmap an (von overpass-turbo.eu)
+- Zeigt alle Punkte aus der Region Karlsruhe mit dem Wert shop:farm aus einem GeoJson export von OpenstreetMap an (von overpass-turbo.eu)
 - Unterscheidet Automaten und Hofläden durch grüne und blaue Marker
-- Bereitet Daten auf, macht Links klickbar und Übersetzt die häufigsten Begriffe
+- Bereitet Daten auf, macht Links klickbar und übersetzt die häufigsten Begriffe
 - Verlinkt von jedem Punkt auf die identischen Koordinaten auf openstreetmap.org, OpenRouteService und Google Maps
 - Zeigt Punkte und Polygone gleichermaßen an. Polygone erhalten einen Pin in ihrem Zentrum.
 
 ## Datenabgleich
 Die Daten stammen aus OSM und werden vom script update_data.js aktualisiert. Siehe dazu auch #6
-Es ist ein node script, dass nach instalation des Packets "query-overpass" mit "node update_data.js" ausgeführt werden kann.
+Es ist ein node script, dass nach installation des Packets "query-overpass" mit "node update_data.js" ausgeführt werden kann.
 
 Hier ein Einzeiler zum Updaten und Veröffentlichen der Daten:
 
 > cd [PFAD]/direktvermarkter/ && node update_data.js && git add . && git commit -m "autom. Datenupdate" && git push origin master
 
-Das Script verwendet http://overpass-turbo.eu/ um diese Tags von Openstreetmap zu ziehen:
+Das Script verwendet http://overpass-turbo.eu/ um diese Tags von OpenstreetMap zu ziehen:
 
 - https://wiki.openstreetmap.org/wiki/DE:Tag:shop=farm
 - https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine
