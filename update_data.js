@@ -12,7 +12,7 @@ if(mm<10) {
 } 
 lastUpdate = dd + '-' + mm + '-' + yyyy;
 console.log(lastUpdate)
-let filename = "data/karlsruhe.js"
+let filename = "data/farmshopGeoJson.js"
 let bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
 console.log('starting query for ' +filename)
 console.log('bbox: ' +bbox)
