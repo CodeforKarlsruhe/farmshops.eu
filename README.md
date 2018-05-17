@@ -10,7 +10,7 @@ Using:
 - The node module query-overpass for importing OSM data from http://overpass-turbo.eu/
 - [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2) (in future versions)
 
-## Dokumentation in German
+## Documentation in German
 
 Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der Region. Die Karte erhält alle ihre Daten von OpenstreetMap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
 
@@ -26,6 +26,7 @@ Features:
 - Bereitet Daten auf, macht Links klickbar und übersetzt die häufigsten Begriffe
 - Verlinkt von jedem Punkt auf die identischen Koordinaten auf openstreetmap.org, OpenRouteService und Google Maps
 - Zeigt Punkte und Polygone gleichermaßen an. Polygone erhalten einen Pin in ihrem Zentrum.
+- Permalinks in denen Ort und Zoomlevel weitergegeben werden können
 
 ## Datenabgleich
 Die Daten stammen aus OSM und werden vom script update_data.js aktualisiert. Siehe dazu auch #6
