@@ -1,4 +1,17 @@
-# Direktvermarkter Karte
+# Farmshops Map / Hofaden Karte
+Data viewer for farmshops, milk and food vending machines and other direct marketers on openstreetmap.
+
+Using:
+- [leaflet.js](https://github.com/Leaflet/Leaflet)
+- [leaflet extra markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
+- [leaflet marker clusterer](https://github.com/Leaflet/Leaflet.markercluster)
+- [leaflet permalinks](https://github.com/MarcChasse/leaflet.Permalink)
+- jquery
+- The node module query-overpass for importing OSM data from http://overpass-turbo.eu/
+- [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2) (in future versions)
+
+## Dokumentation in German
+
 Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der Region. Die Karte erhält alle ihre Daten von OpenstreetMap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
 
 Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
@@ -32,11 +45,4 @@ ToDo (siehe auch Issues):
 - Impressum, Infos, Links auf codefor und GitHub usw. 
 - Suchfunktion
 - Auswahlmöglichkeit für verschiedene Regionen
-- dynamische Zentrierung der Karte
-
-
-<h2>Forks:</h2>
-<b>Metropolregion Nürnberg</b>
-
-- https://markus-bb.github.io/direktvermarkter/
-- https://github.com/markus-bb/direktvermarkter
+- Howto Datenpflege
