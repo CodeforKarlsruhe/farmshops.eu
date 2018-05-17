@@ -186,10 +186,7 @@ function popupcontent (feature, layer) {
     var linkLong;
 
     if (feature.geometry.type == 'Polygon') {
-        console.log('Polygon for Links detected');
-        var centroid = turf.centroid(feature);
-        var linkLat = centroid.geometry.coordinates[0];
-        var linkLong = centroid.geometry.coordinates[1];
+        console.log('Polygon should not exist');
     }
     else if (feature.geometry.type == 'Point') {
         console.log("Point for Links detected");
@@ -275,7 +272,7 @@ var markers = L.markerClusterGroup({
         var markers = cluster.getAllChildMarkers();
         
         var html = '<div class="circle">' + markers.length + '</div>';
-        return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(52, 52) });
+        return L.divIcon({ html: html, className: 'test', iconSize: L.point(52, 52) });
     },
     spiderfyOnMaxZoom: false,
     disableClusteringAtZoom: 11,
