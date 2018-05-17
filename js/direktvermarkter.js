@@ -8,8 +8,12 @@ var map = L.map('map', {
 });
 L.Permalink.setup(map);
 
+var tiles = L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
+			maxZoom: 18,
+			attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
+		});
 
- L.control.scale().addTo(map);
+L.control.scale().addTo(map);
 
 
 L.control.zoom({
@@ -245,11 +249,6 @@ function popupcontent (feature, layer) {
 //Darstellung
 
 //Marker 
-
-var tiles = L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
-			maxZoom: 18,
-			attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
-		});
 
 var geojson1 = L.geoJson(farmshopGeoJson,{
     pointToLayer: function (feature, latlng) {
