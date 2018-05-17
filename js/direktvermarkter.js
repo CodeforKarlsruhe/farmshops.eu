@@ -1,12 +1,15 @@
-//Karte
-var map = L.map('map',{
-    center: [48.99,8.4242],
-    zoom: 11,
+var mappos = L.Permalink.getMapLocation();
+var map = L.map('map', {
+    center: mappos.center,
+    zoom: mappos.zoom,
     minZoom:2,
     maxZoom: 18,
     zoomControl: false
 });
-L.control.scale().addTo(map);
+L.Permalink.setup(map);
+
+
+ L.control.scale().addTo(map);
 
 
 L.control.zoom({
@@ -17,39 +20,6 @@ L.control.zoom({
 L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
     attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
 }).addTo(map);
-
-//Dropdown
-// var legend = L.control({position: 'topright'});
-// legend.onAdd = function (map) {
-//     var div = L.DomUtil.create('div', 'dropdown-wrapper');
-//     div.innerHTML = '<span id="choose">Wähle deine Region: </span>'
-//     +'<select> <optgroup label="Baden Württemberg">'
-//     +'<option value="Karlsruhe" selected="selected">Regierungsbezirk Karlsruhe</option>'
-//     +'<option value="Freiburg">Regierungsbezirk Freiburg</option>'
-//     +'<option value="Stuttgart">Regierungsbezirk Stuttgart</option>'
-//     +'<option value="Tübingen">Regierungsbezirk Tübingen</option>'
-//     +'</optgroup></select>';
-//     div.firstChild.onmousedown = div.firstChild.ondblclick = L.DomEvent.stopPropagation;
-//     return div;
-// };
-// legend.addTo(map);
-
-// $('select').change(function(){
-//     if ($(this).val() == "Freiburg"){
-
-//         map.setView([47.9929,7.8365], 9);
-//      }   
-//      else if ($(this).val() == "Stuttgart"){
-//         map.setView([48.7790,9.1801], 9);
-//      }  
-//      else if ($(this).val() == "Karlsruhe"){
-//         map.setView([48.99,8.4242], 9);
-//      }  
-//      else if ($(this).val() == "Tübingen"){
-//         map.setView([48.12706,9.43461], 9);
-//         map.removeLayer(marker)
-//      } 
-// });
 
 var greenMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
@@ -289,12 +259,9 @@ var geojson1 = L.geoJson(farmshopGeoJson,{
     pointToLayer: function (feature, latlng) {
         if(feature.properties.amenity != 'vending_machine'){
             return L.marker(latlng, {icon: greenMarker});
-            console.log("grüner Hofladen Marker erstellt");
         }
         else {
-            return L.marker(latlng, {icon: blueMarker});
-            console.log("blauer Automaten-Marker erstellt");
-            
+            return L.marker(latlng, {icon: blueMarker});    
         }
         
     },
