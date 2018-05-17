@@ -267,9 +267,9 @@ var geojson1 = L.geoJson(farmshopGeoJson,{
     },
 
     onEachFeature: function (feature, layer) {
-        layer.once("click", ()=>{
-            layer.bindPopup(popupcontent(feature,layer)).openPopup();
-          });
+        layer.once("click", function () {
+            layer.bindPopup(popupcontent(feature, layer)).openPopup();
+        });
          
     }
 })
