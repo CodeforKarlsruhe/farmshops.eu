@@ -1,6 +1,7 @@
 body {
-    background-color:#eaeaea;
-    }
+    padding: 0px;
+    margin: 0px;
+}
 
 #map {
     height: 100%;
@@ -25,22 +26,14 @@ h1 {
     
 }
 
-.dropdown-wrapper{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 14px;
-    color: white; 
-    background-color: #4ca7ce;
-    padding: 4px;
-}
-
 .leaflet-popup-content {
     margin: 0px 0px;
-    line-height: 1.4;
+    /* line-height: 1.4; */
 }
 
 .leaflet-container a.leaflet-popup-close-button {
     background-color:white;
-    padding:4px;
+    /* padding:4px; */
     border: 2px solid rgba(0,0,0,0.2);
 }
 

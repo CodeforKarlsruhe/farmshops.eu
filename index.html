@@ -7,11 +7,54 @@
 <link href="css/style.css" type="text/css" rel=stylesheet>
 <link rel="stylesheet" href="css/MarkerCluster.css" />
 <link rel="stylesheet" href="css/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="css/leaflet-sidebar.css" />
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 <title>Hofläden, Milch- und Eierautomaten und andere Direktvermarkter</title>
 <meta property="og:image" content="https://raw.githubusercontent.com/CodeforKarlsruhe/direktvermarkter/master/img/direktvermarkter.png" />
 </head>
 <body>
-<div id="map"></div>L
+<div id="sidebar" class="sidebar collapsed">
+                <!-- Nav tabs -->
+                <div class="sidebar-tabs">
+                    <ul role="tablist">
+                        <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+                    </ul>
+        
+                    <ul role="tablist">
+                        <li><a href="#info" role="tab"><i class="fa fa-info"></i></a></li>
+                        <li><a href="https://github.com/CodeforKarlsruhe/direktvermarkter" role="tab" target="_blank"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://codefor.de/" role="tab"><i class="fa fa-external-link "></i></a></li>
+                    </ul>
+                </div>
+        
+                <!-- Tab panes -->
+                <div class="sidebar-content">
+                    <div class="sidebar-pane" id="home">
+                        <h1 class="sidebar-header">
+                            sidebar-v2
+                            <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                        </h1>
+        
+                        <p>A responsive sidebar for mapping libraries like <a href="http://leafletjs.com/">Leaflet</a> or <a href="http://openlayers.org/">OpenLayers</a>.</p>
+        
+                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        
+                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        
+                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        
+                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                    </div>
+        
+                    <div class="sidebar-pane" id="info">
+                        <h1 class="sidebar-header">Profile<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="map" class="sidebar-map"></div>  
+
+
 <script src="js/leaflet.js"></script>
 <script src="js/leaflet.permalink.min.js"></script>
 <script src="data/farmshopGeoJson.js"></script>
@@ -19,7 +62,10 @@
 <link rel="stylesheet" href="css/leaflet.extra-markers.min.css">
 <script src="js/leaflet.extra-markers.min.js"></script>
 <script src="js/leaflet.markercluster.js"></script>
+<script src="js/leaflet-sidebar.js"></script>
 <script src="js/direktvermarkter.js"></script>
+
+
 
 </body>
 </html>

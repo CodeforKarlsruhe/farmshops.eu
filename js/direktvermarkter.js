@@ -13,8 +13,6 @@ var tiles = L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
 			attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
 		});
 
-L.control.scale().addTo(map);
-
 
 L.control.zoom({
     position:'bottomright'
@@ -305,6 +303,8 @@ markers.addLayer(geojson1);
 map.addLayer(markers);
 console.log(lastUpdate);
 
+var sidebar = L.control.sidebar('sidebar').addTo(map);
 
+L.control.scale().addTo(map);
 
 
