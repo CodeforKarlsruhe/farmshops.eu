@@ -8,7 +8,7 @@ Using:
 - [leaflet permalinks](https://github.com/MarcChasse/leaflet.Permalink)
 - jquery
 - The node module query-overpass for importing OSM data from http://overpass-turbo.eu/
-- [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2) (in future versions)
+- [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2)
 
 ## Documentation in German
 
