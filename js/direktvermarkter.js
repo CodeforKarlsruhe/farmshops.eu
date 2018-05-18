@@ -219,8 +219,28 @@ function popupcontent (feature, layer) {
         return oefnungszeiten;
         }
 
+        function headline () {
+            var headline;
+            if (feature.properties.name != undefined && feature.properties.amenity != 'vending_machine' ){
+                headline = feature.properties.name;
+                return headline;
+            }
+            else if (feature.properties.name == undefined && feature.properties.amenity != 'vending_machine' ){
+                headline = "Hofladen<br> (ohne Namen)"
+                return headline;
+            }
+            else if (feature.properties.name == undefined && feature.properties.amenity == 'vending_machine' ){
+                headline = "Verkaufsautomat<br> (ohne Namen)"
+                return headline
+            }
+            else {
+                headline = feature.properties.name;
+                return headline;
+            }
+        }
+
     var innereTabelle = popupcontent.join("");
-    var htmlInhalt = "<div id='headline'><h1>" +feature.properties.name +"</h1></div>"
+    var htmlInhalt = "<div id='headline'><h1>" +headline() +"</h1></div>"
         +"<div id='wrapper'><div id='adress'>"
         +adress()
         +"</div><div id='links'>"
