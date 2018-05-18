@@ -4,26 +4,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta charset="UTF-8">
 <link href="css/leaflet.css" type="text/css" rel=stylesheet>
-<link href="css/style.css" type="text/css" rel=stylesheet>
-<link rel="stylesheet" href="css/MarkerCluster.css" />
 <link rel="stylesheet" href="css/MarkerCluster.Default.css" />
 <link rel="stylesheet" href="css/leaflet-sidebar.css" />
-<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/MarkerCluster.css" />
+<link href="css/style.css" type="text/css" rel=stylesheet>
 <title>Hofläden, Milch- und Eierautomaten und andere Direktvermarkter</title>
 <meta property="og:image" content="https://raw.githubusercontent.com/CodeforKarlsruhe/direktvermarkter/master/img/direktvermarkter.png" />
 </head>
 <body>
+<script src="data/farmshopGeoJson.js"></script>
 <div id="sidebar" class="sidebar collapsed">
                 <!-- Nav tabs -->
                 <div class="sidebar-tabs">
                     <ul role="tablist">
-                        <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+                        <li><a href="#home" role="tab" alt="info" title="Was ist das hier und wie pflege ich die Daten?">&#9776;</a></li>
                     </ul>
         
                     <ul role="tablist">
-                        <li><a href="#info" role="tab"><i class="fa fa-info"></i></a></li>
-                        <li><a href="https://github.com/CodeforKarlsruhe/direktvermarkter" role="tab" target="_blank"><i class="fa fa-github"></i></a></li>
-                        <li><a href="https://codefor.de/" role="tab"><i class="fa fa-external-link "></i></a></li>
+                        <li><a href="#info" role="tab" alt="i" title="Impressum und Datenschutz">&#8505;</a></li>
+                        <li><a href="https://github.com/CodeforKarlsruhe/direktvermarkter" role="tab" target="_blank"><img width="20px" style="padding-top: 8px;" margin-top="5px" src="img/github.svg" alt="Github" title="Repository auf Github.com"></a></li>
+                        <li><a href="https://codefor.de/" target="_blank" role="tab"><img width="25px" style="padding-top: 8px;" src="img/okfnde.png" alt="ok lab" title="Code for Germany - eine Initiative von der Open Knowledge Foundation Germany"></i></a></li>
                     </ul>
                 </div>
         
@@ -31,23 +31,57 @@
                 <div class="sidebar-content">
                     <div class="sidebar-pane" id="home">
                         <h1 class="sidebar-header">
-                            sidebar-v2
-                            <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                            farmshops.eu - Hofladen Karte
+                            <span class="sidebar-close"></span>
                         </h1>
+                        <p><strong>Diese Webseite ist noch im Aufbau und wird sich in den nächsten Wochen immer wieder verändern. Über Feedback, Ideen und Tipps freuen wir uns.</strong> </p>
+
+                        <h3>Was ist das hier?</h3>
         
-                        <p>A responsive sidebar for mapping libraries like <a href="http://leafletjs.com/">Leaflet</a> or <a href="http://openlayers.org/">OpenLayers</a>.</p>
+                        <p>Diese Karte zeigt Hofläden und Verkaufsautomaten von Bauern, die auf <a href="https://www.openstreetmap.org" target="_blank">openstreetmap.org</a> eingetragen sind und bereitet die Daten optisch auf. Fehlende Daten oder neue Höfe kann man direkt dort eintragen. Die Daten werden von dort regelmäßig abgeglichen. </p>
         
-                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-        
-                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-        
-                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-        
-                        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                        <p>
+                        <h3>Welche Einträge von Openstreetmap werden hier angezeigt?</h3>
+                        <p>Nur Orte mit folgenden Tags werden überhaupt angezeigt:</p>
+                        <ul>
+                            <li><a href="https://wiki.openstreetmap.org/wiki/DE:Tag:shop%3Dfarm" target="_blank">shop=farm </a>für Hofladen</li>
+                            <li><a href="https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine" target="_blank">amenity=vending_machine</a> für Verkaufsautomaten, jedoch nur mit:
+                            <ul>
+                                <li><a href="https://wiki.openstreetmap.org/wiki/Tag:vending%3Dfood" target="_blank">vending=food</a> Für Essen</li>
+                                <li><a href="https://wiki.openstreetmap.org/wiki/Tag:vending%3Dmilk" target="_blank">vending=milk</a> Für Milchautomaten</li>
+                            </ul>
+                            </li>
+                        </ul>
+                        Alle weiteren Daten des Objektes wie Name, Adresse, Öffnungszeiten werden im Popup aufbereitet dargestellt oder landen unverändert in der Tabelle. 
+                        </p>
+                        <p>
+                            <h3>Wie häufig werden die Daten abgeglichen und welchen Stand haben sie jetzt gerade?</h3>
+                            Momentan werden die Daten mit einem Script manuell in regelmäßigen Abständen&#8482; abgeglichen. Ein automatischer Abgleich ist geplant.
+                            <p>
+                            <script>
+                                document.write( lastUpdate );
+                                </script>
+                            </p>  
+                        </p>
+                        <p>
+                            <h3>Wie erreiche ich euch?</h3>
+                            <ul><li>
+                                <a href="https://codefor.de/karlsruhe/">Webseite von Code for Karlsruhe mit Kontaktmöglichkeiten</a>
+                            </li>
+                            <li>Quellcode und technische Planung auf <a href="https://github.com/CodeforKarlsruhe/direktvermarkter">GitHub</a> </li>
+                            <li><a href="http://stefan.grotz.me/">Stefan Grotz</a> koordiniert das Projekt und kann auch direkt angeschrieben werden.</li>
+                        </ul>                            
+
+                        </p>
+
                     </div>
         
                     <div class="sidebar-pane" id="info">
-                        <h1 class="sidebar-header">Profile<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                        <h1 class="sidebar-header">Impressum und Datenschutz<span class="sidebar-close"></span></h1>
+
+                        <img src="img/codeforkarlsruhe.jpg" alt="Logo Code for Karlsruhe" width="200px" style="display: block;margin-left: auto;margin-right: auto">
+                        <p><strong>farmshops.eu</strong> ist ein Projekt von <a href="https://codefor.de/karlsruhe/" target="_blank">Code for Karlsruhe</a>. Die Karte bereitet Daten von Openstreetmap optisch auf und hilft bei der Pflege. Wir speichern keinerlei Daten über unsere Benutzer und erheben keine Statistik über die Zugriffe auf die Seite.  Die Seite ist auf den Servern von github.com gehostet.</p>
+                        <p>  Diese Seite befindet sich momentan  noch im Aufbau, ein ausführlicheres Impressum folgt bald.</p>
                     </div>
                 </div>
             </div>
@@ -57,7 +91,6 @@
 
 <script src="js/leaflet.js"></script>
 <script src="js/leaflet.permalink.min.js"></script>
-<script src="data/farmshopGeoJson.js"></script>
 <script src="js/jquery-3.3.1.js"></script>
 <link rel="stylesheet" href="css/leaflet.extra-markers.min.css">
 <script src="js/leaflet.extra-markers.min.js"></script>

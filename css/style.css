@@ -5,7 +5,6 @@ body {
 
 #map {
     height: 100%;
-    width: 100%;
 }
 
 #headline {
@@ -33,7 +32,7 @@ h1 {
 
 .leaflet-container a.leaflet-popup-close-button {
     background-color:white;
-    /* padding:4px; */
+    padding:4px;
     border: 2px solid rgba(0,0,0,0.2);
 }
 
