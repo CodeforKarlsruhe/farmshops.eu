@@ -200,6 +200,13 @@ function popupcontent (feature, layer) {
             +"<br>" +feature.properties["addr:postcode"] +" " +feature.properties["addr:city"];
             
         }
+        else if (feature.properties["addr:place"]){
+            var adresse = "<strong>Adresse:</strong><br>"
+            +feature.properties["addr:street"] +" " +feature.properties["addr:housenumber"]
+            +"<br>" +feature.properties["addr:postcode"] +" " +feature.properties["addr:city"]
+            +"<br>" +feature.properties["addr:place"];
+            
+        }
         else {
             var adresse = "<strong>Adresse:</strong><br> Unbekannt";
         }
