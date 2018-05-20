@@ -1,4 +1,4 @@
-# Farmshops Map / Hofaden Karte
+# Farmshops Map / Hofladen Karte
 Data viewer for farmshops, milk and food vending machines and other direct marketers on openstreetmap.
 
 Using:
@@ -6,7 +6,6 @@ Using:
 - [leaflet extra markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
 - [leaflet marker clusterer](https://github.com/Leaflet/Leaflet.markercluster)
 - [leaflet permalinks](https://github.com/MarcChasse/leaflet.Permalink)
-- jquery
 - The node module query-overpass for importing OSM data from http://overpass-turbo.eu/
 - [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2)
 
