@@ -250,7 +250,7 @@ function popupcontent (feature, layer) {
         +adress()
         +"</div><div id='links'>"
         +"<strong>Dieser Ort auf</strong><br>"
-        +"<a href='http://openstreetmap.org/" +feature.id  +"'>OpenStreetMap</a>"
+        +"<a target='_blank' href='http://openstreetmap.org/" +feature.id  +"'>OpenStreetMap</a>"
         +"<br><a target='_blank' href='https://maps.openrouteservice.org/directions?n1=" +linkLong +"&n2=" +linkLat +"&n3=14&a=null,null," +linkLong +"," +linkLat +"&b=0&c=0&k1=en-US&k2=km'>Open Routeservice</a>"
         +"<br><a target='_blank' href='http://maps.google.de/?q=" +linkLong +"," +linkLat +"'>Google Maps</a>"
         
