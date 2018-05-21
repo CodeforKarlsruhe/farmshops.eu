@@ -11,7 +11,7 @@ if(dd<10) {
 if(mm<10) {
     mm = '0'+mm
 } 
-lastUpdate ='Letzter Datenabgleich:' +dd + '.' + mm + '.' + yyyy +' ungefähr um ' +hh +' Uhr.';
+lastUpdate ='Letzter Datenabgleich: ' +dd + '.' + mm + '.' + yyyy +' ungefähr um ' +hh +' Uhr.';
 console.log(lastUpdate)
 let filename = "data/farmshopGeoJson.js"
 let bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
