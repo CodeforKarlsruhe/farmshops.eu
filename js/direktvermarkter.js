@@ -10,7 +10,7 @@ L.Permalink.setup(map);
 
 var tiles = L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
 			maxZoom: 18,
-			attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> &#124; <a target='_blank' href='https://github.com/CodeforKarlsruhe/direktvermarkter'>GitHub</a> &#124; <a target='_blank' href='https://codefor.de/karlsruhe/'>OK Lab Karlsruhe</a>"
+			attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>"
 		});
 
 
