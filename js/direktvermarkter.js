@@ -297,7 +297,7 @@ var markers = L.markerClusterGroup({
         var markers = cluster.getAllChildMarkers();
         
         var html = '<div class="circle">' + markers.length + '</div>';
-        return L.divIcon({ html: html, className: 'test', iconSize: L.point(52, 52) });
+        return L.divIcon({ html: html, className: 'test', iconSize: L.point(62, 62) });
     },
     spiderfyOnMaxZoom: false,
     disableClusteringAtZoom: 11,
