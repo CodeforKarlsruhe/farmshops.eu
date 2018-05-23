@@ -315,7 +315,7 @@ var sidebar = L.control.sidebar('sidebar').addTo(map);
 L.control.scale().addTo(map);
 
 L.control.locate({
-    position: 'topright',
+    position: 'topleft',
     drawMarker: false,
     drawCircle: false,
     flyTo: true,
