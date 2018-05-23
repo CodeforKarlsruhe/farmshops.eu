@@ -23,7 +23,6 @@ var greenMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'green-light',
     shape: 'circle',
-    prefix: 'fa',
     number: 'H'
 });
 
@@ -31,7 +30,6 @@ var blueMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'blue',
     shape: 'circle',
-    prefix: 'fa',
     number: 'A'
 });
 
