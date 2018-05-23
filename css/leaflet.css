@@ -634,3 +634,8 @@
 	margin-left: -12px;
 	border-right-color: #fff;
 	}
+
+/* leaflet locate plugin */
+.leaflet-bar-part > span {
+	line-height: 30px;
+}
