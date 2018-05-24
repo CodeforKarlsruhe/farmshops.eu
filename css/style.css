@@ -153,3 +153,8 @@ h1 {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 16px;
     }
+
+    /* leaflet locate plugin */
+    .leaflet-bar-part > span {
+        line-height: 30px;
+    }
