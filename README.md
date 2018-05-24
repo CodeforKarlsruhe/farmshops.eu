@@ -8,6 +8,7 @@ Using:
 - [leaflet permalinks](https://github.com/MarcChasse/leaflet.Permalink)
 - The node module query-overpass for importing OSM data from http://overpass-turbo.eu/
 - [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2)
+- [leaflet locatecontrol](https://github.com/domoritz/leaflet-locatecontrol)
 
 ## Documentation in German
 
