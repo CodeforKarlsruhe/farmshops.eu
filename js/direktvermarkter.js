@@ -13,10 +13,30 @@ var tiles = L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
     attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>"
 });
 
-
 L.control.zoom({
     position: 'bottomright'
 }).addTo(map);
+
+
+L.control.locate({
+    position: 'bottomright',
+    drawMarker: false,
+    drawCircle: false,
+    flyTo: true,
+    keepCurrentZoomLevel: false,
+    strings: {
+        title: "Karte auf meine aktuelle Position zentrieren!"
+    },
+    locateOptions: {
+        maxZoom: 12
+    },
+    clickBehavior: {
+        inView: 'setView', 
+        outOfView: 'setView'
+    }
+}
+).addTo(map);
+
 
 
 var greenMarker = L.ExtraMarkers.icon({
@@ -312,21 +332,3 @@ var sidebar = L.control.sidebar('sidebar').addTo(map);
 
 L.control.scale().addTo(map);
 
-L.control.locate({
-    position: 'topleft',
-    drawMarker: false,
-    drawCircle: false,
-    flyTo: true,
-    keepCurrentZoomLevel: false,
-    strings: {
-        title: "Karte auf meine aktuelle Position zentrieren!"
-    },
-    locateOptions: {
-        maxZoom: 12
-    },
-    clickBehavior: {
-        inView: 'setView', 
-        outOfView: 'setView'
-    }
-}
-).addTo(map);
