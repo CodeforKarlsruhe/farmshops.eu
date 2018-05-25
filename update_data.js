@@ -33,6 +33,10 @@ let query = `
   node["vending"="food"](${bbox});
   way["vending"="food"](${bbox});
   relation["vending"="food"](${bbox});
+  // query part for: “amenity=marketplace”
+  node["amenity"="marketplace"](${bbox});
+  way["amenity"="marketplace"](${bbox});
+  relation["amenity"="marketplace"](${bbox});
   );
   // print results
   out center;

@@ -53,6 +53,13 @@ var blueMarker = L.ExtraMarkers.icon({
     number: 'A'
 });
 
+var yellowMarker = L.ExtraMarkers.icon({
+    icon: 'fa-number',
+    markerColor: 'orange-dark',
+    shape: 'round',
+    number: 'M'
+});
+
 var blueIcon = new L.Icon({
     iconUrl: 'img/marker-icon-2x-blue.png',
     shadowUrl: 'img/marker-shadow.png',
@@ -244,16 +251,20 @@ function popupcontent(feature, layer) {
 
     function headline() {
         var headline;
-        if (feature.properties.name != undefined && feature.properties.amenity != 'vending_machine') {
+        if (feature.properties.name != undefined) {
             headline = feature.properties.name;
             return headline;
         }
-        else if (feature.properties.name == undefined && feature.properties.amenity != 'vending_machine') {
+        else if (feature.properties.name == undefined && feature.properties.shop == 'farm') {
             headline = "Hofladen<br> (ohne Namen)"
             return headline;
         }
         else if (feature.properties.name == undefined && feature.properties.amenity == 'vending_machine') {
             headline = "Verkaufsautomat<br> (ohne Namen)"
+            return headline
+        }
+        else if (feature.properties.name == undefined && feature.properties.amenity == 'marketplace') {
+            headline = "Markt<br> (ohne Namen)"
             return headline
         }
         else {
@@ -292,12 +303,17 @@ function popupcontent(feature, layer) {
 
 var geojson1 = L.geoJson(farmshopGeoJson, {
     pointToLayer: function (feature, latlng) {
-        if (feature.properties.amenity != 'vending_machine') {
+        if (feature.properties.shop == 'farm') {
             return L.marker(latlng, { icon: greenMarker });
+        }
+        else if (feature.properties.amenity === 'marketplace') {
+            return L.marker(latlng, { icon: yellowMarker });
         }
         else {
             return L.marker(latlng, { icon: blueMarker });
         }
+
+        yellowMarker
 
     },
 
