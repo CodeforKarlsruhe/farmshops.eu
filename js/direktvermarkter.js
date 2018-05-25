@@ -310,7 +310,7 @@ function popupcontent(feature, layer) {
 
 var geojson1 = L.geoJson(farmshopGeoJson, {
     pointToLayer: function (feature, latlng) {
-        if (feature.properties.shop === 'farm') {
+        if (feature.properties.shop === 'farm' && feature.properties.amenity != 'vending_machine') {
             return L.marker(latlng, { icon: greenMarker })
         }
         else if (feature.properties.amenity === 'marketplace') {
