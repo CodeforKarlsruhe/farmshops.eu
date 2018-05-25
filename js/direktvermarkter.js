@@ -60,6 +60,13 @@ var yellowMarker = L.ExtraMarkers.icon({
     number: 'M'
 });
 
+var greyMarker = L.ExtraMarkers.icon({
+    icon: 'fa-number',
+    markerColor: 'grey',
+    shape: 'circle',
+    number: '?'
+});
+
 var blueIcon = new L.Icon({
     iconUrl: 'img/marker-icon-2x-blue.png',
     shadowUrl: 'img/marker-shadow.png',
@@ -309,11 +316,13 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
         else if (feature.properties.amenity === 'marketplace') {
             return L.marker(latlng, { icon: yellowMarker });
         }
-        else {
+        else if (feature.properties.amenity === 'vending_machine') {
             return L.marker(latlng, { icon: blueMarker });
         }
-
-        yellowMarker
+        else {
+            console.log("nicht bekannte Daten verwendet")
+            return L.marker(latlng, { icon: greyMarker });
+        }
 
     },
 
