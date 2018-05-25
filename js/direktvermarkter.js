@@ -60,9 +60,9 @@ var yellowMarker = L.ExtraMarkers.icon({
     number: 'M'
 });
 
-var greyMarker = L.ExtraMarkers.icon({
+var blackMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
-    markerColor: 'grey',
+    markerColor: 'black',
     shape: 'circle',
     number: '?'
 });
@@ -321,7 +321,7 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
         }
         else {
             console.log("nicht bekannte Daten verwendet")
-            return L.marker(latlng, { icon: greyMarker })
+            return L.marker(latlng, { icon: blackMarker })
         }
 
     },

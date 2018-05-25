@@ -18,7 +18,7 @@ let bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
 console.log('starting query for ' +filename)
 console.log('bbox: ' +bbox)
 let query = ` 
-  [out:json][timeout:300];
+  [out:json][timeout:350];
   // gather results
   (
   // query part for: “vending=milk”
