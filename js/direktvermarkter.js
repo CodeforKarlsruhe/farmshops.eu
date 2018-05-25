@@ -310,18 +310,18 @@ function popupcontent(feature, layer) {
 
 var geojson1 = L.geoJson(farmshopGeoJson, {
     pointToLayer: function (feature, latlng) {
-        if (feature.properties.shop == 'farm') {
-            return L.marker(latlng, { icon: greenMarker });
+        if (feature.properties.shop === 'farm') {
+            return L.marker(latlng, { icon: greenMarker })
         }
-        else if (feature.properties.amenity === 'marketplace') {
-            return L.marker(latlng, { icon: yellowMarker });
+        else if (feature.properties.amenity ==== 'marketplace') {
+            return L.marker(latlng, { icon: yellowMarker })
         }
         else if (feature.properties.amenity === 'vending_machine') {
-            return L.marker(latlng, { icon: blueMarker });
+            return L.marker(latlng, { icon: blueMarker })
         }
         else {
             console.log("nicht bekannte Daten verwendet")
-            return L.marker(latlng, { icon: greyMarker });
+            return L.marker(latlng, { icon: greyMarker })
         }
 
     },
