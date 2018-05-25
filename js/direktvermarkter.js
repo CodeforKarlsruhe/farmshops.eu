@@ -313,7 +313,7 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
         if (feature.properties.shop === 'farm') {
             return L.marker(latlng, { icon: greenMarker })
         }
-        else if (feature.properties.amenity ==== 'marketplace') {
+        else if (feature.properties.amenity === 'marketplace') {
             return L.marker(latlng, { icon: yellowMarker })
         }
         else if (feature.properties.amenity === 'vending_machine') {
