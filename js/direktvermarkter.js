@@ -13,6 +13,8 @@ var tiles = L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
     attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>"
 });
 
+L.control.scale({position: 'topright'}).addTo(map);
+
 L.control.zoom({
     position: 'bottomright'
 }).addTo(map);
@@ -118,6 +120,4 @@ map.addLayer(markers);
 console.log(lastUpdate);
 
 var sidebar = L.control.sidebar('sidebar').addTo(map);
-
-L.control.scale().addTo(map);
 
