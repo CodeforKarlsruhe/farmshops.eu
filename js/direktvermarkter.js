@@ -1,4 +1,4 @@
-console.log("        @ @ @\n       []___\n      /    /\____\n(~)  /_/\_//____/\ \n |   | || |||__|||\n     farmshops.eu");
+console.log("        @ @ @\n       []___\n      /    /\\____\n(~)  /_/\\_//____/\\ \n |   | || |||__|||\n     farmshops.eu \n Interesse am Code, Bug gefunden oder eine Verbesserungsidee? Schau vorbei auf GitHub! \n https://github.com/CodeforKarlsruhe/direktvermarkter");
 var mappos = L.Permalink.getMapLocation();
 var map = L.map('map', {
     center: mappos.center,
