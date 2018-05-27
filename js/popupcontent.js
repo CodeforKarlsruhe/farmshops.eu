@@ -83,23 +83,26 @@ function popupcontent(feature, layer) {
 
     }
 
-    function adress() {
-        if (feature.properties["addr:street"]) {
-            var adresse = "<strong>Adresse:</strong><br>"
-                + feature.properties["addr:street"] + " " + feature.properties["addr:housenumber"]
-                + "<br>" + feature.properties["addr:postcode"] + " " + feature.properties["addr:city"];
-
-        }
-        else if (feature.properties["addr:place"]) {
-            var adresse = "<strong>Adresse:</strong><br>"
-                + feature.properties["addr:street"] + " " + feature.properties["addr:housenumber"]
-                + "<br>" + feature.properties["addr:postcode"] + " " + feature.properties["addr:city"]
-                + "<br>" + feature.properties["addr:place"];
-
+    function giveWhenExist (x){
+        var y ="";
+        if (x!=undefined){
+            return x;
         }
         else {
-            var adresse = "<strong>Adresse:</strong><br> Unbekannt";
+            return y;
         }
+    }
+
+    function adress() {
+            var adresse = "<strong>Adresse:</strong><br>"
+                + giveWhenExist(feature.properties["addr:street"]) + " " + giveWhenExist(feature.properties["addr:housenumber"])
+                + "<br>" + giveWhenExist(feature.properties["addr:postcode"]) + " " + giveWhenExist(feature.properties["addr:city"])
+                + "<br>" + giveWhenExist(feature.properties["addr:place"]);
+                console.log(adresse)
+
+        if (adresse==="<strong>Adresse:</strong><br> <br> <br>"){
+            adresse = "<strong>Adresse:</strong><br>Unbekannt <br> <br>"
+        };
         return adresse;
     }
 
