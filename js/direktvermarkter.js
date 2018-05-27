@@ -108,7 +108,12 @@ var markers = L.markerClusterGroup({
 
         function markerTypen (markers){
             var returnWert = markers.length;
-            //console.log(markers[0].feature.id)
+
+            // for (var i = 0; i <= markers.length; i++) {
+            //     console.log(console.log(markers[x].feature.id))
+            //   }
+            
+            //console.log(markers[0].feature.properties)
             return returnWert;
         }
 
