@@ -1,3 +1,4 @@
+console.log("        @ @ @\n       []___\n      /    /\____\n(~)  /_/\_//____/\ \n |   | || |||__|||\n     farmshops.eu");
 var mappos = L.Permalink.getMapLocation();
 var map = L.map('map', {
     center: mappos.center,
@@ -127,4 +128,3 @@ map.addLayer(markers);
 console.log(lastUpdate);
 
 var sidebar = L.control.sidebar('sidebar').addTo(map);
-
