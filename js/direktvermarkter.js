@@ -105,10 +105,17 @@ var markers = L.markerClusterGroup({
     iconCreateFunction: function (cluster) {
         var markers = cluster.getAllChildMarkers();
 
-        var html = '<div class="circle">' + markers.length + '</div>';
+        function markerTypen (markers){
+            var returnWert = markers.length;
+            //console.log(markers[0].feature.id)
+            return returnWert;
+        }
+
+        var html = '<div class="circle">' +markerTypen(markers) + '</div>';
         return L.divIcon({ html: html, className: 'test', iconSize: L.point(62, 62) });
     },
     spiderfyOnMaxZoom: false,
+    maxClusterRadius: 80,
     disableClusteringAtZoom: 11,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
