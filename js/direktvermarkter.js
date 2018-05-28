@@ -100,7 +100,7 @@ var markers = L.markerClusterGroup({
             //console.log(markers[0].feature.properties)
             return returnWert;
         }
-        console.log("markerS: " +markers)
+        // console.log("markerS: " +markers)
         var html = '<div class="circle">' +markerTypen(markers) + '</div>';
         return L.divIcon({ html: html, className: 'test', iconSize: L.point(62, 62) });
     },
