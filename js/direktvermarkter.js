@@ -13,32 +13,14 @@ var tiles = L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png', {
     maxZoom: 18,
     attribution: "&copy; <a target='_blank' href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>"
 });
+var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+});
 
-L.control.scale({position: 'topright'}).addTo(map);
-
-L.control.zoom({
-    position: 'bottomright'
-}).addTo(map);
-
-
-L.control.locate({
-    position: 'bottomright',
-    drawMarker: false,
-    drawCircle: false,
-    flyTo: true,
-    keepCurrentZoomLevel: false,
-    strings: {
-        title: "Karte auf meine aktuelle Position zentrieren!"
-    },
-    locateOptions: {
-        maxZoom: 12
-    },
-    clickBehavior: {
-        inView: 'setView', 
-        outOfView: 'setView'
-    }
-}
-).addTo(map);
+var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	maxZoom: 19,
+	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
 
 
 
@@ -110,13 +92,15 @@ var markers = L.markerClusterGroup({
             var returnWert = markers.length;
 
             // for (var i = 0; i <= markers.length; i++) {
+            //     x = 0;
             //     console.log(console.log(markers[x].feature.id))
+            //     x = x+1;
             //   }
             
             //console.log(markers[0].feature.properties)
             return returnWert;
         }
-
+        console.log("markerS: " +markers)
         var html = '<div class="circle">' +markerTypen(markers) + '</div>';
         return L.divIcon({ html: html, className: 'test', iconSize: L.point(62, 62) });
     },
@@ -133,3 +117,42 @@ map.addLayer(markers);
 console.log(lastUpdate);
 
 var sidebar = L.control.sidebar('sidebar').addTo(map);
+
+var tilesAuswahl = {
+    "Wikipedia Kartenstil": tiles,
+    "Openstreetmap": OpenStreetMap_Mapnik,
+    "Satelit": Esri_WorldImagery,
+};
+
+var overlays = {
+    "Marker": markers,
+};
+L.control.scale({position: 'topright'}).addTo(map);
+
+L.control.layers(tilesAuswahl,overlays).addTo(map);
+
+
+
+L.control.zoom({
+    position: 'bottomright'
+}).addTo(map);
+
+
+L.control.locate({
+    position: 'bottomright',
+    drawMarker: false,
+    drawCircle: false,
+    flyTo: true,
+    keepCurrentZoomLevel: false,
+    strings: {
+        title: "Karte auf meine aktuelle Position zentrieren!"
+    },
+    locateOptions: {
+        maxZoom: 12
+    },
+    clickBehavior: {
+        inView: 'setView', 
+        outOfView: 'setView'
+    }
+}
+).addTo(map);
