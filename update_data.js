@@ -38,7 +38,8 @@ function getSimpleNode(node) {
     return simpleNode = {
         "type": "Feature",
         "properties": {
-            "property": property,
+            "p": property,
+            "id": node.id
         }, geometry
     }
   else
