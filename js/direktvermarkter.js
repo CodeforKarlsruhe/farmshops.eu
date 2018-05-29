@@ -59,13 +59,13 @@ var blackMarker = L.ExtraMarkers.icon({
 
 var geojson1 = L.geoJson(farmshopGeoJson, {
     pointToLayer: function (feature, latlng) {
-        if (feature.properties.shop === 'farm' && feature.properties.amenity != 'vending_machine') {
+        if (feature.properties.property === 'farm') {
             return L.marker(latlng, { icon: greenMarker })
         }
-        else if (feature.properties.amenity === 'marketplace') {
+        else if (feature.properties.property === 'marketplace') {
             return L.marker(latlng, { icon: yellowMarker })
         }
-        else if (feature.properties.amenity === 'vending_machine') {
+        else if (feature.properties.property === 'vending_machine') {
             return L.marker(latlng, { icon: blueMarker })
         }
         else {
