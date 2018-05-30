@@ -85,7 +85,7 @@ console.log(lastUpdate)
 console.log('bbox: ' + bbox)
 
 let query = ` 
-  [out:json][timeout:250];
+  [out:json][timeout:290];
   // gather results
   (
   // query part for: “vending=milk”
@@ -102,6 +102,11 @@ let query = `
   node["vending"="food"](${bbox});
   way["vending"="food"](${bbox});
   relation["vending"="food"](${bbox});
+
+  // query part for: “vending=bread”
+  node["vending"="bread"](${bbox});
+  way["vending"="bread"](${bbox});
+  relation["vending"="bread"](${bbox});
 
   // query part for: “amenity=marketplace”
   node["amenity"="marketplace"](${bbox});
