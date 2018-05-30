@@ -59,13 +59,13 @@ var blackMarker = L.ExtraMarkers.icon({
 
 var geojson1 = L.geoJson(farmshopGeoJson, {
     pointToLayer: function (feature, latlng) {
-        if (feature.properties.shop === 'farm' && feature.properties.amenity != 'vending_machine') {
+        if (feature.properties.p === 'farm') {
             return L.marker(latlng, { icon: greenMarker })
         }
-        else if (feature.properties.amenity === 'marketplace') {
+        else if (feature.properties.p === 'marketplace') {
             return L.marker(latlng, { icon: yellowMarker })
         }
-        else if (feature.properties.amenity === 'vending_machine') {
+        else if (feature.properties.p === 'vending_machine') {
             return L.marker(latlng, { icon: blueMarker })
         }
         else {
@@ -77,12 +77,12 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
 
     onEachFeature: function (feature, layer) {
         layer.once("click", function () {
-            layer.bindPopup(popupcontent(feature, layer)).openPopup();
+            $.getJSON(`data/${feature.properties.id}/details.json`, function(data){
+                layer.bindPopup(popupcontent(data, layer)).openPopup();
+            });
         });
-
     }
-})
-    .addLayer(tiles);
+}).addLayer(tiles);
 
 var markers = L.markerClusterGroup({
     iconCreateFunction: function (cluster) {

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/2061276479","properties":{"amenity":"vending_machine","name":"Mlekomat","payment:account_cards":"no","payment:coins":"yes","payment:credit_cards":"no","payment:debit_cards":"no","payment:electronic_purses":"no","payment:notes":"no","vending":"milk","id":"node/2061276479"},"geometry":{"type":"Point","coordinates":[16.9313062,52.438394]}}
