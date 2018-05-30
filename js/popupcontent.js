@@ -11,8 +11,8 @@ function popupcontent(feature, layer) {
         }
         else if (prop == "website" || prop == "contact:website" || prop == "url") {
             popupcontent.unshift("<tr><td><strong>"
-                + prop.replace("website", "Internetseite").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' link href='"
-                + feature.properties[prop] + "' target='_blank'>"
+                + prop.replace("website", "Internetseite").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='"
+                + feature.properties[prop] + "' target='_blank' rel='noopener'>"
                 + feature.properties[prop] + "</a></td></tr>");
             console.log(prop + " " + feature.properties[prop] + " als Link Formatiert");
         }
@@ -20,7 +20,7 @@ function popupcontent(feature, layer) {
             popupcontent.push("<tr><td><strong>"
                 + prop.replace("fixme", "Unklare Daten") + ":</strong> </td><td>"
                 + feature.properties[prop].replace("position estimated", "Position geschätzt")
-                + " <a target='_blank' href='http://openstreetmap.org/" + feature.id + "'> Daten Verbessern</a>");
+                + " <a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'> Daten Verbessern</a>");
             console.log(prop + " " + feature.properties[prop] + " (fixme)");
         }
 
@@ -112,7 +112,7 @@ function popupcontent(feature, layer) {
 
         }
         else {
-            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>Unbekannt <p><a target='_blank' href='http://openstreetmap.org/" + feature.id + "'>Auf OSM bearbeiten.</a></p>";
+            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>Unbekannt <p><a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'>Auf OSM bearbeiten.</a></p>";
         }
         return oefnungszeiten;
     }
@@ -147,9 +147,9 @@ function popupcontent(feature, layer) {
         + adress()
         + "</div><div id='links'>"
         + "<strong>Dieser Ort auf</strong><br>"
-        + "<a target='_blank' href='http://openstreetmap.org/" + feature.id + "'>OpenStreetMap</a>"
-        + "<br><a target='_blank' href='https://maps.openrouteservice.org/directions?n1=" + linkLong + "&n2=" + linkLat + "&n3=14&a=null,null," + linkLong + "," + linkLat + "&b=0&c=0&k1=en-US&k2=km'>Open Routeservice</a>"
-        + "<br><a target='_blank' href='http://maps.google.de/?q=" + linkLong + "," + linkLat + "'>Google Maps</a>"
+        + "<a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'>OpenStreetMap</a>"
+        + "<br><a target='_blank' rel='noopener' href='https://maps.openrouteservice.org/directions?n1=" + linkLong + "&n2=" + linkLat + "&n3=14&a=null,null," + linkLong + "," + linkLat + "&b=0&c=0&k1=en-US&k2=km'>Open Routeservice</a>"
+        + "<br><a target='_blank' rel='noopener' href='http://maps.google.de/?q=" + linkLong + "," + linkLat + "'>Google Maps</a>"
 
         + "</div><div id='times'>"
         + oefnungszeiten()
@@ -158,7 +158,7 @@ function popupcontent(feature, layer) {
         + "<th colspan='2'>Weitere Daten:</th>"
         + innereTabelle
         + "</table></div>"
-        + "<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a target='_blank' href='http://openstreetmap.org/" + feature.id + "'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p></div>";
+        + "<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p></div>";
 
 
 
