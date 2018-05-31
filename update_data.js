@@ -22,12 +22,15 @@ function getSimpleNode(node) {
         if (node.properties.shop === 'farm' && node.properties.amenity != 'vending_machine') {
             property = "farm"
         }
-        else if (node.properties.amenity === 'marketplace') {
+        else if (node.properties.amenity === 'marketplace' && node.properties.shop != 'farm' && node.properties.amenity != 'vending_machine') {
             property = "marketplace"
         }
-        else if (node.properties.amenity === 'vending_machine') {
+        else if (node.properties.amenity === 'vending_machine'&& node.properties.shop != 'farm' && node.properties.amenity != 'marketplace') {
             property = "vending_machine"
         }
+        else if (node.properties.amenity === 'vending_machine') {
+          property = "vending_machine"
+      }
         else {
             property = "unknown"
         }
@@ -85,38 +88,26 @@ console.log(lastUpdate)
 console.log('bbox: ' + bbox)
 
 let query = ` 
-  [out:json][timeout:290];
+  [out:json][timeout:642];
   // gather results
   (
-  // query part for: “vending=milk”
-  node["vending"="milk"](${bbox});
-  way["vending"="milk"](${bbox});
-  relation["vending"="milk"](${bbox});
-
-  // query part for: “shop=farm”
-  node["shop"="farm"](${bbox});
-  way["shop"="farm"](${bbox});
-  relation["shop"="farm"](${bbox});
-
-  // query part for: “vending=food”
-  node["vending"="food"](${bbox});
-  way["vending"="food"](${bbox});
-  relation["vending"="food"](${bbox});
-
-  // query part for: “vending=bread”
-  node["vending"="bread"](${bbox});
-  way["vending"="bread"](${bbox});
-  relation["vending"="bread"](${bbox});
-
+  // query part for: “vending=milk,food,eggs”
+  node["vending"~"milk|eggs|food"](${bbox});
+  way["vending"~"milk|eggs|food"](${bbox});
+  relation["vending"~"milk|eggs|food"](${bbox});
   // query part for: “amenity=marketplace”
   node["amenity"="marketplace"](${bbox});
   way["amenity"="marketplace"](${bbox});
   relation["amenity"="marketplace"](${bbox});
+  // query part for: “shop=farm”
+  node["shop"="farm"](${bbox});
+  way["shop"="farm"](${bbox});
+  relation["shop"="farm"](${bbox});
   );
-
   // print results
   out center;
 `;
+console.log(query)
 
 // query overpass, write to folders by id
 query_overpass(query, (error, data)  => {
