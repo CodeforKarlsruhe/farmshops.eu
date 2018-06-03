@@ -88,7 +88,7 @@ console.log(lastUpdate)
 console.log('bbox: ' + bbox)
 
 let query = ` 
-  [out:json][timeout:642];
+  [out:json][timeout:742];
   // gather results
   (
   // query part for: “vending=milk,food,eggs”
