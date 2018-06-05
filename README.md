@@ -9,9 +9,9 @@ Using:
 - The node module query-overpass for importing OSM data from http://overpass-turbo.eu/
 - [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2)
 - [leaflet locatecontrol](https://github.com/domoritz/leaflet-locatecontrol)
+- [opening_hours.js](https://github.com/opening-hours/opening_hours.js)
 
 Planned for future versions:
-- [opening_hours.js](https://github.com/opening-hours/opening_hours.js)
 - [tags2names](https://github.com/ENT8R/tags2names)
 
 ## Documentation in German
