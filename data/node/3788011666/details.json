@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Überdacht":"ja","payment:cash":"ja","Verkauft":"milk","Rollstuhlgerecht":"ja"},"name":"Milchtankstelle","address":{"city":"Unbekannt"},"opening_hours":"Mo-Su 07:00-22:00","property":"vending_machine","id":"node/3788011666","geometry":{"type":"Point","coordinates":[7.878169,51.6984716]}}

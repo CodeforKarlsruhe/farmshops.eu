@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4555745798","properties":{"amenity":"vending_machine","payment:coins":"yes","payment:notes":"yes","vending":"food;drinks","id":"node/4555745798"},"geometry":{"type":"Point","coordinates":[12.6549436,53.3063598]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","payment:coins":"ja","payment:notes":"ja","Verkauft":"food, drinks"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4555745798","geometry":{"type":"Point","coordinates":[12.6549436,53.3063598]}}

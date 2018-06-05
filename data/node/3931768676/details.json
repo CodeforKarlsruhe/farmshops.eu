@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3931768676","properties":{"amenity":"vending_machine","payment:coins":"yes","vending":"animal_food","id":"node/3931768676"},"geometry":{"type":"Point","coordinates":[10.8690329,50.2292221]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","payment:coins":"ja","Verkauft":"animal_food"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/3931768676","geometry":{"type":"Point","coordinates":[10.8690329,50.2292221]}}

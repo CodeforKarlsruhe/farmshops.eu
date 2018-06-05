@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Milch":"raw_milk","Betreiber":"Zengerle","payment:coins":"ja","payment:notes":"ja","Verkauft":"milk"},"name":"Milchhäusle","address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"vending_machine","id":"node/2558579346","geometry":{"type":"Point","coordinates":[10.0782155,47.703643]}}

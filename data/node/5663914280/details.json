@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5663914280","properties":{"name":"Gemüse Schweiger","operator":"Ute Schweiger","phone":"+49 8382 89605","shop":"farm","id":"node/5663914280"},"geometry":{"type":"Point","coordinates":[9.6408238,47.569806]}}
+{"type":"Feature","properties":{"Betreiber":"Ute Schweiger","Telefon":"+49 8382 89605","shop":"farm"},"name":"Gemüse Schweiger","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/5663914280","geometry":{"type":"Point","coordinates":[9.6408238,47.569806]}}

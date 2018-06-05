@@ -120,10 +120,69 @@
 <script src="js/leaflet.markercluster.js"></script>
 <script src="js/leaflet-sidebar.js"></script>
 <script src="js/L.Control.Locate.min.js"></script>
-<script src="js/popupcontent.js"></script>
+<script src="js/opening_hours+deps.min.js"></script>
+<script src="js/jsrender.min.js"></script>
+
 <script src="js/direktvermarkter.js"></script>
+<script src="js/popupcontent.js"></script>
 
+<script id="popupcontenttmpl" type="text/x-jsrender">
 
+  <div id="headline">
+      {{if !name && property === "farm"}}
+        <h1 class="header" >Hofladen</h1>
+        <h2 class="header" >(ohne Namen)</h2>
+      {{else !name && property === "vending_machine"}}
+        <h1 class="header" >Verkaufsautomat</h1>
+        <h2 class="header" >(ohne Namen)</h2>
+      {{else !name && property === "marketplace"}}
+        <h1 class="header" >Marktplatz</h1>
+        <h2 class="header" >(ohne Namen)</h2>
+      {{else}}
+        <h1 class="header" >{{:name}}</h1>
+      {{/if}}
+  </div>
+
+  <div id="wrapper">
+      <div id="adress">
+          <b>Adresse:</b>
+          {{if address.place}}
+              <p>{{:address.place}} ({{:address.suburb}})</p>
+          {{/if}}
+          <p>{{:address.street}} {{:address.housenumber}}</p>
+          <p>{{:address.postcode}} {{:address.city}}</p>
+      </div>
+      <div id="links">
+          <strong>Dieser Ort auf</strong><br>
+          <p><a target='_blank' rel='noopener' href='https://openstreetmap.org/{{:id}}'>OpenStreetMap</a></p>
+          <p><a target='_blank' rel='noopener' href='https://maps.openrouteservice.org/directions?n1={{:geometry.coordinates[1]}}&n2={{:geometry.coordinates[0]}}&n3=14&a=null,null,{{:geometry.coordinates[1]}},{{:geometry.coordinates[0]}}&b=0&c=0&k1=en-US&k2=km'>Open Routeservice</a></p>
+          <p><a target='_blank' rel='noopener' href='https://maps.google.de/?q={{:geometry.coordinates[1]}},{{:geometry.coordinates[0]}}'>Google Maps</a></p>
+
+      </div>
+      <div id='times'>
+          <b>Öffnungszeiten:</b>
+          <p>{{:opening_hours}}<p>
+          {{if open === "open"}}
+            <p><strong><span id='offen'>Gerade offen</span></strong><p>
+          {{else open === "closed"}}
+            <p><strong><span id='geschlossen'>Gerade geschlossen</span></strong><p>
+          {{/if}}
+      </div>
+      <div id='table'>
+          <table>
+              <th colspan='2'>Weitere Daten:</th>
+                  {{props properties}}
+                    <tr>
+                     <td><strong>{{>key}}</strong></td>
+                     <td>{{>prop}}</td>
+                    </tr>
+                  {{/props}}
+          </table>
+      </div>
+      <p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a target='_blank' rel='noopener' href='http://openstreetmap.org/{{:id}}'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p>
+  </div>
+
+</script>
 
 </body>
 </html>

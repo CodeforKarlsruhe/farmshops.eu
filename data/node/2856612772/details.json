@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2856612772","properties":{"amenity":"vending_machine","level":"1","operator":"Selecta","vending":"drinks;food;sweets","id":"node/2856612772"},"geometry":{"type":"Point","coordinates":[13.5652772,52.5707131]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","level":"1","Betreiber":"Selecta","Verkauft":"drinks, food;sweets"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/2856612772","geometry":{"type":"Point","coordinates":[13.5652772,52.5707131]}}
