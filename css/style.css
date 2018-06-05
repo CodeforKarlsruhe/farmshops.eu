@@ -130,6 +130,14 @@ h1 {
         margin-top: 0px;
     }
 
+    #offen {
+        color:green;
+    }
+
+    #geschlossen {
+        color:red;
+    }
+
     .leaflet-popup-content p {
         margin: 0px;
     }

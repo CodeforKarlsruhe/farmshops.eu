@@ -108,7 +108,24 @@ function popupcontent(feature, layer) {
 
     function oefnungszeiten() {
         if (feature.properties["opening_hours"]) {
-            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>" + feature.properties["opening_hours"];
+            
+            var offen = "";
+
+            try {
+            var oh = new opening_hours(feature.properties["opening_hours"]);
+            console.log("oh = " +oh.getState());
+
+            if (oh.getState()){
+                offen = "<br> <strong><span id='offen'>Gerade offen</span></strong>"
+            }
+            else {
+                offen = "<br> <strong><span id='geschlossen'>Gerade geschlossen</span></strong>"
+            }
+            }
+            catch (err) {
+                console.log("Fehler beim Öffnungsstatus von " +feature.properties["opening_hours"] +" " +err.message)
+            }
+            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>" + feature.properties["opening_hours"] +offen;
 
         }
         else {
