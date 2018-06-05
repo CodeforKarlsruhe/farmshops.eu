@@ -116,10 +116,10 @@ function popupcontent(feature, layer) {
             console.log("oh = " +oh.getState());
 
             if (oh.getState()){
-                offen = "<br> <strong><span id='offen'>Gerade offen</span></strong>"
+                offen = "<br> <strong><span id='offen'>Laut Daten gerade offen</span></strong> "
             }
             else {
-                offen = "<br> <strong><span id='geschlossen'>Gerade geschlossen</span></strong>"
+                offen = "<br> <strong><span id='geschlossen'>Laut Daten gerade geschlossen</span></strong>"
             }
             }
             catch (err) {
