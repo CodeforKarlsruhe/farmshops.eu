@@ -10,6 +10,10 @@ Using:
 - [leaflet sidebar v2](https://github.com/Turbo87/sidebar-v2)
 - [leaflet locatecontrol](https://github.com/domoritz/leaflet-locatecontrol)
 
+Planned for future versions:
+- [opening_hours.js](https://github.com/opening-hours/opening_hours.js)
+- [tags2names](https://github.com/ENT8R/tags2names)
+
 ## Documentation in German
 
 Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der Region. Die Karte erhält alle ihre Daten von OpenstreetMap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
