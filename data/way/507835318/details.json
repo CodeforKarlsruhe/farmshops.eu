@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/507835318","properties":{"building":"yes","description":"Erdbeeren selber pflücken","shop":"farm","id":"way/507835318"},"geometry":{"type":"Point","coordinates":[11.4684143,48.1338857]}}
+{"type":"Feature","properties":{"Gebäude":"ja","Beschreibung":"Erdbeeren selber pflücken","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/507835318","geometry":{"type":"Point","coordinates":[11.4684143,48.1338857]}}

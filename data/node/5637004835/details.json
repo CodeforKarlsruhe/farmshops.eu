@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5637004835","properties":{"name":"Dehner Bienen","operator":"Manfred Dehner","shop":"farm","website":"https://www.dehner-bienen.de/","id":"node/5637004835"},"geometry":{"type":"Point","coordinates":[9.8963127,49.3019362]}}
+{"type":"Feature","properties":{"Betreiber":"Manfred Dehner","shop":"farm"},"name":"Dehner Bienen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"https://www.dehner-bienen.de/","property":"farm","id":"node/5637004835","geometry":{"type":"Point","coordinates":[9.8963127,49.3019362]}}

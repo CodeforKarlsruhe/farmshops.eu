@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/430332034","properties":{"amenity":"marketplace","building":"no","name":"Schulhof","id":"way/430332034"},"geometry":{"type":"Point","coordinates":[6.8648107,51.8402296]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"no"},"name":"Schulhof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/430332034","geometry":{"type":"Point","coordinates":[6.8648107,51.8402296]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3738872462","properties":{"name":"Josefs Gemüsestand","shop":"farm","source":"local knowledge","id":"node/3738872462"},"geometry":{"type":"Point","coordinates":[8.6742144,49.4262695]}}
+{"type":"Feature","properties":{"shop":"farm","Quelle":"local knowledge"},"name":"Josefs Gemüsestand","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3738872462","geometry":{"type":"Point","coordinates":[8.6742144,49.4262695]}}

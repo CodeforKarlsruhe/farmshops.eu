@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2207961490","properties":{"amenity":"marketplace","name":"Tržnice","id":"node/2207961490"},"geometry":{"type":"Point","coordinates":[17.5356875,49.2035972]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Tržnice","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2207961490","geometry":{"type":"Point","coordinates":[17.5356875,49.2035972]}}

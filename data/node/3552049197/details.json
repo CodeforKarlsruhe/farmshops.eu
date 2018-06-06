@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3552049197","properties":{"name":"Schönhagener Mühle","shop":"farm","tourism":"chalet","id":"node/3552049197"},"geometry":{"type":"Point","coordinates":[12.1287721,53.1631238]}}
+{"type":"Feature","properties":{"shop":"farm","tourism":"chalet"},"name":"Schönhagener Mühle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3552049197","geometry":{"type":"Point","coordinates":[12.1287721,53.1631238]}}

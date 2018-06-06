@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4760516721","properties":{"addr:city":"Schwegenheim","addr:housenumber":"97","addr:postcode":"67365","addr:street":"Hauptstraße","shop":"farm","id":"node/4760516721"},"geometry":{"type":"Point","coordinates":[8.3260265,49.2680121]}}
+{"type":"Feature","properties":{"shop":"farm"},"address":{"street":"Hauptstraße","housenumber":"97","postcode":"67365","city":"Schwegenheim"},"opening_hours":"Unbekannt","property":"farm","id":"node/4760516721","geometry":{"type":"Point","coordinates":[8.3260265,49.2680121]}}

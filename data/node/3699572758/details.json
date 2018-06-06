@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3699572758","properties":{"amenity":"vending_machine","name":"Snacks & Drinks","vending":"food","id":"node/3699572758"},"geometry":{"type":"Point","coordinates":[8.6631135,50.1074218]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food"},"name":"Snacks & Drinks","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/3699572758","geometry":{"type":"Point","coordinates":[8.6631135,50.1074218]}}

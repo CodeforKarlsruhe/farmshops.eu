@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/156141350","properties":{"building":"yes","name":"Hofladen","organic":"yes","shop":"farm","id":"way/156141350"},"geometry":{"type":"Point","coordinates":[13.8327337,52.1462745]}}
+{"type":"Feature","properties":{"Gebäude":"ja","Biologisch":"ja","shop":"farm"},"name":"Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/156141350","geometry":{"type":"Point","coordinates":[13.8327337,52.1462745]}}

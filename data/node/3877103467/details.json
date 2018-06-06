@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3877103467","properties":{"name":"Haunsrieder Hofladen","operator":"Klaus Mahl","shop":"farm","website":"http://mahls-obsthof.de/","id":"node/3877103467"},"geometry":{"type":"Point","coordinates":[11.1314595,48.3720449]}}
+{"type":"Feature","properties":{"Betreiber":"Klaus Mahl","shop":"farm"},"name":"Haunsrieder Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"http://mahls-obsthof.de/","property":"farm","id":"node/3877103467","geometry":{"type":"Point","coordinates":[11.1314595,48.3720449]}}

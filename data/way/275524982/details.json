@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/275524982","properties":{"amenity":"marketplace","name":"Blankeplatz","id":"way/275524982"},"geometry":{"type":"Point","coordinates":[7.0689752,52.4148248]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Blankeplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/275524982","geometry":{"type":"Point","coordinates":[7.0689752,52.4148248]}}

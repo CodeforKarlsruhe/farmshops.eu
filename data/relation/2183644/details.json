@@ -1,1 +1,1 @@
-{"type":"Feature","id":"relation/2183644","properties":{"amenity":"marketplace","surface":"paving_stones","type":"multipolygon","id":"relation/2183644"},"geometry":{"type":"Point","coordinates":[11.3671141,51.0443943]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","surface":"paving_stones","type":"multipolygon"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"relation/2183644","geometry":{"type":"Point","coordinates":[11.3671141,51.0443943]}}

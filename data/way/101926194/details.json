@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/101926194","properties":{"addr:city":"Großenlüder","addr:housenumber":"4","addr:postcode":"36137","addr:street":"Lochgasse","building":"yes","shop":"farm","id":"way/101926194"},"geometry":{"type":"Point","coordinates":[9.5029211,50.5923683]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"address":{"street":"Lochgasse","housenumber":"4","postcode":"36137","city":"Großenlüder"},"opening_hours":"Unbekannt","property":"farm","id":"way/101926194","geometry":{"type":"Point","coordinates":[9.5029211,50.5923683]}}

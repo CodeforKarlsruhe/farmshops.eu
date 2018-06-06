@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3330990791","properties":{"name":"Hofladen Hof Meyn","shop":"farm","id":"node/3330990791"},"geometry":{"type":"Point","coordinates":[9.8949423,53.7186586]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Hof Meyn","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3330990791","geometry":{"type":"Point","coordinates":[9.8949423,53.7186586]}}

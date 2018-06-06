@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/314275476","properties":{"amenity":"vending_machine","vending":"food","id":"node/314275476"},"geometry":{"type":"Point","coordinates":[8.9897713,49.65672]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/314275476","geometry":{"type":"Point","coordinates":[8.9897713,49.65672]}}

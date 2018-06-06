@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/601411202","properties":{"addr:city":"Dersau","addr:country":"DE","addr:postcode":"24326","addr:street":"Hofkamp","name":"Käsehof Biss","shop":"farm","id":"node/601411202"},"geometry":{"type":"Point","coordinates":[10.3127735,54.1262951]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Käsehof Biss","address":{"street":"Hofkamp","postcode":"24326","city":"Dersau"},"opening_hours":"Unbekannt","property":"farm","id":"node/601411202","geometry":{"type":"Point","coordinates":[10.3127735,54.1262951]}}

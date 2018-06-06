@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/134077672","properties":{"addr:housenumber":"133","addr:street":"Haachtstraat","building":"yes","name":"Paukeshof","produce":"milk","shop":"farm","id":"way/134077672"},"geometry":{"type":"Point","coordinates":[4.6158598,50.9338995]}}
+{"type":"Feature","properties":{"Gebäude":"ja","Produzieren":"milk","shop":"farm"},"name":"Paukeshof","address":{"street":"Haachtstraat","housenumber":"133"},"opening_hours":"Unbekannt","property":"farm","id":"way/134077672","geometry":{"type":"Point","coordinates":[4.6158598,50.9338995]}}

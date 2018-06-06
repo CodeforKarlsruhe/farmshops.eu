@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4758440466","properties":{"amenity":"vending_machine","name":"Mlekomat","operator":"Kmetija Frešer","vending":"milk","id":"node/4758440466"},"geometry":{"type":"Point","coordinates":[15.6531515,46.5219303]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Betreiber":"Kmetija Frešer","Verkauft":"milk"},"name":"Mlekomat","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4758440466","geometry":{"type":"Point","coordinates":[15.6531515,46.5219303]}}

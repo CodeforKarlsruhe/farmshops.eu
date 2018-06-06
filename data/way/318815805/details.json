@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/318815805","properties":{"amenity":"marketplace","building":"yes","name":"Hauptplatz (inoffizielle Bez.)","id":"way/318815805"},"geometry":{"type":"Point","coordinates":[16.2173151,48.081444]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"name":"Hauptplatz (inoffizielle Bez.)","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/318815805","geometry":{"type":"Point","coordinates":[16.2173151,48.081444]}}

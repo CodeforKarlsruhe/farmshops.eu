@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/491906128","properties":{"building":"yes","operator":"Büsch GbR","shop":"farm","source:geometry":"rough guess","id":"way/491906128"},"geometry":{"type":"Point","coordinates":[10.6708964,53.0091312]}}
+{"type":"Feature","properties":{"Gebäude":"ja","Betreiber":"Büsch GbR","shop":"farm","Quelle:geometry":"rough guess"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/491906128","geometry":{"type":"Point","coordinates":[10.6708964,53.0091312]}}

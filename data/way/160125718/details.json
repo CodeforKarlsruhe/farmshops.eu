@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/160125718","properties":{"building":"yes","shop":"farm","id":"way/160125718"},"geometry":{"type":"Point","coordinates":[6.8145686,51.3054343]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/160125718","geometry":{"type":"Point","coordinates":[6.8145686,51.3054343]}}

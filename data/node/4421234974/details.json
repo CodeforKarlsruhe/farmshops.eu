@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4421234974","properties":{"name":"Fejø Cider","phone":"+45 61681657","produce":"cider;apples","shop":"farm","id":"node/4421234974"},"geometry":{"type":"Point","coordinates":[11.4638321,54.9469392]}}
+{"type":"Feature","properties":{"Telefon":"+45 61681657","Produzieren":"cider, apples","shop":"farm"},"name":"Fejø Cider","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4421234974","geometry":{"type":"Point","coordinates":[11.4638321,54.9469392]}}

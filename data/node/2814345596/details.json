@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2814345596","properties":{"name":"Gemüse Schneider","shop":"farm","id":"node/2814345596"},"geometry":{"type":"Point","coordinates":[9.0543096,49.0062781]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Gemüse Schneider","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2814345596","geometry":{"type":"Point","coordinates":[9.0543096,49.0062781]}}

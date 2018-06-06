@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1711252745","properties":{"amenity":"marketplace","name":"Marché mardi matin","id":"node/1711252745"},"geometry":{"type":"Point","coordinates":[5.5840399,50.5689722]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marché mardi matin","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1711252745","geometry":{"type":"Point","coordinates":[5.5840399,50.5689722]}}

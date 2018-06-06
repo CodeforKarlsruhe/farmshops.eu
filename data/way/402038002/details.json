@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/402038002","properties":{"amenity":"marketplace","name":"Használtcikkpiac","second_hand":"only","id":"way/402038002"},"geometry":{"type":"Point","coordinates":[17.44281,46.8771674]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","second_hand":"nur"},"name":"Használtcikkpiac","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/402038002","geometry":{"type":"Point","coordinates":[17.44281,46.8771674]}}

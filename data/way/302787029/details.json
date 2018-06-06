@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/302787029","properties":{"amenity":"marketplace","id":"way/302787029"},"geometry":{"type":"Point","coordinates":[8.8706431,48.5963764]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/302787029","geometry":{"type":"Point","coordinates":[8.8706431,48.5963764]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3396706713","properties":{"operator":"Priskas Hoflädeli","shop":"farm","id":"node/3396706713"},"geometry":{"type":"Point","coordinates":[8.7170629,47.3841607]}}
+{"type":"Feature","properties":{"Betreiber":"Priskas Hoflädeli","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3396706713","geometry":{"type":"Point","coordinates":[8.7170629,47.3841607]}}

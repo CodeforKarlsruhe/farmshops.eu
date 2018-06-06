@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4733602727","properties":{"amenity":"vending_machine","operator":"Luch Agrar GmbH Tietzow","vending":"milk","id":"node/4733602727"},"geometry":{"type":"Point","coordinates":[13.0219483,52.7594918]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Betreiber":"Luch Agrar GmbH Tietzow","Verkauft":"milk"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4733602727","geometry":{"type":"Point","coordinates":[13.0219483,52.7594918]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1602838013","properties":{"name":"Kartoffeln","operator":"Lüdde","shop":"farm","id":"node/1602838013"},"geometry":{"type":"Point","coordinates":[10.6306864,52.4884243]}}
+{"type":"Feature","properties":{"Betreiber":"Lüdde","shop":"farm"},"name":"Kartoffeln","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1602838013","geometry":{"type":"Point","coordinates":[10.6306864,52.4884243]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4417553691","properties":{"name":"Landevejens Blomster & Grønt","shop":"farm","id":"node/4417553691"},"geometry":{"type":"Point","coordinates":[11.9052008,55.2592846]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Landevejens Blomster & Grønt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4417553691","geometry":{"type":"Point","coordinates":[11.9052008,55.2592846]}}

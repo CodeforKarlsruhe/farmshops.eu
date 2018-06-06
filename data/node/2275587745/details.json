@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2275587745","properties":{"amenity":"marketplace","name":"Pöhl","id":"node/2275587745"},"geometry":{"type":"Point","coordinates":[16.3649094,48.199207]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Pöhl","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2275587745","geometry":{"type":"Point","coordinates":[16.3649094,48.199207]}}

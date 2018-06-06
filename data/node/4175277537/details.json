@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4175277537","properties":{"amenity":"vending_machine","food":"milk","name":"Kühl's Milchtankstelle","vending":"food","id":"node/4175277537"},"geometry":{"type":"Point","coordinates":[9.1739434,54.0276675]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","food":"milk","Verkauft":"food"},"name":"Kühl's Milchtankstelle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4175277537","geometry":{"type":"Point","coordinates":[9.1739434,54.0276675]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/166679695","properties":{"amenity":"marketplace","building":"yes","name":"Tržnica","source":"kapor2","id":"way/166679695"},"geometry":{"type":"Point","coordinates":[17.5808002,48.381113]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja","Quelle":"kapor2"},"name":"Tržnica","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/166679695","geometry":{"type":"Point","coordinates":[17.5808002,48.381113]}}

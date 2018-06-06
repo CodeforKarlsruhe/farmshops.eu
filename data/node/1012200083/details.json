@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1012200083","properties":{"name":"Bio-Laden Albertshof","shop":"farm","id":"node/1012200083"},"geometry":{"type":"Point","coordinates":[8.0579777,50.6020012]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Bio-Laden Albertshof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1012200083","geometry":{"type":"Point","coordinates":[8.0579777,50.6020012]}}

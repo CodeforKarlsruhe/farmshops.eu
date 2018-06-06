@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/939455351","properties":{"name":"Hofkäserei Bohlen","shop":"farm","id":"node/939455351"},"geometry":{"type":"Point","coordinates":[7.6607082,53.2392286]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofkäserei Bohlen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/939455351","geometry":{"type":"Point","coordinates":[7.6607082,53.2392286]}}

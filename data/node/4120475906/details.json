@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4120475906","properties":{"amenity":"marketplace","name":"Friedli's Markthalle","id":"node/4120475906"},"geometry":{"type":"Point","coordinates":[8.305999,47.0517823]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Friedli's Markthalle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/4120475906","geometry":{"type":"Point","coordinates":[8.305999,47.0517823]}}

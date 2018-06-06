@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4640592257","properties":{"alt_name":"Markthalle Acht","amenity":"marketplace","indoor":"yes","name":"Markthalle 8","start":"2016-11-26","id":"node/4640592257"},"geometry":{"type":"Point","coordinates":[8.8102259,53.0760009]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","indoor":"ja","start":"2016-11-26"},"name":"Markthalle 8","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/4640592257","geometry":{"type":"Point","coordinates":[8.8102259,53.0760009]}}

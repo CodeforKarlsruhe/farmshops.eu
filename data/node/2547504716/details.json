@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2547504716","properties":{"name":"Gleschendorfer Hofladen","shop":"farm","id":"node/2547504716"},"geometry":{"type":"Point","coordinates":[10.6598322,54.0280445]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Gleschendorfer Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2547504716","geometry":{"type":"Point","coordinates":[10.6598322,54.0280445]}}

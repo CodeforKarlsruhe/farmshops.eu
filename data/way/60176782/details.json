@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/60176782","properties":{"amenity":"marketplace","name":"Place du Manège","id":"way/60176782"},"geometry":{"type":"Point","coordinates":[4.4435975,50.4131232]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Place du Manège","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/60176782","geometry":{"type":"Point","coordinates":[4.4435975,50.4131232]}}

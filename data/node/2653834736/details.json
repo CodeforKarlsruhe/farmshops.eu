@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2653834736","properties":{"name":"Luises Naturgarten","shop":"farm","id":"node/2653834736"},"geometry":{"type":"Point","coordinates":[10.4604284,53.4635343]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Luises Naturgarten","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2653834736","geometry":{"type":"Point","coordinates":[10.4604284,53.4635343]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/248573196","properties":{"name":"Dorfladen Liegau","operator":"Filiale vom Hofladen Weixdorf","shop":"farm","id":"node/248573196"},"geometry":{"type":"Point","coordinates":[13.9011569,51.1372232]}}
+{"type":"Feature","properties":{"Betreiber":"Filiale vom Hofladen Weixdorf","shop":"farm"},"name":"Dorfladen Liegau","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/248573196","geometry":{"type":"Point","coordinates":[13.9011569,51.1372232]}}

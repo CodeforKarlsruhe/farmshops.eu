@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/124449351","properties":{"building":"yes","name":"Hofladen Brunner","shop":"farm","website":"http://hofladen-brunner.de","id":"way/124449351"},"geometry":{"type":"Point","coordinates":[9.1531845,49.9598319]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Hofladen Brunner","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"http://hofladen-brunner.de","property":"farm","id":"way/124449351","geometry":{"type":"Point","coordinates":[9.1531845,49.9598319]}}

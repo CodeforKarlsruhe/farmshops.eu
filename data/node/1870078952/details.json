@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1870078952","properties":{"amenity":"marketplace","name":"Bloemenmarkt","id":"node/1870078952"},"geometry":{"type":"Point","coordinates":[5.1212159,52.093673]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Bloemenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1870078952","geometry":{"type":"Point","coordinates":[5.1212159,52.093673]}}

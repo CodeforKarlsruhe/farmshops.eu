@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2639364357","properties":{"addr:housenumber":"180","addr:street":"Hauptstraße","building":"yes","shop":"farm","id":"node/2639364357"},"geometry":{"type":"Point","coordinates":[8.3194786,49.423534]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"address":{"street":"Hauptstraße","housenumber":"180"},"opening_hours":"Unbekannt","property":"farm","id":"node/2639364357","geometry":{"type":"Point","coordinates":[8.3194786,49.423534]}}

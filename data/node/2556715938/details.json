@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2556715938","properties":{"addr:housenumber":"1","addr:street":"Ruchheimer Straße","name":"Honig vom Imker","shop":"farm","id":"node/2556715938"},"geometry":{"type":"Point","coordinates":[8.2927909,49.4613234]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Honig vom Imker","address":{"street":"Ruchheimer Straße","housenumber":"1"},"opening_hours":"Unbekannt","property":"farm","id":"node/2556715938","geometry":{"type":"Point","coordinates":[8.2927909,49.4613234]}}

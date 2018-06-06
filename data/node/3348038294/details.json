@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3348038294","properties":{"name":"Biohof im Fondli","shop":"farm","website":"http://www.biohof-fondli.ch","id":"node/3348038294"},"geometry":{"type":"Point","coordinates":[8.3823859,47.4098322]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Biohof im Fondli","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"http://www.biohof-fondli.ch","property":"farm","id":"node/3348038294","geometry":{"type":"Point","coordinates":[8.3823859,47.4098322]}}

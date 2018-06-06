@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/379649760","properties":{"amenity":"marketplace","name":"Dvůr","opening_hours":"Tu-Fr 08:00-18:00","website":"http://www.nasdvur.cz/","id":"way/379649760"},"geometry":{"type":"Point","coordinates":[14.4566596,50.1243813]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Dvůr","address":{"city":"Unbekannt"},"opening_hours":"Tu-Fr 08:00-18:00","website":"http://www.nasdvur.cz/","property":"marketplace","id":"way/379649760","geometry":{"type":"Point","coordinates":[14.4566596,50.1243813]}}

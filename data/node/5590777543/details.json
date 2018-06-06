@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5590777543","properties":{"amenity":"marketplace","name":"Eichwalder Wochenmarkt","opening_hours":"Tue 08:00-16:00; Fri 08:00-17:00","id":"node/5590777543"},"geometry":{"type":"Point","coordinates":[13.616725,52.3726982]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Eichwalder Wochenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Tue 08:00-16:00; Fri 08:00-17:00","property":"marketplace","id":"node/5590777543","geometry":{"type":"Point","coordinates":[13.616725,52.3726982]}}

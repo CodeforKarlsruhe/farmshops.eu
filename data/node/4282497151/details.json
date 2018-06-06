@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4282497151","properties":{"amenity":"marketplace","name":"Marktplatz Margarethenhöhe","opening_hours":"We,Sa 08:00-13:00","id":"node/4282497151"},"geometry":{"type":"Point","coordinates":[6.9769264,51.4325425]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Margarethenhöhe","address":{"city":"Unbekannt"},"opening_hours":"We,Sa 08:00-13:00","property":"marketplace","id":"node/4282497151","geometry":{"type":"Point","coordinates":[6.9769264,51.4325425]}}

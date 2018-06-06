@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5295794683","properties":{"amenity":"marketplace","name":"Wochenmarkt Blutstraße","opening_hours":"Mittwoch; Samstag","id":"node/5295794683"},"geometry":{"type":"Point","coordinates":[11.8465582,53.4269077]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Blutstraße","address":{"city":"Unbekannt"},"opening_hours":"Mittwoch; Samstag","property":"marketplace","id":"node/5295794683","geometry":{"type":"Point","coordinates":[11.8465582,53.4269077]}}

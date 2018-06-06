@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1400124810","properties":{"addr:street":"Simonsfeld","amenity":"marketplace","name":"Bauernmarkt Simonsfeld","id":"node/1400124810"},"geometry":{"type":"Point","coordinates":[16.3324782,48.5092487]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Bauernmarkt Simonsfeld","address":{"street":"Simonsfeld"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1400124810","geometry":{"type":"Point","coordinates":[16.3324782,48.5092487]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2930939105","properties":{"name":"Schauwies","organic":"yes","shop":"farm","id":"node/2930939105"},"geometry":{"type":"Point","coordinates":[9.7602645,47.6887187]}}
+{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Schauwies","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2930939105","geometry":{"type":"Point","coordinates":[9.7602645,47.6887187]}}

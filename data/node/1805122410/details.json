@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1805122410","properties":{"amenity":"marketplace","name":"Markt","id":"node/1805122410"},"geometry":{"type":"Point","coordinates":[13.8207914,52.8336533]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Markt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1805122410","geometry":{"type":"Point","coordinates":[13.8207914,52.8336533]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2468025634","properties":{"addr:city":"Liézey","addr:country":"FR","addr:postcode":"88400","produce":"honey","shop":"farm","id":"node/2468025634"},"geometry":{"type":"Point","coordinates":[6.807204,48.0926157]}}
+{"type":"Feature","properties":{"Produzieren":"honey","shop":"farm"},"address":{"postcode":"88400","city":"Liézey"},"opening_hours":"Unbekannt","property":"farm","id":"node/2468025634","geometry":{"type":"Point","coordinates":[6.807204,48.0926157]}}

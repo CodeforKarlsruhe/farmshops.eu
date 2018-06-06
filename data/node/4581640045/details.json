@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4581640045","properties":{"name":"Auhof","phone":"+49 7144 39427","shop":"farm","website":"http://www.auhof.de/","id":"node/4581640045"},"geometry":{"type":"Point","coordinates":[9.3260327,48.9142804]}}
+{"type":"Feature","properties":{"Telefon":"+49 7144 39427","shop":"farm"},"name":"Auhof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"http://www.auhof.de/","property":"farm","id":"node/4581640045","geometry":{"type":"Point","coordinates":[9.3260327,48.9142804]}}

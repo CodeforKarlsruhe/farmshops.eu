@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2421883288","properties":{"amenity":"marketplace","name":"Svět kabelek","id":"node/2421883288"},"geometry":{"type":"Point","coordinates":[15.0018045,49.1477886]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Svět kabelek","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2421883288","geometry":{"type":"Point","coordinates":[15.0018045,49.1477886]}}

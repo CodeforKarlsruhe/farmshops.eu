@@ -1,0 +1,1 @@
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Überdacht":"ja","Betreiber":"Heckelhof","payment:coins":"ja","payment:notes":"ja","Verkauft":"eggs"},"name":"Eierautomat","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4772503240","geometry":{"type":"Point","coordinates":[10.7758707,48.2270662]}}

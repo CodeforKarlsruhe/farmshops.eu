@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5555282739","properties":{"name":"Hoflädchen Jöst","shop":"farm","website":"https://www.hoflaedchen-joest.de/","id":"node/5555282739"},"geometry":{"type":"Point","coordinates":[8.7642199,49.5463541]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hoflädchen Jöst","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"https://www.hoflaedchen-joest.de/","property":"farm","id":"node/5555282739","geometry":{"type":"Point","coordinates":[8.7642199,49.5463541]}}

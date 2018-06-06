@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1949102478","properties":{"alt_name":"EARL Tuchscherer","name":"Chez Murielle","shop":"farm","id":"node/1949102478"},"geometry":{"type":"Point","coordinates":[8.0559629,48.8439678]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Chez Murielle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1949102478","geometry":{"type":"Point","coordinates":[8.0559629,48.8439678]}}

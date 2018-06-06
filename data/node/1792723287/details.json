@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1792723287","properties":{"name":"Kartoffelhaus","shop":"farm","id":"node/1792723287"},"geometry":{"type":"Point","coordinates":[10.7843085,52.5687297]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Kartoffelhaus","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1792723287","geometry":{"type":"Point","coordinates":[10.7843085,52.5687297]}}

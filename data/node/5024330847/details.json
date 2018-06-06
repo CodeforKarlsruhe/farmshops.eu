@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5024330847","properties":{"addr:city":"Bad Krozingen","addr:postcode":"79189","amenity":"marketplace","name":"Wochenmarkt Bahnhofsplatz","opening_hours":"Th","id":"node/5024330847"},"geometry":{"type":"Point","coordinates":[7.6983261,47.9195624]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Bahnhofsplatz","address":{"postcode":"79189","city":"Bad Krozingen"},"opening_hours":"Th","property":"marketplace","id":"node/5024330847","geometry":{"type":"Point","coordinates":[7.6983261,47.9195624]}}

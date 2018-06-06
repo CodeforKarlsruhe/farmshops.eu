@@ -1,1 +1,1 @@
-{"type":"Feature","id":"relation/4178241","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Markt","type":"street","id":"relation/4178241"},"geometry":{"type":"Point","coordinates":[12.3326887,51.5224083]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","area":"ja","highway":"pedestrian","type":"street"},"name":"Markt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"relation/4178241","geometry":{"type":"Point","coordinates":[12.3326887,51.5224083]}}

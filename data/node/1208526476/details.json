@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1208526476","properties":{"name":"Hofgut Laden","organic":"yes","shop":"farm","id":"node/1208526476"},"geometry":{"type":"Point","coordinates":[9.1976334,48.4719937]}}
+{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Hofgut Laden","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1208526476","geometry":{"type":"Point","coordinates":[9.1976334,48.4719937]}}

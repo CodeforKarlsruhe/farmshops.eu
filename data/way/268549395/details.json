@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/268549395","properties":{"name":"Rüchihof","shop":"farm","id":"way/268549395"},"geometry":{"type":"Point","coordinates":[7.8290289,47.5535409]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Rüchihof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/268549395","geometry":{"type":"Point","coordinates":[7.8290289,47.5535409]}}

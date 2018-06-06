@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/133863888","properties":{"addr:housenumber":"7","addr:street":"Hoogveldstraat","building":"yes","name":"Vandenbempt","shop":"farm","id":"way/133863888"},"geometry":{"type":"Point","coordinates":[4.6243464,50.8939527]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Vandenbempt","address":{"street":"Hoogveldstraat","housenumber":"7"},"opening_hours":"Unbekannt","property":"farm","id":"way/133863888","geometry":{"type":"Point","coordinates":[4.6243464,50.8939527]}}

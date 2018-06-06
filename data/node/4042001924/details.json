@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4042001924","properties":{"amenity":"vending_machine","fee":"yes","name":"Milchtankstelle Droste","opening_hours":"24/7","vending":"milk","id":"node/4042001924"},"geometry":{"type":"Point","coordinates":[7.4157668,51.781018]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","fee":"ja","Verkauft":"milk"},"name":"Milchtankstelle Droste","address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"vending_machine","id":"node/4042001924","geometry":{"type":"Point","coordinates":[7.4157668,51.781018]}}

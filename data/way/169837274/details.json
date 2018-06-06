@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/169837274","properties":{"building":"yes","name":"Schülke's Hof (Besen)","shop":"farm","id":"way/169837274"},"geometry":{"type":"Point","coordinates":[9.0004838,49.0092862]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Schülke's Hof (Besen)","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/169837274","geometry":{"type":"Point","coordinates":[9.0004838,49.0092862]}}

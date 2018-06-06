@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/258695684","properties":{"amenity":"marketplace","building":"no","name":"Marché Couvert","id":"way/258695684"},"geometry":{"type":"Point","coordinates":[6.8271423,47.526075]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"no"},"name":"Marché Couvert","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/258695684","geometry":{"type":"Point","coordinates":[6.8271423,47.526075]}}

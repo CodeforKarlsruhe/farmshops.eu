@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2357253101","properties":{"amenity":"marketplace","name":"Termelői piac","wheelchair":"yes","id":"node/2357253101"},"geometry":{"type":"Point","coordinates":[17.1923825,46.7909742]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Rollstuhlgerecht":"ja"},"name":"Termelői piac","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2357253101","geometry":{"type":"Point","coordinates":[17.1923825,46.7909742]}}

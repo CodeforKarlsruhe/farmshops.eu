@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4145057503","properties":{"amenity":"vending_machine","name":"Käseautomat Sennerei Schnepfau","vending":"food","id":"node/4145057503"},"geometry":{"type":"Point","coordinates":[9.946085,47.3522892]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food"},"name":"Käseautomat Sennerei Schnepfau","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4145057503","geometry":{"type":"Point","coordinates":[9.946085,47.3522892]}}

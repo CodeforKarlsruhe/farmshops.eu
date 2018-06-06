@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4980488185","properties":{"amenity":"vending_machine","name":"Slovenské syry","source":"survey","vending":"food","id":"node/4980488185"},"geometry":{"type":"Point","coordinates":[17.076501,48.1684933]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Quelle":"survey","Verkauft":"food"},"name":"Slovenské syry","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4980488185","geometry":{"type":"Point","coordinates":[17.076501,48.1684933]}}

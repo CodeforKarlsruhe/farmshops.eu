@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5637609941","properties":{"name":"Berg&Mark regional","shop":"farm","website":"http://www.bergundmark-regional.de/","id":"node/5637609941"},"geometry":{"type":"Point","coordinates":[7.4358532,51.1725863]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Berg&Mark regional","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"http://www.bergundmark-regional.de/","property":"farm","id":"node/5637609941","geometry":{"type":"Point","coordinates":[7.4358532,51.1725863]}}

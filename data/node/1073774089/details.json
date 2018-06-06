@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1073774089","properties":{"amenity":"marketplace","name":"Cukrárna","shop":"confectionery","id":"node/1073774089"},"geometry":{"type":"Point","coordinates":[16.2592845,49.5245549]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","shop":"confectionery"},"name":"Cukrárna","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1073774089","geometry":{"type":"Point","coordinates":[16.2592845,49.5245549]}}

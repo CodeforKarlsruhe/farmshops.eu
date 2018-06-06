@@ -16,36 +16,6 @@ function writeFileSync(path, data) {
   fs.existsSync(filename) ? fs.appendFileSync(filename, data) : fs.writeFileSync(filename, data)
 }
 
-function getSimpleNode(node) {
-
-  if ( node.properties )
-        if (node.properties.shop === 'farm' && node.properties.amenity != 'vending_machine') {
-            property = "farm"
-        }
-        else if (node.properties.amenity === 'marketplace') {
-            property = "marketplace"
-        }
-        else if (node.properties.amenity === 'vending_machine') {
-            property = "vending_machine"
-        }
-        else {
-            property = "unknown"
-        }
-  else
-     property = null
-  geometry = node.geometry
-  if (geometry && property )
-    return simpleNode = {
-        "type": "Feature",
-        "properties": {
-            "p": property,
-            "id": node.id
-        }, geometry
-    }
-  else
-    return null
-}
-
 function removeDataDir(path) {
   if (!path || path === "/")
       return
@@ -64,8 +34,146 @@ function removeDataDir(path) {
   }
 };
 
-removeDataDir("data/")
+function translatePropertiesToGerman(data) {
+  var properties = {}
+  for (key in data) {
+    if (key.match(/addr:|opening_hours|name|website|id/))
+         continue;
 
+    replacedKey = key.replace("name", "Name")
+                    .replace("opening_hours", "Öffnungszeiten")
+                    .replace(/addr:/g, "")
+                    .replace("city", "Stadt")
+                    .replace("housenumber", "Hausnummer")
+                    .replace("phone", "Telefon")
+                    .replace("operator", "Betreiber")
+                    .replace("postcode", "Postleitzahl")
+                    .replace("street", "Straße")
+                    .replace("organic", "Biologisch")
+                    .replace("produce", "Produzieren")
+                    .replace("product", "Produkt(e)")
+                    .replace("suburb", "Bezirk")
+                    .replace("description", "Beschreibung")
+                    .replace("building", "Gebäude")
+                    .replace("wheelchair", "Rollstuhlgerecht")
+                    .replace("payment coins", "Nimmt Münzen")
+                    .replace("payment notes", "Nimmt Scheine")
+                    .replace("payment cash", "Nimmt Bargeld")
+                    .replace("vending", "Verkauft")
+                    .replace("amenity", "Einrichtung ")
+                    .replace("country", "Land")
+                    .replace("houseName", "Hausname")
+                    .replace("milk", "Milch")
+                    .replace("covered", "Überdacht")
+                    .replace("lastcheck", "Letze Überprüfung")
+                    .replace("source", "Quelle")
+     replacedValue = data[key].replace(";", ", ")
+                    .replace("yes", "ja")
+                    .replace("only", "nur")
+                    .replace("vending_machine", "Verkaufsautomat")
+                    .replace(/contact:/g, "")
+
+    properties[replacedKey] = replacedValue
+  }
+  return properties
+}
+
+function address(data) {
+    var address = {}
+
+    if (data["addr:street"]) 
+        address["street"] = data["addr:street"]
+    
+    if (data["addr:housenumber"])
+        address["housenumber"] = data["addr:housenumber"]
+
+    if (data["addr:postcode"])
+        address["postcode"] = data["addr:postcode"]
+
+    if (data["addr:city"])
+        address["city"] = data["addr:city"]
+
+    if (data["addr:place"])
+        address["place"] = data["addr:place"]
+
+    if (data["addr:suburb"])
+        address["suburb"] = data["addr:suburb"]
+
+    if (Object.keys(address) == 0)
+        address["city"] = "Unbekannt"
+    
+  return address;
+}
+
+function getProperty(data) {
+  var property = "unkown"
+
+  if ( data.properties )
+    if (data.properties.shop === 'farm' && data.properties.amenity != 'vending_machine')
+      property = "farm"
+    else if (data.properties.amenity === 'marketplace' && data.properties.shop != 'farm' && data.properties.amenity != 'vending_machine')
+      property = "marketplace"
+    else if (data.properties.amenity === 'vending_machine'&& data.properties.shop != 'farm' && data.properties.amenity != 'marketplace')
+      property = "vending_machine"
+    else if (data.properties.amenity === 'vending_machine')
+      property = "vending_machine"
+
+  return property
+}
+
+function opening_hours(data) {
+  if (data)
+      return data
+  else 
+      return "Unbekannt"
+}
+
+
+function getDetailNode(data) {
+  var geometry = data.geometry
+
+  var properties = null
+  if ( node.properties )
+    properties = translatePropertiesToGerman(data.properties)
+
+  if (geometry && properties)
+    return {
+        "type": "Feature",
+        properties,
+        "name": data.properties.name,
+        "address": address(data.properties),
+        "opening_hours":  opening_hours(data.properties.opening_hours),
+        "website":  data.properties.website,
+        "property": getProperty(data),
+        "id": data.properties.id,
+        geometry
+    }
+  else
+    return null
+}
+
+function getMinimizedNode(data) {
+  var property = null
+
+  if (data.properties)
+     property = getProperty(data)
+
+  var geometry = data.geometry
+
+  if (geometry && property )
+    return simpleNode = {
+        "type": "Feature",
+        "properties": {
+            "p": property,
+            "id": node.id
+        }, geometry
+    }
+  else
+    return null
+}
+
+
+// __MAIN__
 var today = new Date();
 var hh = today.getHours();
 var dd = today.getDate();
@@ -79,53 +187,51 @@ if(mm<10) {
     mm = '0' + mm
 } 
 
+removeDataDir("data/")
+
 lastUpdate ='Letzter Datenabgleich: ' + dd + '.' + mm + '.' + yyyy +' ungefähr um ' + hh +' Uhr.';
 
 console.log(lastUpdate)
 console.log('bbox: ' + bbox)
 
 let query = ` 
-  [out:json][timeout:250];
+  [out:json][timeout:742];
   // gather results
   (
-  // query part for: “vending=milk”
-  node["vending"="milk"](${bbox});
-  way["vending"="milk"](${bbox});
-  relation["vending"="milk"](${bbox});
-
-  // query part for: “shop=farm”
-  node["shop"="farm"](${bbox});
-  way["shop"="farm"](${bbox});
-  relation["shop"="farm"](${bbox});
-
-  // query part for: “vending=food”
-  node["vending"="food"](${bbox});
-  way["vending"="food"](${bbox});
-  relation["vending"="food"](${bbox});
-
+  // query part for: “vending=milk,food,eggs”
+  node["vending"~"milk|eggs|food"](${bbox});
+  way["vending"~"milk|eggs|food"](${bbox});
+  relation["vending"~"milk|eggs|food"](${bbox});
   // query part for: “amenity=marketplace”
   node["amenity"="marketplace"](${bbox});
   way["amenity"="marketplace"](${bbox});
   relation["amenity"="marketplace"](${bbox});
+  // query part for: “shop=farm”
+  node["shop"="farm"](${bbox});
+  way["shop"="farm"](${bbox});
+  relation["shop"="farm"](${bbox});
   );
-
   // print results
   out center;
 `;
+console.log(query)
 
 // query overpass, write to folders by id
 query_overpass(query, (error, data)  => {
   farmshopGeoJsonFeatures = []
 
-    for (Item in data) {
-      for (subItem in data[Item]) {
-          node = data[Item][subItem]
-          mkdirSyncRecursive(`data/${node.id}`)
-          writeFileSync(`data/${node.id}`, JSON.stringify(node, null, 0))
-          simpleNode = getSimpleNode(node)
-          simpleNode ? farmshopGeoJsonFeatures.push(simpleNode) : null
-      }
+  console.log("Download done, Preparing data ...");
+  mkdirSyncRecursive("data")
+
+  for (Item in data) {
+    for (subItem in data[Item]) {
+      node = data[Item][subItem]
+      mkdirSyncRecursive(`data/${node.id}`)
+      writeFileSync(`data/${node.id}`, JSON.stringify(getDetailNode(node), null, 0))
+      simpleNode = getMinimizedNode(node)
+      simpleNode ? farmshopGeoJsonFeatures.push(simpleNode) : null
     }
+  }
 
   farmshopGeo = JSON.stringify({"type": "FeatureCollection","features": farmshopGeoJsonFeatures}, null, 0)
   fs.writeFileSync('data/farmshopGeoJson.js',  `var lastUpdate = "${lastUpdate}"; var farmshopGeoJson = ${farmshopGeo};`)

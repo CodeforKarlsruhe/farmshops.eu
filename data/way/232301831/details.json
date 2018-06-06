@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/232301831","properties":{"description":"lait-beurre-crème","name":"Coquelet","organic":"no","shop":"farm","id":"way/232301831"},"geometry":{"type":"Point","coordinates":[4.5187827,50.2604196]}}
+{"type":"Feature","properties":{"Beschreibung":"lait-beurre-crème","Biologisch":"no","shop":"farm"},"name":"Coquelet","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/232301831","geometry":{"type":"Point","coordinates":[4.5187827,50.2604196]}}

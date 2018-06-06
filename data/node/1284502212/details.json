@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1284502212","properties":{"amenity":"marketplace","name":"Marktplatz Halle","id":"node/1284502212"},"geometry":{"type":"Point","coordinates":[11.9695136,51.482527]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Halle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1284502212","geometry":{"type":"Point","coordinates":[11.9695136,51.482527]}}

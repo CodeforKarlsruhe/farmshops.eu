@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/404025032","properties":{"amenity":"marketplace","building":"yes","name":"Marktplatz Nusplingen","id":"way/404025032"},"geometry":{"type":"Point","coordinates":[8.8904026,48.1317789]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"name":"Marktplatz Nusplingen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/404025032","geometry":{"type":"Point","coordinates":[8.8904026,48.1317789]}}

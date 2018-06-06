@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3547190483","properties":{"amenity":"vending_machine","name":"Lebensmittelautomat","operator":"Metzgerei Prem","vending":"food","id":"node/3547190483"},"geometry":{"type":"Point","coordinates":[11.6827149,47.3419004]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Betreiber":"Metzgerei Prem","Verkauft":"food"},"name":"Lebensmittelautomat","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/3547190483","geometry":{"type":"Point","coordinates":[11.6827149,47.3419004]}}

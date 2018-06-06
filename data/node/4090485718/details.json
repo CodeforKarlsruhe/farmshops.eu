@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4090485718","properties":{"amenity":"marketplace","id":"node/4090485718"},"geometry":{"type":"Point","coordinates":[16.4020079,48.2217648]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/4090485718","geometry":{"type":"Point","coordinates":[16.4020079,48.2217648]}}

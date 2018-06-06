@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3855018372","properties":{"amenity":"vending_machine","vending":"food","vending_1":"condoms","vending_2":"feminine_hygiene","id":"node/3855018372"},"geometry":{"type":"Point","coordinates":[11.3266061,47.1182141]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food","Verkauft_1":"condoms","Verkauft_2":"feminine_hygiene"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/3855018372","geometry":{"type":"Point","coordinates":[11.3266061,47.1182141]}}

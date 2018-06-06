@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2212545017","properties":{"amenity":"marketplace","name":"trhovisko Stará Turá","id":"node/2212545017"},"geometry":{"type":"Point","coordinates":[17.6930423,48.7797768]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"trhovisko Stará Turá","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2212545017","geometry":{"type":"Point","coordinates":[17.6930423,48.7797768]}}

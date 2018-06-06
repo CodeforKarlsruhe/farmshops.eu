@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/557315556","properties":{"building":"yes","name":"Geflügelhof Klingelhöfer","shop":"farm","id":"way/557315556"},"geometry":{"type":"Point","coordinates":[8.8626885,50.8162398]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Geflügelhof Klingelhöfer","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/557315556","geometry":{"type":"Point","coordinates":[8.8626885,50.8162398]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/304365387","properties":{"amenity":"marketplace","highway":"pedestrian","id":"way/304365387"},"geometry":{"type":"Point","coordinates":[8.599581,49.9299247]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","highway":"pedestrian"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/304365387","geometry":{"type":"Point","coordinates":[8.599581,49.9299247]}}

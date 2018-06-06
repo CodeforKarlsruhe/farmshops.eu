@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3595008998","properties":{"food:asparagus":"yes","food:strawberry":"yes","name":"Spargelhof Häring","seasonal":"yes","shop":"farm","id":"node/3595008998"},"geometry":{"type":"Point","coordinates":[9.1245849,48.7295096]}}
+{"type":"Feature","properties":{"food:asparagus":"ja","food:strawberry":"ja","seasonal":"ja","shop":"farm"},"name":"Spargelhof Häring","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3595008998","geometry":{"type":"Point","coordinates":[9.1245849,48.7295096]}}

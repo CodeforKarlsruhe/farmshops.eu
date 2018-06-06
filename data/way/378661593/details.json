@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/378661593","properties":{"addr:housenumber":"50","addr:street":"Jägerstraße","building":"yes","shop":"farm","id":"way/378661593"},"geometry":{"type":"Point","coordinates":[9.3239881,48.8010548]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"address":{"street":"Jägerstraße","housenumber":"50"},"opening_hours":"Unbekannt","property":"farm","id":"way/378661593","geometry":{"type":"Point","coordinates":[9.3239881,48.8010548]}}

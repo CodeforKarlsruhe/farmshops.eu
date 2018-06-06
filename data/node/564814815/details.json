@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/564814815","properties":{"amenity":"restaurant","name":"Gut Hirschaue","shop":"farm","id":"node/564814815"},"geometry":{"type":"Point","coordinates":[14.1927505,52.2001906]}}
+{"type":"Feature","properties":{"Einrichtung ":"restaurant","shop":"farm"},"name":"Gut Hirschaue","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/564814815","geometry":{"type":"Point","coordinates":[14.1927505,52.2001906]}}

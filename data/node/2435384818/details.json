@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2435384818","properties":{"amenity":"marketplace","name":"Bressel","wheelchair":"yes","id":"node/2435384818"},"geometry":{"type":"Point","coordinates":[7.864061,48.0349652]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Rollstuhlgerecht":"ja"},"name":"Bressel","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2435384818","geometry":{"type":"Point","coordinates":[7.864061,48.0349652]}}

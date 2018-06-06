@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/236040499","properties":{"amenity":"marketplace","building":"yes","name":"Cours des Halles","id":"way/236040499"},"geometry":{"type":"Point","coordinates":[5.535842,46.6750135]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"name":"Cours des Halles","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/236040499","geometry":{"type":"Point","coordinates":[5.535842,46.6750135]}}

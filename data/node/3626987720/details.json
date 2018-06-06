@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3626987720","properties":{"amenity":"marketplace","name":"drzwi i podłogi","id":"node/3626987720"},"geometry":{"type":"Point","coordinates":[16.7458023,51.7119706]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"drzwi i podłogi","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/3626987720","geometry":{"type":"Point","coordinates":[16.7458023,51.7119706]}}

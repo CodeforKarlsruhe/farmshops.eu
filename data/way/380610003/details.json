@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/380610003","properties":{"amenity":"marketplace","building":"yes","id":"way/380610003"},"geometry":{"type":"Point","coordinates":[16.6546811,50.733298]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/380610003","geometry":{"type":"Point","coordinates":[16.6546811,50.733298]}}

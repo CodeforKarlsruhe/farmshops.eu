@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/924089886","properties":{"shop":"farm","id":"node/924089886"},"geometry":{"type":"Point","coordinates":[8.8625964,52.0291084]}}
+{"type":"Feature","properties":{"shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/924089886","geometry":{"type":"Point","coordinates":[8.8625964,52.0291084]}}

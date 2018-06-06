@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/181405614","properties":{"amenity":"marketplace","highway":"pedestrian","name":"Marktplatz","id":"way/181405614"},"geometry":{"type":"Point","coordinates":[11.1172666,51.1618159]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","highway":"pedestrian"},"name":"Marktplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/181405614","geometry":{"type":"Point","coordinates":[11.1172666,51.1618159]}}

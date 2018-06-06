@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/249477284","properties":{"building":"yes","name":"Latz","shop":"farm","id":"way/249477284"},"geometry":{"type":"Point","coordinates":[6.8143738,49.3595554]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Latz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/249477284","geometry":{"type":"Point","coordinates":[6.8143738,49.3595554]}}

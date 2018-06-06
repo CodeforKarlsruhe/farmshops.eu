@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4099177919","properties":{"amenity":"vending_machine","payment:cash":"yes","vending":"milk","id":"node/4099177919"},"geometry":{"type":"Point","coordinates":[8.4571277,53.2284551]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","payment:cash":"ja","Verkauft":"milk"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4099177919","geometry":{"type":"Point","coordinates":[8.4571277,53.2284551]}}

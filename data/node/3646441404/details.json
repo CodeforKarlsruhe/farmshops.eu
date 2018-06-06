@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3646441404","properties":{"addr:housenumber":"18","addr:street":"Saseler Markt","name":"Fruchthaus Sasel","shop":"farm","id":"node/3646441404"},"geometry":{"type":"Point","coordinates":[10.1120398,53.6532032]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Fruchthaus Sasel","address":{"street":"Saseler Markt","housenumber":"18"},"opening_hours":"Unbekannt","property":"farm","id":"node/3646441404","geometry":{"type":"Point","coordinates":[10.1120398,53.6532032]}}

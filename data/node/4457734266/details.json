@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4457734266","properties":{"amenity":"vending_machine","name":"Käse, Kartoffeln","operator":"Neu","vending":"food","id":"node/4457734266"},"geometry":{"type":"Point","coordinates":[6.8976639,49.3398826]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Betreiber":"Neu","Verkauft":"food"},"name":"Käse, Kartoffeln","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4457734266","geometry":{"type":"Point","coordinates":[6.8976639,49.3398826]}}

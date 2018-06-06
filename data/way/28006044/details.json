@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/28006044","properties":{"amenity":"marketplace","highway":"pedestrian","name":"Rathausplatz","opening_hours":"We 07:00-12:00; Sa 07:00-12:00","id":"way/28006044"},"geometry":{"type":"Point","coordinates":[8.109829,53.5275831]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","highway":"pedestrian"},"name":"Rathausplatz","address":{"city":"Unbekannt"},"opening_hours":"We 07:00-12:00; Sa 07:00-12:00","property":"marketplace","id":"way/28006044","geometry":{"type":"Point","coordinates":[8.109829,53.5275831]}}

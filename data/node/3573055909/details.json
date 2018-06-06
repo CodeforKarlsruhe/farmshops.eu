@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3573055909","properties":{"product":"egg","shop":"farm","id":"node/3573055909"},"geometry":{"type":"Point","coordinates":[10.2625989,48.7940227]}}
+{"type":"Feature","properties":{"Produkt(e)":"egg","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3573055909","geometry":{"type":"Point","coordinates":[10.2625989,48.7940227]}}

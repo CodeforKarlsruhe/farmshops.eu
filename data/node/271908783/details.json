@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/271908783","properties":{"addr:city":"Rastatt","addr:housenumber":"2","addr:postcode":"76437","addr:street":"Murgerstal","shop":"farm","id":"node/271908783"},"geometry":{"type":"Point","coordinates":[8.2234768,48.8246612]}}
+{"type":"Feature","properties":{"shop":"farm"},"address":{"street":"Murgerstal","housenumber":"2","postcode":"76437","city":"Rastatt"},"opening_hours":"Unbekannt","property":"farm","id":"node/271908783","geometry":{"type":"Point","coordinates":[8.2234768,48.8246612]}}

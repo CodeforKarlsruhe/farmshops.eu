@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/171886661","properties":{"building":"yes","name":"Haap Gemüse","produce":"egg;vegetables","shop":"farm","source":"Bing","id":"way/171886661"},"geometry":{"type":"Point","coordinates":[9.3173604,48.8090626]}}
+{"type":"Feature","properties":{"Gebäude":"ja","Produzieren":"egg, vegetables","shop":"farm","Quelle":"Bing"},"name":"Haap Gemüse","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/171886661","geometry":{"type":"Point","coordinates":[9.3173604,48.8090626]}}
