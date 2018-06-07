@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Vondenbusch","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2574546866","geometry":{"type":"Point","coordinates":[6.1813815,50.7580701]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Vondenbusch","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2574546866","geometry":{"type":"Point","coordinates":[6.1813815,50.7580701]}}

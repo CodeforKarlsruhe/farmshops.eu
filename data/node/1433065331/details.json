@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Weingut Vollmer","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1433065331","geometry":{"type":"Point","coordinates":[8.2242801,49.616929]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Weingut Vollmer","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1433065331","geometry":{"type":"Point","coordinates":[8.2242801,49.616929]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Perskes Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Mo-Sa 9:00-12:30","property":"farm","id":"node/4033387026","geometry":{"type":"Point","coordinates":[8.305168,50.0015076]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Perskes Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Mo-Sa 9:00-12:30","property":"farm","id":"node/4033387026","geometry":{"type":"Point","coordinates":[8.305168,50.0015076]}}

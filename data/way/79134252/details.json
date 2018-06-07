@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Henzler's Rammerthof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/79134252","geometry":{"type":"Point","coordinates":[9.3163505,48.598984]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Henzler's Rammerthof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/79134252","geometry":{"type":"Point","coordinates":[9.3163505,48.598984]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Grendplatz","address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"marketplace","id":"node/1368815174","geometry":{"type":"Point","coordinates":[7.0752709,51.4464639]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Grendplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"marketplace","id":"node/1368815174","geometry":{"type":"Point","coordinates":[7.0752709,51.4464639]}}

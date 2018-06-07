@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Hof Meerheck","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/310534504","geometry":{"type":"Point","coordinates":[7.5197515,50.440396]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Hof Meerheck","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/310534504","geometry":{"type":"Point","coordinates":[7.5197515,50.440396]}}

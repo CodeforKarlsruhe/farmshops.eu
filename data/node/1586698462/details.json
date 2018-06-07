@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Rotthoffs Hof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1586698462","geometry":{"type":"Point","coordinates":[6.9359296,51.6320469]}}
+{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Rotthoffs Hof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1586698462","geometry":{"type":"Point","coordinates":[6.9359296,51.6320469]}}

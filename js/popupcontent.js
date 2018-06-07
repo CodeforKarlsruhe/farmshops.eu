@@ -5,7 +5,9 @@ function popupcontent(feature, layer) {
 
   feature["open"] = "unkown"
   if (feature.opening_hours !== "Unbekannt") {
-    var oh = new opening_hours(feature.opening_hours);
+    var nom = { "address" : feature.address }
+    var oh = new opening_hours(feature.opening_hours, nom);
+
     console.log("oh = " +oh.getState());
 
     try {

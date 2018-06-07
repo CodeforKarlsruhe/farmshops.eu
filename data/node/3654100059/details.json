@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Otto Feierabend","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3654100059","geometry":{"type":"Point","coordinates":[9.4037268,47.6906222]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Otto Feierabend","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3654100059","geometry":{"type":"Point","coordinates":[9.4037268,47.6906222]}}

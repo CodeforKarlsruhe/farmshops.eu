@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Ahaus","address":{"city":"Unbekannt"},"opening_hours":"We,Sa 08:00-12:00","property":"marketplace","id":"node/1885098352","geometry":{"type":"Point","coordinates":[7.0067901,52.0756361]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Ahaus","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"We,Sa 08:00-12:00","property":"marketplace","id":"node/1885098352","geometry":{"type":"Point","coordinates":[7.0067901,52.0756361]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Brunkhorst's Feldfrüchte","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1068790927","geometry":{"type":"Point","coordinates":[9.2456886,52.3694955]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Brunkhorst's Feldfrüchte","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1068790927","geometry":{"type":"Point","coordinates":[9.2456886,52.3694955]}}

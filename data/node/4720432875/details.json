@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Spargel- und Beerenhof Thumm","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4720432875","geometry":{"type":"Point","coordinates":[9.9344587,48.3711063]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Spargel- und Beerenhof Thumm","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4720432875","geometry":{"type":"Point","coordinates":[9.9344587,48.3711063]}}

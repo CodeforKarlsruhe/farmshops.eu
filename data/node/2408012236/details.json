@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"Milchtankstelle","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2408012236","geometry":{"type":"Point","coordinates":[11.6555405,53.4790402]}}
+{"type":"Feature","properties":{"Biologisch":"Milchtankstelle","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2408012236","geometry":{"type":"Point","coordinates":[11.6555405,53.4790402]}}

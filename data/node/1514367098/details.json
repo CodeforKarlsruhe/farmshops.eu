@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm","Rollstuhlgerecht":"ja"},"name":"Milchhof Soonwald","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1514367098","geometry":{"type":"Point","coordinates":[7.6703361,49.9549273]}}
+{"type":"Feature","properties":{"shop":"farm","Rollstuhlgerecht":"ja"},"name":"Milchhof Soonwald","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1514367098","geometry":{"type":"Point","coordinates":[7.6703361,49.9549273]}}

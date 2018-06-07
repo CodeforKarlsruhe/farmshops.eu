@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Lindenhof","address":{"city":"Unbekannt"},"opening_hours":"Fr 08:00-10:00,11:00-12:00; Tu,Th 09:00-18:00","property":"farm","id":"node/848837121","geometry":{"type":"Point","coordinates":[10.7190722,53.9640311]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Lindenhof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Fr 08:00-10:00,11:00-12:00; Tu,Th 09:00-18:00","property":"farm","id":"node/848837121","geometry":{"type":"Point","coordinates":[10.7190722,53.9640311]}}

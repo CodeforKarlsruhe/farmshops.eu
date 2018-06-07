@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Imkerei Hecht","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2579888753","geometry":{"type":"Point","coordinates":[9.4653071,47.6850015]}}
+{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Imkerei Hecht","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2579888753","geometry":{"type":"Point","coordinates":[9.4653071,47.6850015]}}

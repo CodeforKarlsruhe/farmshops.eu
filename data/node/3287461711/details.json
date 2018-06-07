@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Obsthof Zimmermann","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3287461711","geometry":{"type":"Point","coordinates":[8.2195911,49.8908366]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Obsthof Zimmermann","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3287461711","geometry":{"type":"Point","coordinates":[8.2195911,49.8908366]}}

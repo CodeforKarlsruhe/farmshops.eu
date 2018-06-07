@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Am Marktplatz","address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"marketplace","id":"way/200813548","geometry":{"type":"Point","coordinates":[11.6607409,48.3169573]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Am Marktplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"marketplace","id":"way/200813548","geometry":{"type":"Point","coordinates":[11.6607409,48.3169573]}}

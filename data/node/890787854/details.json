@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Telefon":"+49 4366 89770","shop":"farm"},"name":"Hof Hagen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/890787854","geometry":{"type":"Point","coordinates":[10.9548759,54.181824]}}
+{"type":"Feature","properties":{"Telefon":"+49 4366 89770","shop":"farm"},"name":"Hof Hagen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/890787854","geometry":{"type":"Point","coordinates":[10.9548759,54.181824]}}

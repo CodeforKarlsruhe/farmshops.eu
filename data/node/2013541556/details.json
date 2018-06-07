@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Fr 14:00-17:00","property":"marketplace","id":"node/2013541556","geometry":{"type":"Point","coordinates":[10.6480403,53.8553108]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Fr 14:00-17:00","property":"marketplace","id":"node/2013541556","geometry":{"type":"Point","coordinates":[10.6480403,53.8553108]}}

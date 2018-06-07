@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Donnerstagsmarkt","address":{"city":"Unbekannt"},"opening_hours":"Th 08:30-12:30","property":"marketplace","id":"node/663913845","geometry":{"type":"Point","coordinates":[9.1747727,47.8643539]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Donnerstagsmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Th 08:30-12:30","property":"marketplace","id":"node/663913845","geometry":{"type":"Point","coordinates":[9.1747727,47.8643539]}}

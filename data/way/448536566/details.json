@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","place":"square"},"name":"Hopfenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/448536566","geometry":{"type":"Point","coordinates":[9.9896824,53.5475307]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","place":"square"},"name":"Hopfenmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/448536566","geometry":{"type":"Point","coordinates":[9.9896824,53.5475307]}}

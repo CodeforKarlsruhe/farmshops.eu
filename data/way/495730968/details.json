@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Obsthof Molks","address":{"city":"Unbekannt"},"opening_hours":"09:00-18:00","property":"farm","id":"way/495730968","geometry":{"type":"Point","coordinates":[10.7210623,52.1973443]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Obsthof Molks","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"09:00-18:00","property":"farm","id":"way/495730968","geometry":{"type":"Point","coordinates":[10.7210623,52.1973443]}}

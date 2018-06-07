@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Klosterhof Jührden","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/390283995","geometry":{"type":"Point","coordinates":[7.975339,53.3131173]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Klosterhof Jührden","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/390283995","geometry":{"type":"Point","coordinates":[7.975339,53.3131173]}}

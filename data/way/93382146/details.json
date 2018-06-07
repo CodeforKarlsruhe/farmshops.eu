@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Wintringer Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/93382146","geometry":{"type":"Point","coordinates":[6.9618458,49.2082632]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Wintringer Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/93382146","geometry":{"type":"Point","coordinates":[6.9618458,49.2082632]}}

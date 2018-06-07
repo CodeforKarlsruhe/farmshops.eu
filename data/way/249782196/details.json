@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Kuhlmann","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/249782196","geometry":{"type":"Point","coordinates":[8.4603087,49.9499091]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Kuhlmann","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/249782196","geometry":{"type":"Point","coordinates":[8.4603087,49.9499091]}}

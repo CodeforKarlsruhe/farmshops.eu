@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Bauernmarkt Schumacher","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1986095773","geometry":{"type":"Point","coordinates":[6.8744563,51.0003763]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Bauernmarkt Schumacher","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1986095773","geometry":{"type":"Point","coordinates":[6.8744563,51.0003763]}}

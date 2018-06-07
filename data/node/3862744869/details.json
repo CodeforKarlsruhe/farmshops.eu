@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Gemüsehäusle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/3862744869","geometry":{"type":"Point","coordinates":[9.2368036,48.6818495]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Gemüsehäusle","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/3862744869","geometry":{"type":"Point","coordinates":[9.2368036,48.6818495]}}

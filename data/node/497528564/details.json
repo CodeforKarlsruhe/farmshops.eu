@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Isener Bauernmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/497528564","geometry":{"type":"Point","coordinates":[12.0597097,48.213473]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Isener Bauernmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/497528564","geometry":{"type":"Point","coordinates":[12.0597097,48.213473]}}

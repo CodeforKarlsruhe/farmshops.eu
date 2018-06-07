@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Pauli","address":{"street":"Schemmweg","housenumber":"32","city":"Verl"},"opening_hours":"Unbekannt","property":"farm","id":"node/2642836766","geometry":{"type":"Point","coordinates":[8.5214481,51.8757555]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Pauli","address":{"street":"Schemmweg","housenumber":"32","city":"Verl","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2642836766","geometry":{"type":"Point","coordinates":[8.5214481,51.8757555]}}

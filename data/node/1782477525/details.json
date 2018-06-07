@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hof Reuer","address":{"city":"Unbekannt"},"opening_hours":"Mo-We off; Th-Su 09:00-18:00","property":"farm","id":"node/1782477525","geometry":{"type":"Point","coordinates":[10.6524248,52.247703]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hof Reuer","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Mo-We off; Th-Su 09:00-18:00","property":"farm","id":"node/1782477525","geometry":{"type":"Point","coordinates":[10.6524248,52.247703]}}

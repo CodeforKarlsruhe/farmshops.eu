@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Ulrichsplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2567352992","geometry":{"type":"Point","coordinates":[8.8200579,53.0727522]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Ulrichsplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2567352992","geometry":{"type":"Point","coordinates":[8.8200579,53.0727522]}}

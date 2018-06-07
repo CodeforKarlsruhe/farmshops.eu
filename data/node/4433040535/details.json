@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Macherey","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4433040535","geometry":{"type":"Point","coordinates":[6.4908569,50.8378351]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Macherey","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4433040535","geometry":{"type":"Point","coordinates":[6.4908569,50.8378351]}}

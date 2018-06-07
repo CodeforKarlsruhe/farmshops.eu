@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Gnamm","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4750827920","geometry":{"type":"Point","coordinates":[9.316667,48.8695636]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Gnamm","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4750827920","geometry":{"type":"Point","coordinates":[9.316667,48.8695636]}}

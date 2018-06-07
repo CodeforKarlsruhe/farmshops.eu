@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Renate's Bauernladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/457310480","geometry":{"type":"Point","coordinates":[10.9159637,49.1469346]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Renate's Bauernladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/457310480","geometry":{"type":"Point","coordinates":[10.9159637,49.1469346]}}

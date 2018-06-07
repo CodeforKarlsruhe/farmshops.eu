@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"ja","Produzieren":"fruits","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3077523064","geometry":{"type":"Point","coordinates":[9.6375313,53.5673077]}}
+{"type":"Feature","properties":{"Biologisch":"ja","Produzieren":"fruits","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3077523064","geometry":{"type":"Point","coordinates":[9.6375313,53.5673077]}}

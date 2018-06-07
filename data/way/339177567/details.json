@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"name":"Festplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/339177567","geometry":{"type":"Point","coordinates":[8.078152,48.3981959]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"name":"Festplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/339177567","geometry":{"type":"Point","coordinates":[8.078152,48.3981959]}}

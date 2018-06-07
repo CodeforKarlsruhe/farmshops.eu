@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Obsthof Knoblauch","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2106418155","geometry":{"type":"Point","coordinates":[9.4655528,47.6824152]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Obsthof Knoblauch","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2106418155","geometry":{"type":"Point","coordinates":[9.4655528,47.6824152]}}

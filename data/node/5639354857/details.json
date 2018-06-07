@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Ruit","address":{"city":"Unbekannt"},"opening_hours":"Fr 14:00-18:00","property":"marketplace","id":"node/5639354857","geometry":{"type":"Point","coordinates":[9.2523819,48.7299563]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Ruit","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Fr 14:00-18:00","property":"marketplace","id":"node/5639354857","geometry":{"type":"Point","coordinates":[9.2523819,48.7299563]}}

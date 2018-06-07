@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Betreiber":"Lerchenhof","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4418021576","geometry":{"type":"Point","coordinates":[9.2299103,48.7304173]}}
+{"type":"Feature","properties":{"Betreiber":"Lerchenhof","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4418021576","geometry":{"type":"Point","coordinates":[9.2299103,48.7304173]}}

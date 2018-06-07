@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Schleicher Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/270760144","geometry":{"type":"Point","coordinates":[8.622543,49.1418229]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Schleicher Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/270760144","geometry":{"type":"Point","coordinates":[8.622543,49.1418229]}}
