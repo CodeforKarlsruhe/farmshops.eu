@@ -1,11 +1,11 @@
 #!/bin/bash
-#sh update.sh username password
-#Wenn password sonderzeichen enthält, dann muss es mit hochstrichen eingereicht werden
+#sh update.sh u p
+#Wenn p sonderzeichen enthält, dann muss es mit hochstrichen eingereicht werden
 echo $1
 git pull origin master
 
-username=$1
-password=$2
+u=$1
+p=$2
 
 
 if [[ `git status --porcelain` ]]; then
@@ -26,7 +26,7 @@ git commit -m "Datenupdate $number"
 
 if [[ $1 && $2 ]]; then
   echo 'push with variables'
-  git push https://$username:$password@github.com/CodeforKarlsruhe/direktvermarkter.git
+  git push https://$u:$p@github.com/CodeforKarlsruhe/direktvermarkter.git
 else
   echo 'push normaly'
   git push origin master
