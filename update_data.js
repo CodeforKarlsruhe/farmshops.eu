@@ -1,3 +1,4 @@
+#!/usr/local/bin/node
 const query_overpass = require("query-overpass");
 const fs = require("fs")
 const bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
