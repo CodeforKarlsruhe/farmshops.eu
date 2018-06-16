@@ -27,22 +27,19 @@ var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{
 var greenMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'green-light',
-    shape: 'circle',
-    number: 'H'
+    shape: 'square',
 });
 
 var blueMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'blue',
-    shape: 'circle',
-    number: 'A'
+    shape: 'square',
 });
 
 var yellowMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'orange-dark',
-    shape: 'round',
-    number: 'M'
+    shape: 'square',
 });
 
 var blackMarker = L.ExtraMarkers.icon({
