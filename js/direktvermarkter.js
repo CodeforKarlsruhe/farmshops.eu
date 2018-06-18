@@ -32,14 +32,14 @@ var greenMarker = L.ExtraMarkers.icon({
 
 var blueMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
-    markerColor: 'blue',
-    shape: 'square',
+    markerColor: 'cyan',
+    shape: 'square'
 });
 
 var yellowMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
-    markerColor: 'orange-dark',
-    shape: 'square',
+    markerColor: 'yellow',
+    shape: 'square'
 });
 
 var blackMarker = L.ExtraMarkers.icon({
