@@ -26,8 +26,8 @@ Mirror: http://stefang.cepheus.uberspace.de/farmshops/
 ![Map example](https://raw.githubusercontent.com/codeforkarlsruhe/direktvermarkter/master/img/direktvermarkter.png)
 
 Features:
-- Zeigt alle Punkte aus der Region Karlsruhe mit dem Wert shop:farm aus einem GeoJson export von OpenstreetMap an (von overpass-turbo.eu)
-- Unterscheidet Automaten, Hofläden und Märkten durch unterschiedliche Marker
+- Zeigt alle Punkte aus der DACH-Region mit verschiedenen Tags für Hofläden, Verkaufsautomaten und Märkten aus einem GeoJson export von OpenstreetMap an (über overpass-turbo.eu)
+- Unterscheidet Automaten, Hofläden und Märkte durch unterschiedliche Marker
 - Bereitet Daten auf, macht Links klickbar und übersetzt die häufigsten Begriffe
 - Verlinkt von jedem Punkt auf die identischen Koordinaten auf openstreetmap.org, OpenRouteService und Google Maps
 - Zeigt Punkte und Polygone gleichermaßen an. Polygone erhalten einen Pin in ihrem Zentrum.
