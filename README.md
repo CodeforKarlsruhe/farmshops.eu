@@ -33,7 +33,7 @@ Features:
 - Zeigt Punkte und Polygone gleichermaßen an. Polygone erhalten einen Pin in ihrem Zentrum.
 - Permalinks in denen Ort und Zoomlevel weitergegeben werden können
 
-## Popupps
+## Popups
 Die Anzeige der Daten im Popup wird in popupcontent.js definiert. Dort findet auch eine einfache Übersetzung einzelner Begriffe statt. 
 
 ## Datenabgleich
