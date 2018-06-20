@@ -9,7 +9,7 @@ function popupcontent(feature, layer) {
             console.log(prop + " " + feature.properties[prop] + " in Tabelle unsichtbar");
             //do nothing
         }
-        else if (prop == "website" || prop == "contact:website" || prop == "url") {
+        else if (prop == "website" || prop == "contact:website" || prop == "url" || prop == "contact:facebook" || prop == "contact:youtube" || prop == "contact:twitter") {
             popupcontent.unshift("<tr><td><strong>"
                 + prop.replace("website", "Internetseite").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='"
                 + feature.properties[prop] + "' target='_blank' rel='noopener'>"
