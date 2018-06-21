@@ -69,10 +69,6 @@ function popupcontent(feature, layer) {
                     .replace("covered", "Überdacht")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
-                    .replace("eggs", "Eier")
-                    .replace("meat", "Fleisch")
-                    .replace("sausages", "Wurst")
-                    .replace("vegetables", "Gemüse")
 
                 + ":</strong> </td><td>"
                 + feature.properties[prop]
@@ -81,6 +77,10 @@ function popupcontent(feature, layer) {
                     .replace("only", "nur")
                     .replace("vending_machine", "Verkaufsautomat")
                     .replace("raw_milk", "Rohmilch")
+                    .replace("eggs", "Eier")
+                    .replace("meat", "Fleisch")
+                    .replace("sausages", "Wurst")
+                    .replace("vegetables", "Gemüse")
                 + "</td></tr>");
         }
 
