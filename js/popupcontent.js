@@ -1,25 +1,41 @@
 //Popups
 function popupcontent(feature, layer) {
 
-  var popupcontenttmpl = $.templates("#popupcontenttmpl");
+  feature["opening_state"] = "unknown";
 
-  feature["open"] = "unkown"
   if (feature.opening_hours !== "Unbekannt") {
-    var nom = { "address" : feature.address }
-    var oh = new opening_hours(feature.opening_hours, nom);
 
-    console.log("oh = " +oh.getState());
+    // Input node/123457890
+    // Capitalize first letter and concat digits
+    // Result osm_type+osm_id = N12345789
+    var osm_ids = feature.id.split('/');
+    var osm_type = osm_ids[0][0].toUpperCase();
+    var osm_id = osm_ids[1];
 
-    try {
-      if (oh.getState()){
-        feature["open"] = "open"
-      } else {
-        feature["open"] = "closed"
-      }
-    } catch (err) {
-      console.log("Fehler beim Öffnungsstatus von " +feature.properties["opening_hours"] +" " +err.message)
-    }
+    $.ajax({
+        url: `https://nominatim.openstreetmap.org/lookup?format=json&osm_ids=${osm_type}${osm_id}`,
+        dataType: 'json',
+        async: false,
+        success: function(data) {
+            var oh = new opening_hours(feature.opening_hours, data);
+            console.log("oh = " + oh.getState());
+
+            try {
+
+              if ( oh.getState() ) {
+                feature["opening_state"] = "open";
+              } else {
+                feature["opening_state"] = "closed";
+              }
+
+            } catch (err) {
+              console.log("Fehler beim Öffnungsstatus von " + err.message);
+            }
+        }
+    });
+
   }
 
+  var popupcontenttmpl = $.templates("#popupcontenttmpl");
   return popupcontenttmpl.render(feature);
 };
