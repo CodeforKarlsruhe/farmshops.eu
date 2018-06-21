@@ -65,7 +65,6 @@ function popupcontent(feature, layer) {
                     .replace("amenity", "Einrichtung ")
                     .replace("country", "Land")
                     .replace("houseName", "Hausname")
-                    .replace("milk", "Milch")
                     .replace("covered", "Überdacht")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
@@ -81,6 +80,9 @@ function popupcontent(feature, layer) {
                     .replace("meat", "Fleisch")
                     .replace("sausages", "Wurst")
                     .replace("vegetables", "Gemüse")
+                    .replace("milk", "Milch")
+                    .replace("cheese", "Käse")
+                    .replace("butter", "Butter")
                 + "</td></tr>");
         }
 
