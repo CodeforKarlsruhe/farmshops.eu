@@ -23,7 +23,20 @@ function popupcontent(feature, layer) {
                 + " <a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'> Daten Verbessern</a>");
             console.log(prop + " " + feature.properties[prop] + " (fixme)");
         }
-
+        else if (prop == "email" || prop == "contact:email") {
+            popupcontent.unshift("<tr><td><strong>"
+                + prop.replace("email", "E-Mail").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='mailto:"
+                + feature.properties[prop] + "' target='_blank' rel='noopener'>"
+                + feature.properties[prop] + "</a></td></tr>");
+            console.log(prop + " " + feature.properties[prop] + " als Link Formatiert");
+        }
+        else if (prop == "phone" || prop == "contact:phone") {
+            popupcontent.unshift("<tr><td><strong>"
+                + prop.replace("email", "E-Mail").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='tel:"
+                + feature.properties[prop] + "' target='_blank' rel='noopener'>"
+                + feature.properties[prop] + "</a></td></tr>");
+            console.log(prop + " " + feature.properties[prop] + " als Link Formatiert");
+        }
         else {
             popupcontent.push("<tr><td><strong>"
                 + prop
@@ -56,6 +69,10 @@ function popupcontent(feature, layer) {
                     .replace("covered", "Überdacht")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
+                    .replace("eggs", "Eier")
+                    .replace("meat", "Fleisch")
+                    .replace("sausages", "Wurst")
+                    .replace("vegetables", "Gemüse")
 
                 + ":</strong> </td><td>"
                 + feature.properties[prop]
@@ -108,7 +125,7 @@ function popupcontent(feature, layer) {
 
     function oefnungszeiten() {
         if (feature.properties["opening_hours"]) {
-            
+
             var offen = "";
 
             try {
