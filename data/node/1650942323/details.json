@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1650942323","geometry":{"type":"Point","coordinates":[8.637677,51.6328157]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"brand":"Bioland","contact:email":"meyer-ellinghausen@t-online.de","contact:fax":"+49 2955 747655","contact:Telefon":"+49 2955 302","Betreiber":"Karl-Josef Meyer","shop":"farm"},"name":"Biohof Salzkotten","address":{"street":"Ellinghausen","housenumber":"1","postcode":"33154","city":"Salzkotten","suburb":"Oberntudorf","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1650942323","geometry":{"type":"Point","coordinates":[8.637677,51.6328157]}}
+=======
+{"type":"Feature","id":"node/1650942323","properties":{"addr:city":"Salzkotten","addr:country":"DE","addr:housenumber":"1","addr:postcode":"33154","addr:street":"Ellinghausen","addr:suburb":"Oberntudorf","brand":"Bioland","contact:email":"meyer-ellinghausen@t-online.de","contact:fax":"+49 2955 747655","contact:phone":"+49 2955 302","name":"Biohof Salzkotten","operator":"Karl-Josef Meyer","shop":"farm","id":"node/1650942323"},"geometry":{"type":"Point","coordinates":[8.637677,51.6328157]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

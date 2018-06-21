@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","payment:cash":"ja","Verkauft":"food, drinks"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5672932623","geometry":{"type":"Point","coordinates":[9.9515954,48.4910076]}}
+=======
+{"type":"Feature","id":"node/5672932623","properties":{"amenity":"vending_machine","payment:cash":"yes","vending":"food;drinks","id":"node/5672932623"},"geometry":{"type":"Point","coordinates":[9.9515954,48.4910076]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

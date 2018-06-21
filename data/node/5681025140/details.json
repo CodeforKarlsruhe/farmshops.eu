@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","food":"eggs, honey","Betreiber":"Fam. Hagmann","Verkauft":"food"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5681025140","geometry":{"type":"Point","coordinates":[9.5326486,48.113454]}}
+=======
+{"type":"Feature","id":"node/5681025140","properties":{"amenity":"vending_machine","food":"eggs;honey","operator":"Fam. Hagmann","vending":"food","id":"node/5681025140"},"geometry":{"type":"Point","coordinates":[9.5326486,48.113454]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

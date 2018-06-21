@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Hof Overgünne","payment:cash":"ja","payment:coins":"ja","Verkauft":"milk"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"vending_machine","id":"node/5693391261","geometry":{"type":"Point","coordinates":[6.9916021,51.5823174]}}
+=======
+{"type":"Feature","id":"node/5693391261","properties":{"amenity":"vending_machine","currency:EUR":"yes","opening_hours":"24/7","operator":"Hof Overgünne","payment:cash":"yes","payment:coins":"yes","vending":"milk","id":"node/5693391261"},"geometry":{"type":"Point","coordinates":[6.9916021,51.5823174]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

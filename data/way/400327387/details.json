@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt","address":{"city":"Unbekannt"},"opening_hours":"We 12:00-18:30","property":"marketplace","id":"way/400327387","geometry":{"type":"Point","coordinates":[11.4651819,48.0929643]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt","address":{"city":"Neuried","country":"Germany","country_code":"de"},"opening_hours":"We 12:00-18:00; PH off","property":"marketplace","id":"way/400327387","geometry":{"type":"Point","coordinates":[11.4651819,48.0929643]}}
+=======
+{"type":"Feature","id":"way/400327387","properties":{"addr:city":"Neuried","amenity":"marketplace","name":"Wochenmarkt","opening_hours":"We 12:00-18:00; PH off","id":"way/400327387"},"geometry":{"type":"Point","coordinates":[11.4651819,48.0929643]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

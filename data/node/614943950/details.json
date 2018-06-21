@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Bucher","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/614943950","geometry":{"type":"Point","coordinates":[10.8573907,49.592392]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Bucher","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/614943950","geometry":{"type":"Point","coordinates":[10.8573907,49.592392]}}

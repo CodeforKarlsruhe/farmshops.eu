@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","Rollstuhlgerecht":"ja"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/267967118","geometry":{"type":"Point","coordinates":[8.5184655,49.2256924]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Rollstuhlgerecht":"ja"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/267967118","geometry":{"type":"Point","coordinates":[8.5184655,49.2256924]}}

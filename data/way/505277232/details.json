@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Grasser Biohof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/505277232","geometry":{"type":"Point","coordinates":[10.5396266,47.8286182]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Grasser Biohof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/505277232","geometry":{"type":"Point","coordinates":[10.5396266,47.8286182]}}

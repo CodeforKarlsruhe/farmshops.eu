@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"address":{"street":"Domstiftstraße","housenumber":"8","postcode":"91056","city":"Erlangen"},"opening_hours":"24/7","property":"farm","id":"node/5641985416","geometry":{"type":"Point","coordinates":[10.9401285,49.6311459]}}
+{"type":"Feature","properties":{"shop":"farm"},"address":{"street":"Domstiftstraße","housenumber":"8","postcode":"91056","city":"Erlangen","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"farm","id":"node/5641985416","geometry":{"type":"Point","coordinates":[10.9401285,49.6311459]}}

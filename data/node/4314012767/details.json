@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Reinachmühle Lanz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"reinachmühle.de","property":"farm","id":"node/4314012767","geometry":{"type":"Point","coordinates":[9.4734294,47.6931762]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"shop":"farm"},"name":"Reinachmühle Lanz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"http://reinachmühle.de","property":"farm","id":"node/4314012767","geometry":{"type":"Point","coordinates":[9.4734294,47.6931762]}}
+=======
+{"type":"Feature","id":"node/4314012767","properties":{"name":"Reinachmühle Lanz","shop":"farm","website":"http://reinachmühle.de","id":"node/4314012767"},"geometry":{"type":"Point","coordinates":[9.4734294,47.6931762]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

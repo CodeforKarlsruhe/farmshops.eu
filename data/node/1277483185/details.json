@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Markt","address":{"city":"Unbekannt"},"opening_hours":"Tu,Sa","property":"marketplace","id":"node/1277483185","geometry":{"type":"Point","coordinates":[9.207985,48.5204853]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Markt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Tu,Sa","property":"marketplace","id":"node/1277483185","geometry":{"type":"Point","coordinates":[9.207985,48.5204853]}}

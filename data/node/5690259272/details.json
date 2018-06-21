@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","note":"Eier","Verkauft":"food"},"name":"Sveas kleine Eierkiste","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5690259272","geometry":{"type":"Point","coordinates":[8.9487907,53.0093377]}}
+=======
+{"type":"Feature","id":"node/5690259272","properties":{"amenity":"vending_machine","name":"Sveas kleine Eierkiste","note":"Eier","vending":"food","id":"node/5690259272"},"geometry":{"type":"Point","coordinates":[8.9487907,53.0093377]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

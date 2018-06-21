@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Fehrenbacher Obst & Beerenhof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3740332867","geometry":{"type":"Point","coordinates":[7.8538282,48.2483895]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Fehrenbacher Obst & Beerenhof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3740332867","geometry":{"type":"Point","coordinates":[7.8538282,48.2483895]}}

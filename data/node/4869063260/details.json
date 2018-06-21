@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"check_date":"2017-05-10","seasonal":"ja","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4869063260","geometry":{"type":"Point","coordinates":[10.6987336,53.8501818]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"check_date":"2018-06-18","seasonal":"ja","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4869063260","geometry":{"type":"Point","coordinates":[10.6987336,53.8501818]}}
+=======
+{"type":"Feature","id":"node/4869063260","properties":{"check_date":"2018-06-18","seasonal":"yes","shop":"farm","id":"node/4869063260"},"geometry":{"type":"Point","coordinates":[10.6987336,53.8501818]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Wolk","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3023857580","geometry":{"type":"Point","coordinates":[8.5787942,49.5205611]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"email":"Wolk-GbR@t-online.de","Betreiber":"Günter Alfred Wolk / Wolk GbR","Telefon":"+49 6204 1645","shop":"farm"},"name":"Hofladen Wolk","address":{"street":"Am Straßenheimer Weg","housenumber":"7","postcode":"68519","city":"Viernheim","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3023857580","geometry":{"type":"Point","coordinates":[8.5787942,49.5205611]}}
+=======
+{"type":"Feature","id":"node/3023857580","properties":{"addr:city":"Viernheim","addr:housenumber":"7","addr:postcode":"68519","addr:street":"Am Straßenheimer Weg","email":"Wolk-GbR@t-online.de","name":"Hofladen Wolk","operator":"Günter Alfred Wolk / Wolk GbR","phone":"+49 6204 1645","shop":"farm","id":"node/3023857580"},"geometry":{"type":"Point","coordinates":[8.5787942,49.5205611]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Sauerland","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"https://www.hofladen-sauerland.de/","property":"farm","id":"node/5647902343","geometry":{"type":"Point","coordinates":[8.2848053,51.3459605]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Sauerland","address":{"street":"Zeughausstraße","housenumber":"6","postcode":"59872","city":"Meschede","country":"Germany","country_code":"de"},"opening_hours":"Mo-Fr 09:00-18:00; Sa 09:00-15:00","website":"https://www.hofladen-sauerland.de/","property":"farm","id":"node/5647902343","geometry":{"type":"Point","coordinates":[8.2847607,51.3459579]}}
+=======
+{"type":"Feature","id":"node/5647902343","properties":{"addr:city":"Meschede","addr:country":"DE","addr:housenumber":"6","addr:postcode":"59872","addr:street":"Zeughausstraße","name":"Hofladen Sauerland","opening_hours":"Mo-Fr 09:00-18:00; Sa 09:00-15:00","shop":"farm","website":"https://www.hofladen-sauerland.de/","id":"node/5647902343"},"geometry":{"type":"Point","coordinates":[8.2847607,51.3459579]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

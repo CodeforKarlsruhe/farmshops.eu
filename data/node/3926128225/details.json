@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Bauernhof Brinkmann","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3926128225","geometry":{"type":"Point","coordinates":[7.702424,51.5013538]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Bauernhof Brinkmann","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3926128225","geometry":{"type":"Point","coordinates":[7.702424,51.5013538]}}

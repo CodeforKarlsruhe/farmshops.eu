@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","food":"eggs","Verkauft":"food"},"name":"Eier-Automat","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5675737571","geometry":{"type":"Point","coordinates":[11.4455855,48.514827]}}
+=======
+{"type":"Feature","id":"node/5675737571","properties":{"amenity":"vending_machine","food":"eggs","name":"Eier-Automat","vending":"food","id":"node/5675737571"},"geometry":{"type":"Point","coordinates":[11.4455855,48.514827]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

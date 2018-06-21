@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Kirsch","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","website":"hofladenkirsch.de","property":"farm","id":"node/5652859879","geometry":{"type":"Point","coordinates":[13.0734494,50.7744459]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Kirsch","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"hofladenkirsch.de","property":"farm","id":"node/5652859879","geometry":{"type":"Point","coordinates":[13.0734494,50.7744459]}}

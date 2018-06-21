@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Vulkanhof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1429152963","geometry":{"type":"Point","coordinates":[6.9143593,50.1285862]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Vulkanhof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1429152963","geometry":{"type":"Point","coordinates":[6.9143593,50.1285862]}}

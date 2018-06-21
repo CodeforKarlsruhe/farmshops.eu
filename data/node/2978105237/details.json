@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"craft":"beekeeper","shop":"farm"},"name":"Imkerei Straub","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2978105237","geometry":{"type":"Point","coordinates":[12.6064441,49.1083156]}}
+{"type":"Feature","properties":{"craft":"beekeeper","shop":"farm"},"name":"Imkerei Straub","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2978105237","geometry":{"type":"Point","coordinates":[12.6064441,49.1083156]}}

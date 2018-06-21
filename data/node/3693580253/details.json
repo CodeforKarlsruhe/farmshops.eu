@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Produzieren":"egg, sausage","shop":"farm"},"name":"Lauehof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3693580253","geometry":{"type":"Point","coordinates":[13.7237756,50.9560757]}}
+{"type":"Feature","properties":{"Produzieren":"egg, sausage","shop":"farm"},"name":"Lauehof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3693580253","geometry":{"type":"Point","coordinates":[13.7237756,50.9560757]}}

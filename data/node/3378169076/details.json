@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Betreiber":"Bruns","shop":"farm"},"name":"Bauernhof Bruns","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3378169076","geometry":{"type":"Point","coordinates":[10.1174434,52.6050858]}}
+{"type":"Feature","properties":{"Betreiber":"Bruns","shop":"farm"},"name":"Bauernhof Bruns","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3378169076","geometry":{"type":"Point","coordinates":[10.1174434,52.6050858]}}

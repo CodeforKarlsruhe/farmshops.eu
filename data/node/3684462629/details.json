@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"milk"},"address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"vending_machine","id":"node/3684462629","geometry":{"type":"Point","coordinates":[9.3273193,50.2416708]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"milk"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"vending_machine","id":"node/3684462629","geometry":{"type":"Point","coordinates":[9.3273193,50.2416708]}}

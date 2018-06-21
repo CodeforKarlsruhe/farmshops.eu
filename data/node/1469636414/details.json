@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","shop":"farm"},"name":"Bio Eier Schmidt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1469636414","geometry":{"type":"Point","coordinates":[7.4624793,53.4130825]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","shop":"farm"},"name":"Bio Eier Schmidt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1469636414","geometry":{"type":"Point","coordinates":[7.4624793,53.4130825]}}

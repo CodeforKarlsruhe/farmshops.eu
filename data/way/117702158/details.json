@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Eselsmühle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/117702158","geometry":{"type":"Point","coordinates":[9.2906144,49.003501]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Eselsmühle","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/117702158","geometry":{"type":"Point","coordinates":[9.2906144,49.003501]}}

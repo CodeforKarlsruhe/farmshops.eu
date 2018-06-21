@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"contact:Telefon":"0 74 54 - 23 46","shop":"farm"},"name":"Hofladen Schneckenburger","address":{"street":"Oberndorfer Straße","housenumber":"28","postcode":"72172","city":"Sulz am Neckar","suburb":"Bergfelden"},"opening_hours":"Unbekannt","property":"farm","id":"node/3256469051","geometry":{"type":"Point","coordinates":[8.6803898,48.3427535]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"contact:Telefon":"+49 7454 2346","shop":"farm"},"name":"Hofladen Schneckenburger","address":{"street":"Oberndorfer Straße","housenumber":"28","postcode":"72172","city":"Sulz am Neckar","suburb":"Bergfelden","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3256469051","geometry":{"type":"Point","coordinates":[8.6803898,48.3427535]}}
+=======
+{"type":"Feature","id":"node/3256469051","properties":{"addr:city":"Sulz am Neckar","addr:country":"DE","addr:housenumber":"28","addr:postcode":"72172","addr:street":"Oberndorfer Straße","addr:suburb":"Bergfelden","contact:phone":"+49 7454 2346","name":"Hofladen Schneckenburger","shop":"farm","id":"node/3256469051"},"geometry":{"type":"Point","coordinates":[8.6803898,48.3427535]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

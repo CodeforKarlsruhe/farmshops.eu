@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Äweleshof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1241010040","geometry":{"type":"Point","coordinates":[8.798482,49.6662238]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Äweleshof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1241010040","geometry":{"type":"Point","coordinates":[8.798482,49.6662238]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Sonnenblume","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3649516520","geometry":{"type":"Point","coordinates":[9.4636948,47.6680014]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Sonnenblume","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3649516520","geometry":{"type":"Point","coordinates":[9.4636948,47.6680014]}}

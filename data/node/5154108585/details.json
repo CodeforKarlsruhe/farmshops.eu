@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5154108585","geometry":{"type":"Point","coordinates":[9.444893,47.6846184]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","payment:coins":"ja","Verkauft":"food"},"address":{"street":"Tannenburgstraße","housenumber":"18","postcode":"88048","city":"Friedrichshafen","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"vending_machine","id":"node/5154108585","geometry":{"type":"Point","coordinates":[9.444893,47.6846184]}}
+=======
+{"type":"Feature","id":"node/5154108585","properties":{"addr:city":"Friedrichshafen","addr:housenumber":"18","addr:postcode":"88048","addr:street":"Tannenburgstraße","amenity":"vending_machine","currency:EUR":"yes","opening_hours":"24/7","payment:coins":"yes","vending":"food","id":"node/5154108585"},"geometry":{"type":"Point","coordinates":[9.444893,47.6846184]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

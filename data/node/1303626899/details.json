@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Bauernmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1303626899","geometry":{"type":"Point","coordinates":[10.4903102,48.8524455]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Bauernmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1303626899","geometry":{"type":"Point","coordinates":[10.4903102,48.8524455]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"address":{"street":"Jägerstraße","housenumber":"48"},"opening_hours":"Unbekannt","property":"farm","id":"way/188317001","geometry":{"type":"Point","coordinates":[9.3243502,48.8011137]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"address":{"street":"Jägerstraße","housenumber":"48","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/188317001","geometry":{"type":"Point","coordinates":[9.3243502,48.8011137]}}

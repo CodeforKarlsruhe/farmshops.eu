@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Beschreibung":"Bio-Kartoffel","shop":"farm"},"name":"Hof Gruhs","address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"farm","id":"node/2641020440","geometry":{"type":"Point","coordinates":[10.7570328,52.5692949]}}
+{"type":"Feature","properties":{"Beschreibung":"Bio-Kartoffel","shop":"farm"},"name":"Hof Gruhs","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"farm","id":"node/2641020440","geometry":{"type":"Point","coordinates":[10.7570328,52.5692949]}}

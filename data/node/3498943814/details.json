@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Obstkörberl","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3498943814","geometry":{"type":"Point","coordinates":[11.4828977,48.1263066]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Obstkörberl","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3498943814","geometry":{"type":"Point","coordinates":[11.4828977,48.1263066]}}

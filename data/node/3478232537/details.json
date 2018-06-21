@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","payment:coins":"ja","payment:notes":"ja","Verkauft":"milk"},"name":"Milchtankstelle Närmann","address":{"city":"Unbekannt"},"opening_hours":"24/7","property":"vending_machine","id":"node/3478232537","geometry":{"type":"Point","coordinates":[7.3938296,51.7080566]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","payment:coins":"ja","payment:notes":"ja","Verkauft":"milk"},"name":"Milchtankstelle Närmann","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"vending_machine","id":"node/3478232537","geometry":{"type":"Point","coordinates":[7.393827,51.7080736]}}
+=======
+{"type":"Feature","id":"node/3478232537","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Milchtankstelle Närmann","opening_hours":"24/7","payment:coins":"yes","payment:notes":"yes","vending":"milk","id":"node/3478232537"},"geometry":{"type":"Point","coordinates":[7.393827,51.7080736]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

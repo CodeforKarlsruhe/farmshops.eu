@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","Verkauft":"milk","Verkauft_machine":"food"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"unkown","id":"way/173798291","geometry":{"type":"Point","coordinates":[11.2391424,49.6238478]}}
+{"type":"Feature","properties":{"Gebäude":"ja","Verkauft":"milk","Verkauft_machine":"food"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"unkown","id":"way/173798291","geometry":{"type":"Point","coordinates":[11.2391424,49.6238478]}}

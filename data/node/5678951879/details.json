@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"type":"Feature","properties":{"shop":"farm","Rollstuhlgerecht":"limited"},"name":"Geflügelhof Berger","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"http://gefluegelhof-berger.de","property":"farm","id":"node/5678951879","geometry":{"type":"Point","coordinates":[13.1350405,50.7910337]}}
+=======
+{"type":"Feature","id":"node/5678951879","properties":{"name":"Geflügelhof Berger","shop":"farm","website":"http://gefluegelhof-berger.de","wheelchair":"limited","id":"node/5678951879"},"geometry":{"type":"Point","coordinates":[13.1350405,50.7910337]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Mosiak Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/5460570146","geometry":{"type":"Point","coordinates":[13.2788676,52.5266702]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Mosiak Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5460570146","geometry":{"type":"Point","coordinates":[13.2788676,52.5266702]}}

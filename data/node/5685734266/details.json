@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Betreiber":"Markus Pollmann","payment:cash":"ja","Produkt(e)":"Eier","Produkt(e)_1":"Kartoffeln","Produkt(e)_2":"Honig","shop":"farm"},"name":"Verkaufsstand Pollmann","address":{"street":"Fülmer Straße","housenumber":"11","postcode":"32457","city":"Porta Westfalica","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"farm","id":"node/5685734266","geometry":{"type":"Point","coordinates":[9.0353442,52.2018279]}}
+=======
+{"type":"Feature","id":"node/5685734266","properties":{"addr:city":"Porta Westfalica","addr:housenumber":"11","addr:postcode":"32457","addr:street":"Fülmer Straße","name":"Verkaufsstand Pollmann","opening_hours":"24/7","operator":"Markus Pollmann","payment:cash":"yes","product":"Eier","product_1":"Kartoffeln","product_2":"Honig","shop":"farm","id":"node/5685734266"},"geometry":{"type":"Point","coordinates":[9.0353442,52.2018279]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

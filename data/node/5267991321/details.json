@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Theis","address":{"street":"Asperdener Straße"},"opening_hours":"Unbekannt","property":"farm","id":"node/5267991321","geometry":{"type":"Point","coordinates":[6.1178741,51.6912381]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Theis","address":{"street":"Asperdener Straße","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5267991321","geometry":{"type":"Point","coordinates":[6.1178741,51.6912381]}}

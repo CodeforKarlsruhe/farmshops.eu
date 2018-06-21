@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Blumen König","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4686954751","geometry":{"type":"Point","coordinates":[7.427065,51.4189896]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Blumen König","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4686954751","geometry":{"type":"Point","coordinates":[7.427065,51.4189896]}}

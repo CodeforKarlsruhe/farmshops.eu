@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm","Rollstuhlgerecht":"ja"},"name":"Pottbäckers Bauernladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/742397357","geometry":{"type":"Point","coordinates":[6.9930075,51.5731529]}}
+{"type":"Feature","properties":{"shop":"farm","Rollstuhlgerecht":"ja"},"name":"Pottbäckers Bauernladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/742397357","geometry":{"type":"Point","coordinates":[6.9930075,51.5731529]}}

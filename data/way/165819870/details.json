@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Gut Warleberg","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/165819870","geometry":{"type":"Point","coordinates":[9.9956986,54.36113]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Gut Warleberg","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/165819870","geometry":{"type":"Point","coordinates":[9.9956986,54.36113]}}

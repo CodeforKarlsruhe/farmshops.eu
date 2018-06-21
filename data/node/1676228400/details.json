@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Produzieren":"lamb","shop":"farm"},"name":"Wallewein","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1676228400","geometry":{"type":"Point","coordinates":[8.7302873,49.6260432]}}
+{"type":"Feature","properties":{"Produzieren":"lamb","shop":"farm"},"name":"Wallewein","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1676228400","geometry":{"type":"Point","coordinates":[8.7302873,49.6260432]}}

@@ -1,1 +1,5 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","highway":"pedestrian","place":"John-F.-Kennedy-Platz","postal_code":"10825"},"name":"John-F.-Kennedy-Platz","address":{"city":"Unbekannt"},"opening_hours":"Sa,Su 09:00-16:00","property":"marketplace","id":"way/150542181","geometry":{"type":"Point","coordinates":[13.3445978,52.4849193]}}
+<<<<<<< HEAD
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","highway":"pedestrian","place":"John-F.-Kennedy-Platz","postal_code":"10825","surface":"sett","Rollstuhlgerecht":"ja"},"name":"John-F.-Kennedy-Platz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Sa,Su 09:00-16:00","property":"marketplace","id":"way/150542181","geometry":{"type":"Point","coordinates":[13.3445978,52.4849193]}}
+=======
+{"type":"Feature","id":"way/150542181","properties":{"amenity":"marketplace","highway":"pedestrian","name":"John-F.-Kennedy-Platz","opening_hours":"Sa,Su 09:00-16:00","place":"John-F.-Kennedy-Platz","postal_code":"10825","surface":"sett","wheelchair":"yes","id":"way/150542181"},"geometry":{"type":"Point","coordinates":[13.3445978,52.4849193]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

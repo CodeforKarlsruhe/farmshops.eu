@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/713733440","geometry":{"type":"Point","coordinates":[6.516515,51.36401]}}
+{"type":"Feature","properties":{"shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/713733440","geometry":{"type":"Point","coordinates":[6.516515,51.36401]}}

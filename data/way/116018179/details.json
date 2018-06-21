@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Spargelhof Zein","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/116018179","geometry":{"type":"Point","coordinates":[8.2331491,49.4872723]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Spargelhof Zein","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/116018179","geometry":{"type":"Point","coordinates":[8.2331491,49.4872723]}}

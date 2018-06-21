@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Oesterle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1332199405","geometry":{"type":"Point","coordinates":[8.4063528,49.0743589]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Oesterle","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1332199405","geometry":{"type":"Point","coordinates":[8.4063528,49.0743589]}}
