@@ -102,9 +102,6 @@ function address(data) {
     if (Object.keys(address) == 0)
         address["city"] = "Unbekannt"
 
-  address["country"] = "Germany"
-  address["country_code"] = "de"
-    
   return address;
 }
 
