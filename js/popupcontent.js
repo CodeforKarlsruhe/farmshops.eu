@@ -68,12 +68,14 @@ function popupcontent(feature, layer) {
                     .replace("covered", "Überdacht")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
-                    .replace("phone", "Telefon")
-
+                    .replace("lunch", "Mittagstisch")                
+                    .replace("start_date", "Geöffnet seit")
+                              
                 + ":</strong> </td><td>"
                 + feature.properties[prop]
                     .replace(";", ", ")
                     .replace("yes", "ja")
+                    .replace("no", "nein")
                     .replace("only", "nur")
                     .replace("vending_machine", "Verkaufsautomat")
                     .replace("raw_milk", "Rohmilch")
@@ -85,6 +87,9 @@ function popupcontent(feature, layer) {
                     .replace("cheese", "Käse")
                     .replace("butter", "Butter")
                     .replace("marketplace", "Marktplatz")
+                    .replace("bread", "Brot")
+                    .replace("food", "Lebensmittel")
+                    .replace("drinks", "Getränke")
                 + "</td></tr>");
         }
 
