@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"contact:email":"info@landkostladen.de","contact:Telefon":"+49 7257 931315","shop":"farm"},"name":"Schäffner Landkost-Hofladen","address":{"street":"Neutharder Straße","housenumber":"19","postcode":"76646","city":"Bruchsal","suburb":"Büchenau","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3761965213","geometry":{"type":"Point","coordinates":[8.5280368,49.1092334]}}
+=======
+{"type":"Feature","id":"node/3761965213","properties":{"addr:city":"Bruchsal","addr:country":"DE","addr:housenumber":"19","addr:postcode":"76646","addr:street":"Neutharder Straße","addr:suburb":"Büchenau","contact:email":"info@landkostladen.de","contact:phone":"+49 7257 931315","contact:website":"http://www.landkostladen.de/","name":"Schäffner Landkost-Hofladen","shop":"farm","id":"node/3761965213"},"geometry":{"type":"Point","coordinates":[8.5280368,49.1092334]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

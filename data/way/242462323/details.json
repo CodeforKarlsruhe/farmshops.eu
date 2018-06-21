@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","landuse":"retail","Verkauft":"eggs"},"name":"Eierautomat Gutscher","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"way/242462323","geometry":{"type":"Point","coordinates":[9.0396609,48.8885562]}}
+=======
+{"type":"Feature","id":"way/242462323","properties":{"amenity":"vending_machine","landuse":"retail","name":"Eierautomat Gutscher","vending":"eggs","id":"way/242462323"},"geometry":{"type":"Point","coordinates":[9.0396609,48.8885562]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

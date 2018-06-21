@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"contact:fax":"+49 5250 7502","contact:Telefon":"+49 5250 7502","Betreiber":"Elisabeth Jostmeier","Produzieren":"eggs, fowl;beef;pork;potatoes","shop":"farm"},"name":"Hof Jostmeier","address":{"housenumber":"13","postcode":"33129","city":"Delbrück","place":"Heitwinkel","suburb":"Boke","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2689801281","geometry":{"type":"Point","coordinates":[8.5542896,51.7159831]}}
+=======
+{"type":"Feature","id":"node/2689801281","properties":{"addr:city":"Delbrück","addr:country":"DE","addr:housenumber":"13","addr:place":"Heitwinkel","addr:postcode":"33129","addr:suburb":"Boke","contact:fax":"+49 5250 7502","contact:phone":"+49 5250 7502","contact:website":"http://www.hof-jostmeier.de","name":"Hof Jostmeier","operator":"Elisabeth Jostmeier","produce":"eggs;fowl;beef;pork;potatoes","shop":"farm","id":"node/2689801281"},"geometry":{"type":"Point","coordinates":[8.5542896,51.7159831]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

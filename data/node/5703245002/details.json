@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","food":"ja","food:beef":"ja","food:pork":"ja","food:sausages":"ja","Betreiber":"Mahler Friedrich Metzgerei","Verkauft":"food"},"name":"Mahler Friedrich Wurstshop","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5703245002","geometry":{"type":"Point","coordinates":[9.8002752,48.3984175]}}
+=======
+{"type":"Feature","id":"node/5703245002","properties":{"amenity":"vending_machine","food":"yes","food:beef":"yes","food:pork":"yes","food:sausages":"yes","name":"Mahler Friedrich Wurstshop","operator":"Mahler Friedrich Metzgerei","vending":"food","id":"node/5703245002"},"geometry":{"type":"Point","coordinates":[9.8002752,48.3984175]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

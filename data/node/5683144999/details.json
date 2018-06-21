@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Beschreibung:de":"pasteurisierte Vollmilch","payment:coins":"ja","payment:notes":"no","Verkauft":"milk"},"name":"Milchautomat","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"07:00-20:00","property":"vending_machine","id":"node/5683144999","geometry":{"type":"Point","coordinates":[14.4793562,51.1930871]}}
+=======
+{"type":"Feature","id":"node/5683144999","properties":{"amenity":"vending_machine","description:de":"pasteurisierte Vollmilch","name":"Milchautomat","opening_hours":"07:00-20:00","payment:coins":"yes","payment:notes":"no","vending":"milk","id":"node/5683144999"},"geometry":{"type":"Point","coordinates":[14.4793562,51.1930871]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

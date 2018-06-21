@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"brand":"Bioland","email":"info@hofneuheim.de","fax":"+49 4642 9658221","mobile":"+49 176-2336 5880","Biologisch":"nur","Telefon":"+49 4642 9658220","Produzieren":"cheese","shop":"farm"},"name":"Hof Neuheim","address":{"street":"Hof Neuheim","housenumber":"2","postcode":"24376","city":"Kappeln","country":"Germany","country_code":"de"},"opening_hours":"Mo,Sa 10:00-18:00","website":"www.hofneuheim.de","property":"farm","id":"node/4410169309","geometry":{"type":"Point","coordinates":[9.9134838,54.6829045]}}
+=======
+{"type":"Feature","id":"node/4410169309","properties":{"addr:city":"Kappeln","addr:housenumber":"2","addr:postcode":"24376","addr:street":"Hof Neuheim","brand":"Bioland","email":"info@hofneuheim.de","fax":"+49 4642 9658221","mobile":"+49 176-2336 5880","name":"Hof Neuheim","opening_hours":"Mo,Sa 10:00-18:00","organic":"only","phone":"+49 4642 9658220","produce":"cheese","shop":"farm","website":"www.hofneuheim.de","id":"node/4410169309"},"geometry":{"type":"Point","coordinates":[9.9134838,54.6829045]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","drink:Milch":"draught","Verkauft":"food"},"name":"Milch-Tankstelle","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5066562007","geometry":{"type":"Point","coordinates":[11.5363873,48.5276892]}}
+=======
+{"type":"Feature","id":"node/5066562007","properties":{"amenity":"vending_machine","drink:milk":"draught","name":"Milch-Tankstelle","vending":"food","id":"node/5066562007"},"geometry":{"type":"Point","coordinates":[11.5363873,48.5276892]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

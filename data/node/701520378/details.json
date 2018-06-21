@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Betreiber":"Katja und Wilhelm Eden","payment:coins":"ja","Verkauft":"milk"},"name":"SB-Rohmilch-Automat","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/701520378","geometry":{"type":"Point","coordinates":[7.9902991,53.4619412]}}
+=======
+{"type":"Feature","id":"node/701520378","properties":{"amenity":"vending_machine","name":"SB-Rohmilch-Automat","operator":"Katja und Wilhelm Eden","payment:coins":"yes","vending":"milk","id":"node/701520378"},"geometry":{"type":"Point","coordinates":[7.9902991,53.4619412]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

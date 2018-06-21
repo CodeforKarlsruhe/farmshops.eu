@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"contact:email":"info@hofmolkerei-eggers.de","contact:fax":"+49 4123 683 4621","contact:Telefon":"+49 4123 683 4620","Betreiber":"Stephan Eggers","Produzieren":"yoghurt","shop":"farm"},"name":"Hofmolkerei Eggers","address":{"street":"Hauptstraße","housenumber":"10","postcode":"25355","city":"Bullenkuhlen","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2545416444","geometry":{"type":"Point","coordinates":[9.744239,53.7656197]}}
+=======
+{"type":"Feature","id":"node/2545416444","properties":{"addr:city":"Bullenkuhlen","addr:country":"DE","addr:housenumber":"10","addr:postcode":"25355","addr:street":"Hauptstraße","contact:email":"info@hofmolkerei-eggers.de","contact:fax":"+49 4123 683 4621","contact:phone":"+49 4123 683 4620","contact:website":"http://www.hofmolkerei-eggers.de","name":"Hofmolkerei Eggers","operator":"Stephan Eggers","produce":"yoghurt","shop":"farm","id":"node/2545416444"},"geometry":{"type":"Point","coordinates":[9.744239,53.7656197]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

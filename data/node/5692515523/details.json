@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"shop":"farm"},"name":"Obstgut Geiger","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5692515523","geometry":{"type":"Point","coordinates":[7.9409293,49.9812033]}}
+=======
+{"type":"Feature","id":"node/5692515523","properties":{"name":"Obstgut Geiger","shop":"farm","id":"node/5692515523"},"geometry":{"type":"Point","coordinates":[7.9409293,49.9812033]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

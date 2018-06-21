@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Hof Overgünne","payment:cash":"ja","payment:coins":"ja","payment:notes":"ja","Verkauft":"food, drinks"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"vending_machine","id":"node/5693391262","geometry":{"type":"Point","coordinates":[6.9915688,51.5823247]}}
+=======
+{"type":"Feature","id":"node/5693391262","properties":{"amenity":"vending_machine","currency:EUR":"yes","opening_hours":"24/7","operator":"Hof Overgünne","payment:cash":"yes","payment:coins":"yes","payment:notes":"yes","vending":"food;drinks","id":"node/5693391262"},"geometry":{"type":"Point","coordinates":[6.9915688,51.5823247]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

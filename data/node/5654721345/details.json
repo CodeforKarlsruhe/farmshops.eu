@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"contact:fax":"+49 4683 96121","contact:Telefon":"+49 4683 96120","Produzieren":"strawberries, jam","shop":"farm"},"name":"Bauernhof Nielsen","address":{"street":"Taarepswoi","housenumber":"5","postcode":"25938","city":"Borgsum auf Föhr","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5654721345","geometry":{"type":"Point","coordinates":[8.4628522,54.696969]}}
+=======
+{"type":"Feature","id":"node/5654721345","properties":{"addr:city":"Borgsum auf Föhr","addr:housenumber":"5","addr:postcode":"25938","addr:street":"Taarepswoi","contact:fax":"+49 4683 96121","contact:phone":"+49 4683 96120","contact:website":"http://www.bauernhof-nielsen.de","name":"Bauernhof Nielsen","produce":"strawberries;jam","shop":"farm","id":"node/5654721345"},"geometry":{"type":"Point","coordinates":[8.4628522,54.696969]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

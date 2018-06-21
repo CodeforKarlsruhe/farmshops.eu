@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Bioeier","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5669546816","geometry":{"type":"Point","coordinates":[8.0488197,53.5597097]}}
+=======
+{"type":"Feature","id":"node/5669546816","properties":{"name":"Bioeier","organic":"yes","shop":"farm","id":"node/5669546816"},"geometry":{"type":"Point","coordinates":[8.0488197,53.5597097]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

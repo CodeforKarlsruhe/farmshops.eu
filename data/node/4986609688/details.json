@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Verkauft":"milk, food"},"name":"Milch-Tankstelle Reichenschwand","address":{"street":"Nürnberger Straße","housenumber":"16","postcode":"91244","city":"Reichenschwand","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/4986609688","geometry":{"type":"Point","coordinates":[11.372538,49.5134195]}}
+=======
+{"type":"Feature","id":"node/4986609688","properties":{"addr:city":"Reichenschwand","addr:housenumber":"16","addr:postcode":"91244","addr:street":"Nürnberger Straße","amenity":"vending_machine","currency:EUR":"yes","name":"Milch-Tankstelle Reichenschwand","vending":"milk;food","id":"node/4986609688"},"geometry":{"type":"Point","coordinates":[11.372538,49.5134195]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

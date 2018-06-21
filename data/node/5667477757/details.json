@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Milch":"raw_milk","payment:coins":"ja","Verkauft":"milk"},"name":"Witthöfts Milchtankstelle","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"https://www.facebook.com/pages/Witth%C3%B6fts-Milchtankstelle/1440559699511114","property":"vending_machine","id":"node/5667477757","geometry":{"type":"Point","coordinates":[9.9539539,52.8976259]}}
+=======
+{"type":"Feature","id":"node/5667477757","properties":{"amenity":"vending_machine","milk":"raw_milk","name":"Witthöfts Milchtankstelle","payment:coins":"yes","vending":"milk","website":"https://www.facebook.com/pages/Witth%C3%B6fts-Milchtankstelle/1440559699511114","id":"node/5667477757"},"geometry":{"type":"Point","coordinates":[9.9539539,52.8976259]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

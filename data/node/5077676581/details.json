@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"contact:email":"reingard1@gmx.de","contact:Telefon":"+49 38422 45525","Produzieren":"beef, eggs;honey","shop":"farm"},"address":{"street":"Hauptstraße","housenumber":"9","postcode":"23992","city":"Zurow","suburb":"Reinstorf","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"http://hofladen-reinstorf.de/","property":"farm","id":"node/5077676581","geometry":{"type":"Point","coordinates":[11.6402292,53.8479555]}}
+=======
+{"type":"Feature","id":"node/5077676581","properties":{"addr:city":"Zurow","addr:housenumber":"9","addr:postcode":"23992","addr:street":"Hauptstraße","addr:suburb":"Reinstorf","contact:email":"reingard1@gmx.de","contact:phone":"+49 38422 45525","produce":"beef;eggs;honey","shop":"farm","website":"http://hofladen-reinstorf.de/","id":"node/5077676581"},"geometry":{"type":"Point","coordinates":[11.6402292,53.8479555]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

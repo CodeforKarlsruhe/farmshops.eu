@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"shop":"farm"},"name":"Der Dorfladen in Rüppurr","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Th-Fr 09:30-12:30,15:30-18:30; Sa 09:00-13:00; PH closed","property":"farm","id":"node/5667564692","geometry":{"type":"Point","coordinates":[8.4004091,48.9670595]}}
+=======
+{"type":"Feature","id":"node/5667564692","properties":{"name":"Der Dorfladen in Rüppurr","opening_hours":"Th-Fr 09:30-12:30,15:30-18:30; Sa 09:00-13:00; PH closed","shop":"farm","id":"node/5667564692"},"geometry":{"type":"Point","coordinates":[8.4004091,48.9670595]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

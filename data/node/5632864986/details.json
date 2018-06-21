@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"contact:email":"genuss@altfuchshof.de","contact:fax":"+49 6581 1453","contact:Telefon":"+49 651 9706 7260","Betreiber":"Silke und Ronny Fuchsen","Produzieren":"cheese","shop":"farm"},"name":"Käserei Altfuchshof","address":{"street":"Saargaustraße","housenumber":"19a","postcode":"54439","city":"Kahren","country":"Germany","country_code":"de"},"opening_hours":"Fr 15:30-19:00; PH off","property":"farm","id":"node/5632864986","geometry":{"type":"Point","coordinates":[6.5062305,49.5960839]}}
+=======
+{"type":"Feature","id":"node/5632864986","properties":{"addr:city":"Kahren","addr:housenumber":"19a","addr:postcode":"54439","addr:street":"Saargaustraße","contact:email":"genuss@altfuchshof.de","contact:fax":"+49 6581 1453","contact:phone":"+49 651 9706 7260","contact:website":"http://www.altfuchshof.com","name":"Käserei Altfuchshof","opening_hours":"Fr 15:30-19:00; PH off","operator":"Silke und Ronny Fuchsen","produce":"cheese","shop":"farm","id":"node/5632864986"},"geometry":{"type":"Point","coordinates":[6.5062305,49.5960839]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

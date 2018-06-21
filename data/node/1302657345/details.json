@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"shop":"farm","Verkauft":"Most"},"name":"Lütauer Süßmosterei Hofverkauf","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Mo-Fr 08:00-12:00; Sa 10:00-12:00","property":"farm","id":"node/1302657345","geometry":{"type":"Point","coordinates":[10.5479413,53.4362486]}}
+=======
+{"type":"Feature","id":"node/1302657345","properties":{"name":"Lütauer Süßmosterei Hofverkauf","opening_hours":"Mo-Fr 08:00-12:00; Sa 10:00-12:00","shop":"farm","vending":"Most","id":"node/1302657345"},"geometry":{"type":"Point","coordinates":[10.5479413,53.4362486]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

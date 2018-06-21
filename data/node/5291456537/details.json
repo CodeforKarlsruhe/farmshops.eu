@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"marketplace","Letze Überprüfung":"2017-12-18"},"name":"Wochenmarkt Offenburg","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Tu,Sa 07:30-13:00","property":"marketplace","id":"node/5291456537","geometry":{"type":"Point","coordinates":[7.9420088,48.4699106]}}
+=======
+{"type":"Feature","id":"node/5291456537","properties":{"amenity":"marketplace","lastcheck":"2017-12-18","name":"Wochenmarkt Offenburg","opening_hours":"Tu,Sa 07:30-13:00","id":"node/5291456537"},"geometry":{"type":"Point","coordinates":[7.9420088,48.4699106]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

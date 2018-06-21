@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Betreiber":"Reichel","Telefon":"+49 911 756397","shop":"farm"},"name":"Reichel's Hofladen","address":{"street":"Felsenkellerweg","housenumber":"1","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"http://www.hofladen-bauernladen.info/adressen/reichels-hofladen-fuerth__3683.php","property":"farm","id":"node/4068064424","geometry":{"type":"Point","coordinates":[10.9225694,49.4849254]}}
+=======
+{"type":"Feature","id":"node/4068064424","properties":{"addr:housenumber":"1","addr:street":"Felsenkellerweg","name":"Reichel's Hofladen","operator":"Reichel","phone":"+49 911 756397","shop":"farm","website":"http://www.hofladen-bauernladen.info/adressen/reichels-hofladen-fuerth__3683.php","id":"node/4068064424"},"geometry":{"type":"Point","coordinates":[10.9225694,49.4849254]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

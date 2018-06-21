@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","food":"eggs","Betreiber":"Oelkershof","payment:coins":"ja","Verkauft":"food"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/2432680992","geometry":{"type":"Point","coordinates":[9.5691816,52.2879476]}}
+=======
+{"type":"Feature","id":"node/2432680992","properties":{"amenity":"vending_machine","food":"eggs","operator":"Oelkershof","payment:coins":"yes","vending":"food","id":"node/2432680992"},"geometry":{"type":"Point","coordinates":[9.5691816,52.2879476]}}
+>>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
