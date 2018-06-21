@@ -68,6 +68,7 @@ function popupcontent(feature, layer) {
                     .replace("covered", "Überdacht")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
+                    .replace("phone", "Telefon")
 
                 + ":</strong> </td><td>"
                 + feature.properties[prop]
@@ -83,6 +84,7 @@ function popupcontent(feature, layer) {
                     .replace("milk", "Milch")
                     .replace("cheese", "Käse")
                     .replace("butter", "Butter")
+                    .replace("marketplace", "Marktplatz")
                 + "</td></tr>");
         }
 
