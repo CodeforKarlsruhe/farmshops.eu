@@ -23,7 +23,20 @@ function popupcontent(feature, layer) {
                 + " <a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'> Daten Verbessern</a>");
             console.log(prop + " " + feature.properties[prop] + " (fixme)");
         }
-
+        else if (prop == "email" || prop == "contact:email") {
+            popupcontent.unshift("<tr><td><strong>"
+                + prop.replace("email", "E-Mail").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='mailto:"
+                + feature.properties[prop] + "' target='_blank' rel='noopener'>"
+                + feature.properties[prop] + "</a></td></tr>");
+            console.log(prop + " " + feature.properties[prop] + " als Link Formatiert");
+        }
+        else if (prop == "phone" || prop == "contact:phone") {
+            popupcontent.unshift("<tr><td><strong>"
+                + prop.replace("email", "E-Mail").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='tel:"
+                + feature.properties[prop] + "' target='_blank' rel='noopener'>"
+                + feature.properties[prop] + "</a></td></tr>");
+            console.log(prop + " " + feature.properties[prop] + " als Link Formatiert");
+        }
         else {
             popupcontent.push("<tr><td><strong>"
                 + prop
@@ -52,18 +65,31 @@ function popupcontent(feature, layer) {
                     .replace("amenity", "Einrichtung ")
                     .replace("country", "Land")
                     .replace("houseName", "Hausname")
-                    .replace("milk", "Milch")
                     .replace("covered", "Überdacht")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
-
+                    .replace("lunch", "Mittagstisch")                
+                    .replace("start_date", "Geöffnet seit")
+                              
                 + ":</strong> </td><td>"
                 + feature.properties[prop]
                     .replace(";", ", ")
                     .replace("yes", "ja")
+                    .replace("no", "nein")
                     .replace("only", "nur")
                     .replace("vending_machine", "Verkaufsautomat")
                     .replace("raw_milk", "Rohmilch")
+                    .replace("eggs", "Eier")
+                    .replace("meat", "Fleisch")
+                    .replace("sausages", "Wurst")
+                    .replace("vegetables", "Gemüse")
+                    .replace("milk", "Milch")
+                    .replace("cheese", "Käse")
+                    .replace("butter", "Butter")
+                    .replace("marketplace", "Marktplatz")
+                    .replace("bread", "Brot")
+                    .replace("food", "Lebensmittel")
+                    .replace("drinks", "Getränke")
                 + "</td></tr>");
         }
 
@@ -108,7 +134,7 @@ function popupcontent(feature, layer) {
 
     function oefnungszeiten() {
         if (feature.properties["opening_hours"]) {
-            
+
             var offen = "";
 
             try {
