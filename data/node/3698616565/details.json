@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Betreiber":"Wichmanns","shop":"farm"},"name":"Wichmanns Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3698616565","geometry":{"type":"Point","coordinates":[8.851976,53.0861269]}}
+{"type":"Feature","properties":{"Betreiber":"Wichmanns","shop":"farm"},"name":"Wichmanns Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3698616565","geometry":{"type":"Point","coordinates":[8.851976,53.0861269]}}

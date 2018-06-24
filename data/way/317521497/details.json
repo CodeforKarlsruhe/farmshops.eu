@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Th 08:00-12:00","property":"marketplace","id":"way/317521497","geometry":{"type":"Point","coordinates":[9.1127414,51.9909516]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"address":{"city":"Unbekannt"},"opening_hours":"Th 08:00-12:00","property":"marketplace","id":"way/317521497","geometry":{"type":"Point","coordinates":[9.1127414,51.9909516]}}

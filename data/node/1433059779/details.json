@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Weingut Blasius","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1433059779","geometry":{"type":"Point","coordinates":[8.2209971,49.6190421]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Weingut Blasius","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1433059779","geometry":{"type":"Point","coordinates":[8.2209971,49.6190421]}}

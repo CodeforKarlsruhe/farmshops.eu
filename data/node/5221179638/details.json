@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Bauer Beck","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5221179638","geometry":{"type":"Point","coordinates":[9.1671519,48.6910491]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Bauer Beck","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/5221179638","geometry":{"type":"Point","coordinates":[9.1671519,48.6910491]}}

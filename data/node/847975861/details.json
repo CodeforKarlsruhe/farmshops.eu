@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Biobauer Luible","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/847975861","geometry":{"type":"Point","coordinates":[10.4927945,48.3840563]}}
+{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Biobauer Luible","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/847975861","geometry":{"type":"Point","coordinates":[10.4927945,48.3840563]}}

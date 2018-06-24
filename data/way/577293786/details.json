@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Erdbeere","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/577293786","geometry":{"type":"Point","coordinates":[7.9545543,48.4433859]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Erdbeere","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/577293786","geometry":{"type":"Point","coordinates":[7.9545543,48.4433859]}}

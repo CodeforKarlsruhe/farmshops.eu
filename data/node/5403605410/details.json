@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","Biologisch":"ja"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/5403605410","geometry":{"type":"Point","coordinates":[8.3781077,51.9064926]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Biologisch":"ja"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/5403605410","geometry":{"type":"Point","coordinates":[8.3781077,51.9064926]}}

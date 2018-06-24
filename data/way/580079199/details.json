@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"hut","Beschreibung":"Verkauf von Eiern","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/580079199","geometry":{"type":"Point","coordinates":[7.4239112,52.3110072]}}
+{"type":"Feature","properties":{"Gebäude":"hut","Beschreibung":"Verkauf von Eiern","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/580079199","geometry":{"type":"Point","coordinates":[7.4239112,52.3110072]}}

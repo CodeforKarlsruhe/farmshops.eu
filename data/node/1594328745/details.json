@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Ruppiner Wochenmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1594328745","geometry":{"type":"Point","coordinates":[12.8054985,52.9250113]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Ruppiner Wochenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1594328745","geometry":{"type":"Point","coordinates":[12.8054985,52.9250113]}}

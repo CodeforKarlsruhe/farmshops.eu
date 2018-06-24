@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","email":"kontakt@antik-buchmarkt.de","Telefon":"+491717101662","second_hand":"ja"},"name":"Antik & Buchmarkt am Bodemuseum","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Sa-Su,PH 11:00-17:00","website":"http://antik-buchmarkt.de/","property":"marketplace","id":"way/521302374","geometry":{"type":"Point","coordinates":[13.3931865,52.52154]}}
-=======
-{"type":"Feature","id":"way/521302374","properties":{"amenity":"marketplace","email":"kontakt@antik-buchmarkt.de","name":"Antik & Buchmarkt am Bodemuseum","opening_hours":"Sa-Su,PH 11:00-17:00","phone":"+491717101662","second_hand":"yes","website":"http://antik-buchmarkt.de/","id":"way/521302374"},"geometry":{"type":"Point","coordinates":[13.3931865,52.52154]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","email":"kontakt@antik-buchmarkt.de","Telefon":"+491717101662"},"name":"Antik & Buchmarkt am Bodemuseum","address":{"city":"Unbekannt"},"opening_hours":"Sa-Su,PH 11:00-17:00","website":"http://antik-buchmarkt.de/","property":"marketplace","id":"way/521302374","geometry":{"type":"Point","coordinates":[13.3931865,52.52154]}}

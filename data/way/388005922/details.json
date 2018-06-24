@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"name":"Hundemarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/388005922","geometry":{"type":"Point","coordinates":[10.4822739,51.9001443]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Gebäude":"ja"},"name":"Hundemarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/388005922","geometry":{"type":"Point","coordinates":[10.4822739,51.9001443]}}

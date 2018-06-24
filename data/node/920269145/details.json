@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"contact:Telefon":"+49 2932 6393367","Betreiber":"Christian Schulte Vertriebsgesellschaft Sauerland UG (haftungsbeschränkt)","shop":"farm","Rollstuhlgerecht":"ja"},"name":"Hofladen Sauerland","address":{"street":"Neheimer Markt","housenumber":"4","postcode":"59755","city":"Arnsberg","country":"Germany","country_code":"de"},"opening_hours":"Mo-Fr 09:00-18:30; Sa 09:00-16:00","property":"farm","id":"node/920269145","geometry":{"type":"Point","coordinates":[7.9599976,51.4530942]}}
-=======
-{"type":"Feature","id":"node/920269145","properties":{"addr:city":"Arnsberg","addr:country":"DE","addr:housenumber":"4","addr:postcode":"59755","addr:street":"Neheimer Markt","contact:phone":"+49 2932 6393367","contact:website":"www.hofladen-sauerland.de","name":"Hofladen Sauerland","opening_hours":"Mo-Fr 09:00-18:30; Sa 09:00-16:00","operator":"Christian Schulte Vertriebsgesellschaft Sauerland UG (haftungsbeschränkt)","shop":"farm","wheelchair":"yes","id":"node/920269145"},"geometry":{"type":"Point","coordinates":[7.9599976,51.4530942]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

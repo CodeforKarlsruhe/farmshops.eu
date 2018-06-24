@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Lepkeshof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2139293706","geometry":{"type":"Point","coordinates":[6.89895,51.4719835]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Lepkeshof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2139293706","geometry":{"type":"Point","coordinates":[6.89895,51.4719835]}}

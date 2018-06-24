@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Pfeiffer's Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3043599534","geometry":{"type":"Point","coordinates":[8.6135925,50.8579707]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Pfeiffer's Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3043599534","geometry":{"type":"Point","coordinates":[8.6135925,50.8579707]}}

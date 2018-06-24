@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Beschreibung":"Eier, Nudeln, Honig","Verkauft":"food"},"name":"Dimpflmaier Eierverkaufshaus","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5706151650","geometry":{"type":"Point","coordinates":[12.097483,47.8540341]}}
-=======
-{"type":"Feature","id":"node/5706151650","properties":{"amenity":"vending_machine","description":"Eier, Nudeln, Honig","name":"Dimpflmaier Eierverkaufshaus","vending":"food","id":"node/5706151650"},"geometry":{"type":"Point","coordinates":[12.097483,47.8540341]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

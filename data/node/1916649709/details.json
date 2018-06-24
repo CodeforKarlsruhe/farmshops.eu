@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","indoor":"ja"},"name":"Markthalle","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1916649709","geometry":{"type":"Point","coordinates":[9.2171264,48.4889375]}}
-=======
-{"type":"Feature","id":"node/1916649709","properties":{"amenity":"marketplace","indoor":"yes","name":"Markthalle","id":"node/1916649709"},"geometry":{"type":"Point","coordinates":[9.2171264,48.4889375]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","indoor":"ja"},"name":"Markthalle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1916649709","geometry":{"type":"Point","coordinates":[9.2170795,48.4890175]}}

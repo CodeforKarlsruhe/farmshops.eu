@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Frische Eier aus Freilandhaltung","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2315841045","geometry":{"type":"Point","coordinates":[10.5849218,52.4679161]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Frische Eier aus Freilandhaltung","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2315841045","geometry":{"type":"Point","coordinates":[10.5849218,52.4679161]}}

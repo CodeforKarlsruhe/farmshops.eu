@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Siegfriedplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"We, Fr 07:00-13:00","property":"marketplace","id":"node/976488130","geometry":{"type":"Point","coordinates":[8.5224669,52.0281289]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Siegfriedplatz","address":{"city":"Unbekannt"},"opening_hours":"We, Fr 07:00-13:00","property":"marketplace","id":"node/976488130","geometry":{"type":"Point","coordinates":[8.5224669,52.0281289]}}

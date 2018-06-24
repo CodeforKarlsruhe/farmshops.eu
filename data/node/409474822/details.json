@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Mo-Sa 08:00-18:00","property":"farm","id":"node/409474822","geometry":{"type":"Point","coordinates":[9.228489,49.292896]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Mo-Sa 08:00-18:00","property":"farm","id":"node/409474822","geometry":{"type":"Point","coordinates":[9.228489,49.292896]}}

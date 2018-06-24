@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Beschreibung":"Fleisch, Würste, Gulaschsuppe","Verkauft":"food"},"name":"Lohberger","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5706436814","geometry":{"type":"Point","coordinates":[12.1266683,47.8578245]}}
-=======
-{"type":"Feature","id":"node/5706436814","properties":{"amenity":"vending_machine","description":"Fleisch, Würste, Gulaschsuppe","name":"Lohberger","vending":"food","id":"node/5706436814"},"geometry":{"type":"Point","coordinates":[12.1266683,47.8578245]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

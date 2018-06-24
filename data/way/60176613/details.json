@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Spargelhof Syring","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/60176613","geometry":{"type":"Point","coordinates":[13.0581713,52.2162252]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Spargelhof Syring","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/60176613","geometry":{"type":"Point","coordinates":[13.0581713,52.2162252]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Festplatz Steinbach","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/166094728","geometry":{"type":"Point","coordinates":[9.7469303,49.1029313]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Festplatz Steinbach","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/166094728","geometry":{"type":"Point","coordinates":[9.7469303,49.1029313]}}

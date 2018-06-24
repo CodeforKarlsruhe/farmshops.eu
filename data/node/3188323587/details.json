@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","fair_trade":"ja","Betreiber":"GRÜNE LIGA Berlin e.V.","Biologisch":"nur","Rollstuhlgerecht":"ja"},"name":"Ökomarkt am Kollwitzplatz","address":{"street":"Wörther Straße","postcode":"10435","city":"Berlin","suburb":"Prenzlauer Berg","country":"Germany","country_code":"de"},"opening_hours":"Th 12:00-19:00","property":"marketplace","id":"node/3188323587","geometry":{"type":"Point","coordinates":[13.4180812,52.5366375]}}
-=======
-{"type":"Feature","id":"node/3188323587","properties":{"addr:city":"Berlin","addr:country":"DE","addr:postcode":"10435","addr:street":"Wörther Straße","addr:suburb":"Prenzlauer Berg","amenity":"marketplace","fair_trade":"yes","name":"Ökomarkt am Kollwitzplatz","opening_hours":"Th 12:00-19:00","operator":"GRÜNE LIGA Berlin e.V.","organic":"only","wheelchair":"yes","id":"node/3188323587"},"geometry":{"type":"Point","coordinates":[13.4180812,52.5366375]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Ranch am Torfmoor","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/845263652","geometry":{"type":"Point","coordinates":[13.7295549,54.3371369]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Ranch am Torfmoor","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/845263652","geometry":{"type":"Point","coordinates":[13.7295549,54.3371369]}}

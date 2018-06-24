@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Wegeners Hof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/193492256","geometry":{"type":"Point","coordinates":[9.4586709,52.4487662]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Wegeners Hof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/193492256","geometry":{"type":"Point","coordinates":[9.4586709,52.4487662]}}

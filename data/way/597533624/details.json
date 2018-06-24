@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/597533624","geometry":{"type":"Point","coordinates":[9.3320977,53.2973363]}}
-=======
-{"type":"Feature","id":"way/597533624","properties":{"building":"yes","name":"Hofladen","shop":"farm","id":"way/597533624"},"geometry":{"type":"Point","coordinates":[9.3320977,53.2973363]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

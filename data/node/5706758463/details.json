@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Betreiber":"Obstbau Lukas","Verkauft":"food, apple"},"name":"Apfelautomat","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"http://www.obstbau-lukas.de/apfelautomaten/","property":"vending_machine","id":"node/5706758463","geometry":{"type":"Point","coordinates":[8.4315231,49.9243899]}}
-=======
-{"type":"Feature","id":"node/5706758463","properties":{"amenity":"vending_machine","name":"Apfelautomat","operator":"Obstbau Lukas","vending":"food;apple","website":"http://www.obstbau-lukas.de/apfelautomaten/","id":"node/5706758463"},"geometry":{"type":"Point","coordinates":[8.4315231,49.9243899]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

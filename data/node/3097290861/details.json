@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Gartenbau Heerens","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3097290861","geometry":{"type":"Point","coordinates":[10.2940907,53.4207233]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Gartenbau Heerens","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3097290861","geometry":{"type":"Point","coordinates":[10.2940907,53.4207233]}}

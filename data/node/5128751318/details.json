@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Perger Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5128751318","geometry":{"type":"Point","coordinates":[11.1426986,48.0258765]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Perger Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/5128751318","geometry":{"type":"Point","coordinates":[11.1426986,48.0258765]}}

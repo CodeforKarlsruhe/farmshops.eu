@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Betreiber":"Carsten Buhk","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5205053751","geometry":{"type":"Point","coordinates":[10.5000062,53.3973877]}}
+{"type":"Feature","properties":{"Betreiber":"Carsten Buhk","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/5205053751","geometry":{"type":"Point","coordinates":[10.5000062,53.3973877]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Wirt's-Hof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3717115925","geometry":{"type":"Point","coordinates":[8.8856809,50.8042012]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Wirt's-Hof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3717115925","geometry":{"type":"Point","coordinates":[8.8856809,50.8042012]}}

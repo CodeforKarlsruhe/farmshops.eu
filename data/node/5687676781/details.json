@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Regiomat","payment:cash":"ja","payment:coins":"ja","payment:notes":"ja","Verkauft":"food, eggs;noodles;honey"},"name":"Weiherhof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/5687676781","geometry":{"type":"Point","coordinates":[8.5358187,49.4872024]}}
-=======
-{"type":"Feature","id":"node/5687676781","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Weiherhof","operator":"Regiomat","payment:cash":"yes","payment:coins":"yes","payment:notes":"yes","vending":"food;eggs;noodles;honey","id":"node/5687676781"},"geometry":{"type":"Point","coordinates":[8.5358187,49.4872024]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

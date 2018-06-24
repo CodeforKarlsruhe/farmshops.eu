@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Berliner Platz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/4054629841","geometry":{"type":"Point","coordinates":[6.9569717,51.6782122]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Berliner Platz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/4054629841","geometry":{"type":"Point","coordinates":[6.9569717,51.6782122]}}

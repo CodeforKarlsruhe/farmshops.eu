@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Hottenlocher Hof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3089154343","geometry":{"type":"Point","coordinates":[8.9965459,47.9031278]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Hottenlocher Hof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3089154343","geometry":{"type":"Point","coordinates":[8.9965459,47.9031278]}}

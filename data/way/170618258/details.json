@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","area":"ja"},"name":"Eulenmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/170618258","geometry":{"type":"Point","coordinates":[9.6043732,50.7996006]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","area":"ja"},"name":"Eulenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/170618258","geometry":{"type":"Point","coordinates":[9.6043732,50.7996006]}}

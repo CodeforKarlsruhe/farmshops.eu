@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Telefon":"+49 2242 2941","shop":"farm"},"name":"Gut Felderhof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4618122058","geometry":{"type":"Point","coordinates":[7.282654,50.7489657]}}
+{"type":"Feature","properties":{"Telefon":"+49 2242 2941","shop":"farm"},"name":"Gut Felderhof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4618122058","geometry":{"type":"Point","coordinates":[7.282654,50.7489657]}}

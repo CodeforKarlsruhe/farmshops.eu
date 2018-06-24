@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Lanz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4331258392","geometry":{"type":"Point","coordinates":[9.5102759,47.6912836]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Lanz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4331258392","geometry":{"type":"Point","coordinates":[9.5102759,47.6912836]}}

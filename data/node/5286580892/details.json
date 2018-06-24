@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Betreiber":"Hof Overgünne","Verkauft":"milk"},"name":"SB-Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"24/7","property":"vending_machine","id":"node/5286580892","geometry":{"type":"Point","coordinates":[6.9364049,51.6005855]}}
-=======
-{"type":"Feature","id":"node/5286580892","properties":{"amenity":"vending_machine","name":"SB-Hofladen","opening_hours":"24/7","operator":"Hof Overgünne","vending":"milk","id":"node/5286580892"},"geometry":{"type":"Point","coordinates":[6.9364049,51.6005855]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food"},"name":"SB-Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Mo-Su 00:00-23:59","property":"vending_machine","id":"node/5286580892","geometry":{"type":"Point","coordinates":[6.9364049,51.6005855]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Atopplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/360763368","geometry":{"type":"Point","coordinates":[9.349324,47.7295019]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Atopplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/360763368","geometry":{"type":"Point","coordinates":[9.349324,47.7295019]}}

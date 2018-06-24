@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Postenbörse","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1457692695","geometry":{"type":"Point","coordinates":[7.6083358,52.6842783]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Postenbörse","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1457692695","geometry":{"type":"Point","coordinates":[7.6083358,52.6842783]}}

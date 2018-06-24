@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Imkerei Hollibienen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/3806742316","geometry":{"type":"Point","coordinates":[9.5756545,51.1101618]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Imkerei Hollibienen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/3806742316","geometry":{"type":"Point","coordinates":[9.5756545,51.1101618]}}

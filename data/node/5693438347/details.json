@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","currency:EUR":"ja","Betreiber":"Hof Im Winkel","payment:cash":"ja","payment:coins":"ja","Verkauft":"milk"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Mo-Su 06:00-22:00","property":"vending_machine","id":"node/5693438347","geometry":{"type":"Point","coordinates":[6.9518065,51.5700017]}}
-=======
-{"type":"Feature","id":"node/5693438347","properties":{"amenity":"vending_machine","currency:EUR":"yes","opening_hours":"Mo-Su 06:00-22:00","operator":"Hof Im Winkel","payment:cash":"yes","payment:coins":"yes","vending":"milk","id":"node/5693438347"},"geometry":{"type":"Point","coordinates":[6.9518065,51.5700017]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

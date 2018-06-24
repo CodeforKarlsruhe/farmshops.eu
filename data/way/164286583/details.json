@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Wiedelsbachs Bauernladen","address":{"housenumber":"8a","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/164286583","geometry":{"type":"Point","coordinates":[9.6636131,50.6626666]}}
-=======
-{"type":"Feature","id":"way/164286583","properties":{"addr:housenumber":"8a","building":"yes","name":"Wiedelsbachs Bauernladen","shop":"farm","id":"way/164286583"},"geometry":{"type":"Point","coordinates":[9.6636131,50.6626666]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Wiedelsbachs Bauernladen","address":{"street":"Am Linsenborn","housenumber":"8a"},"opening_hours":"Unbekannt","property":"farm","id":"way/164286583","geometry":{"type":"Point","coordinates":[9.6636131,50.6626666]}}

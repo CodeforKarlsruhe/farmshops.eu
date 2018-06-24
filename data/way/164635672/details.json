@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","lit":"ja"},"name":"Altmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"closed","property":"marketplace","id":"way/164635672","geometry":{"type":"Point","coordinates":[11.5653771,50.6620706]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","lit":"ja"},"name":"Altmarkt","address":{"city":"Unbekannt"},"opening_hours":"closed","property":"marketplace","id":"way/164635672","geometry":{"type":"Point","coordinates":[11.5653771,50.6620706]}}

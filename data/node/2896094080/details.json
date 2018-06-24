@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Brockmeyer","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2896094080","geometry":{"type":"Point","coordinates":[7.9706258,52.1962972]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Brockmeyer","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2896094080","geometry":{"type":"Point","coordinates":[7.9706258,52.1962972]}}

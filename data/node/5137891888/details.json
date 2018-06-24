@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Dorfladen Alte Schule","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5137891888","geometry":{"type":"Point","coordinates":[8.995002,50.2707786]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Dorfladen Alte Schule","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/5137891888","geometry":{"type":"Point","coordinates":[8.995002,50.2707786]}}

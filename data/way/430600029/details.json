@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Maiboekenplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/430600029","geometry":{"type":"Point","coordinates":[6.9324993,51.8260123]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Maiboekenplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/430600029","geometry":{"type":"Point","coordinates":[6.9324993,51.8260123]}}

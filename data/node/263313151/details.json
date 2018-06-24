@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Wulhorst","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/263313151","geometry":{"type":"Point","coordinates":[7.4158278,51.6430244]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Wulhorst","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/263313151","geometry":{"type":"Point","coordinates":[7.4158278,51.6430244]}}

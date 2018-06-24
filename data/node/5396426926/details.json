@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Obsthof Watzig","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/5396426926","geometry":{"type":"Point","coordinates":[7.1354671,50.5867513]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Obsthof Watzig","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/5396426926","geometry":{"type":"Point","coordinates":[7.1354671,50.5867513]}}

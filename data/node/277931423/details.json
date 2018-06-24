@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Der Hofladen","address":{"postcode":"86859","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/277931423","geometry":{"type":"Point","coordinates":[10.7928572,48.0694876]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Der Hofladen","address":{"postcode":"86859"},"opening_hours":"Unbekannt","property":"farm","id":"node/277931423","geometry":{"type":"Point","coordinates":[10.7928572,48.0694876]}}

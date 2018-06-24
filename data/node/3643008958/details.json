@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Maier","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3643008958","geometry":{"type":"Point","coordinates":[8.9990337,48.6249674]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Maier","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3643008958","geometry":{"type":"Point","coordinates":[8.9990337,48.6249674]}}

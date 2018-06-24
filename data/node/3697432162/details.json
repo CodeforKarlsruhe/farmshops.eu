@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Bioland Hof Ellersiek","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Fr 09:00-12:00,16:00-18:30","property":"farm","id":"node/3697432162","geometry":{"type":"Point","coordinates":[9.2723327,52.3370277]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Bioland Hof Ellersiek","address":{"city":"Unbekannt"},"opening_hours":"Fr 09:00-12:00,16:00-18:30","property":"farm","id":"node/3697432162","geometry":{"type":"Point","coordinates":[9.2723327,52.3370277]}}
