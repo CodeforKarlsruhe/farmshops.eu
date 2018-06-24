@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Roderbruchmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/220601412","geometry":{"type":"Point","coordinates":[9.8133937,52.3891983]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Roderbruchmarkt","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/220601412","geometry":{"type":"Point","coordinates":[9.8133937,52.3891983]}}

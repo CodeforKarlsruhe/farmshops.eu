@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Nöscherplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/189085561","geometry":{"type":"Point","coordinates":[11.3278215,48.2078504]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Nöscherplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/189085561","geometry":{"type":"Point","coordinates":[11.3278215,48.2078504]}}

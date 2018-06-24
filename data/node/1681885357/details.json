@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Brackel","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1681885357","geometry":{"type":"Point","coordinates":[7.5507164,51.5237125]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Brackel","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/1681885357","geometry":{"type":"Point","coordinates":[7.5507164,51.5237125]}}

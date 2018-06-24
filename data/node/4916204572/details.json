@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Ritterhude","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/4916204572","geometry":{"type":"Point","coordinates":[8.7548494,53.1802434]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Ritterhude","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/4916204572","geometry":{"type":"Point","coordinates":[8.7548494,53.1802434]}}

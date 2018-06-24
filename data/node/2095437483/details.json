@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Tietjen's Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2095437483","geometry":{"type":"Point","coordinates":[8.7606087,53.2017449]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Tietjen's Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2095437483","geometry":{"type":"Point","coordinates":[8.7606087,53.2017449]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Nellingen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Fr 07:00-11:00","property":"marketplace","id":"node/5639354856","geometry":{"type":"Point","coordinates":[9.3015468,48.7145125]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Nellingen","address":{"city":"Unbekannt"},"opening_hours":"Fr 07:00-11:00","property":"marketplace","id":"node/5639354856","geometry":{"type":"Point","coordinates":[9.3015468,48.7145125]}}

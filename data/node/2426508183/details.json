@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Helmut Koch","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2426508183","geometry":{"type":"Point","coordinates":[8.6114364,49.4448723]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Helmut Koch","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2426508183","geometry":{"type":"Point","coordinates":[8.6114364,49.4448723]}}

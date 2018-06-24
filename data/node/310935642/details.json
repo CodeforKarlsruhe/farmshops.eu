@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food, drinks"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/310935642","geometry":{"type":"Point","coordinates":[11.4033598,47.7091833]}}
+{"type":"Feature","properties":{"Einrichtung ":"Verkaufsautomat","Verkauft":"food, drinks"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"vending_machine","id":"node/310935642","geometry":{"type":"Point","coordinates":[11.4033598,47.7091833]}}

@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","area":"ja"},"name":"Stadtteilmarkt Schwetzingerstadt","address":{"street":"Otto-Beck-Straße","postcode":"68165","city":"Mannheim","country":"Germany","country_code":"de"},"opening_hours":"Fr 07:00-13:30","website":"https://ep-ma.de/wochenmarkt/stadtteilmaerkte/stadtteilmarkt-schwetzinger-vorstadt/","property":"marketplace","id":"way/600158095","geometry":{"type":"Point","coordinates":[8.4822172,49.4789253]}}
-=======
-{"type":"Feature","id":"way/600158095","properties":{"addr:city":"Mannheim","addr:postcode":"68165","addr:street":"Otto-Beck-Straße","amenity":"marketplace","area":"yes","name":"Stadtteilmarkt Schwetzingerstadt","opening_hours":"Fr 07:00-13:30","website":"https://ep-ma.de/wochenmarkt/stadtteilmaerkte/stadtteilmarkt-schwetzinger-vorstadt/","id":"way/600158095"},"geometry":{"type":"Point","coordinates":[8.4822172,49.4789253]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

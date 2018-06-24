@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Hans-Böckler-Platz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Sa 07:00-13:00","property":"marketplace","id":"node/437149591","geometry":{"type":"Point","coordinates":[6.6093078,51.3306288]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Hans-Böckler-Platz","address":{"city":"Unbekannt"},"opening_hours":"Sa 07:00-13:00","property":"marketplace","id":"node/437149591","geometry":{"type":"Point","coordinates":[6.6093078,51.3306288]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Dennissens Bauernlädchen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1670710060","geometry":{"type":"Point","coordinates":[6.1614937,51.7043609]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Dennissens Bauernlädchen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1670710060","geometry":{"type":"Point","coordinates":[6.1614937,51.7043609]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"nur","shop":"farm"},"name":"Hofladen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1700825999","geometry":{"type":"Point","coordinates":[10.593688,52.4278111]}}
+{"type":"Feature","properties":{"Biologisch":"nur","shop":"farm"},"name":"Hofladen","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1700825999","geometry":{"type":"Point","coordinates":[10.593688,52.4278111]}}

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"contact:Telefon":"+49 4293 9171-0","Betreiber":"Stiftung Leben und Arbeiten","Biologisch":"nur","shop":"farm"},"name":"Parzivalhof","address":{"street":"Quelkhorner Landstraße","housenumber":"2","postcode":"28870","city":"Ottersberg","suburb":"Quelkhorn","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2821220171","geometry":{"type":"Point","coordinates":[9.0858374,53.1332738]}}
-=======
-{"type":"Feature","id":"node/2821220171","properties":{"addr:city":"Ottersberg","addr:country":"DE","addr:housenumber":"2","addr:postcode":"28870","addr:street":"Quelkhorner Landstraße","addr:suburb":"Quelkhorn","contact:phone":"+49 4293 9171-0","contact:website":"http://www.leben-arbeiten.de/index.php/parzival-hof","name":"Parzivalhof","operator":"Stiftung Leben und Arbeiten","organic":"only","shop":"farm","id":"node/2821220171"},"geometry":{"type":"Point","coordinates":[9.0858374,53.1332738]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Betreiber":"Stiftung Leben und Arbeiten","Biologisch":"nur","shop":"farm"},"name":"Parzivalhof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2821220171","geometry":{"type":"Point","coordinates":[9.0858374,53.1332738]}}

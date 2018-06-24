@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"nur","shop":"farm"},"name":"Hofladen Dehlwes","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1997738109","geometry":{"type":"Point","coordinates":[8.8887666,53.1410507]}}
+{"type":"Feature","properties":{"Biologisch":"nur","shop":"farm"},"name":"Hofladen Dehlwes","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1997738109","geometry":{"type":"Point","coordinates":[8.8887666,53.1410507]}}

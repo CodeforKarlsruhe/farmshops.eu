@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Heckewerthplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/56313690","geometry":{"type":"Point","coordinates":[8.559249,52.140905]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Heckewerthplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/56313690","geometry":{"type":"Point","coordinates":[8.559249,52.140905]}}

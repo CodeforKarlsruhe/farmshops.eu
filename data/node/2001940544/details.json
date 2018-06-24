@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Biolandhof Kastenbauer","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2001940544","geometry":{"type":"Point","coordinates":[12.5962143,48.2127352]}}
+{"type":"Feature","properties":{"Biologisch":"ja","shop":"farm"},"name":"Biolandhof Kastenbauer","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2001940544","geometry":{"type":"Point","coordinates":[12.5962143,48.2127352]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Bad Essen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Th 14:00-18:00","property":"marketplace","id":"node/1379341256","geometry":{"type":"Point","coordinates":[8.3395214,52.3199978]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Wochenmarkt Bad Essen","address":{"city":"Unbekannt"},"opening_hours":"Th 14:00-18:00","property":"marketplace","id":"node/1379341256","geometry":{"type":"Point","coordinates":[8.3395214,52.3199978]}}

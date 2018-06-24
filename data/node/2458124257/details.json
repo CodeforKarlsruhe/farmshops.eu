@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Ziegenhof Kolvenbach","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/2458124257","geometry":{"type":"Point","coordinates":[6.7508841,50.5330233]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Ziegenhof Kolvenbach","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/2458124257","geometry":{"type":"Point","coordinates":[6.7508841,50.5330233]}}

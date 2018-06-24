@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Lux","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/3502873080","geometry":{"type":"Point","coordinates":[9.4514122,48.6482494]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Lux","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/3502873080","geometry":{"type":"Point","coordinates":[9.4514122,48.6482494]}}

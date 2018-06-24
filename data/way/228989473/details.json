@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","Letze Überprüfung":"2017-07-22"},"name":"Zehntscheunenplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"We,Sa 08:00-13:00","property":"marketplace","id":"way/228989473","geometry":{"type":"Point","coordinates":[8.5467883,49.3182886]}}
-=======
-{"type":"Feature","id":"way/228989473","properties":{"alt_name":"Wochenmarkt Hockenheim","amenity":"marketplace","lastcheck":"2017-07-22","loc_name":"Zehntscheuerplatz","name":"Zehntscheunenplatz","opening_hours":"We,Sa 08:00-13:00","id":"way/228989473"},"geometry":{"type":"Point","coordinates":[8.5467883,49.3182886]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Einrichtung ":"marketplace","Letze Überprüfung":"2017-07-22"},"name":"Wochenmarkt Hockenheim","address":{"city":"Unbekannt"},"opening_hours":"We,Sa 08:00-13:00","property":"marketplace","id":"way/228989473","geometry":{"type":"Point","coordinates":[8.5467883,49.3182886]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Carolinenhof","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4807366616","geometry":{"type":"Point","coordinates":[13.1785496,52.4959346]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Carolinenhof","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4807366616","geometry":{"type":"Point","coordinates":[13.1785496,52.4959346]}}

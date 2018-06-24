@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Gasthaus","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/119563309","geometry":{"type":"Point","coordinates":[13.3293826,52.7628301]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Gasthaus","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/119563309","geometry":{"type":"Point","coordinates":[13.3293826,52.7628301]}}

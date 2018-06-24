@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Hof Grothues Potthoff","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/770651406","geometry":{"type":"Point","coordinates":[7.4998196,51.8577107]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Hof Grothues Potthoff","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/770651406","geometry":{"type":"Point","coordinates":[7.4998196,51.8577107]}}

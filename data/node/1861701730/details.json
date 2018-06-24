@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Ziel","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1861701730","geometry":{"type":"Point","coordinates":[10.3672117,53.475459]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Ziel","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1861701730","geometry":{"type":"Point","coordinates":[10.3672117,53.475459]}}

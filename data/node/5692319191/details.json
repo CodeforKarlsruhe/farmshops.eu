@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Betreiber":"Hof Denissen","shop":"farm"},"name":"Hof Denissen","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","website":"http://www.hof-denissen.de/","property":"farm","id":"node/5692319191","geometry":{"type":"Point","coordinates":[11.4113156,53.6278496]}}
-=======
-{"type":"Feature","id":"node/5692319191","properties":{"name":"Hof Denissen","operator":"Hof Denissen","shop":"farm","website":"http://www.hof-denissen.de/","id":"node/5692319191"},"geometry":{"type":"Point","coordinates":[11.4113156,53.6278496]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

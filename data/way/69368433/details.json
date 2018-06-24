@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Hofladen Kossack","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/69368433","geometry":{"type":"Point","coordinates":[8.778543,52.2568917]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm"},"name":"Hofladen Kossack","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/69368433","geometry":{"type":"Point","coordinates":[8.778543,52.2568917]}}

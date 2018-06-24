@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Alt-Marl","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2191182969","geometry":{"type":"Point","coordinates":[7.0825709,51.6476506]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Alt-Marl","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"node/2191182969","geometry":{"type":"Point","coordinates":[7.0825709,51.6476506]}}

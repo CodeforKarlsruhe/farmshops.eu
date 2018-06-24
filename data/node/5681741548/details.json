@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"marketplace","Biologisch":"ja","Rollstuhlgerecht":"ja"},"name":"Feierabendmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Apr-Mar 17:00+","website":"https://www.wochenmaerkte-essen.de/feierabendmarkt.php","property":"marketplace","id":"node/5681741548","geometry":{"type":"Point","coordinates":[7.0102426,51.459567]}}
-=======
-{"type":"Feature","id":"node/5681741548","properties":{"amenity":"marketplace","name":"Feierabendmarkt","opening_hours":"Apr-Mar 17:00+","organic":"yes","website":"https://www.wochenmaerkte-essen.de/feierabendmarkt.php","wheelchair":"yes","id":"node/5681741548"},"geometry":{"type":"Point","coordinates":[7.0102426,51.459567]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db

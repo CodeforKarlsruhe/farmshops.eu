@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Bauernladen Joisten","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4745224505","geometry":{"type":"Point","coordinates":[6.1969656,51.2922973]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Bauernladen Joisten","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4745224505","geometry":{"type":"Point","coordinates":[6.1969656,51.2922973]}}

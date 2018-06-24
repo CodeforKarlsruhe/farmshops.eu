@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Bläsiberg","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Th,Fr 09:00-18:00; Sa 09:00-13:00","property":"farm","id":"node/4340102689","geometry":{"type":"Point","coordinates":[9.0746443,48.4913517]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Bläsiberg","address":{"city":"Unbekannt"},"opening_hours":"Th,Fr 09:00-18:00; Sa 09:00-13:00","property":"farm","id":"node/4340102689","geometry":{"type":"Point","coordinates":[9.0746443,48.4913517]}}

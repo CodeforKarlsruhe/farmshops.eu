@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Gebäude":"ja","Beschreibung":"Erdbeeren selber pflücken","seasonal":"summer","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/507835318","geometry":{"type":"Point","coordinates":[11.4684143,48.1338857]}}
-=======
-{"type":"Feature","id":"way/507835318","properties":{"building":"yes","description":"Erdbeeren selber pflücken","seasonal":"summer","shop":"farm","id":"way/507835318"},"geometry":{"type":"Point","coordinates":[11.4684143,48.1338857]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Gebäude":"ja","Beschreibung":"Erdbeeren selber pflücken","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/507835318","geometry":{"type":"Point","coordinates":[11.4684143,48.1338857]}}

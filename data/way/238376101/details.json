@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Stiegelplatz","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/238376101","geometry":{"type":"Point","coordinates":[9.0917069,48.8543875]}}
-=======
-{"type":"Feature","id":"way/238376101","properties":{"amenity":"marketplace","name":"Stiegelplatz","id":"way/238376101"},"geometry":{"type":"Point","coordinates":[9.0917069,48.8543875]}}
->>>>>>> e8678e7c3ee013da311017303c70b8aa6c6329db
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Stiegelplatz","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/238376101","geometry":{"type":"Point","coordinates":[9.0917063,48.8543795]}}

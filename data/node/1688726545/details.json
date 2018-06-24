@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Landfrauenmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Sa 08:00-12:00","property":"marketplace","id":"node/1688726545","geometry":{"type":"Point","coordinates":[8.8014217,51.0588313]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Landfrauenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Sa 08:00-12:00","property":"marketplace","id":"node/1688726545","geometry":{"type":"Point","coordinates":[8.8014217,51.0588313]}}

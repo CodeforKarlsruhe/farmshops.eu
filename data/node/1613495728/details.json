@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Erbacher Wochenmarkt","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Fr 08:00-12:00","property":"marketplace","id":"node/1613495728","geometry":{"type":"Point","coordinates":[9.8888494,48.3285522]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Erbacher Wochenmarkt","address":{"city":"Unbekannt"},"opening_hours":"Fr 08:00-12:00","property":"marketplace","id":"node/1613495728","geometry":{"type":"Point","coordinates":[9.8888494,48.3285522]}}

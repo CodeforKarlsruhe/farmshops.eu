@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Cordes","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/802016950","geometry":{"type":"Point","coordinates":[9.1499928,53.212477]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Cordes","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/802016950","geometry":{"type":"Point","coordinates":[9.1499928,53.212477]}}

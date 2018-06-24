@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Produzieren":"potatoes","shop":"farm"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/1403146862","geometry":{"type":"Point","coordinates":[9.2081542,52.361316]}}
+{"type":"Feature","properties":{"Produzieren":"potatoes","shop":"farm"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/1403146862","geometry":{"type":"Point","coordinates":[9.2081542,52.361316]}}

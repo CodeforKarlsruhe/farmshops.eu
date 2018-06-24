@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Huschke","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Tu-Fr 09:00-17:00; Sa 09:00-13:00","property":"farm","id":"node/1126213476","geometry":{"type":"Point","coordinates":[13.1205755,52.5076317]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Huschke","address":{"city":"Unbekannt"},"opening_hours":"Tu-Fr 09:00-17:00; Sa 09:00-13:00","property":"farm","id":"node/1126213476","geometry":{"type":"Point","coordinates":[13.1205755,52.5076317]}}

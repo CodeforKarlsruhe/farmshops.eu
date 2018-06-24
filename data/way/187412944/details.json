@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Rudersberg","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/187412944","geometry":{"type":"Point","coordinates":[9.5305923,48.884812]}}
+{"type":"Feature","properties":{"Einrichtung ":"marketplace"},"name":"Marktplatz Rudersberg","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"marketplace","id":"way/187412944","geometry":{"type":"Point","coordinates":[9.5305923,48.884812]}}

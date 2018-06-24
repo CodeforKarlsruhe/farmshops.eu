@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Herrnmühle","address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"node/4163857638","geometry":{"type":"Point","coordinates":[10.2982343,50.3494645]}}
+{"type":"Feature","properties":{"shop":"farm"},"name":"Hofladen Herrnmühle","address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"node/4163857638","geometry":{"type":"Point","coordinates":[10.2982343,50.3494645]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm","Quelle":"Bing"},"address":{"city":"Unbekannt","country":"Germany","country_code":"de"},"opening_hours":"Unbekannt","property":"farm","id":"way/103991728","geometry":{"type":"Point","coordinates":[6.5541724,51.3874953]}}
+{"type":"Feature","properties":{"Gebäude":"ja","shop":"farm","Quelle":"Bing"},"address":{"city":"Unbekannt"},"opening_hours":"Unbekannt","property":"farm","id":"way/103991728","geometry":{"type":"Point","coordinates":[6.5541724,51.3874953]}}
