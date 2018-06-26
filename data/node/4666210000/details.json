@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/4666210000","properties":{"amenity":"vending_machine","name":"Gebäckstation","opening_hours":"24/7","operator":"Dorfbäckerei Räsch","payment:coins":"yes","payment:notes":"yes","source":"survey","vending":"food;drinks","id":"node/4666210000"},"geometry":{"type":"Point","coordinates":[7.2108931,51.0409553]}}
