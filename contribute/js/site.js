@@ -1,5 +1,5 @@
 var findme_map = L.map('findme-map')
-    .setView([37.7, -97.3], 4),
+    .setView([51.01122,10.88204], 5),
     osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
     osmAttrib = 'Map data © OpenStreetMap contributors',
     osm = L.tileLayer(osmUrl, {minZoom: 2, maxZoom: 18, attribution: osmAttrib}).addTo(findme_map),
@@ -17,8 +17,8 @@ i18n.init({ fallbackLng: 'de', postAsync: 'false' }, function() {
 
     successString=i18n.t('messages.success', { escapeInterpolation: false });
     loadingText=i18n.t('messages.loadingText');
-
-    var detectedLang = i18n.lng();
+    var detectedLang = 'de';
+   // var detectedLang = i18n.lng();
     var buildSelectControl = function(data) {
         $("#category").select2({data: data});
     };
