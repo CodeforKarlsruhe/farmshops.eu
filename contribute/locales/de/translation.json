@@ -21,7 +21,7 @@
     "addressaltplaceholder": "Hauptstraße 11, 10115 Berlin, Deutschland",
     "addressaltdesc": "Adresse",
     "name": "Name",
-    "nameplaceholder": "Park Cafè",
+    "nameplaceholder": "Hofladen unter den Linden",
     "phone": "Telefonnummer",
     "phoneplaceholder": "+49 30 123456-78",
     "opening": "Öffnungszeiten",
@@ -38,7 +38,8 @@
     "row2": "Du kannst die Dateneingabe und weitere Updates über folgenden Link sehen und verfolgen:",
     "row3": "Wusstest Du, dass du Deine eigenen Daten auf OpenStreetMap eingeben und so die Wartezeit verkürzen kannst? Es ist sehr einfach mit dem <a href=\"https://openstreetmap.org/edit\">Bearbeiten in OpenStreetMap</a> in deinem Browser zu beginnen.",
     "row4": "Möchtest Du noch etwas zu OpenStreetMap hinzufügen?",
-    "row4a": "Zurück zum Startbildschirm"
+    "row4a": "Zurück zum Startbildschirm",
+    "row5": "Zurück zu farmshops.eu"
   },
   "messages": {
     "success": "<strong>Gefunden!</strong> Verschiebe den Marker bis er <strong>exakt am des Geschäfts liegt</strong>.<br />Wenn Du zufrieden bist, können wir damit beginnen weitere <a href='#details'>Details hinzuzufügen</a>.",
