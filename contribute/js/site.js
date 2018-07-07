@@ -114,7 +114,7 @@ $(window).on('hashchange', function() {
 $("#collect-data-done").click(function() {
     location.hash = '#done';
 
-    var note_body = "onosm.org submitted note from a business:\n" +
+    var note_body = "farmshops.eu submitted note from a user:\n" +
         "Name: " + $("#name").val() + "\n" +
         "Phone: " + $("#phone").val() + "\n" +
         "Website: " + $("#website").val() + "\n" +
