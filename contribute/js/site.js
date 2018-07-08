@@ -121,7 +121,8 @@ $("#collect-data-done").click(function() {
         "Twitter: " + $("#twitter").val() + "\n" +
         "Hours: " + $("#opening_hours").val() + "\n" +
         "Category: " + $("#category").val() + "\n" +
-        "Address: " + $("#address").val(),
+        "Address: " + $("#address").val() + "\n" +
+        "Diese Notiz wurde über farmshops.eu gesendet. Vermutlich sollen ein Ort mit einem der folgenden Tags eingetragen werden: \n shop=farm (für Hofläden) \n amenity=vending_machine(Für Automaten) \n amenity=marketplace (für Wochenmärkte)",
         latlon = findme_marker.getLatLng(),
         note_data = {
             lat: latlon.lat,
