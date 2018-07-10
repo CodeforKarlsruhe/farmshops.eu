@@ -22,18 +22,23 @@ function getSimpleNode(node) {
   if ( node.properties )
         if (node.properties.shop === 'farm' && node.properties.amenity != 'vending_machine') {
             property = "farm"
+            console.log("farm");
         }
         else if (node.properties.amenity === 'marketplace' && node.properties.shop != 'farm' && node.properties.amenity != 'vending_machine') {
             property = "marketplace"
+            console.log("marketplace");
         }
         else if (node.properties.amenity === 'vending_machine'&& node.properties.shop != 'farm' && node.properties.amenity != 'marketplace') {
             property = "vending_machine"
+            console.log("vending_machine");
         }
         else if (node.properties.amenity === 'vending_machine') {
           property = "vending_machine"
+          console.log("vending_machine");
       }
         else {
             property = "unknown"
+            console.log("unknown");
         }
   else
      property = null
