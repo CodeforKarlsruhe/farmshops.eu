@@ -93,9 +93,9 @@ let query = `
   // gather results
   (
   // query part for: “vending=milk,food,eggs”
-  node["vending"~"milk|eggs|food"](${bbox});
-  way["vending"~"milk|eggs|food"](${bbox});
-  relation["vending"~"milk|eggs|food"](${bbox});
+  node["vending"~"milk|eggs|food|tomatoes|cheese|sausages|potatoes|noodles|meat|honey|fruits"](${bbox});
+  way["vending"~"milk|eggs|food|tomatoes|cheese|sausages|potatoes|noodles|meat|honey|fruits"](${bbox});
+  relation["vending"~"milk|eggs|food|tomatoes|cheese|sausages|potatoes|noodles|meat|honey|fruits"](${bbox});
   // query part for: “amenity=marketplace”
   node["amenity"="marketplace"](${bbox});
   way["amenity"="marketplace"](${bbox});
