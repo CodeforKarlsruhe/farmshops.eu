@@ -118,7 +118,7 @@ $("#collect-data-done").click(function() {
         "Name: " + $("#name").val() + "\n" +
         "Phone: " + $("#phone").val() + "\n" +
         "Website: " + $("#website").val() + "\n" +
-        "Twitter: " + $("#twitter").val() + "\n" +
+        "Note: " + $("#twitter").val() + "\n" +
         "Hours: " + $("#opening_hours").val() + "\n" +
         "Category: " + $("#category").val() + "\n" +
         "Address: " + $("#address").val() + "\n" +

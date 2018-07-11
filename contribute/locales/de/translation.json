@@ -28,8 +28,8 @@
     "openingplaceholder": "Montag-Freitag 10:00-20:00",
     "website": "Website",
     "websiteplaceholder": "http://www.beispiel.de/",
-    "social": "Soziales Netzwerk",
-    "socialplaceholder": "@OpenStreetMap oder https://www.facebook.com/OpenStreetMap",
+    "social": "Kommentar",
+    "socialplaceholder": "Weiter Informationen",
     "done": "Fertig!"
   },
   "step3": {

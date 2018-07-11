@@ -212,6 +212,10 @@ input[type=text] {
   -webkit-border-radius:1px;
           border-radius:1px;
   }
+input[id=social] {
+  width: 97%;
+  max-width:900px;
+}
 .select2-search__field {
   width: 100% !important;
 }
