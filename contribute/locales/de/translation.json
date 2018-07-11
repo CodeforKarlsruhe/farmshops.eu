@@ -1,8 +1,8 @@
 ﻿{
   "app": {
-    "title": "Eintrag auf OpenStreetMap",
-    "desc": "OpenStreetMap ist eine offene, globale Karte, die von Menschen überall auf der Welt zur Navigation und zur suche nach lokalen Firmen genutzt wird. Mit diesem Formular kannst Du fehlende Orte Melden, damit erfahrene Mapper sie richtig in die Karte eintragen können.",
-    "footer": "Quellcode erhältlich auf <a href='https://github.com/osmlab/onosm.org'>GitHub</p>"
+    "title": "Eintrag auf OpenStreetMap vorschlagen",
+    "desc": "OpenStreetMap ist eine offene, globale Karte, die von Menschen überall auf der Welt zur Navigation und zur suche nach lokalen Firmen genutzt wird. Mit diesem Formular kannst Du fehlende Orte Melden, damit erfahrene Mapper sie richtig in die Karte eintragen können. Die Änderung erscheint dann auch auf farmshops.eu.",
+    "footer": "Quellcode erhältlich auf <a href='https://github.com/osmlab/onosm.org'>GitHub</a><br>Zurück zu <a href='https://farmshops.eu'>farmshops.eu</a>"
   },
   "step1": {
     "title": "Ort / Adresse",

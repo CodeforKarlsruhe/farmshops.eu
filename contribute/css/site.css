@@ -1,3 +1,7 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 a {
     text-decoration:underline;
     color:darkred !important;
@@ -52,7 +56,7 @@ button {
 .on-1 .step-1,
 .on-2 .step-2,
 .on-3 .step-3 {
-    background:#eee;
+    background:#4ca7ce;
 }
 
 .steps {
