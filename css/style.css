@@ -81,6 +81,7 @@ h1 {
 
     table {
         font-size: 10px;
+        min-width: 250px;
         width: 100%;
     }
     th {
@@ -109,6 +110,7 @@ h1 {
     #adress {
         float: left;
         margin-bottom: 6px;
+        max-width: 110px;
 
     }
     #links {
