@@ -25,6 +25,20 @@ h1 {
     
 }
 
+a.button {
+    padding: 8px;
+    margin: 8px;
+    font-size: 14px;
+    color: #f2f2f2;
+    background: #4ca7ce;
+    text-decoration: none;
+    line-height: 34px;
+}
+
+a.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
 .leaflet-popup-content {
     margin: 0px 0px;
     /* line-height: 1.4; */
