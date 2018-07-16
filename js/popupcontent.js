@@ -155,7 +155,7 @@ function popupcontent(feature, layer) {
 
         }
         else {
-            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>Unbekannt <p><a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'>Auf OSM bearbeiten.</a></p>";
+            var oefnungszeiten = "<strong>Öffnungszeiten:</strong><br>Unbekannt <p></p>";
         }
         return oefnungszeiten;
     }
@@ -200,9 +200,9 @@ function popupcontent(feature, layer) {
         + "<table>"
         + "<th colspan='2'>Weitere Daten:</th>"
         + innereTabelle
-        + "</table></div>"
-        + "<p class='popupText'>Fehlende oder falsche Angaben? Trage Daten für diesen Ort <a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'> auf OpenStreetMap</a> ein! <br>Die Daten werden regelmäßig abgeglichen.</p></div>";
-
+        + "</table></div> <br>"
+        + "<a target='_blank' rel='noopener' href='http://openstreetmap.org/edit?editor=id&node=" + feature.id.substr(5) + "' target='_blank' rel='noopener' class='popupbutton'>Auf OSM bearbeiten</a>" 
+        +"<br>Die Daten werden regelmäßig abgeglichen.</p></div>";
 
 
     return htmlInhalt
