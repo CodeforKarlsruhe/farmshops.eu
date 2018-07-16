@@ -201,7 +201,7 @@ function popupcontent(feature, layer) {
         + "<th colspan='2'>Weitere Daten:</th>"
         + innereTabelle
         + "</table></div> <br>"
-        + "<a target='_blank' rel='noopener' href='http://openstreetmap.org/edit?editor=id&node=" + feature.id.substr(5) + "' target='_blank' rel='noopener' class='popupbutton'>Auf OSM bearbeiten</a>" 
+        + "<a target='_blank' rel='noopener' href='http://openstreetmap.org" + feature.id + "' target='_blank' rel='noopener' class='popupbutton'>Auf OSM bearbeiten</a>" 
         +"<br>Die Daten werden regelmäßig abgeglichen.</p></div>";
 
 
