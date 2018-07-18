@@ -1,1 +1,0 @@
-var lastUpdate = "Letzter Datenabgleich: 18.07.2018 ungefähr um 21 Uhr."; var farmshopGeoJson = {"type":"FeatureCollection","features":[]};
