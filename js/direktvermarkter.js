@@ -55,26 +55,22 @@ var blackMarker = L.ExtraMarkers.icon({
 //Marker 
 
 var geojson1 = L.geoJson(farmshopGeoJson, {
-    pointToLayer: function (feature, latlng) {
+    pointToLayer: function pointToLayer(feature, latlng) {
         if (feature.properties.p === 'farm') {
-            return L.marker(latlng, { icon: greenMarker })
+            return L.marker(latlng, { icon: greenMarker });
+        } else if (feature.properties.p === 'marketplace') {
+            return L.marker(latlng, { icon: yellowMarker });
+        } else if (feature.properties.p === 'vending_machine') {
+            return L.marker(latlng, { icon: blueMarker });
+        } else {
+            console.log("nicht bekannte Daten verwendet");
+            return L.marker(latlng, { icon: blackMarker });
         }
-        else if (feature.properties.p === 'marketplace') {
-            return L.marker(latlng, { icon: yellowMarker })
-        }
-        else if (feature.properties.p === 'vending_machine') {
-            return L.marker(latlng, { icon: blueMarker })
-        }
-        else {
-            console.log("nicht bekannte Daten verwendet")
-            return L.marker(latlng, { icon: blackMarker })
-        }
-
     },
 
-    onEachFeature: function (feature, layer) {
+    onEachFeature: function onEachFeature(feature, layer) {
         layer.once("click", function () {
-            $.getJSON(`data/${feature.properties.id}/details.json`, function(data){
+            $.getJSON('data/' + feature.properties.id + '/details.json', function (data) {
                 layer.bindPopup(popupcontent(data, layer)).openPopup();
             });
         });
