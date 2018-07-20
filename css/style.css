@@ -82,8 +82,10 @@ h1 {
 
     table {
         font-size: 10px;
+        width:100%;
         min-width: 250px;
-        max-width: 450px;
+        overflow-wrap: break-word;
+
     }
     th {
         background-color: #4ca7ce;
