@@ -34,7 +34,7 @@ Features:
 - Permalinks in denen Ort und Zoomlevel weitergegeben werden können
 
 ## Popups
-Die Anzeige der Daten im Popup wird in popupcontent.js definiert. Dort findet auch eine einfache Übersetzung einzelner Begriffe statt. 
+Die Anzeige der Daten im Popup wird in popupcontent.js definiert. Dort findet auch eine einfache Übersetzung einzelner Begriffe statt.
 
 ## Datenabgleich
 Die Daten stammen aus OSM und werden vom script update_data.js aktualisiert. Siehe dazu auch #6
@@ -42,7 +42,7 @@ Es ist ein node script, dass nach installation des Packets "query-overpass" mit 
 
 Für ein konfortables Update mit automatischen Commit gibt es das shell script update.sh, das auf lange Sicht auch regelmäßig automatisch ausgeführt werden soll.
 
-Das Script verwendet http://overpass-turbo.eu/ um diese Tags von OpenstreetMap zu ziehen:
+Das Script verwendet https://overpass-turbo.eu/ um diese Tags von OpenstreetMap zu ziehen:
 
 - https://wiki.openstreetmap.org/wiki/DE:Tag:shop=farm
 - https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine
@@ -57,6 +57,3 @@ Das Script verwendet http://overpass-turbo.eu/ um diese Tags von OpenstreetMap z
 - Auswahlmöglichkeit für verschiedene Regionen
 - Howto Datenpflege verbessern
 - Möglichkeit neue Orte direkt eintragen zu können.
-
-
-
