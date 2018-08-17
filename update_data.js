@@ -104,9 +104,9 @@ const vendings = [
 let query = `
     [out:json][timeout:742];
     (
-    node[vending~"${vendings.join("|")}"][operator!~Selecta](${bbox});
-    way[vending~"${vendings.join("|")}"][operator!~Selecta](${bbox});
-    relation[vending~"${vendings.join("|")}"][operator!~Selecta](${bbox});
+    node[vending~"${vendings.join("|")}"][operator!~"[Ss]electa"](${bbox});
+    way[vending~"${vendings.join("|")}"][operator!~"[Ss]electa"](${bbox});
+    relation[vending~"${vendings.join("|")}"][operator!~"[Ss]electa"](${bbox});
 
     node[amenity=marketplace](${bbox});
     way[amenity=marketplace](${bbox});
