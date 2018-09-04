@@ -113,8 +113,6 @@ let query = `
     out center;
 `;
 
-fs.writeFileSync('query.json', query, 'utf-8');
-
 // query overpass, write to folders by id
 query_overpass(query, (error, data)  => {
     const farmshopGeoJsonFeatures = [];
