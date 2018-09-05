@@ -102,19 +102,13 @@ const vendings = [
 ];
 
 let query = `
-    [out:json][timeout:742];
+    [out:json][timeout:742][bbox:${bbox}];
     (
-    node[vending~"${vendings.join("|")}"][operator!~"[Ss]electa"](${bbox});
-    way[vending~"${vendings.join("|")}"][operator!~"[Ss]electa"](${bbox});
-    relation[vending~"${vendings.join("|")}"][operator!~"[Ss]electa"](${bbox});
+      nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"];
 
-    node[amenity=marketplace](${bbox});
-    way[amenity=marketplace](${bbox});
-    relation[amenity=marketplace](${bbox});
+      nwr[amenity=marketplace];
 
-    node[shop=farm](${bbox});
-    way[shop=farm](${bbox});
-    relation[shop=farm](${bbox});
+      nwr[shop=farm];
     );
     out center;
 `;
