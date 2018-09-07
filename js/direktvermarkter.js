@@ -97,9 +97,8 @@ var markers = L.markerClusterGroup({
         var html = '<div class="circle">' +markerTypen(markers) + '</div>';
         return L.divIcon({ html: html, className: 'test', iconSize: L.point(62, 62) });
     },
-    spiderfyOnMaxZoom: false,
-    maxClusterRadius: 80,
-    disableClusteringAtZoom: 11,
+    spiderfyOnMaxZoom: true,
+    maxClusterRadius: 60,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
     removeOutsideVisibleBounds: true,
@@ -133,8 +132,8 @@ L.control.zoom({
 
 L.control.locate({
     position: 'bottomright',
-    drawMarker: false,
-    drawCircle: false,
+    drawMarker: true,
+    drawCircle: true,
     flyTo: true,
     keepCurrentZoomLevel: false,
     strings: {
