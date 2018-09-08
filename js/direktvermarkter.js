@@ -77,7 +77,7 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
     }
 }).addLayer(tiles);
 
-var GetRadius = function (zoom) { 
+var GetClusterRadius = function (zoom) { 
     //do something with the passed zoom level, for example:
     if (zoom < 12){
         return 80;
@@ -108,7 +108,7 @@ var markers = L.markerClusterGroup({
         return L.divIcon({ html: html, className: 'test', iconSize: L.point(62, 62) });
     },
     spiderfyOnMaxZoom: true,
-    maxClusterRadius: GetRadius,
+    maxClusterRadius: GetClusterRadius,
     showCoverageOnHover: true,
     zoomToBoundsOnClick: true,
     removeOutsideVisibleBounds: true,
