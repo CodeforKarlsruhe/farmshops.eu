@@ -75,7 +75,6 @@ function popupcontent(feature, layer) {
                 + feature.properties[prop]
                     .replace(";", ", ")
                     .replace("yes", "ja")
-                    .replace("no", "nein")
                     .replace("only", "nur")
                     .replace("vending_machine", "Verkaufsautomat")
                     .replace("raw_milk", "Rohmilch")
