@@ -92,20 +92,75 @@ var markers = L.markerClusterGroup({
         var markers = cluster.getAllChildMarkers();
 
         function markerTypen (markers){
-            var returnWert = markers.length;
+            var returnWert;
+            var farmsInCluster = false;
+            var marketsInCluster = false;
+            var machinesInCluster = false;
 
-            // for (var i = 0; i <= markers.length; i++) {
-            //     x = 0;
-            //     console.log(console.log(markers[x].feature.id))
-            //     x = x+1;
-            //   }
+           
+            for (var c = 0; c < markers.length; c++) {
+                
+                
+                if (markers[c].feature.properties.p ==="farm"){
+
+                    farmsInCluster = true;
+                }
+                else if (markers[c].feature.properties.p ==="marketplace"){
+
+                    marketsInCluster = true;
+                }
+                else if (markers[c].feature.properties.p ==="vending_machine"){
+
+                    machinesInCluster = true;
+                }
+                else {
+                    console.log("else schleife")
+
+                }
+
+                //console.log("f " +farmsInCluster +" m " +marketsInCluster +" a " +machinesInCluster)
+              
+              }
+
+              function farmsAreInCluster (farmsInCluster) {
+                  if (farmsInCluster) {
+                      return "<img src='img/h-pin2.png' style='width: 20px;'> "
+                  }
+                  else {
+                      return ""
+                  }
+              }
+
+              function marketsAreInCluster (marketsInCluster) {
+                if (marketsInCluster) {
+                    return "<img src='img/m-pin2.png' style='width: 20px;'> "
+                }
+                else {
+                    return ""
+                }
+            }
+
+            function machinesAreInCluster (machinesInCluster) {
+                if (machinesInCluster) {
+                    return "<img src='img/a-pin2.png' style='width: 20px;'> "
+                }
+                else {
+                    return ""
+                }
+            }
             
-            //console.log(markers[0].feature.properties)
+            if (map.getZoom() >= 12){
+                returnWert = markers.length +" " +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster);
+            }
+            else{
+                returnWert = markers.length;
+            }
+              
             return returnWert;
         }
         // console.log("markerS: " +markers)
         var html = '<div class="circle">' +markerTypen(markers) + '</div>';
-        return L.divIcon({ html: html, className: 'test', iconSize: L.point(62, 62) });
+        return L.divIcon({ html: html, className: 'test', iconSize: L.point(102, 72) });
     },
     spiderfyOnMaxZoom: true,
     maxClusterRadius: GetClusterRadius,
