@@ -149,7 +149,7 @@ var markers = L.markerClusterGroup({
                 }
             }
             
-            if (map.getZoom() >= 10){
+            if (map.getZoom() >= 8){
                 returnWert = markers.length +"<div style='padding-top:2px;'>" +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster) +"</div>";
             }
             else{
