@@ -159,7 +159,7 @@ var markers = L.markerClusterGroup({
             return returnWert;
         }
         // console.log("markerS: " +markers)
-        var html = '<div class="circle">' +markerTypen(markers) + '</div>';
+        var html = '<div class="circle"><strong>' +markerTypen(markers) + '</strong></div>';
         return L.divIcon({ html: html, className: 'test', iconSize: L.point(80,80) });
     },
     spiderfyOnMaxZoom: true,
