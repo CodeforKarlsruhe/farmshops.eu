@@ -124,7 +124,7 @@ var markers = L.markerClusterGroup({
 
               function farmsAreInCluster (farmsInCluster) {
                   if (farmsInCluster) {
-                      return "<img src='img/hof.png' style='height: 16px; padding:2px;'> "
+                      return "<img src='img/hof.png' style='height: 14px;'> "
                   }
                   else {
                       return ""
@@ -133,7 +133,7 @@ var markers = L.markerClusterGroup({
 
               function marketsAreInCluster (marketsInCluster) {
                 if (marketsInCluster) {
-                    return "<img src='img/markt.png' style='height: 16px; padding:2px;'> "
+                    return "<img src='img/markt.png' style='height: 14px;'> "
                 }
                 else {
                     return ""
@@ -142,7 +142,7 @@ var markers = L.markerClusterGroup({
 
             function machinesAreInCluster (machinesInCluster) {
                 if (machinesInCluster) {
-                    return "<img src='img/automat.png' style='height: 16px;padding:2px;'> "
+                    return "<img src='img/automat.png' style='height: 14px;'> "
                 }
                 else {
                     return ""
@@ -150,7 +150,7 @@ var markers = L.markerClusterGroup({
             }
             
             if (map.getZoom() >= 10){
-                returnWert =markers.length +"<div>" +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster) +"</div>";
+                returnWert = markers.length +"<div style='padding-top:2px;>" +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster) +"</div>";
             }
             else{
                 returnWert = markers.length;

@@ -184,7 +184,7 @@ h1 {
 
     .circle {
         color: #f2f2f2;
-        border-radius: 10px;
+        border-radius: 8px;
         border: 3px solid #f2f2f2;
         background: #4ca7ce;
         opacity: 0.8;
@@ -193,9 +193,9 @@ h1 {
         -webkit-border-radius: 100px / 100px; 
         border-radius: 100px / 100px;
         line-height: 1;
-        padding: 2px;
+        padding: 4px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 20px;
+        font-size: 16px;
     }
 
     /* leaflet locate plugin */
