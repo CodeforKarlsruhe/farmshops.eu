@@ -83,7 +83,7 @@ var GetClusterRadius = function (zoom) {
         return 80;
     }
     else{
-        return 40;
+        return 45;
     }
 }
 
