@@ -124,7 +124,7 @@ var markers = L.markerClusterGroup({
 
               function farmsAreInCluster (farmsInCluster) {
                   if (farmsInCluster) {
-                      return "<img src='img/h-pin2.png' style='width: 20px;'> "
+                      return "<img src='img/hof.png' style='height: 20px; padding:2px;'> "
                   }
                   else {
                       return ""
@@ -133,7 +133,7 @@ var markers = L.markerClusterGroup({
 
               function marketsAreInCluster (marketsInCluster) {
                 if (marketsInCluster) {
-                    return "<img src='img/m-pin2.png' style='width: 20px;'> "
+                    return "<img src='img/markt.png' style='height: 20px; padding:2px;'> "
                 }
                 else {
                     return ""
@@ -142,7 +142,7 @@ var markers = L.markerClusterGroup({
 
             function machinesAreInCluster (machinesInCluster) {
                 if (machinesInCluster) {
-                    return "<img src='img/a-pin2.png' style='width: 20px;'> "
+                    return "<img src='img/automat.png' style='height: 20px;padding:2px;'> "
                 }
                 else {
                     return ""
@@ -160,7 +160,7 @@ var markers = L.markerClusterGroup({
         }
         // console.log("markerS: " +markers)
         var html = '<div class="circle">' +markerTypen(markers) + '</div>';
-        return L.divIcon({ html: html, className: 'test', iconSize: L.point(102, 72) });
+        return L.divIcon({ html: html, className: 'test', iconSize: L.point(90,90) });
     },
     spiderfyOnMaxZoom: true,
     maxClusterRadius: GetClusterRadius,
