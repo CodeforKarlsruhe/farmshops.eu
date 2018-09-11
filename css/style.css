@@ -187,15 +187,16 @@ h1 {
         border-radius: 10px;
         border: 3px solid #f2f2f2;
         background: #4ca7ce;
-        opacity: 0.7;
+        opacity: 0.9;
         text-align: center;
         -moz-border-radius: 100px / 100px; 
         -webkit-border-radius: 100px / 100px; 
         border-radius: 100px / 100px;
         line-height: 1;
-        padding: 8px;
+        padding: 4px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 16px;
+        font-size: 20px;
+        vertical-align: middle;
     }
 
     /* leaflet locate plugin */

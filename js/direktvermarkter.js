@@ -83,7 +83,7 @@ var GetClusterRadius = function (zoom) {
         return 80;
     }
     else{
-        return 30;
+        return 40;
     }
 }
 
@@ -149,8 +149,8 @@ var markers = L.markerClusterGroup({
                 }
             }
             
-            if (map.getZoom() >= 12){
-                returnWert = markers.length +" " +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster);
+            if (map.getZoom() >= 9){
+                returnWert =markers.length +"<div>" +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster) +"</div>";
             }
             else{
                 returnWert = markers.length;
@@ -160,7 +160,7 @@ var markers = L.markerClusterGroup({
         }
         // console.log("markerS: " +markers)
         var html = '<div class="circle">' +markerTypen(markers) + '</div>';
-        return L.divIcon({ html: html, className: 'test', iconSize: L.point(100,100) });
+        return L.divIcon({ html: html, className: 'test', iconSize: L.point(80,80) });
     },
     spiderfyOnMaxZoom: true,
     maxClusterRadius: GetClusterRadius,
