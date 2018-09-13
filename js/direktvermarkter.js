@@ -77,8 +77,8 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
     }
 }).addLayer(tiles);
 
+//Changing Cluster radius based on zoom level
 var GetClusterRadius = function (zoom) { 
-    //do something with the passed zoom level, for example:
     if (zoom < 12){
         return 80;
     }
@@ -148,14 +148,15 @@ var markers = L.markerClusterGroup({
                     return ""
                 }
             }
-            
+
+            //change cluster content based on zoom level
             if (map.getZoom() >= 8){
                 returnWert = markers.length +"<div style='padding-top:2px;'>" +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster) +"</div>";
             }
             else{
-                returnWert = markers.length;
+                returnWert = "<div style='padding:8px;'>" +markers.length +"</div>";
             }
-              
+        
             return returnWert;
         }
         // console.log("markerS: " +markers)
