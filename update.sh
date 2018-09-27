@@ -22,7 +22,7 @@ number=$(find data -type f | wc -l)
 let number-=2
 echo "Anzahl der Nodes: $number"
 git add data/*
-git commit -m "Datenupdate $number"
+git commit -m "🗃 - Datenupdate $number"
 
 if [[ $1 && $2 ]]; then
   echo 'push with variables'
