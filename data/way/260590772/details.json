@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/260590772","properties":{"amenity":"marketplace","id":"way/260590772"},"geometry":{"type":"Point","coordinates":[12.7662605,50.8573361]}}
+{"type":"Feature","id":"way/260590772","properties":{"amenity":"marketplace","area:highway":"yes","id":"way/260590772"},"geometry":{"type":"Point","coordinates":[12.7658023,50.8573361]}}
