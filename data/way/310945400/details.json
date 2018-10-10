@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/310945400","properties":{"amenity":"marketplace","area":"yes","name":"Tržnice","id":"way/310945400"},"geometry":{"type":"Point","coordinates":[14.478583,48.7275222]}}
+{"type":"Feature","id":"way/310945400","properties":{"amenity":"marketplace","name":"Tržnice","id":"way/310945400"},"geometry":{"type":"Point","coordinates":[14.478583,48.7275222]}}
