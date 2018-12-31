@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1425404190","properties":{"amenity":"marketplace","id":"node/1425404190"},"geometry":{"type":"Point","coordinates":[13.5373763,51.0517268]}}
+{"type":"Feature","id":"node/1425404190","properties":{"addr:city":"Wilsdruff","addr:postcode":"01723","addr:street":"Markt","amenity":"marketplace","name":"Wochenmarkt Wilsdruf","id":"node/1425404190"},"geometry":{"type":"Point","coordinates":[13.5373763,51.0517268]}}
