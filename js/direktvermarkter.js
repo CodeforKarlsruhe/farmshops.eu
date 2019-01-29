@@ -42,6 +42,12 @@ var yellowMarker = L.ExtraMarkers.icon({
     shape: 'square'
 });
 
+var pinkMarker = L.ExtraMarkers.icon({
+    icon: 'fa-number',
+    markerColor: 'pink',
+    shape: 'square'
+});
+
 var blackMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'black',
@@ -58,7 +64,11 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
     pointToLayer: function pointToLayer(feature, latlng) {
         if (feature.properties.p === 'farm') {
             return L.marker(latlng, { icon: greenMarker });
-        } else if (feature.properties.p === 'marketplace') {
+        } 
+        else if (feature.properties.p === 'beekeeper') {
+            return L.marker(latlng, { icon: pinkMarker });
+        }
+        else if (feature.properties.p === 'marketplace') {
             return L.marker(latlng, { icon: yellowMarker });
         } else if (feature.properties.p === 'vending_machine') {
             return L.marker(latlng, { icon: blueMarker });
