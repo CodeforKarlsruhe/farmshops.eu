@@ -166,19 +166,19 @@ function popupcontent(feature, layer) {
             return headline;
         }
         else if (feature.properties.name == undefined && feature.properties.shop == 'farm') {
-            headline = "Hofladen<br> (ohne Namen)"
+            headline = "Hofladen"
             return headline;
         }
         else if (feature.properties.name == undefined && feature.properties.craft == 'beekeeper') {
-            headline = "Imker<br> (ohne Namen)"
+            headline = "Imker"
             return headline;
         }
         else if (feature.properties.name == undefined && feature.properties.amenity == 'vending_machine') {
-            headline = "Verkaufsautomat<br> (ohne Namen)"
+            headline = "Verkaufsautomat"
             return headline
         }
         else if (feature.properties.name == undefined && feature.properties.amenity == 'marketplace') {
-            headline = "Markt<br> (ohne Namen)"
+            headline = "Markt"
             return headline
         }
         else {
