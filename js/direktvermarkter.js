@@ -24,27 +24,27 @@ var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{
 
 
 
-var greenMarker = L.ExtraMarkers.icon({
+var farmMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'green-light',
     shape: 'square',
 });
 
-var blueMarker = L.ExtraMarkers.icon({
+var machineMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'cyan',
     shape: 'square'
 });
 
-var yellowMarker = L.ExtraMarkers.icon({
+var beekeeperMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
     markerColor: 'yellow',
     shape: 'square'
 });
 
-var pinkMarker = L.ExtraMarkers.icon({
+var marketMarker = L.ExtraMarkers.icon({
     icon: 'fa-number',
-    markerColor: 'pink',
+    markerColor: 'orange',
     shape: 'square'
 });
 
@@ -62,16 +62,16 @@ var blackMarker = L.ExtraMarkers.icon({
 
 var geojson1 = L.geoJson(farmshopGeoJson, {
     pointToLayer: function pointToLayer(feature, latlng) {
-        if (feature.properties.p === 'farm') {
-            return L.marker(latlng, { icon: greenMarker });
-        } 
-        else if (feature.properties.p === 'beekeeper') {
-            return L.marker(latlng, { icon: pinkMarker });
+        if (feature.properties.p === 'beekeeper') {
+            return L.marker(latlng, { icon: beekeeperMarker });
         }
+        else if (feature.properties.p === 'farm') {
+            return L.marker(latlng, { icon: farmMarker });
+        } 
         else if (feature.properties.p === 'marketplace') {
-            return L.marker(latlng, { icon: yellowMarker });
+            return L.marker(latlng, { icon: marketMarker });
         } else if (feature.properties.p === 'vending_machine') {
-            return L.marker(latlng, { icon: blueMarker });
+            return L.marker(latlng, { icon: machineMarker });
         } else {
             console.log("nicht bekannte Daten verwendet");
             return L.marker(latlng, { icon: blackMarker });
@@ -106,6 +106,7 @@ var markers = L.markerClusterGroup({
             var farmsInCluster = false;
             var marketsInCluster = false;
             var machinesInCluster = false;
+            var beekeepersInCluster = false;
 
            
             for (var c = 0; c < markers.length; c++) {
@@ -114,6 +115,10 @@ var markers = L.markerClusterGroup({
                 if (markers[c].feature.properties.p ==="farm"){
 
                     farmsInCluster = true;
+                }
+                else if (markers[c].feature.properties.p ==="beekeeper"){
+
+                    beekeepersInCluster = true;
                 }
                 else if (markers[c].feature.properties.p ==="marketplace"){
 
@@ -150,6 +155,15 @@ var markers = L.markerClusterGroup({
                 }
             }
 
+            function beekeepersAreInCluster (beekeepersInCluster) {
+                if (beekeepersInCluster) {
+                    return "<img src='img/imker.png' style='height: 14px;'> "
+                }
+                else {
+                    return ""
+                }
+            }
+
             function machinesAreInCluster (machinesInCluster) {
                 if (machinesInCluster) {
                     return "<img src='img/automat.png' style='height: 14px;'> "
@@ -161,7 +175,7 @@ var markers = L.markerClusterGroup({
 
             //change cluster content based on zoom level
             if (map.getZoom() >= 8){
-                returnWert = markers.length +"<div style='padding-top:2px;'>" +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster) +"</div>";
+                returnWert = markers.length +"<div style='padding-top:2px;'>" +farmsAreInCluster(farmsInCluster) +marketsAreInCluster(marketsInCluster) +machinesAreInCluster (machinesInCluster) +beekeepersAreInCluster(beekeepersInCluster) +"</div>";
             }
             else{
                 returnWert = "<div style='padding:8px;'>" +markers.length +"</div>";

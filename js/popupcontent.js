@@ -169,6 +169,10 @@ function popupcontent(feature, layer) {
             headline = "Hofladen<br> (ohne Namen)"
             return headline;
         }
+        else if (feature.properties.name == undefined && feature.properties.craft == 'beekeeper') {
+            headline = "Imker<br> (ohne Namen)"
+            return headline;
+        }
         else if (feature.properties.name == undefined && feature.properties.amenity == 'vending_machine') {
             headline = "Verkaufsautomat<br> (ohne Namen)"
             return headline

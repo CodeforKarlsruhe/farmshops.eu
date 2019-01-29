@@ -24,6 +24,10 @@ function getSimpleNode(node) {
             property = "farm";
             console.log("farm");
         }
+        else if (node.properties.craft === "beekeeper" && node.properties.shop != "farm" && node.properties.amenity != "vending_machine") {
+            property = "beekeeper";
+            console.log("beekeeper");
+        }
         else if (node.properties.amenity === "marketplace" && node.properties.shop != "farm" && node.properties.amenity != "vending_machine") {
             property = "marketplace";
             console.log("marketplace");
@@ -109,6 +113,8 @@ let query = `
       nwr[amenity=marketplace];
 
       nwr[shop=farm];
+
+      nwr[craft=beekeeper];
     );
     out center;
 `;
