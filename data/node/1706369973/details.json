@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1706369973","properties":{"amenity":"marketplace","name":"Kartoffellagerhaus Cavertitz - Futtermittelhandel","id":"node/1706369973"},"geometry":{"type":"Point","coordinates":[13.1357489,51.3885041]}}
+{"type":"Feature","id":"node/1706369973","properties":{"addr:city":"Cavertitz","addr:housenumber":"18","addr:postcode":"04758","addr:street":"Klingenhainer Straße","amenity":"marketplace","name":"Kartoffellagerhaus Cavertitz - Futtermittelhandel","id":"node/1706369973"},"geometry":{"type":"Point","coordinates":[13.1357489,51.3885041]}}
