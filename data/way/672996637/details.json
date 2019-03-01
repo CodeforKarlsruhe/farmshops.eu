@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/672996637","properties":{"addr:city":"Radebeul","addr:postcode":"01445","addr:street":"Altkötzschenbroda","amenity":"marketplace","name":"Altkötzschenbroda","id":"way/672996637"},"geometry":{"type":"Point","coordinates":[13.6271473,51.1049935]}}
+{"type":"Feature","id":"way/672996637","properties":{"amenity":"marketplace","name":"Wochenmarkt","id":"way/672996637"},"geometry":{"type":"Point","coordinates":[13.6271473,51.1049935]}}
