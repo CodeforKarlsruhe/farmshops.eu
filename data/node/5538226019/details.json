@@ -1,1 +1,0 @@
-{"type":"Feature","id":"node/5538226019","properties":{"addr:housenumber":"1","addr:street":"Stutenweg","amenity":"vending_machine","currency:EUR":"yes","name":"Milchautomat Hofmann","opening_hours":"24/7","operator":"Frank Hofmann","payment:coins":"yes","source":"survey","vending":"milk","id":"node/5538226019"},"geometry":{"type":"Point","coordinates":[9.0538642,49.0109229]}}
