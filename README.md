@@ -12,8 +12,13 @@ Using:
 - [opening_hours.js](https://github.com/opening-hours/opening_hours.js)
 - [The noun Project Icons](https://thenounproject.com/)
 
-Planned for future versions:
-- [tags2names](https://github.com/ENT8R/tags2names) for internationalisation
+Roadmap & next steps:
+- Redesign (new Menu)
+- Internationalization + aditional countries
+- Search function
+- Migration to a modern framework (likely react)
+
+Help, bug reports and ideas are always welcome :)
 
 ## Documentation in German
 
@@ -47,13 +52,5 @@ Das Script verwendet https://overpass-turbo.eu/ um diese Tags von OpenstreetMap 
 - https://wiki.openstreetmap.org/wiki/DE:Tag:shop=farm
 - https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine
 - https://wiki.openstreetmap.org/wiki/DE:Tag:amenity=marketplace
-
+- https://wiki.openstreetmap.org/wiki/DE:Tag:craft%3Dbeekeeper
  Wobei vending machines indirekt über die Tags vending:milk und vending:food gezogen werden.
-
-## ToDo (siehe auch Issues):
-- Anzeige nur von gewünschten Datentypen
-- Jetzt gerade offen-Funktion
-- Suchfunktion
-- Auswahlmöglichkeit für verschiedene Regionen
-- Howto Datenpflege verbessern
-- Möglichkeit neue Orte direkt eintragen zu können.
