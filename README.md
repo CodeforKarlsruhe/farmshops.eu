@@ -16,7 +16,7 @@ Roadmap & next steps:
 - Redesign (new Menu)
 - Internationalization + aditional countries
 - Search function
-- Migration to a modern framework (likely react)
+- Migration to a JS framework (likely react)
 
 Help, bug reports and ideas are always welcome :)
 
