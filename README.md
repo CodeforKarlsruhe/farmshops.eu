@@ -50,7 +50,7 @@ Für ein konfortables Update mit automatischen Commit gibt es das shell script u
 Das Script verwendet https://overpass-turbo.eu/ um diese Tags von OpenstreetMap zu ziehen:
 
 - https://wiki.openstreetmap.org/wiki/DE:Tag:shop=farm
-- https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine
+- https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine ( Wobei vending machines indirekt über Tags wie vending:milk oder vending:food gezogen werden.)
 - https://wiki.openstreetmap.org/wiki/DE:Tag:amenity=marketplace
 - https://wiki.openstreetmap.org/wiki/DE:Tag:craft%3Dbeekeeper
- Wobei vending machines indirekt über die Tags vending:milk und vending:food gezogen werden.
+
