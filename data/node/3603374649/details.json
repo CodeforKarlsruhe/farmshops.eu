@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/3603374649","properties":{"amenity":"vending_machine","food":"eggs;milk;potatoes;noodles","name":"Milchtankstelle","operator":"Fam. Hock","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/3603374649"},"geometry":{"type":"Point","coordinates":[9.1865961,49.9583676]}}
