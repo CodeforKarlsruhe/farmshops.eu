@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1608887200","properties":{"amenity":"marketplace","name":"Bauernmarkt","id":"node/1608887200"},"geometry":{"type":"Point","coordinates":[11.2477873,48.170941]}}
+{"type":"Feature","id":"node/1608887200","properties":{"addr:city":"Fürstenfeldbruck","addr:housenumber":"13a","addr:postcode":"82256","addr:street":"Fürstenfeld","amenity":"marketplace","name":"Bauernmarkt","opening_hours":"Tu 09:00-12:00; Sa 08:00-12:00","id":"node/1608887200"},"geometry":{"type":"Point","coordinates":[11.2477793,48.1709249]}}
