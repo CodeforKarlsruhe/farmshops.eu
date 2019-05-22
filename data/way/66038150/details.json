@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/66038150","properties":{"amenity":"marketplace","name":"Marktplatz Werne","surface":"asphalt","id":"way/66038150"},"geometry":{"type":"Point","coordinates":[7.306572,51.4875059]}}
+{"type":"Feature","id":"way/66038150","properties":{"amenity":"marketplace","name":"Marktplatz Werne","opening_hours":"We,Sa 08:00-13:00","surface":"asphalt","id":"way/66038150"},"geometry":{"type":"Point","coordinates":[7.306572,51.4875059]}}
