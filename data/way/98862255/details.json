@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/98862255","properties":{"building":"yes","name":"Hofladen","shop":"farm","id":"way/98862255"},"geometry":{"type":"Point","coordinates":[13.034084,52.7545738]}}
+{"type":"Feature","id":"way/98862255","properties":{"building":"yes","name":"Hofladen des Spargelhofs","opening_hours":"08:00-18:00","organic":"yes","shop":"farm","wheelchair":"yes","id":"way/98862255"},"geometry":{"type":"Point","coordinates":[13.034071,52.7546766]}}
