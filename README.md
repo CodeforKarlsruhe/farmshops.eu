@@ -14,7 +14,7 @@ Using:
 
 Roadmap & next steps:
 - Redesign (new Menu)
-- Internationalization + aditional countries
+- Internationalization + aditional countries - See Issue #50
 - Search function
 - Migration to a JS framework (likely react)
 
