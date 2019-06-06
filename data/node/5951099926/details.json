@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5951099926","properties":{"amenity":"marketplace","id":"node/5951099926"},"geometry":{"type":"Point","coordinates":[14.3303544,51.7613587]}}
+{"type":"Feature","id":"node/5951099926","properties":{"addr:city":"Cottbus","addr:postcode":"03046","addr:street":"Berliner Platz","amenity":"marketplace","name":"Wochenmarkt Stadthallenvorplatz","operator":"Stadt Cottbus","website":"www.cottbuser-wochenmarkt.de","id":"node/5951099926"},"geometry":{"type":"Point","coordinates":[14.3299364,51.7615464]}}
