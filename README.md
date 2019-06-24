@@ -22,7 +22,7 @@ Help, bug reports and ideas are always welcome :)
 
 ## Stickers
 These Stickers are based on a 1924 advertising poster by Alexander Rodchenko, that was copied various times. (for example by Franz Ferdinand)
-If you want a few free stickers, simply write a mail to farmshops@posteo.eu .
+If you want a few free stickers, simply write a mail with your post adress to farmshops@posteo.eu .
 
 ![Sticker](https://raw.githubusercontent.com/codeforkarlsruhe/direktvermarkter/master/img/farmshops-sticker-sm.jpg)
 
