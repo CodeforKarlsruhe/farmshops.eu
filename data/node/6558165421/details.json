@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6558165421","properties":{"amenity":"vending_machine","name":"Krietz Milchtankstelle","opening_hours":"6-13;14-23","vending":"milk","id":"node/6558165421"},"geometry":{"type":"Point","coordinates":[9.3523761,53.2408822]}}
+{"type":"Feature","id":"node/6558165421","properties":{"amenity":"vending_machine","name":"Krietz Milchtankstelle","opening_hours":"06:00-13:00,14:00-23:00","vending":"milk","id":"node/6558165421"},"geometry":{"type":"Point","coordinates":[9.3523761,53.2408822]}}
