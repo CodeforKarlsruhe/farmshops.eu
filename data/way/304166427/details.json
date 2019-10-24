@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/304166427","properties":{"amenity":"marketplace","highway":"pedestrian","opening_hours":"We,Sa 08:00-16:00","id":"way/304166427"},"geometry":{"type":"Point","coordinates":[5.177816,52.2275233]}}
+{"type":"Feature","id":"way/304166427","properties":{"amenity":"marketplace","highway":"pedestrian","name":"Langgewenst","opening_hours":"We,Sa 08:00-16:00","id":"way/304166427"},"geometry":{"type":"Point","coordinates":[5.177816,52.2275233]}}
