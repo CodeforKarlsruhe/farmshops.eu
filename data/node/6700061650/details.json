@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6700061650","properties":{"addr:country":"AT","name":"Hofladen Fam. Lienhart","shop":"farm","id":"node/6700061650"},"geometry":{"type":"Point","coordinates":[15.4290935,46.7910655]}}
+{"type":"Feature","id":"node/6700061650","properties":{"addr:city":"Sankt Andrä-Höch","addr:country":"AT","addr:housenumber":"49","addr:place":"Höch","addr:postcode":"8442","at_bev:addr_date":"2018-10-01","name":"Hofladen Fam. Lienhart","shop":"farm","id":"node/6700061650"},"geometry":{"type":"Point","coordinates":[15.4290935,46.7910655]}}
