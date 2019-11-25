@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6985153537","properties":{"amenity":"marketplace","name":"Marché de Mattaincourt","opening_hours":"Sa[1,3] 08:30-12:00","operator":"Mairie de Mattaincourt","id":"node/6985153537"},"geometry":{"type":"Point","coordinates":[6.1328977,48.2791714]}}
+{"type":"Feature","id":"node/6985153537","properties":{"amenity":"marketplace","name":"Marché du terroir","network":"Marchés de France","opening_hours":"Sa[1,3] 08:30-12:00","operator":"Mairie de Mattaincourt","id":"node/6985153537"},"geometry":{"type":"Point","coordinates":[6.1328977,48.2791714]}}

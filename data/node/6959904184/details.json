@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6959904184","properties":{"addr:street":"We­dau­er Markt","amenity":"marketplace","name":"Wochenmarkt Wedau","opening_hours":"We, Fr 08:00-13:00","id":"node/6959904184"},"geometry":{"type":"Point","coordinates":[6.7973417,51.3921545]}}
+{"type":"Feature","id":"node/6959904184","properties":{"addr:street":"We­dau­er Markt","amenity":"marketplace","name":"Wochenmarkt Wedau","opening_hours":"We, Fr 08:00-13:00","wheelchair":"yes","id":"node/6959904184"},"geometry":{"type":"Point","coordinates":[6.7973417,51.3921545]}}
