@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/263313151","properties":{"name":"Wulhorst","shop":"farm","id":"node/263313151"},"geometry":{"type":"Point","coordinates":[7.4158278,51.6430244]}}
+{"type":"Feature","id":"node/263313151","properties":{"addr:city":"Waltrop","addr:housenumber":"3","addr:postcode":"45731","addr:street":"Unterlippe","name":"Wulhorst","opening_hours":"Mo-Fr 09:00-12:00 14:00-17:00; Sa 09:00-13:00; Su 10:00-12:00","operator":"Thorsten Wulhorst","phone":"+49 2309 2868","shop":"farm","id":"node/263313151"},"geometry":{"type":"Point","coordinates":[7.4157242,51.6429498]}}

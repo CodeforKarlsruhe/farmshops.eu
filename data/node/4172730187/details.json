@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4172730187","properties":{"amenity":"marketplace","name":"Reißigerstraße","opening_hours":"Tu 09:00-16:00","phone":"+49 351 4888741","website":"https://www.dresden.de/maerkte","id":"node/4172730187"},"geometry":{"type":"Point","coordinates":[13.7698634,51.0479808]}}
+{"type":"Feature","id":"node/4172730187","properties":{"amenity":"marketplace","name":"Reißigerstraße","opening_hours":"Tu 09:00-16:00","id":"node/4172730187"},"geometry":{"type":"Point","coordinates":[13.7698634,51.0479808]}}
