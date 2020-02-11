@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/444231087","properties":{"amenity":"marketplace","description":"on Sunday","id":"way/444231087"},"geometry":{"type":"Point","coordinates":[4.3386492,50.8545419]}}
+{"type":"Feature","id":"way/444231087","properties":{"amenity":"marketplace","note":"Type : alimentation","opening_hours":"Su 09:00-13:00","id":"way/444231087"},"geometry":{"type":"Point","coordinates":[4.3386492,50.8545419]}}
