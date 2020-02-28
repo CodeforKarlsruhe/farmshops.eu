@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1420061015","properties":{"amenity":"marketplace","opening_hours":"We,Sa 08:00-13:00","id":"node/1420061015"},"geometry":{"type":"Point","coordinates":[9.9870127,53.5170812]}}
+{"type":"Feature","id":"node/1420061015","properties":{"amenity":"marketplace","name":"Stübenplatz","opening_hours":"We,Sa 08:00-13:00","id":"node/1420061015"},"geometry":{"type":"Point","coordinates":[9.9870127,53.5170812]}}

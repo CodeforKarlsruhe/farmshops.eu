@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/775734170","properties":{"amenity":"marketplace","id":"way/775734170"},"geometry":{"type":"Point","coordinates":[17.4574343,49.0677302]}}
+{"type":"Feature","id":"way/775734170","properties":{"amenity":"marketplace","name":"Městská tržnice","opening_hours":"Mar-Nov: We,Sa 04:30-11:30","wheelchair":"yes","id":"way/775734170"},"geometry":{"type":"Point","coordinates":[17.4574343,49.0677302]}}
