@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/563686844","properties":{"amenity":"marketplace","name":"L.E. van Arenbergplein","wheelchair":"yes","id":"way/563686844"},"geometry":{"type":"Point","coordinates":[4.6955149,50.8631281]}}
+{"type":"Feature","id":"way/563686844","properties":{"amenity":"marketplace","name":"L.E. van Arenbergplein","name:etymology:wikidata":"Q537073","wheelchair":"yes","id":"way/563686844"},"geometry":{"type":"Point","coordinates":[4.6955149,50.8631281]}}
