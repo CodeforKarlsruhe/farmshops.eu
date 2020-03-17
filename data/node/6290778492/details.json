@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6290778492","properties":{"amenity":"marketplace","opening_hours":"We+Sa 07:00-12:30","website":"https://www.lauenburg.de/leben/wochenmarkt/","id":"node/6290778492"},"geometry":{"type":"Point","coordinates":[10.5552562,53.3736191]}}
+{"type":"Feature","id":"node/6290778492","properties":{"amenity":"marketplace","opening_hours":"We 7:00-12:30; Sa 7:00-12:30","website":"https://www.lauenburg.de/leben/wochenmarkt/","id":"node/6290778492"},"geometry":{"type":"Point","coordinates":[10.5552562,53.3736191]}}
