@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/118559663","properties":{"addr:housenumber":"36a","addr:street":"Oberstraße","building":"yes","craft":"beekeeper","name":"Imker Gerd Goerke","phone":"02485-955213","id":"way/118559663"},"geometry":{"type":"Point","coordinates":[6.406252,50.5433759]}}
+{"type":"Feature","id":"way/118559663","properties":{"addr:housenumber":"36a","addr:street":"Oberstraße","building":"yes","craft":"beekeeper","name":"Imker Gerd Goerke","phone":"+49 2485 955213","id":"way/118559663"},"geometry":{"type":"Point","coordinates":[6.406252,50.5433759]}}
