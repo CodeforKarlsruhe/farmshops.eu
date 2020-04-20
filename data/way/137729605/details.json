@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/137729605","properties":{"addr:housenumber":"1","landuse":"farmyard","name":"Jardin de Mottières","phone":"06 87 36 90 51","shop":"farm","source":"survey;BDOrtho IGN","id":"way/137729605"},"geometry":{"type":"Point","coordinates":[5.9700079,48.7215534]}}
+{"type":"Feature","id":"way/137729605","properties":{"landuse":"farmyard","name":"Jardin de Mottières","opening_hours:covid19":"off","phone":"06 87 36 90 51","shop":"farm","source":"survey;BDOrtho IGN","id":"way/137729605"},"geometry":{"type":"Point","coordinates":[5.9700079,48.7215534]}}
