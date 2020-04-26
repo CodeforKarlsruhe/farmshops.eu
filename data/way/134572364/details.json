@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/134572364","properties":{"amenity":"vending_machine","source":"survey;BDOrtho IGN","vending":"eggs","id":"way/134572364"},"geometry":{"type":"Point","coordinates":[5.937277,48.7695418]}}
+{"type":"Feature","id":"way/134572364","properties":{"amenity":"vending_machine","opening_hours":"24/7","opening_hours:covid19":"same","operator":"Anne-Marie Jacquet","source":"survey;BDOrtho IGN","vending":"eggs","id":"way/134572364"},"geometry":{"type":"Point","coordinates":[5.937277,48.7695418]}}
