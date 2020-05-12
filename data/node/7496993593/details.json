@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/7496993593","properties":{"addr:city":"Hinwil","addr:postcode":"8340","addr:street":"Erlosensrasse","opening_hours":"Mo-Sa 08:30-19:00; So 10:00-18:00","opening_hours:covid19":"open","operator":"Schuler","payment:cash":"yes","payment:twint":"yes","shop":"farm","id":"node/7496993593"},"geometry":{"type":"Point","coordinates":[8.8204139,47.3147846]}}
