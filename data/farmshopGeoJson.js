@@ -1,1 +1,1 @@
-var lastUpdate = "Letzter Datenabgleich: 18.05.2020 ungefähr um 11 Uhr."; var farmshopGeoJson = {"type":"FeatureCollection","features":[]};
+var lastUpdate = "Letzter Datenabgleich: 19.05.2020 ungefähr um 16 Uhr."; var farmshopGeoJson = {"type":"FeatureCollection","features":[]};
