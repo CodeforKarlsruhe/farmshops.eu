@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4202392525","properties":{"craft":"beekeeper","note":"Bienenstöcke","id":"node/4202392525"},"geometry":{"type":"Point","coordinates":[13.0444991,47.7624263]}}
+{"type":"Feature","id":"node/4202392525","properties":{"craft":"beekeeper","man_made":"beehive","note":"Bienenstöcke","id":"node/4202392525"},"geometry":{"type":"Point","coordinates":[13.0444991,47.7624263]}}
