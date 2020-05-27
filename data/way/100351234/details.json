@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/100351234","properties":{"amenity":"marketplace","building":"public","name":"Hala Targowa \"Pod Wieżą\"","id":"way/100351234"},"geometry":{"type":"Point","coordinates":[17.0081216,54.4696484]}}
+{"type":"Feature","id":"way/100351234","properties":{"addr:housenumber":"6","amenity":"marketplace","building":"public","building:levels":"2","name":"Hala Targowa \"Pod Wieżą\"","opening_hours":"Mo-Fr 06:00-18:00; Sa 06:00-15:00","id":"way/100351234"},"geometry":{"type":"Point","coordinates":[17.0081216,54.4696484]}}
