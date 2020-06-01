@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5762145840","properties":{"name":"Tüfihof","shop":"farm","id":"node/5762145840"},"geometry":{"type":"Point","coordinates":[8.5256614,47.321041]}}
+{"type":"Feature","id":"node/5762145840","properties":{"addr:housenumber":"18","addr:street":"Tüfistrasse","description":"Salat, Grumbeere, Joghurt,...","name":"Tüfihof","opening_hours":"We, Fr 15:00-18:30","phone":"0041 44 710 48 81","shop":"farm","website":"https://www.erlebnishof-tuefi.ch/index.php/hoflaedeli","id":"node/5762145840"},"geometry":{"type":"Point","coordinates":[8.5256614,47.321041]}}
