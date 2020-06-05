@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7540836252","properties":{"amenity":"marketplace","opening_hours":"Fr 16:00-19:00","organic":"yes","id":"node/7540836252"},"geometry":{"type":"Point","coordinates":[5.8231545,49.691854]}}
+{"type":"Feature","id":"node/7540836252","properties":{"addr:street":"Drève des Espagnoles","amenity":"marketplace","name":"Marché Bio","opening_hours":"Fr 16:00-19:00","organic":"yes","id":"node/7540836252"},"geometry":{"type":"Point","coordinates":[5.8231545,49.691854]}}
