@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7552208286","properties":{"amenity":"vending_machine","operator":"Schwamm","vending":"food","id":"node/7552208286"},"geometry":{"type":"Point","coordinates":[7.0148503,49.2249021]}}
+{"type":"Feature","id":"node/7552208286","properties":{"amenity":"vending_machine","fixme":"nicht mehr sicher, was das für ein Automat war: Getränke?","operator":"Schwamm","vending":"food","id":"node/7552208286"},"geometry":{"type":"Point","coordinates":[7.0148503,49.2249021]}}
