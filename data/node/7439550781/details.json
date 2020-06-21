@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7439550781","properties":{"amenity":"marketplace","name":"Feierabendmarkt","opening_hours":"Th 16:00-20:00","id":"node/7439550781"},"geometry":{"type":"Point","coordinates":[9.4790071,51.3152038]}}
+{"type":"Feature","id":"node/7439550781","properties":{"alt_name":"Feierabendmarkt","amenity":"marketplace","name":"Anna Markt","opening_hours":"Th 16:00-20:00","website":"https://www.anna-markt-kassel.de","id":"node/7439550781"},"geometry":{"type":"Point","coordinates":[9.4790071,51.3152038]}}
