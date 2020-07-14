@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6588659502","properties":{"operator":"Erdbeerland Ernst","seasonal":"spring;summer","shop":"farm","id":"node/6588659502"},"geometry":{"type":"Point","coordinates":[7.0211823,49.2460885]}}
+{"type":"Feature","id":"node/6588659502","properties":{"name":"Erdbeerland Funck","operator":"Erdbeerland Ernst","seasonal":"spring;summer","shop":"farm","wheelchair":"yes","id":"node/6588659502"},"geometry":{"type":"Point","coordinates":[7.0211823,49.2460885]}}
