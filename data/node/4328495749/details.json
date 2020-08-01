@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4328495749","properties":{"name":"Bio Hofkiosk Lützelsee","shop":"farm","website":"https://www.biohof-luetzelsee.ch/","id":"node/4328495749"},"geometry":{"type":"Point","coordinates":[8.7776819,47.2582487]}}
+{"type":"Feature","id":"node/4328495749","properties":{"name":"Bio Hofkiosk Lützelsee","payment:cash":"yes","self_service":"only","shop":"farm","website":"https://www.biohof-luetzelsee.ch/","id":"node/4328495749"},"geometry":{"type":"Point","coordinates":[8.7776819,47.2582487]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3005953613","properties":{"amenity":"marketplace","name":"Marché mensuel","id":"node/3005953613"},"geometry":{"type":"Point","coordinates":[6.1574666,49.8695835]}}
+{"type":"Feature","id":"node/3005953613","properties":{"amenity":"marketplace","contact:phone":"+352 808780 203","name":"Marché mensuel","id":"node/3005953613"},"geometry":{"type":"Point","coordinates":[6.1574666,49.8695835]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1590597292","properties":{"amenity":"marketplace","name":"Mannebacher Käsemarkt am Riedhof","id":"node/1590597292"},"geometry":{"type":"Point","coordinates":[6.5112062,49.6368663]}}
+{"type":"Feature","id":"node/1590597292","properties":{"amenity":"marketplace","contact:website":"https://www.mannebacher-kaesemarkt.de/","name":"Mannebacher Käsemarkt am Riedhof","opening_hours":"Sa 10:00-16:00","id":"node/1590597292"},"geometry":{"type":"Point","coordinates":[6.5112062,49.6368663]}}

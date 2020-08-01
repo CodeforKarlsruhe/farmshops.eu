@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3002785882","properties":{"amenity":"marketplace","id":"node/3002785882"},"geometry":{"type":"Point","coordinates":[7.043674,49.9273957]}}
+{"type":"Feature","id":"node/3002785882","properties":{"contact:phone":"+49 6531 9603 34","name":"Hofladen Cusanushof","opening_hours":"Mo-Fr 08:00-12:00, 13:00-16:00;ph off","operator":"DRK-Sozialwerk Bernkastel-Wittlich","shop":"farm","id":"node/3002785882"},"geometry":{"type":"Point","coordinates":[7.043674,49.9273957]}}

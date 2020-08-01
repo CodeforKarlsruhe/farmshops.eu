@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1342598815","properties":{"amenity":"marketplace","id":"node/1342598815"},"geometry":{"type":"Point","coordinates":[7.221894,50.328562]}}
+{"type":"Feature","id":"node/1342598815","properties":{"amenity":"marketplace","contact:phone":"+49 2651 880","name":"Mayener Wochenmarkt","opening_hours":"Tu, Th,Sa 07:00+","source":"https://www.mayen.de/Kultur-und-Maerkte/Feste/Marktzeit-in-Mayen/Wochenmarkt/","id":"node/1342598815"},"geometry":{"type":"Point","coordinates":[7.221894,50.328562]}}

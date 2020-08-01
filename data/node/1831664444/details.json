@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1831664444","properties":{"amenity":"marketplace","id":"node/1831664444"},"geometry":{"type":"Point","coordinates":[7.1518905,49.3151588]}}
+{"type":"Feature","id":"node/1831664444","properties":{"amenity":"marketplace","contact:phone":"+49 6821 791 0","name":"Wochenmarkt Elversberg (Kleidermarkt)","opening_hours":"Fr 08:00-12:00","website":"http://www.spiesen-elversberg.info/p/d1.asp?artikel_id=1394&SValue=wochenmarkt","id":"node/1831664444"},"geometry":{"type":"Point","coordinates":[7.1518905,49.3151588]}}
