@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7328659368","properties":{"amenity":"marketplace","name":"Grüner Markt Viehmarktplatz","opening_hours":"Th 07:00-14:00","wheelchair":"yes","id":"node/7328659368"},"geometry":{"type":"Point","coordinates":[11.2521871,48.1779112]}}
+{"type":"Feature","id":"node/7328659368","properties":{"amenity":"marketplace","name":"Grüner Markt Viehmarktplatz","opening_hours":"Th 07:00-12:00","wheelchair":"yes","id":"node/7328659368"},"geometry":{"type":"Point","coordinates":[11.2521871,48.1779112]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3462125515","properties":{"amenity":"marketplace","name":"Wochenmarkt Düsseltal","opening_hours":"Th,Sa 08:00-14:00","id":"node/3462125515"},"geometry":{"type":"Point","coordinates":[6.7981996,51.2375478]}}
+{"type":"Feature","id":"node/3462125515","properties":{"amenity":"marketplace","name":"Wochenmarkt Düsseltal","opening_hours":"Th,Sa 08:00-13:00","website":"https://www.duesseldorf.de/verbraucherschutz/marktmanagement/wochenmaerkte/termine.html","id":"node/3462125515"},"geometry":{"type":"Point","coordinates":[6.7981419,51.2375872]}}
