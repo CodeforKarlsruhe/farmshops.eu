@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/28869731","properties":{"amenity":"marketplace","name":"Brandenburger Platz","id":"way/28869731"},"geometry":{"type":"Point","coordinates":[10.7604587,52.420544]}}
+{"type":"Feature","id":"way/28869731","properties":{"amenity":"marketplace","name":"Brandenburger Platz","opening_hours":"Tu 08:00-13:00","id":"way/28869731"},"geometry":{"type":"Point","coordinates":[10.7604587,52.420544]}}
