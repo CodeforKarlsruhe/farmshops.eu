@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7086330927","properties":{"addr:city":"Lippborg","addr:housenumber":"2","addr:postcode":"59510","addr:street":"Assenweg","craft":"beekeeper","name":"Imker Dr. Look","id":"node/7086330927"},"geometry":{"type":"Point","coordinates":[8.0752567,51.6791208]}}
+{"type":"Feature","id":"node/7086330927","properties":{"craft":"beekeeper","name":"Imker Dr. Look","id":"node/7086330927"},"geometry":{"type":"Point","coordinates":[8.0752567,51.6791208]}}
