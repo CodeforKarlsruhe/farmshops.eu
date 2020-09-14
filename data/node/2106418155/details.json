@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2106418155","properties":{"name":"Obsthof Knoblauch","shop":"farm","id":"node/2106418155"},"geometry":{"type":"Point","coordinates":[9.4655866,47.6823742]}}
+{"type":"Feature","id":"node/2106418155","properties":{"email":"info@obsthof-knoblauch.de","name":"Obsthof Knoblauch","opening_hours":"Tu,Th,Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00; Mo,We,Su,PH off","phone":"+49 7541 52559","shop":"farm","website":"https://www.obsthof-knoblauch.de/","id":"node/2106418155"},"geometry":{"type":"Point","coordinates":[9.4655866,47.6823742]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/23483618","properties":{"amenity":"marketplace","bicycle":"yes","highway":"pedestrian","name":"Markt","place":"square","surface":"cobblestone","id":"way/23483618"},"geometry":{"type":"Point","coordinates":[7.9905305,51.9524647]}}
+{"type":"Feature","id":"way/23483618","properties":{"amenity":"marketplace","bicycle":"yes","name":"Markt","place":"square","surface":"paving_stones","id":"way/23483618"},"geometry":{"type":"Point","coordinates":[7.9905305,51.9524647]}}

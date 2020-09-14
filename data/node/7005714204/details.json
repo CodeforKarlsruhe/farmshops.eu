@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7005714204","properties":{"amenity":"marketplace","name":"Laar (vrijdag)","id":"node/7005714204"},"geometry":{"type":"Point","coordinates":[4.4332936,51.2159987]}}
+{"type":"Feature","id":"node/7005714204","properties":{"amenity":"marketplace","name":"Laar (vrijdag)","opening_hours":"Fr 05:00-15:00","id":"node/7005714204"},"geometry":{"type":"Point","coordinates":[4.4332936,51.2159987]}}
