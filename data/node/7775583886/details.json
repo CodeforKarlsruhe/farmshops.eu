@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7775583886","properties":{"shop":"farm","id":"node/7775583886"},"geometry":{"type":"Point","coordinates":[10.8958023,49.9118838]}}
+{"type":"Feature","id":"node/7775583886","properties":{"name":"Gärtnerei Eichfelder","opening_hours":"Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00","shop":"farm","id":"node/7775583886"},"geometry":{"type":"Point","coordinates":[10.8958023,49.9118838]}}

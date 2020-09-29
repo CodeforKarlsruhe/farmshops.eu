@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5659254296","properties":{"amenity":"marketplace","name":"Domplatz","opening_hours":"Mo-Su,PH 00:00-24:00","id":"node/5659254296"},"geometry":{"type":"Point","coordinates":[8.5018518,50.55562]}}
+{"type":"Feature","id":"node/5659254296","properties":{"amenity":"marketplace","name":"Domplatz","opening_hours":"PH,Mo-Su 00:00-24:00","id":"node/5659254296"},"geometry":{"type":"Point","coordinates":[8.5018518,50.55562]}}

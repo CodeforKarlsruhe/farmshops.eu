@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/75076370","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"\"Samstag Vormittag\"","id":"way/75076370"},"geometry":{"type":"Point","coordinates":[10.8222294,48.3932751]}}
+{"type":"Feature","id":"way/75076370","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Sa 07:00-12:00","website":"https://www.neusaess.de/de/Kultur-und-Freizeit/Feste-und-Maerkte/Wochenmarkt","id":"way/75076370"},"geometry":{"type":"Point","coordinates":[10.8222294,48.3932751]}}
