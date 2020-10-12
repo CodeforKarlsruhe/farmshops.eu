@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/249477284","properties":{"building":"yes","name":"Latz","shop":"farm","id":"way/249477284"},"geometry":{"type":"Point","coordinates":[6.8143738,49.3595554]}}
+{"type":"Feature","id":"way/249477284","properties":{"addr:city":"Saarwellingen","addr:country":"DE","addr:housenumber":"125","addr:postcode":"66793","addr:street":"Lebacher Straße","building":"yes","name":"Latz","shop":"farm","id":"way/249477284"},"geometry":{"type":"Point","coordinates":[6.8143725,49.3595551]}}
