@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/228709040","properties":{"amenity":"marketplace","building":"roof","id":"way/228709040"},"geometry":{"type":"Point","coordinates":[6.9464884,49.2414347]}}
+{"type":"Feature","id":"way/228709040","properties":{"amenity":"marketplace","building":"roof","name":"Burbacher Markt","roof:orientation":"along","roof:shape":"gabled","wheelchair":"yes","id":"way/228709040"},"geometry":{"type":"Point","coordinates":[6.9464824,49.2414379]}}

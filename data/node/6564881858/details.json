@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6564881858","properties":{"note":"Nicht dauerhaft","seasonal":"spring;summer","shop":"farm","id":"node/6564881858"},"geometry":{"type":"Point","coordinates":[7.0104409,49.245026]}}
+{"type":"Feature","id":"node/6564881858","properties":{"noname":"yes","note":"Nicht dauerhaft","seasonal":"spring;summer","shop":"farm","id":"node/6564881858"},"geometry":{"type":"Point","coordinates":[7.0104409,49.245026]}}

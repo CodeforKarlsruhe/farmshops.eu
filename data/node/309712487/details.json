@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/309712487","properties":{"name":"Bio-Hofladen","organic":"yes","shop":"farm","wheelchair":"yes","id":"node/309712487"},"geometry":{"type":"Point","coordinates":[12.289692,47.8033439]}}
+{"type":"Feature","id":"node/309712487","properties":{"contact:website":"https://www.anderlbauer.de","name":"Bio-Hofladen","organic":"yes","regional":"yes","shop":"farm","wheelchair":"yes","id":"node/309712487"},"geometry":{"type":"Point","coordinates":[12.289692,47.8033439]}}
