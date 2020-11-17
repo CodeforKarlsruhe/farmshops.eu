@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/848067232","properties":{"building":"yes","name":"Kempengoud","organic":"only","shop":"farm","id":"way/848067232"},"geometry":{"type":"Point","coordinates":[4.4911511,51.4316408]}}
+{"type":"Feature","id":"way/848067232","properties":{"addr:street":"Spurrieveld","building":"yes","name":"Kempengoud","organic":"only","shop":"farm","website":"http://www.kempengoud.be/","id":"way/848067232"},"geometry":{"type":"Point","coordinates":[4.4911511,51.4316408]}}

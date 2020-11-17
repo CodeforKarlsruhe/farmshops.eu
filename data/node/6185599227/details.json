@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6185599227","properties":{"amenity":"marketplace","name":"Bio-Wochenmarkt","opening_hours":"Th 11:00-19:00","website":"http://www.wochenmarkt-bergedorf.de/","id":"node/6185599227"},"geometry":{"type":"Point","coordinates":[10.2073149,53.4891172]}}
+{"type":"Feature","id":"node/6185599227","properties":{"amenity":"marketplace","name":"Bio-Wochenmarkt","opening_hours":"Th 11:00-19:00","website":"http://www.wochenmarkt-bergedorf.de/","wheelchair":"yes","id":"node/6185599227"},"geometry":{"type":"Point","coordinates":[10.2073149,53.4891172]}}

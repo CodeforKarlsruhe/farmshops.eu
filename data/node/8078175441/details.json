@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/8078175441","properties":{"amenity":"vending_machine","payment:coins":"yes","payment:maestro":"yes","payment:mastercard":"yes","payment:visa":"yes","payment:visa_debit":"yes","vending":"food;drinks","id":"node/8078175441"},"geometry":{"type":"Point","coordinates":[8.656026,50.2207978]}}

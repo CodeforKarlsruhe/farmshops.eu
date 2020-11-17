@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6717781329","properties":{"name":"Bloeiend Landlust","shop":"farm","website":"https://bloeiendlandlust.nl","id":"node/6717781329"},"geometry":{"type":"Point","coordinates":[4.6288819,52.1397016]}}
+{"type":"Feature","id":"node/6717781329","properties":{"name":"Bloeiend Landlust","opening_hours":"Wed, Fri 13:00-18:00 Sat 09:00-17:00","produce":"cheese","shop":"farm","website":"https://bloeiendlandlust.nl","id":"node/6717781329"},"geometry":{"type":"Point","coordinates":[4.6288819,52.1397016]}}

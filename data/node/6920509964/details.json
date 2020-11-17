@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6920509964","properties":{"name":"Hof Brockmann","shop":"farm","id":"node/6920509964"},"geometry":{"type":"Point","coordinates":[9.7826046,52.9624388]}}
+{"type":"Feature","id":"node/6920509964","properties":{"check_date":"2020-11-12","email":"HofBrockmann@web.de","name":"Hof Brockmann","opening_hours":"Mo-Su,PH 08:00-19:00","phone":"+49 151 46617681","shop":"farm","website":"https://www.hofbrockmannweissenkamp.de/der-hofladen","id":"node/6920509964"},"geometry":{"type":"Point","coordinates":[9.7826046,52.9624388]}}
