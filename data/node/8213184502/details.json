@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/8213184502","properties":{"addr:city":"Handorf","addr:housenumber":"61","addr:postcode":"21447","addr:street":"Hauptstraße","amenity":"vending_machine","currency:EUR":"yes","payment:cash":"yes","payment:coins":"yes","vending":"honey;Honig","id":"node/8213184502"},"geometry":{"type":"Point","coordinates":[10.3470238,53.3374201]}}

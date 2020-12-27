@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/871854218","properties":{"amenity":"marketplace","id":"way/871854218"},"geometry":{"type":"Point","coordinates":[6.8296181,50.9593433]}}
+{"type":"Feature","id":"way/871854218","properties":{"amenity":"marketplace","name":"Gut Clarenhof","opening_hours":"PH,Mo-Su 10:00-18:00","wheelchair":"yes","id":"way/871854218"},"geometry":{"type":"Point","coordinates":[6.8296181,50.9593433]}}

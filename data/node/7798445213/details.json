@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7798445213","properties":{"name":"De Witte Gravin","shop":"farm","id":"node/7798445213"},"geometry":{"type":"Point","coordinates":[4.7169039,52.1107734]}}
+{"type":"Feature","id":"node/7798445213","properties":{"addr:city":"Alphen aan den Rijn","addr:housenumber":"12","addr:postcode":"2407AG","addr:street":"Kortsteekterweg","name":"De Witte Gravin","opening_hours":"We 14:00-17:00","phone":"+31641767585","shop":"farm","website":"https://www.dewittegravin.nl/","id":"node/7798445213"},"geometry":{"type":"Point","coordinates":[4.7169039,52.1107734]}}

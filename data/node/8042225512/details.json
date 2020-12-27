@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8042225512","properties":{"produce":"eggs, fruit juice, pears, jam","shop":"farm","id":"node/8042225512"},"geometry":{"type":"Point","coordinates":[4.5407995,52.1720031]}}
+{"type":"Feature","id":"node/8042225512","properties":{"produce":"eggs, fruit juice, pears, jam, pumpkins","roadside":"yes","shop":"farm","id":"node/8042225512"},"geometry":{"type":"Point","coordinates":[4.5408229,52.1719779]}}

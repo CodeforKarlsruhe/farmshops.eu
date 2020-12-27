@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2139293706","properties":{"name":"Lepkeshof","shop":"farm","id":"node/2139293706"},"geometry":{"type":"Point","coordinates":[6.89895,51.4719835]}}
+{"type":"Feature","id":"node/2139293706","properties":{"name":"Lepkeshof","opening_hours":"Mo-Fr 09:00-18:00; Sa 09:00-14:00","shop":"farm","id":"node/2139293706"},"geometry":{"type":"Point","coordinates":[6.89895,51.4719835]}}

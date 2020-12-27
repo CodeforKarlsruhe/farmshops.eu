@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7581244432","properties":{"amenity":"marketplace","name":"Ehrenfelder Frischemarkt","opening_hours":"Th 08:00-14:00","id":"node/7581244432"},"geometry":{"type":"Point","coordinates":[7.2142345,51.4727426]}}
+{"type":"Feature","id":"node/7581244432","properties":{"amenity":"marketplace","name":"Ehrenfelder Frischemarkt","opening_hours":"Th 08:00-14:00","wheelchair":"yes","id":"node/7581244432"},"geometry":{"type":"Point","coordinates":[7.2142345,51.4727426]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8124765452","properties":{"amenity":"vending_machine","produce":"milk, yoghurt","shop":"farm","id":"node/8124765452"},"geometry":{"type":"Point","coordinates":[4.6981961,52.1659914]}}
+{"type":"Feature","id":"node/8124765452","properties":{"amenity":"vending_machine","vending":"milk;yoghurt","id":"node/8124765452"},"geometry":{"type":"Point","coordinates":[4.6981961,52.1659914]}}

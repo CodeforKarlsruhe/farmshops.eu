@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/273335722","properties":{"building":"yes","name":"Wolf","shop":"farm","id":"way/273335722"},"geometry":{"type":"Point","coordinates":[8.3871934,49.4525809]}}
+{"type":"Feature","id":"way/273335722","properties":{"building":"yes","name":"Wolf","opening_hours":"Mo-Su 07:30-19:00","shop":"farm","id":"way/273335722"},"geometry":{"type":"Point","coordinates":[8.3871934,49.4525809]}}

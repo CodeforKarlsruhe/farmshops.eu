@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7473443517","properties":{"amenity":"vending_machine","operator":"Jan Zimmermann","payment:cash":"yes","vending":"food;drinks;barbe","id":"node/7473443517"},"geometry":{"type":"Point","coordinates":[8.4533495,50.4748867]}}
+{"type":"Feature","id":"node/7473443517","properties":{"amenity":"vending_machine","operator":"Jan Zimmermann","payment:cash":"yes","vending":"food;drinks;barbe","id":"node/7473443517"},"geometry":{"type":"Point","coordinates":[8.4533441,50.4748679]}}
