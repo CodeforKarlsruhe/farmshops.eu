@@ -1,0 +1,204 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#map {
+    height: 100%;
+}
+
+#headline {
+    width: 100%;
+    background: #4ca7ce;
+}
+
+h1 {
+    font-size: 20px;
+    color: #f2f2f2;
+    background: #4ca7ce;
+    padding:8px;
+    padding-right:40px;
+    margin:0px;
+    vertical-align: middle;
+    text-align: center;
+
+    
+}
+
+
+.leaflet-popup-content {
+    margin: 0px 0px;
+    /* line-height: 1.4; */
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    background-color:white;
+    padding:4px;
+    border: 2px solid rgba(0,0,0,0.2);
+}
+
+.leaflet-container a.leaflet-popup-close-button:hover {
+    background-color:#999;
+    border: 2px solid rgba(0,0,0,0.2);
+    color: #c3c3c3; 
+}
+
+.leaflet-popup-content-wrapper {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: left;
+    border-radius: 0px;
+    font-size: 10px;
+    padding: 0px;
+    margin:0px;
+    overflow: hidden;
+    }
+
+    @media only screen and (max-height: 600px) {
+        .leaflet-popup-content-wrapper {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: left;
+            border-radius: 0px;
+            max-height: 400px;
+            overflow: scroll;
+            font-size: 10px;
+            padding: 0px;
+            margin:0px;
+            }
+    }
+
+    @media only screen and (max-height: 400px) {
+        .leaflet-popup-content-wrapper {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: left;
+            border-radius: 0px;
+            max-height: 300px;
+            overflow: scroll;
+            font-size: 10px;
+            padding: 0px;
+            margin:0px;
+            }
+    }
+
+
+    table {
+        font-size: 10px;
+        width:100%;
+        min-width: 250px;
+        overflow-wrap: break-word;
+
+    }
+    th {
+        background-color: #4ca7ce;
+    }
+
+    td {
+        text-align: left;
+        padding: 2px;
+    }
+    tr:nth-child(even){background-color: #f2f2f2}
+    th {
+        color: white;
+    }
+
+
+    .leaflet-popup-content-wrapper a:link {
+        color: green;
+    }
+
+    /* visited link */
+    .leaflet-popup-content-wrapper a:visited {
+        color: darkgreen;
+    }
+
+    #adress {
+        float: left;
+        margin-bottom: 6px;
+        max-width: 110px;
+
+    }
+    #links {
+        float: right;
+        padding:2px;
+        border-left: 2px solid grey;
+        border-color: #4ca7ce;
+    }
+
+    #times{
+        clear:both;
+        margin-bottom: 6px;
+    }
+    #table {
+        clear:both;
+    }
+    #wrapper {
+        clear:both;
+        padding:8px;
+        margin-top: 0px;
+    }
+
+    #offen {
+        color:green;
+    }
+
+    #geschlossen {
+        color:red;
+    }
+
+    .leaflet-popup-content p {
+        margin: 0px;
+    }
+
+    a.button {
+        font-weight: bold;
+        padding: 8px;
+        margin: 8px;
+        font-size: 14px;
+        color: #f2f2f2!important;
+        background: #4ca7ce;
+        text-decoration: none;
+        line-height: 34px;
+    }
+    
+    a.button:hover {
+        box-shadow: 0 8px 8px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+    a.popupbutton {
+        font-weight: bold;
+        padding: 4px;
+        margin: 4px;
+        font-size: 10px;
+        color: #f2f2f2!important;
+        background: #4ca7ce;
+        text-decoration: none;
+        line-height: 30px;
+    }
+    
+    a.popupbutton:hover {
+        box-shadow: 0 8px 8px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+    .leaflet-marker-icon.mycluster.leaflet-zoom-animated.leaflet-interactive {
+        /* außeres Div von markercluster */
+    }
+
+    .circle {
+        color: #f2f2f2;
+        border-radius: 8px;
+        border: 3px solid #f2f2f2;
+        background: #4ca7ce;
+        opacity: 0.8;
+        text-align: center;
+        -moz-border-radius: 100px / 100px; 
+        -webkit-border-radius: 100px / 100px; 
+        border-radius: 100px / 100px;
+        line-height: 1;
+        padding: 4px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 16px;
+    }
+
+    /* leaflet locate plugin */
+    .leaflet-bar-part > span {
+        line-height: 30px;
+    }

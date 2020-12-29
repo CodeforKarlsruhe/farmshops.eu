@@ -1,0 +1,33 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": true,
+    "properties": {
+      "key": {
+        "id": "key",
+        "type": "string",
+        "required": true
+      },
+      "polygon": {
+        "type": "string",
+        "enum": [
+          "all",
+          "whitelist",
+          "blacklist"
+        ],
+        "required": true
+      },
+      "values": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "additionalProperties": false,
+    "required": [
+      "key"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "direktvermarkter",
+  "version": "1.0.0",
+  "description": "Data viewer for farmshops, milk and food vending machines and other direct marketers on openstreetmap.",
+  "main": "update_data.js",
+  "devDependencies": {
+    "query-overpass": "^1.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeforKarlsruhe/direktvermarkter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeforKarlsruhe/direktvermarkter/issues"
+  },
+  "homepage": "https://github.com/CodeforKarlsruhe/direktvermarkter#readme"
+}

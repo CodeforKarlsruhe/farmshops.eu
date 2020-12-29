@@ -1,0 +1,147 @@
+#!/usr/bin/env node
+
+var osmtogeojson = require('./'),
+    opt = require('optimist')
+        .usage('Usage: $0 [-f format] [-e] [-v] FILE')
+        .string('f').describe('f', 'file format. if not given, will be detected from filename. supported values: osm, json')
+        .boolean('e').describe('e', 'enhanced properties. if set, the resulting GeoJSON feature\'s properties will contain more structured information')
+        .boolean('n').describe('n', 'numeric properties. if set, the resulting GeoJSON feature\'s properties will be numbers if possible')
+        .boolean('v').describe('v', 'verbose mode. output diagnostic information during processing')
+        .boolean('m').describe('m', 'minify output json (no identation and linebreaks)')
+        .boolean('version').describe('version','display software version')
+        .boolean('help').describe('help','print this help message'),
+    argv = opt.argv,
+    fs = require('fs'),
+    concat = require('concat-stream'),
+    xmldom = new (require('xmldom').DOMParser)(),
+    osmxmlParser = require('./parse_osmxml.js'),
+    JSONStream = require('JSONStream'),
+    geojsonNumeric = require('geojson-numeric'),
+    pack = require('./package.json');
+
+if (argv.help) {
+    return opt.showHelp();
+}
+if (argv.version) {
+    process.stdout.write(pack.version+'\n');
+    return;
+}
+
+var filename = argv._[0] || '';
+
+var enhanced_geojson = argv.e;
+var format = argv.f;
+
+if (format === 'xml') format = 'osm';
+// detect file format from filename
+if (!format) {
+    if (filename.match(/\.osm$/i)) format = 'osm';
+    if (filename.match(/\.xml$/i)) format = 'osm';
+    if (filename.match(/\.json$/i)) format = 'json';
+}
+// fall back to the native JSON parser if the file is small enough
+// (unfortunately, the streaming JSON parser isn't very fast)
+if (format === 'json' && filename) {
+    if (fs.statSync(filename).size < 268435577)
+        format = 'nativejson';
+}
+// fall back to autodetection if still no format
+if (!format) format = 'auto';
+
+var datastream = (filename ? fs.createReadStream(filename) : process.stdin);
+
+// use streaming parsers if format is already known
+switch(format) {
+case 'json':
+case 'streamjson':
+    datastream.pipe(JSONStream.parse())
+    .on('root', function(data) {
+        // iron out some nasty floating point rounding errors
+        if (data.version) data.version = Math.round(data.version*1000)/1000;
+        data.elements.forEach(function(element) {
+            if (element.lat) element.lat = Math.round(element.lat*1E12)/1E12;
+            if (element.lon) element.lon = Math.round(element.lon*1E12)/1E12;
+        });
+        // convert to geojson
+        convert(data);
+    })
+    .on('error', function(err) {
+       process.stderr.write("ERROR: JSON input stream could not be parsed.\n");
+       process.exit(1);
+    });
+break;
+case 'osm':
+case 'streamxml':
+    datastream
+    .on('data', function(chunk) {
+        osmxmlParser.write(chunk);
+    })
+    .on('end', function() {
+        osmxmlParser.end();
+        data = osmxmlParser.getJSON();
+        convert(data);
+    });
+    datastream.resume();
+break;
+default:
+    // otherwise use leagacy non-streaming parsers
+    datastream.pipe(concat(legacyParsers));
+}
+
+function legacyParsers(data) {
+    if (!data) data = ''; else data = data.toString();
+    if (format === 'auto') {
+        if (data.match(/^\s*</)) // (osm) xml files begin with a "<"
+            format = 'osm';
+        else if (data.match(/^\s*{/)) // osm json files begin with a "{"
+            format = 'json';
+        else {
+            format = 'unknown';
+        }
+    }
+    switch (format) {
+    case 'xmldom':
+        data = xmldom.parseFromString(data);
+    break;
+    case 'json':
+    case 'nativejson':
+        data = JSON.parse(data);
+    break;
+    case 'osm':
+    case 'fastxml':
+        data = osmxmlParser.parseFromString(data);
+    break;
+    default:
+        process.stderr.write('This doesn\'t look like a recognized file format.\n');
+        opt.showHelp();
+        process.exit(1);
+    }
+    convert(data);
+}
+
+function convert(data) {
+    var geojson = osmtogeojson(data, {
+        flatProperties: !enhanced_geojson,
+        verbose: argv.v
+    });
+    output(geojson);
+}
+
+function output(geojson) {
+    // this is much faster than a simple JSON.stringify of the whole geojson
+    // object. also, this is less memory intensive and output starts right
+    // after the conversion without any additional delay
+    process.stdout.on('error', function() {});
+
+    var separator = argv.m ? '' : '\n';
+
+    process.stdout.write('{'+separator+'"type": "FeatureCollection",'+separator+'"features": ['+separator);
+    geojson.features.forEach(function(f,i) {
+        if (argv.n)
+            f = geojsonNumeric(f,argv.e);
+        process.stdout.write(JSON.stringify(f, null, argv.m ? 0 : 2));
+        if (i != geojson.features.length-1)
+            process.stdout.write(','+separator);
+    });
+    process.stdout.write(separator+']'+separator+'}'+separator);
+}
