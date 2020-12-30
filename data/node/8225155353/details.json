@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8225155353","properties":{"amenity":"vending_machine","name":"Schlagis Frischmilch","operator":"Schlagbauer","vending":"milk","id":"node/8225155353"},"geometry":{"type":"Point","coordinates":[15.8384961,47.3030199]}}
+{"type":"Feature","id":"node/8225155353","properties":{"name":"Schlagis Frischmilch-Automat","operator":"Schlagbauer","shop":"farm","vending":"milk","id":"node/8225155353"},"geometry":{"type":"Point","coordinates":[15.8385176,47.3029226]}}
