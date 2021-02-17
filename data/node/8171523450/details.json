@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8171523450","properties":{"amenity":"vending_machine","food:eggs":"yes","vending":"food","id":"node/8171523450"},"geometry":{"type":"Point","coordinates":[11.3375688,47.2549152]}}
+{"type":"Feature","id":"node/8171523450","properties":{"amenity":"vending_machine","operator":"Wiesenhof","vending":"eggs;bread","id":"node/8171523450"},"geometry":{"type":"Point","coordinates":[11.3375688,47.2549152]}}

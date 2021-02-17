@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7359782199","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:coins":"yes","vending":"milk","id":"node/7359782199"},"geometry":{"type":"Point","coordinates":[11.165554,47.9158334]}}
+{"type":"Feature","id":"node/7359782199","properties":{"amenity":"vending_machine","currency:EUR":"yes","description":"24/7 Rohmilch","opening_hours":"24/7","payment:coins":"yes","vending":"milk","id":"node/7359782199"},"geometry":{"type":"Point","coordinates":[11.165554,47.9158334]}}

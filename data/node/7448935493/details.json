@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7448935493","properties":{"amenity":"vending_machine","opening_hours":"24/7","opening_hours:covid19":"same","payment:coins":"yes","vending":"eggs;canned_meat;milk","id":"node/7448935493"},"geometry":{"type":"Point","coordinates":[8.9513268,48.6565308]}}
+{"type":"Feature","id":"node/7448935493","properties":{"amenity":"vending_machine","opening_hours":"24/7","opening_hours:covid19":"same","payment:coins":"yes","vending":"eggs;canned_meat;milk","id":"node/7448935493"},"geometry":{"type":"Point","coordinates":[8.9513067,48.6565281]}}

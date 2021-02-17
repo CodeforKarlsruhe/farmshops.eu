@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/8286173388","properties":{"amenity":"vending_machine","description":"verkauft u.a. Wurst, Grillfleisch, Salat, Kartoffeln, Eier","payment:girocard":"yes","payment:mastercard":"yes","payment:visa":"yes","vending":"food","id":"node/8286173388"},"geometry":{"type":"Point","coordinates":[8.2051731,48.9825618]}}

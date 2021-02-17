@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7110732092","properties":{"addr:housenumber":"9","addr:street":"Zu den Klünen","craft":"beekeeper","name":"BIO aus Reselage","id":"node/7110732092"},"geometry":{"type":"Point","coordinates":[8.1940654,52.5129008]}}
+{"type":"Feature","id":"node/7110732092","properties":{"addr:housenumber":"9","addr:street":"Zu den Klünen","amenity":"vending_machine","craft":"beekeeper","name":"Ludwig Herzog","phone":"+495491 2600","vending":"honey","id":"node/7110732092"},"geometry":{"type":"Point","coordinates":[8.1938656,52.5129612]}}

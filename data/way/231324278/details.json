@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/231324278","properties":{"building":"yes","craft":"beekeeper","ref:ruian":"50245911","source":"ruian","id":"way/231324278"},"geometry":{"type":"Point","coordinates":[15.3931378,49.0588489]}}
+{"type":"Feature","id":"way/231324278","properties":{"building":"yes","building:ruian:type":"19","craft":"beekeeper","ref:ruian":"50245911","ref:ruian:building":"50245911","source":"cuzk:ruian","id":"way/231324278"},"geometry":{"type":"Point","coordinates":[15.3931389,49.0588489]}}

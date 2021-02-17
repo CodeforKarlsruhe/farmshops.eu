@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8241838847","properties":{"amenity":"vending_machine","vending":"milk","id":"node/8241838847"},"geometry":{"type":"Point","coordinates":[16.6415706,49.2022405]}}
+{"type":"Feature","id":"node/8241838847","properties":{"disused:amenity":"vending_machine","note":"poskozeny vandalem, nefunkcni","vending":"milk","id":"node/8241838847"},"geometry":{"type":"Point","coordinates":[16.6415706,49.2022405]}}
