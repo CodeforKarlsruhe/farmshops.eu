@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7659453470","properties":{"amenity":"marketplace","id":"node/7659453470"},"geometry":{"type":"Point","coordinates":[8.2094098,47.9125602]}}
+{"type":"Feature","id":"node/7659453470","properties":{"addr:city":"Titisee-Neustadt","addr:postcode":"79822","addr:street":"Am Postplatz","amenity":"marketplace","name":"Wochenmarkt Neustadt","opening_hours":"Sa: 08:00-12:30","id":"node/7659453470"},"geometry":{"type":"Point","coordinates":[8.2120716,47.9109994]}}

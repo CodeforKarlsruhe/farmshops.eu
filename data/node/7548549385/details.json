@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7548549385","properties":{"amenity":"marketplace","loc_name":"Zaterdagmarkt","name":"BeatrixMarkt","opening_hours":"Za 09:00-16:00","operator":"Stichting Helderse Markten","id":"node/7548549385"},"geometry":{"type":"Point","coordinates":[4.7617983,52.9574817]}}
+{"type":"Feature","id":"node/7548549385","properties":{"amenity":"marketplace","loc_name":"Zaterdagmarkt","name":"BeatrixMarkt","opening_hours":"Sa 09:00-16:00","operator":"Stichting Helderse Markten","id":"node/7548549385"},"geometry":{"type":"Point","coordinates":[4.7617983,52.9574817]}}
