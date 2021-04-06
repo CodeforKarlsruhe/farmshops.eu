@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/756921057","properties":{"building":"yes","name":"Frische Eier von glücklichen Hühnern","payment:cash":"yes","produce":"eggs","shop":"farm","id":"way/756921057"},"geometry":{"type":"Point","coordinates":[10.9401613,49.6311392]}}
+{"type":"Feature","id":"way/756921057","properties":{"building":"yes","name":"Frische Eier von glücklichen Hühnern","opening_hours":"24/7","payment:cash":"yes","produce":"eggs","shop":"farm","id":"way/756921057"},"geometry":{"type":"Point","coordinates":[10.9401613,49.6311392]}}

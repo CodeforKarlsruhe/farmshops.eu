@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8081311942","properties":{"name":"Sendlinger Hofladen","opening_hours":"Mo-Fr 09:00-19:00; Sa 09:00-16:00","shop":"farm","id":"node/8081311942"},"geometry":{"type":"Point","coordinates":[11.5473394,48.1182431]}}
+{"type":"Feature","id":"node/8081311942","properties":{"name":"Sendlinger Hofladen","opening_hours":"Mo-Fr 09:00-19:00; Sa 09:00-16:00","shop":"farm","wheelchair":"limited","id":"node/8081311942"},"geometry":{"type":"Point","coordinates":[11.5473394,48.1182431]}}

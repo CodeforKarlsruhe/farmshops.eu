@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8289047338","properties":{"amenity":"marketplace","name":"Ökomarkt an der Heilandskirche","opening_hours":"Mittwoch 12 - 18 (Sommer 19) Uhr","id":"node/8289047338"},"geometry":{"type":"Point","coordinates":[13.3393479,52.526076]}}
+{"type":"Feature","id":"node/8289047338","properties":{"amenity":"marketplace","name":"Ökomarkt an der Heilandskirche","opening_hours":"Mittwoch 12 - 18 (Sommer 19) Uhr","wheelchair":"yes","id":"node/8289047338"},"geometry":{"type":"Point","coordinates":[13.3393479,52.526076]}}
