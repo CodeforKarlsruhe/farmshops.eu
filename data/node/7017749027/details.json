@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7017749027","properties":{"name":"Kaiser Bauernhof","shop":"farm","id":"node/7017749027"},"geometry":{"type":"Point","coordinates":[8.2103846,49.1885561]}}
+{"type":"Feature","id":"node/7017749027","properties":{"addr:city":"Offenbach an der Queich","addr:postcode":"76877","name":"Kaiser Bauernhof","shop":"farm","id":"node/7017749027"},"geometry":{"type":"Point","coordinates":[8.2103846,49.1885561]}}

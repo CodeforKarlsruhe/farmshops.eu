@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5715606768","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:cash":"yes","payment:coins":"yes","vending":"milk","id":"node/5715606768"},"geometry":{"type":"Point","coordinates":[11.9681967,48.0478966]}}
+{"type":"Feature","id":"node/5715606768","properties":{"amenity":"vending_machine","covered":"yes","currency:EUR":"yes","indoor":"yes","level":"0","payment:cash":"yes","payment:coins":"yes","start_date":"2019","vending":"milk","id":"node/5715606768"},"geometry":{"type":"Point","coordinates":[11.9681967,48.0478966]}}
