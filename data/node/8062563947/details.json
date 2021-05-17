@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8062563947","properties":{"amenity":"marketplace","opening_hours":"Fr 08:00-12:30","id":"node/8062563947"},"geometry":{"type":"Point","coordinates":[7.8266631,51.6725352]}}
+{"type":"Feature","id":"node/8062563947","properties":{"amenity":"marketplace","name:signed":"no","opening_hours":"Fr 08:00-12:30","id":"node/8062563947"},"geometry":{"type":"Point","coordinates":[7.8266631,51.6725352]}}

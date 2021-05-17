@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6901533376","properties":{"amenity":"marketplace","id":"node/6901533376"},"geometry":{"type":"Point","coordinates":[14.0045549,51.5191817]}}
+{"type":"Feature","id":"node/6901533376","properties":{"amenity":"marketplace","name":"Altmarkt","opening_hours":"24/7","id":"node/6901533376"},"geometry":{"type":"Point","coordinates":[14.0045549,51.5191817]}}

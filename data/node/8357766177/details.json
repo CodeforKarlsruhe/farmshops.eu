@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8357766177","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Metzgerei Krönauer","payment:cash":"yes","vending":"meat;drinks;sweets","id":"node/8357766177"},"geometry":{"type":"Point","coordinates":[12.9747717,48.8945563]}}
+{"type":"Feature","id":"node/8357766177","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Metzgerei Krönauer","payment:cash":"yes","vending":"meat;drinks;sweets;food","id":"node/8357766177"},"geometry":{"type":"Point","coordinates":[12.9747717,48.8945563]}}

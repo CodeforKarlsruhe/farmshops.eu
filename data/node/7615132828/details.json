@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7615132828","properties":{"amenity":"vending_machine","description":"Baguette","vending":"food","id":"node/7615132828"},"geometry":{"type":"Point","coordinates":[7.0150958,49.225882]}}
+{"type":"Feature","id":"node/7615132828","properties":{"amenity":"vending_machine","description":"Baguette","vending":"baguette;bread;food","id":"node/7615132828"},"geometry":{"type":"Point","coordinates":[7.0150958,49.225882]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5474523056","properties":{"amenity":"vending_machine","description":"Fleisch, Wurst, Nudelsalat, Soßen","operator":"Schwamm","vending":"food","id":"node/5474523056"},"geometry":{"type":"Point","coordinates":[7.0148529,49.2249065]}}
+{"type":"Feature","id":"node/5474523056","properties":{"amenity":"vending_machine","description":"Fleisch, Wurst, Nudelsalat, Soßen","operator":"Schwamm","vending":"food;meat;sausages","id":"node/5474523056"},"geometry":{"type":"Point","coordinates":[7.0148529,49.2249065]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4314012738","properties":{"name":"Obsthof Erath","shop":"farm","id":"node/4314012738"},"geometry":{"type":"Point","coordinates":[9.4910996,47.6805751]}}
+{"type":"Feature","id":"node/4314012738","properties":{"contact:facebook":"https://www.facebook.com/ObsthofErath","contact:phone":"+49 7541 52310","name":"Obsthof Erath","opening_hours":"Mo-Su 07:00-19:00","shop":"farm","id":"node/4314012738"},"geometry":{"type":"Point","coordinates":[9.4910244,47.6805441]}}
