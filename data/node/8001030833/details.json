@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8001030833","properties":{"amenity":"vending_machine","name":"Eier Verkaufsautomat","opening_hours":"24/7","vending":"food","vending:eggs":"yes","id":"node/8001030833"},"geometry":{"type":"Point","coordinates":[10.8213387,48.3160517]}}
+{"type":"Feature","id":"node/8001030833","properties":{"amenity":"vending_machine","name":"Eier Verkaufsautomat","opening_hours":"24/7","vending":"food","vending:eggs":"yes","id":"node/8001030833"},"geometry":{"type":"Point","coordinates":[10.8211123,48.3161814]}}

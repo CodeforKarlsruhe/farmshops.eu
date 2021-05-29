@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7058144609","properties":{"amenity":"marketplace","name":"Wochenmarkt/Frischemarkt","opening_hours":"We 08:00-16:00; Sa 08:00-13:00","id":"node/7058144609"},"geometry":{"type":"Point","coordinates":[14.8066705,50.896064]}}
+{"type":"Feature","id":"node/7058144609","properties":{"amenity":"marketplace","check_date:opening_hours":"2021-05-23","name":"Wochenmarkt/Frischemarkt","opening_hours":"We 08:00-16:00; Sa 08:00-13:00","id":"node/7058144609"},"geometry":{"type":"Point","coordinates":[14.8066705,50.896064]}}

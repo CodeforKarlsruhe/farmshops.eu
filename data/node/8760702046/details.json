@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/8760702046","properties":{"amenity":"vending_machine","operator":"Hofliebe","payment:contactless":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","vending":"eggs;food","id":"node/8760702046"},"geometry":{"type":"Point","coordinates":[9.1735239,47.6599892]}}

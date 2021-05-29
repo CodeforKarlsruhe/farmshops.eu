@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/8763346908","properties":{"amenity":"vending_machine","currency:EUR":"yes","description":"Eier und Fleischwaren Selbstbedienung\n10 Eier = 3€\nPressack, Streichwurst, Geräuchertes","payment:cash":"yes","payment:coins":"yes","vending":"eggs;food","id":"node/8763346908"},"geometry":{"type":"Point","coordinates":[11.9956587,49.7251809]}}

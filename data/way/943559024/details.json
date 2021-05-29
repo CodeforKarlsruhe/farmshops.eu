@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/943559024","properties":{"building":"yes","name":"ReMatur","opening_hours":"Tu-Fr 06:45-11:00,15:00-18:00; Sa 08:00-15:00; Su 08:00-12:00","shop":"farm","id":"way/943559024"},"geometry":{"type":"Point","coordinates":[13.3713862,52.1674286]}}
+{"type":"Feature","id":"way/943559024","properties":{"building":"yes","name":"ReMatur","opening_hours":"Tu-Fr 06:45-11:00,15:00-18:00; Sa 08:00-15:00; Su 08:00-12:00","organic":"only","shop":"farm","id":"way/943559024"},"geometry":{"type":"Point","coordinates":[13.3713862,52.1674286]}}

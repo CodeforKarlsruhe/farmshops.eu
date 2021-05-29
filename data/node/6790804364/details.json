@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6790804364","properties":{"amenity":"vending_machine","name":"Eierautomaat","payment:coins":"yes","payment:notes":"yes","vending":"eggs; potatoes","id":"node/6790804364"},"geometry":{"type":"Point","coordinates":[5.4438885,52.1069289]}}
+{"type":"Feature","id":"node/6790804364","properties":{"amenity":"vending_machine","description":"Eieren, Aardappelen","name":"Eierautomaat","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/6790804364"},"geometry":{"type":"Point","coordinates":[5.4438885,52.1069289]}}

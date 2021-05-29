@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7922244758","properties":{"amenity":"vending_machine","vending":"food","id":"node/7922244758"},"geometry":{"type":"Point","coordinates":[8.9135377,49.1385612]}}
+{"type":"Feature","id":"node/7922244758","properties":{"amenity":"vending_machine","operator":"Familie Schlimm","vending":"food","id":"node/7922244758"},"geometry":{"type":"Point","coordinates":[8.9135377,49.1385612]}}
