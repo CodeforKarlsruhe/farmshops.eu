@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7619818788","properties":{"name":"Jura-Geflügel","shop":"farm","telephone":"+49 8426 988380","website":"http://jura-gefluegel.de/","id":"node/7619818788"},"geometry":{"type":"Point","coordinates":[11.2843726,48.933328]}}
+{"type":"Feature","id":"node/7619818788","properties":{"name":"Jura-Geflügel","phone":"+49 8426 988380","shop":"farm","website":"http://jura-gefluegel.de/","id":"node/7619818788"},"geometry":{"type":"Point","coordinates":[11.2843726,48.933328]}}

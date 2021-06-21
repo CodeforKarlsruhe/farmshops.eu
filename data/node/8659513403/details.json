@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8659513403","properties":{"amenity":"marketplace","name":"Marché local","opening_hours":"Mo 16:00-20:00","id":"node/8659513403"},"geometry":{"type":"Point","coordinates":[6.1762036,48.6792001]}}
+{"type":"Feature","id":"node/8659513403","properties":{"amenity":"marketplace","opening_hours":"Mo 16:00-20:00","id":"node/8659513403"},"geometry":{"type":"Point","coordinates":[6.1762036,48.6792001]}}
