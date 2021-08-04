@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/955200400","properties":{"building":"yes","shop":"farm","id":"way/955200400"},"geometry":{"type":"Point","coordinates":[8.913064,47.574072]}}
+{"type":"Feature","id":"way/955200400","properties":{"building":"yes","building:levels":"1","cash_withdrawal:type":"self_checkout","name":"Stüssi's Hofladen","roof:shape":"flat","shop":"farm","wheelchair":"no","id":"way/955200400"},"geometry":{"type":"Point","coordinates":[8.913064,47.574072]}}

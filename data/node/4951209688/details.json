@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4951209688","properties":{"bike_friend":"yes","name":"Strandlyst Frugtplantage","shop":"farm","id":"node/4951209688"},"geometry":{"type":"Point","coordinates":[10.723753,54.9466417]}}
+{"type":"Feature","id":"node/4951209688","properties":{"alt_name":"Frugtplantagen Strandlyst","bike_friend":"yes","fvst:navnelbnr":"566956","name":"Strandlyst Frugtplantage","ref:DK:cvr":"28447078","ref:DK:cvr:pnummer":"1004578325","shop":"farm","id":"node/4951209688"},"geometry":{"type":"Point","coordinates":[10.723753,54.9466417]}}

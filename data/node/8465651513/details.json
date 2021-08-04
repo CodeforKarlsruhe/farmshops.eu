@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8465651513","properties":{"amenity":"vending_machine","food:eggs":"yes","food:meat:lamb":"yes","name":"SB 24/7 Lammfleischautomat","vending":"food;drinks","id":"node/8465651513"},"geometry":{"type":"Point","coordinates":[9.3201824,49.1482485]}}
+{"type":"Feature","id":"node/8465651513","properties":{"amenity":"vending_machine","name":"SB 24/7 Lammfleischautomat","vending":"food;drinks;eggs;meat","id":"node/8465651513"},"geometry":{"type":"Point","coordinates":[9.3201824,49.1482485]}}

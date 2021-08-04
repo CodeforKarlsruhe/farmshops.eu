@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1785412679","properties":{"amenity":"marketplace","name":"Wochenmarkt Eilendorf","opening_hours":"Th 07:00-13:00","id":"node/1785412679"},"geometry":{"type":"Point","coordinates":[6.1547069,50.7798744]}}
+{"type":"Feature","id":"node/1785412679","properties":{"amenity":"marketplace","check_date:opening_hours":"2021-07-06","name":"Wochenmarkt Eilendorf","opening_hours":"Th 07:00-13:00","id":"node/1785412679"},"geometry":{"type":"Point","coordinates":[6.1547069,50.7798744]}}

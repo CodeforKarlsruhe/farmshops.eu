@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2409215417","properties":{"amenity":"vending_machine","note":"Milchprodukte, Schafkäse","operator":"Seegut Eisl","vending":"food","id":"node/2409215417"},"geometry":{"type":"Point","coordinates":[13.4113928,47.7404245]}}
+{"type":"Feature","id":"node/2409215417","properties":{"amenity":"vending_machine","note":"Milchprodukte, Schafkäse","operator":"Seegut Eisl","vending":"food;cheese;milk","id":"node/2409215417"},"geometry":{"type":"Point","coordinates":[13.4114035,47.7404407]}}

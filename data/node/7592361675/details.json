@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7592361675","properties":{"amenity":"vending_machine","name":"Milchtankstelle","vending":"milk","id":"node/7592361675"},"geometry":{"type":"Point","coordinates":[9.8125827,53.6891563]}}
+{"type":"Feature","id":"node/7592361675","properties":{"amenity":"vending_machine","payment:cash":"yes","produce":"dairy;eggs;honey","vending":"food","id":"node/7592361675"},"geometry":{"type":"Point","coordinates":[9.8125827,53.6891563]}}

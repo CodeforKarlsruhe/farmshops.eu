@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/8976600092","properties":{"amenity":"vending_machine","description":"not an actual vending machine but a 24/7 self-service kiosk","payment:coins":"yes","payment:notes":"yes","vending":"potatoes","id":"node/8976600092"},"geometry":{"type":"Point","coordinates":[9.3581425,49.1358126]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5647600245","properties":{"name":"Hofladen","shop":"farm","id":"node/5647600245"},"geometry":{"type":"Point","coordinates":[12.7834273,52.4832904]}}
+{"type":"Feature","id":"node/5647600245","properties":{"name":"Hofladen","opening_hours":"Fr 08:00-16:00","operator":"Dienstleistungs- und Handels GmbH Zachow","shop":"farm","id":"node/5647600245"},"geometry":{"type":"Point","coordinates":[12.7834273,52.4832904]}}

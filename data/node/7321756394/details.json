@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7321756394","properties":{"amenity":"vending_machine","payment:cash":"yes","self_service":"yes","vending":"milk;apples","id":"node/7321756394"},"geometry":{"type":"Point","coordinates":[9.408163,47.8662189]}}
+{"type":"Feature","id":"node/7321756394","properties":{"amenity":"vending_machine","payment:cash":"yes","self_service":"yes","vending":"milk;apples","id":"node/7321756394"},"geometry":{"type":"Point","coordinates":[9.4078545,47.8660228]}}

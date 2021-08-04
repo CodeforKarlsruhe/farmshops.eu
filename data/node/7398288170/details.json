@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7398288170","properties":{"amenity":"vending_machine","operator":"Obstbau Schrempf","vending":"food","id":"node/7398288170"},"geometry":{"type":"Point","coordinates":[9.4450329,49.1657225]}}
+{"type":"Feature","id":"node/7398288170","properties":{"amenity":"vending_machine","fixme":"What exactly is sold here?","operator":"Obstbau Schrempf","vending":"food","id":"node/7398288170"},"geometry":{"type":"Point","coordinates":[9.4450329,49.1657225]}}

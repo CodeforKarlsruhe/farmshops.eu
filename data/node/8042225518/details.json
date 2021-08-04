@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8042225518","properties":{"amenity":"vending_machine","vending":"milk","id":"node/8042225518"},"geometry":{"type":"Point","coordinates":[4.5849883,52.1648581]}}
+{"type":"Feature","id":"node/8042225518","properties":{"amenity":"vending_machine","name":"Melktap","vending":"milk","id":"node/8042225518"},"geometry":{"type":"Point","coordinates":[4.5850027,52.1648694]}}

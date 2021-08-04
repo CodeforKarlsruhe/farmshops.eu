@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8617994113","properties":{"shop":"farm","wheelchair":"yes","id":"node/8617994113"},"geometry":{"type":"Point","coordinates":[9.6488573,48.0293794]}}
+{"type":"Feature","id":"node/8617994113","properties":{"name":"Kartoffelhof Daiber","opening_hours":"24/7","payment:cash":"yes","produce":"potatoes;eggs;noodles;sausages;honey;flour;muesli;icecream","shop":"farm","wheelchair":"yes","id":"node/8617994113"},"geometry":{"type":"Point","coordinates":[9.6487929,48.0293565]}}

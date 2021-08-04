@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7398288169","properties":{"amenity":"vending_machine","food:meat":"yes","operator":"Huber","vending":"food","id":"node/7398288169"},"geometry":{"type":"Point","coordinates":[9.4449511,49.1657212]}}
+{"type":"Feature","id":"node/7398288169","properties":{"amenity":"vending_machine","food:meat":"yes","operator":"Huber","vending":"food;meat","id":"node/7398288169"},"geometry":{"type":"Point","coordinates":[9.4449511,49.1657212]}}

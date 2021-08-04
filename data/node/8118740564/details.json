@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8118740564","properties":{"amenity":"vending_machine","operator":"Sommerkorn GmbH","payment:coins":"yes","vending":"drinks;food;milk; sausages; meat; eggs","id":"node/8118740564"},"geometry":{"type":"Point","coordinates":[11.4894528,48.1410685]}}
+{"type":"Feature","id":"node/8118740564","properties":{"amenity":"vending_machine","operator":"Sommerkorn GmbH","payment:coins":"yes","vending":"drinks;food;milk;sausages;meat;eggs","id":"node/8118740564"},"geometry":{"type":"Point","coordinates":[11.4894528,48.1410685]}}
