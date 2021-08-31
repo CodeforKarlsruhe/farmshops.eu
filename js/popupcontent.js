@@ -87,6 +87,7 @@ function popupcontent(feature, layer) {
                     .replace("butter", "Butter")
                     .replace("marketplace", "Marktplatz")
                     .replace("bread", "Brot")
+                    .replace("fast_food", "Schnellimbiss")
                     .replace("food", "Lebensmittel")
                     .replace("drinks", "Getränke")
                 + "</td></tr>");
