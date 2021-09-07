@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8596759883","properties":{"amenity":"vending_machine","name":"Eier-Automat Moßbrugger","payment:cash":"yes","vending":"food","id":"node/8596759883"},"geometry":{"type":"Point","coordinates":[8.4387845,47.9503678]}}
+{"type":"Feature","id":"node/8596759883","properties":{"amenity":"vending_machine","name":"Eierautomat Moßbrugger","payment:cash":"yes","vending":"food","id":"node/8596759883"},"geometry":{"type":"Point","coordinates":[8.4387845,47.9503678]}}

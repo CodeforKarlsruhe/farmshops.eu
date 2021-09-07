@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/112189537","properties":{"amenity":"marketplace","id":"way/112189537"},"geometry":{"type":"Point","coordinates":[7.1979374,50.8729274]}}
+{"type":"Feature","id":"way/112189537","properties":{"amenity":"marketplace","name:signed":"no","opening_hours":"PH,Mo-Su 09:00-18:00","id":"way/112189537"},"geometry":{"type":"Point","coordinates":[7.1979374,50.8729274]}}

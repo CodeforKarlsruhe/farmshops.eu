@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4126782261","properties":{"name":"Au Duché de Bourgogne","shop":"farm","id":"node/4126782261"},"geometry":{"type":"Point","coordinates":[5.0420048,47.3212292]}}
+{"type":"Feature","id":"node/4126782261","properties":{"addr:housenumber":"1","name":"Au Duché de Bourgogne","opening_hours":"Mo-Su 10:00-19:00","shop":"farm","id":"node/4126782261"},"geometry":{"type":"Point","coordinates":[5.0420048,47.3212292]}}

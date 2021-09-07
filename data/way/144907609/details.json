@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/144907609","properties":{"landuse":"residential","name":"Paradiesplatz","shop":"farm","id":"way/144907609"},"geometry":{"type":"Point","coordinates":[12.5809522,52.1588024]}}
+{"type":"Feature","id":"way/144907609","properties":{"landuse":"residential","name":"Paradiesplatz","opening_hours:signed":"no","shop":"farm","id":"way/144907609"},"geometry":{"type":"Point","coordinates":[12.5809522,52.1588024]}}

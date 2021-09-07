@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3535537598","properties":{"description":"Verkaufsstand für Obst und Gemüse","shop":"farm","temporarily":"no","wheelchair":"yes","id":"node/3535537598"},"geometry":{"type":"Point","coordinates":[8.0245294,49.9902127]}}
+{"type":"Feature","id":"node/3535537598","properties":{"description":"Verkaufsstand für Obst und Gemüse","shop":"farm","temporary":"no","wheelchair":"yes","id":"node/3535537598"},"geometry":{"type":"Point","coordinates":[8.0245294,49.9902127]}}

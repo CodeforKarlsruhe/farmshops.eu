@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8352169850","properties":{"shop":"farm","id":"node/8352169850"},"geometry":{"type":"Point","coordinates":[8.9620332,48.7498675]}}
+{"type":"Feature","id":"node/8352169850","properties":{"addr:city":"Magstadt","addr:housenumber":"43","addr:postcode":"71106","addr:street":"Warmbronner Straße","operator":"Bauernhof Stegmüller","organic":"yes","phone":"0174-8925473","shop":"farm","id":"node/8352169850"},"geometry":{"type":"Point","coordinates":[8.9623899,48.7493228]}}

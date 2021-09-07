@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1952901901","properties":{"amenity":"vending_machine","description":"Milchautomat","payment:coins":"yes","vending":"milk","id":"node/1952901901"},"geometry":{"type":"Point","coordinates":[10.0258334,46.9845933]}}
+{"type":"Feature","id":"node/1952901901","properties":{"amenity":"vending_machine","description":"Milchautomat","opening_hours":"24/7","payment:coins":"yes","vending":"milk","id":"node/1952901901"},"geometry":{"type":"Point","coordinates":[10.0258448,46.9846028]}}

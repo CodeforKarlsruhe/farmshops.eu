@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5870765230","properties":{"amenity":"vending_machine","operator":"Familie Maier","payment:cash":"yes","vending":"milk","id":"node/5870765230"},"geometry":{"type":"Point","coordinates":[12.1901563,47.8878553]}}
+{"type":"Feature","id":"node/5870765230","properties":{"addr:city":"Prutting","addr:place":"Bamham","amenity":"vending_machine","operator":"Familie Maier","payment:cash":"yes","vending":"milk","id":"node/5870765230"},"geometry":{"type":"Point","coordinates":[12.1901563,47.8878553]}}

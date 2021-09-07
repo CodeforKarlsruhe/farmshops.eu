@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8500297250","properties":{"amenity":"vending_machine","currency:EUR":"yes","vending":"food","id":"node/8500297250"},"geometry":{"type":"Point","coordinates":[12.1222969,47.8290113]}}
+{"type":"Feature","id":"node/8500297250","properties":{"addr:city":"Rosenheim","addr:place":"Aising","addr:street":"Grünfeldstraße","amenity":"vending_machine","currency:EUR":"yes","vending":"food","id":"node/8500297250"},"geometry":{"type":"Point","coordinates":[12.1222969,47.8290113]}}

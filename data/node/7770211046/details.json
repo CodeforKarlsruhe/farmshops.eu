@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7770211046","properties":{"produce":"egg","shop":"farm","id":"node/7770211046"},"geometry":{"type":"Point","coordinates":[12.1721716,47.8498076]}}
+{"type":"Feature","id":"node/7770211046","properties":{"addr:city":"Stephanskirchen","addr:place":"Sims","produce":"egg","shop":"farm","id":"node/7770211046"},"geometry":{"type":"Point","coordinates":[12.1721716,47.8498076]}}
