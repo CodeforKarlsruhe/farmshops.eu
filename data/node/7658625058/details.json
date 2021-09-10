@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7658625058","properties":{"amenity":"marketplace","name":"Wochenmarkt am name Stiftsplatz","opening_hours":"Fr 08:00-12:00","source":"www.stadt-kerpen.de","id":"node/7658625058"},"geometry":{"type":"Point","coordinates":[6.6927492,50.8695582]}}
+{"type":"Feature","id":"node/7658625058","properties":{"amenity":"marketplace","name":"Wochenmarkt am Stiftsplatz","opening_hours":"Fr 08:00-12:00","source":"www.stadt-kerpen.de","id":"node/7658625058"},"geometry":{"type":"Point","coordinates":[6.6927492,50.8695582]}}

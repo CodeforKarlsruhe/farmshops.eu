@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8308239841","properties":{"amenity":"marketplace","name":"Flohmarkt am Arkonaplatz","opening_hours":"Su 10:00-16:00","id":"node/8308239841"},"geometry":{"type":"Point","coordinates":[13.4029826,52.5377713]}}
+{"type":"Feature","id":"node/8308239841","properties":{"amenity":"marketplace","name":"Flohmarkt am Arkonaplatz","opening_hours":"Su 10:00-16:00","wheelchair":"yes","id":"node/8308239841"},"geometry":{"type":"Point","coordinates":[13.4029826,52.5377713]}}
