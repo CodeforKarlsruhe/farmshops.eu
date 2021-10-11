@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7791118761","properties":{"shop":"farm","id":"node/7791118761"},"geometry":{"type":"Point","coordinates":[6.4931802,51.2863978]}}
+{"type":"Feature","id":"node/7791118761","properties":{"addr:city":"Willich","addr:housenumber":"8","addr:postcode":"47877","addr:street":"Holterhöfe","shop":"farm","id":"node/7791118761"},"geometry":{"type":"Point","coordinates":[6.4931802,51.2863978]}}

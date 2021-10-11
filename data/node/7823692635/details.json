@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7823692635","properties":{"name":"Frische Eier und Kartoffeln","opening_hours":"24/7","shop":"farm","id":"node/7823692635"},"geometry":{"type":"Point","coordinates":[11.6769387,48.2806176]}}
+{"type":"Feature","id":"node/7823692635","properties":{"name":"Frische Eier und Kartoffeln","opening_hours":"24/7","shop":"farm","wheelchair":"yes","id":"node/7823692635"},"geometry":{"type":"Point","coordinates":[11.6769387,48.2806176]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8074038197","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Familie Waldeyer","vending":"milk","id":"node/8074038197"},"geometry":{"type":"Point","coordinates":[9.272195,51.6591531]}}
+{"type":"Feature","id":"node/8074038197","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Familie Waldeyer","vending":"milk;cheese","id":"node/8074038197"},"geometry":{"type":"Point","coordinates":[9.272195,51.6591531]}}

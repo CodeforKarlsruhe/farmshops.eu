@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7990695985","properties":{"amenity":"marketplace","fixme":"Öffnungszeit geschätzt","name":"Frischemarkt, Wochenmarkt","opening_hours":"Th 07:00-13:00","id":"node/7990695985"},"geometry":{"type":"Point","coordinates":[6.6711059,50.2905236]}}
+{"type":"Feature","id":"node/7990695985","properties":{"amenity":"marketplace","fixme":"Öffnungszeit geschätzt","name":"Frischemarkt, Wochenmarkt","opening_hours":"Th 07:00-13:00","wheelchair":"yes","id":"node/7990695985"},"geometry":{"type":"Point","coordinates":[6.6711059,50.2905236]}}

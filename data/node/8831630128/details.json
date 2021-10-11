@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8831630128","properties":{"amenity":"marketplace","name":"Markstand vom Gasthof Riedsee","opening_hours":"Tu-Sa 09:30-18:00; Su 10:00-16:00","id":"node/8831630128"},"geometry":{"type":"Point","coordinates":[9.1530604,48.7341874]}}
+{"type":"Feature","id":"node/8831630128","properties":{"amenity":"marketplace","name":"Markstand vom Gasthof Riedsee","opening_hours":"Tu-Sa 09:30-18:00; Su 10:00-16:00","wheelchair":"yes","id":"node/8831630128"},"geometry":{"type":"Point","coordinates":[9.1530604,48.7341874]}}

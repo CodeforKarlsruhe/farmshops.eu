@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5580789262","properties":{"addr:housenumber":"6","addr:street":"Kapellenort","amenity":"vending_machine","operator":"Hedda's Hofladen","vending":"food","id":"node/5580789262"},"geometry":{"type":"Point","coordinates":[8.9926284,52.3969733]}}
+{"type":"Feature","id":"node/5580789262","properties":{"addr:housenumber":"6","addr:street":"Kapellenort","amenity":"vending_machine","description":"Eier, Geflügelfleisch,","operator":"Hedda's Hofladen","vending":"food","id":"node/5580789262"},"geometry":{"type":"Point","coordinates":[8.9926284,52.3969733]}}

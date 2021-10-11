@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/678583280","properties":{"amenity":"marketplace","name":"Wochenmarkt Weinböhla","opening_hours":"Th 07:00-17:00","id":"way/678583280"},"geometry":{"type":"Point","coordinates":[13.5672981,51.1618199]}}
+{"type":"Feature","id":"way/678583280","properties":{"amenity":"marketplace","check_date:opening_hours":"2021-09-26","name":"Wochenmarkt Weinböhla","opening_hours":"Th 07:00-17:00","id":"way/678583280"},"geometry":{"type":"Point","coordinates":[13.5672981,51.1618199]}}
