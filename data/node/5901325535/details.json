@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5901325535","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:coins":"yes","vending":"honey;sweets;drinks;chewing_gums","id":"node/5901325535"},"geometry":{"type":"Point","coordinates":[8.1472584,48.537016]}}
+{"type":"Feature","id":"node/5901325535","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:coins":"yes","vending":"honey;booze;sweets;drinks;chewing_gums","id":"node/5901325535"},"geometry":{"type":"Point","coordinates":[8.147312,48.5369467]}}

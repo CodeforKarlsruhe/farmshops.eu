@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7866195167","properties":{"amenity":"vending_machine","check_date":"2021-10-10","vending":"milk","id":"node/7866195167"},"geometry":{"type":"Point","coordinates":[12.1218742,48.9325908]}}
+{"type":"Feature","id":"node/7866195167","properties":{"amenity":"vending_machine","check_date":"2021-10-10","contact:mobile":"+491755861065","operator":"Familie Wild","vending":"milk;eggs;food","id":"node/7866195167"},"geometry":{"type":"Point","coordinates":[12.1218742,48.9325908]}}

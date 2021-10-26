@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4188064947","properties":{"amenity":"vending_machine","name":"Eierautomat Bach","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/4188064947"},"geometry":{"type":"Point","coordinates":[8.601935,49.5045777]}}
+{"type":"Feature","id":"node/4188064947","properties":{"amenity":"vending_machine","check_date":"2021-10-14","name":"Eierautomat Bach","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/4188064947"},"geometry":{"type":"Point","coordinates":[8.601935,49.5045777]}}

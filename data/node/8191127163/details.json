@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8191127163","properties":{"self_service":"yes","shop":"farm","id":"node/8191127163"},"geometry":{"type":"Point","coordinates":[6.8293848,46.9616836]}}
+{"type":"Feature","id":"node/8191127163","properties":{"name":"Ferme de trois-rods","opening_hours":"PH,Mo-Su 07:00-20:00","self_service":"yes","shop":"farm","id":"node/8191127163"},"geometry":{"type":"Point","coordinates":[6.8293848,46.9616836]}}

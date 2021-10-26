@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8809839800","properties":{"shop":"farm","id":"node/8809839800"},"geometry":{"type":"Point","coordinates":[9.910873,53.6739276]}}
+{"type":"Feature","id":"node/8809839800","properties":{"description":"Selbstbedienungsstand. Verkauft laut Schild: Kartoffeln, Wurzeln, Weisskohl, Kürbis, Rote Bete, Wirsingkohl, und Petersilie","name":"H. Seymer","opening_hours":"PH,Mo-Su 00:00-24:00","payment:cash":"yes","payment:coins":"yes","shop":"farm","wheelchair":"yes","id":"node/8809839800"},"geometry":{"type":"Point","coordinates":[9.910873,53.6739276]}}

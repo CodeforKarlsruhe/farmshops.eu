@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/47188838","properties":{"building":"yes","fixme":"what is sold here? glaces = Glaces","name":"Ferme de Gérard Sart","shop":"farm","id":"way/47188838"},"geometry":{"type":"Point","coordinates":[5.7682738,50.6844363]}}
+{"type":"Feature","id":"way/47188838","properties":{"addr:housenumber":"11","addr:street":"Route de Mortier","building":"yes","name":"Ferme de Gérard Sart","shop":"farm","id":"way/47188838"},"geometry":{"type":"Point","coordinates":[5.7682668,50.6843035]}}
