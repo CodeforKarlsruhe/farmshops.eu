@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9150069814","properties":{"fvst:navnelbnr":"1011226","name":"Drudes Svin","product":"meat","shop":"farm","id":"node/9150069814"},"geometry":{"type":"Point","coordinates":[12.021515,55.2131983]}}
+{"type":"Feature","id":"node/9150069814","properties":{"alt_name":"Drudes Svin","fvst:navnelbnr":"1116679","name":"Drudes Landhandel","product":"meat","ref:DK:cvr":"41538015","ref:DK:cvr:pnummer":"1027601673","shop":"farm","id":"node/9150069814"},"geometry":{"type":"Point","coordinates":[12.021515,55.2131983]}}

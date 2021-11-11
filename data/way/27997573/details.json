@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/27997573","properties":{"amenity":"marketplace","name":"Viehmarkt","name:hsb":"Skotne wiki","id":"way/27997573"},"geometry":{"type":"Point","coordinates":[14.3172581,51.7558382]}}
+{"type":"Feature","id":"way/27997573","properties":{"amenity":"marketplace","description:de":"in veranstaltungsfreier Zeit als gebührenfreier Parkplatz genutzt","name":"Viehmarkt","name:hsb":"Skotne wiki","id":"way/27997573"},"geometry":{"type":"Point","coordinates":[14.3172581,51.7558382]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7227600169","properties":{"amenity":"vending_machine","vending":"food","id":"node/7227600169"},"geometry":{"type":"Point","coordinates":[7.8174469,47.9305021]}}
+{"type":"Feature","id":"node/7227600169","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Landmetzgerei Gerteiser","payment:cash":"yes","vending":"food","id":"node/7227600169"},"geometry":{"type":"Point","coordinates":[7.8174469,47.9305021]}}
