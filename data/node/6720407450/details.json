@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6720407450","properties":{"amenity":"marketplace","name":"Wochenmarkt Walldorf","opening_hours":"Th 13:00-20:00","id":"node/6720407450"},"geometry":{"type":"Point","coordinates":[8.5772619,50.0052808]}}
+{"type":"Feature","id":"node/6720407450","properties":{"amenity":"marketplace","check_date:opening_hours":"2021-11-13","name":"Wochenmarkt Walldorf","opening_hours":"Th 13:00-20:00","id":"node/6720407450"},"geometry":{"type":"Point","coordinates":[8.5772619,50.0052808]}}

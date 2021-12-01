@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/7661620085","properties":{"amenity":"vending_machine","name":"Eierautomat","payment:cash":"only","payment:coins":"yes","payment:notes":"yes","vending":"eggs;noodles","vending:eggs":"yes","id":"node/7661620085"},"geometry":{"type":"Point","coordinates":[9.4402042,51.2143542]}}
