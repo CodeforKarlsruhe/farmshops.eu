@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5120593150","properties":{"amenity":"vending_machine","operator":"Bierßenhof Driller","payment:cash":"yes","vending":"food","id":"node/5120593150"},"geometry":{"type":"Point","coordinates":[8.9371048,51.7558655]}}
+{"type":"Feature","id":"node/5120593150","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Bierßenhof Driller","payment:cash":"yes","payment:coins":"yes","vending":"food","id":"node/5120593150"},"geometry":{"type":"Point","coordinates":[8.9372903,51.7560097]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9283404780","properties":{"addr:city":"Berkel en Roderijs","addr:housenumber":"60","addr:street":"Kleihoogt","produce":"vegetables,fruit","shop":"farm","id":"node/9283404780"},"geometry":{"type":"Point","coordinates":[4.4617909,52.0213941]}}
+{"type":"Feature","id":"node/9283404780","properties":{"addr:city":"Berkel en Rodenrijs","addr:housenumber":"60","addr:street":"Kleihoogt","produce":"vegetables,fruit","shop":"farm","id":"node/9283404780"},"geometry":{"type":"Point","coordinates":[4.4617909,52.0213941]}}

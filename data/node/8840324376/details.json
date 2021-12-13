@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8840324376","properties":{"fvst:navnelbnr":"910123","name":"Moesgaard","product":"beef","ref:DK:cvr":"29036586","ref:DK:cvr:pnummer":"1020798293","shop":"farm","id":"node/8840324376"},"geometry":{"type":"Point","coordinates":[9.515906,55.191827]}}
+{"type":"Feature","id":"node/8840324376","properties":{"check_date":"2021-12-02","fvst:navnelbnr":"910123","name":"Moesgaard","product":"beef","ref:DK:cvr":"29036586","ref:DK:cvr:pnummer":"1020798293","shop":"farm","id":"node/8840324376"},"geometry":{"type":"Point","coordinates":[9.515906,55.191827]}}
