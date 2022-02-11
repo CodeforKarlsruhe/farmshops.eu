@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/24016550","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Marktplatz Rheine","id":"way/24016550"},"geometry":{"type":"Point","coordinates":[7.4382622,52.2788799]}}
+{"type":"Feature","id":"way/24016550","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Marktplatz Rheine","opening_hours":"PH,Mo-Su 00:00-24:00+","id":"way/24016550"},"geometry":{"type":"Point","coordinates":[7.4382622,52.2788799]}}

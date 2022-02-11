@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5267991321","properties":{"addr:housename":"210","addr:street":"Asperdener Straße","name":"Hofladen Theis","shop":"farm","id":"node/5267991321"},"geometry":{"type":"Point","coordinates":[6.1178741,51.6912381]}}
+{"type":"Feature","id":"node/5267991321","properties":{"addr:city":"Goch","addr:housename":"210","addr:postcode":"47574","addr:street":"Asperdener Straße","name":"Hofladen Theis","shop":"farm","id":"node/5267991321"},"geometry":{"type":"Point","coordinates":[6.1178741,51.6912381]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8089352983","properties":{"amenity":"vending_machine","organic":"only","payment:coins":"yes","source":"survey","vending":"eggs","id":"node/8089352983"},"geometry":{"type":"Point","coordinates":[6.1761063,48.6754786]}}
+{"type":"Feature","id":"node/8089352983","properties":{"amenity":"vending_machine","check_date":"2021-12-16","organic":"only","payment:coins":"yes","source":"survey","vending":"eggs","id":"node/8089352983"},"geometry":{"type":"Point","coordinates":[6.1761063,48.6754786]}}

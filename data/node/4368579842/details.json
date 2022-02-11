@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4368579842","properties":{"amenity":"vending_machine","operator":"Metzgerei Georg","vending":"food","id":"node/4368579842"},"geometry":{"type":"Point","coordinates":[11.0628065,47.5974125]}}
+{"type":"Feature","id":"node/4368579842","properties":{"amenity":"vending_machine","check_date":"2021-12-23","operator":"Metzgerei Georg","vending":"food","id":"node/4368579842"},"geometry":{"type":"Point","coordinates":[11.0628065,47.5974125]}}

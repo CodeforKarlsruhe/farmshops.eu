@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7934649696","properties":{"name":"Hoeve Bouwlust","opening_hours":"Mo-Su 09:00-17:00; \"closed in winter on Sundays \"","shop":"farm","source":"survey","id":"node/7934649696"},"geometry":{"type":"Point","coordinates":[4.2883639,51.9546899]}}
+{"type":"Feature","id":"node/7934649696","properties":{"name":"Hoeve Bouwlust","opening_hours":"Mo-Su 09:00-17:00; \"closed in winter on Sundays \"","shop":"farm","source":"survey","wheelchair":"yes","id":"node/7934649696"},"geometry":{"type":"Point","coordinates":[4.2883639,51.9546899]}}

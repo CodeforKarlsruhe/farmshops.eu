@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7797700383","properties":{"name":"Tigges Scheune","shop":"farm","id":"node/7797700383"},"geometry":{"type":"Point","coordinates":[8.0055885,51.6759271]}}
+{"type":"Feature","id":"node/7797700383","properties":{"addr:city":"Lippetal","addr:housenumber":"70","addr:postcode":"59510","addr:street":"Dolberger Straße","name":"Tigges Scheune","shop":"farm","id":"node/7797700383"},"geometry":{"type":"Point","coordinates":[8.0055885,51.6759271]}}

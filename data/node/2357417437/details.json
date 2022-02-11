@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2357417437","properties":{"amenity":"marketplace","id":"node/2357417437"},"geometry":{"type":"Point","coordinates":[7.0130865,51.1037928]}}
+{"type":"Feature","id":"node/2357417437","properties":{"amenity":"marketplace","name":"Leichlinger Wochenmarkt","opening_hours":"We 07:30-13:00; Sa 08:00-14:00","id":"node/2357417437"},"geometry":{"type":"Point","coordinates":[7.0130865,51.1037928]}}

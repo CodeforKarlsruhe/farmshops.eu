@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4739357776","properties":{"amenity":"vending_machine","opening_hours":"Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su off","operator":"Agrardiensleistungsgesellschaft Prießnitz","vending":"milk","id":"node/4739357776"},"geometry":{"type":"Point","coordinates":[11.8212505,51.1575855]}}
+{"type":"Feature","id":"node/4739357776","properties":{"disused:amenity":"vending_machine","vending":"milk","id":"node/4739357776"},"geometry":{"type":"Point","coordinates":[11.8212927,51.1575964]}}

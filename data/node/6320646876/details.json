@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6320646876","properties":{"amenity":"vending_machine","name":"Regiomat","opening_hours":"24/7","vending":"food","website":"http://www.birkenhof-egelsbach.de/birkomat.html","id":"node/6320646876"},"geometry":{"type":"Point","coordinates":[8.6646288,49.9583751]}}
+{"type":"Feature","id":"node/6320646876","properties":{"amenity":"vending_machine","name":"Regiomat","opening_hours":"24/7","vending":"food","website":"http://www.birkenhof-egelsbach.de/hofladen.html","id":"node/6320646876"},"geometry":{"type":"Point","coordinates":[8.6646288,49.9583751]}}

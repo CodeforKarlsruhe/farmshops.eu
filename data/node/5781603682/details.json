@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5781603682","properties":{"amenity":"marketplace","name":"Gautinger Wochenmarkt","opening_hours":"Fr 08:00-12:00","id":"node/5781603682"},"geometry":{"type":"Point","coordinates":[11.3831422,48.0659642]}}
+{"type":"Feature","id":"node/5781603682","properties":{"amenity":"marketplace","check_date:opening_hours":"2022-02-05","name":"Gautinger Wochenmarkt","opening_hours":"Fr 08:00-12:00","id":"node/5781603682"},"geometry":{"type":"Point","coordinates":[11.3831422,48.0659642]}}

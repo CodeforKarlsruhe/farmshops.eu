@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/9420765903","properties":{"amenity":"vending_machine","payment:coins":"yes","payment:contactless":"yes","payment:maestro":"yes","payment:notes":"yes","payment:visa":"yes","vending":"food;milk","id":"node/9420765903"},"geometry":{"type":"Point","coordinates":[13.3958178,52.3341652]}}
