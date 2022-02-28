@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/9502466428","properties":{"amenity":"vending_machine","opening_hours":"Mo-Fr 08:30-21:00; Sa,Su 09:30-20:00","payment:coins":"yes","payment:contactless":"yes","payment:mastercard":"yes","payment:notes":"yes","payment:visa":"yes","vending":"food;eggs","id":"node/9502466428"},"geometry":{"type":"Point","coordinates":[6.5507062,52.9546083]}}

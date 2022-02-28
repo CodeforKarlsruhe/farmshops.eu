@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9006598302","properties":{"amenity":"marketplace","building":"parking","name":"Marché, les mercredi matin","opening_hours":"matin","opening_hours:covid19":"open","id":"node/9006598302"},"geometry":{"type":"Point","coordinates":[5.5654276,47.2790533]}}
+{"type":"Feature","id":"node/9006598302","properties":{"amenity":"marketplace","opening_hours":"We 08:00-12:00","id":"node/9006598302"},"geometry":{"type":"Point","coordinates":[5.5654276,47.2790533]}}

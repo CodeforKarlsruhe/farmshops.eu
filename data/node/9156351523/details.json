@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9156351523","properties":{"name":"Heide-Wiesen-Ei","shop":"yes","vending":"eggs","website":"https://www.heide-wiesen-ei.de/","id":"node/9156351523"},"geometry":{"type":"Point","coordinates":[8.7636204,51.743487]}}
+{"type":"Feature","id":"node/9156351523","properties":{"amenity":"vending_machine","name":"Heide-Wiesen-Ei","vending":"eggs","website":"https://www.heide-wiesen-ei.de/","id":"node/9156351523"},"geometry":{"type":"Point","coordinates":[8.7636942,51.7434654]}}

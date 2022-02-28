@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8062691140","properties":{"amenity":"vending_machine","name":"Eier-Verkaufsautomat","vending":"eggs","id":"node/8062691140"},"geometry":{"type":"Point","coordinates":[10.3073903,48.6110431]}}
+{"type":"Feature","id":"node/8062691140","properties":{"amenity":"vending_machine","name":"Eier-Verkaufsautomat","operator":"Bischofsbauernhof Sachsenhausen","vending":"eggs;noodles;potatoes;sausages;icecream","id":"node/8062691140"},"geometry":{"type":"Point","coordinates":[10.3074131,48.6112646]}}
