@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7751937024","properties":{"name":"Lindenhof","operator":"Familie Haischt","payment:cash":"yes","produce":"applejuice","shop":"farm","id":"node/7751937024"},"geometry":{"type":"Point","coordinates":[8.9578194,48.5532749]}}
+{"type":"Feature","id":"node/7751937024","properties":{"name":"Lindenhof","operator":"Familie Haischt","organic":"yes","payment:cash":"yes","produce":"applejuice","shop":"farm","website":"www.haischt.de","id":"node/7751937024"},"geometry":{"type":"Point","coordinates":[8.9578194,48.5532749]}}

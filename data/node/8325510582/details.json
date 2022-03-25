@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8325510582","properties":{"amenity":"marketplace","name":"Wochenmarkt Berta-Kröger-Platz","opening_hours":"Tu 08:00-13:00, Fr 08:30-17:30","id":"node/8325510582"},"geometry":{"type":"Point","coordinates":[10.0106531,53.4979054]}}
+{"type":"Feature","id":"node/8325510582","properties":{"amenity":"marketplace","check_date:opening_hours":"2022-03-06","name":"Wochenmarkt Berta-Kröger-Platz","opening_hours":"Tu 08:00-13:00, Fr 08:30-17:30","id":"node/8325510582"},"geometry":{"type":"Point","coordinates":[10.0106531,53.4979054]}}
