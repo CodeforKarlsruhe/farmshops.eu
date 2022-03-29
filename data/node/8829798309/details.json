@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8829798309","properties":{"name":"Thomashof","shop":"farm","id":"node/8829798309"},"geometry":{"type":"Point","coordinates":[7.1418097,51.0807495]}}
+{"type":"Feature","id":"node/8829798309","properties":{"addr:housenumber":"69","addr:street":"Hammerweg","name":"Thomashof","opening_hours":"Mo-Sa 09:00-18:30; Su 10:00-18:00","phone":"+49 2174 61268","shop":"farm","website":"https://thomashof-burscheid.de/75/hofladen","id":"node/8829798309"},"geometry":{"type":"Point","coordinates":[7.1418097,51.0807495]}}
