@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/51822776","properties":{"amenity":"marketplace","name":"St. Galler Bauernmarkt","opening_hours":"Apr-Nov: Fr 07:00-13:00","id":"way/51822776"},"geometry":{"type":"Point","coordinates":[9.3755306,47.4260425]}}
+{"type":"Feature","id":"way/51822776","properties":{"amenity":"marketplace","name":"St. Galler Bauernmarkt","opening_hours":"Apr-Nov: Fr 07:00-13:00","wheelchair":"yes","id":"way/51822776"},"geometry":{"type":"Point","coordinates":[9.3755306,47.4260425]}}

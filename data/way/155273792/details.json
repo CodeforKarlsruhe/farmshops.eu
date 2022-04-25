@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/155273792","properties":{"building":"retail","name":"Stuber's Hoflade","shop":"farm","id":"way/155273792"},"geometry":{"type":"Point","coordinates":[7.4471278,47.130226]}}
+{"type":"Feature","id":"way/155273792","properties":{"addr:city":"Gächliwil","addr:postcode":"4584","addr:street":"Hauptstrasse","building":"retail","name":"Stuber's Hoflade","shop":"farm","id":"way/155273792"},"geometry":{"type":"Point","coordinates":[7.4471278,47.130226]}}

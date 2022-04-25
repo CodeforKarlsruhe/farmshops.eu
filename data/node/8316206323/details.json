@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8316206323","properties":{"amenity":"vending_machine","automated":"no","payment:cash":"only","vending":"food","id":"node/8316206323"},"geometry":{"type":"Point","coordinates":[7.967743,48.7065734]}}
+{"type":"Feature","id":"node/8316206323","properties":{"amenity":"vending_machine","automated":"no","covered":"yes","food":"fruit","operator":"Obsthof Spraul Haslach","payment:cash":"only","vending":"food","id":"node/8316206323"},"geometry":{"type":"Point","coordinates":[7.967743,48.7065734]}}

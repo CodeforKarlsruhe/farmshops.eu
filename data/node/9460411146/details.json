@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9460411146","properties":{"amenity":"vending_machine","check_date":"2022-01-30","food:eggs":"yes","name":"Eierautomat","vending":"food","id":"node/9460411146"},"geometry":{"type":"Point","coordinates":[8.1265891,49.2801525]}}
+{"type":"Feature","id":"node/9460411146","properties":{"amenity":"vending_machine","check_date":"2022-04-15","covered":"yes","food:eggs":"yes","name":"Eierautomat","operator":"Martinshof","vending":"food","id":"node/9460411146"},"geometry":{"type":"Point","coordinates":[8.1266186,49.2801201]}}

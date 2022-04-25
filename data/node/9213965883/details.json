@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9213965883","properties":{"produce":"potato","shop":"farm","id":"node/9213965883"},"geometry":{"type":"Point","coordinates":[10.9042224,49.8706854]}}
+{"type":"Feature","id":"node/9213965883","properties":{"name:signed":"no","opening_hours:signed":"no","produce":"potato","shop":"farm","id":"node/9213965883"},"geometry":{"type":"Point","coordinates":[10.9042224,49.8706854]}}

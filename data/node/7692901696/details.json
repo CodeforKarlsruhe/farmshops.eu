@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7692901696","properties":{"name":"Bauernmarkt Schwäbisch Hall","shop":"farm","website":"https://www.besh.de","id":"node/7692901696"},"geometry":{"type":"Point","coordinates":[9.7911867,49.1097377]}}
+{"type":"Feature","id":"node/7692901696","properties":{"name":"Bauernmarkt Schwäbisch Hall","opening_hours":"Mo-Fr 07:00-19:00; Sa 07:00-14:00; PH off","shop":"farm","website":"https://www.besh.de","id":"node/7692901696"},"geometry":{"type":"Point","coordinates":[9.7911867,49.1097377]}}

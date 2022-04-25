@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9501000324","properties":{"amenity":"marketplace","name":"Wochenmarkt (samstags)","id":"node/9501000324"},"geometry":{"type":"Point","coordinates":[8.8383542,49.898297]}}
+{"type":"Feature","id":"node/9501000324","properties":{"amenity":"marketplace","image":"https://ibb.co/m9qs6zg","name":"Wochenmarkt (samstags)","id":"node/9501000324"},"geometry":{"type":"Point","coordinates":[8.8383542,49.898297]}}

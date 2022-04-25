@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/9634134267","properties":{"amenity":"vending_machine","operator":"Nef Naturbuur","payment:coins":"yes","payment:maestro":"yes","payment:notes":"yes","payment:twint":"yes","vending":"drinks;food;milk;fruits","website":"https://www.nef-naturbuur.ch/","id":"node/9634134267"},"geometry":{"type":"Point","coordinates":[8.727833,47.2698855]}}

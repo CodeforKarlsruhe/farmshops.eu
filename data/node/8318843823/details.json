@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8318843823","properties":{"name":"Milchherz Milchtankstelle","shop":"farm","id":"node/8318843823"},"geometry":{"type":"Point","coordinates":[12.1055866,48.455952]}}
+{"type":"Feature","id":"node/8318843823","properties":{"addr:city":"Vilsheim","addr:country":"DE","addr:hamlet":"Kapfing","addr:postcode":"84186","addr:street":"Aster Straße","name":"Milchherz Milchtankstelle","shop":"farm","id":"node/8318843823"},"geometry":{"type":"Point","coordinates":[12.1055866,48.455952]}}

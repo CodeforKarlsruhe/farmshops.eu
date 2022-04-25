@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6903208412","properties":{"check_date:opening_hours":"2021-09-26","name":"Hofladen Maurer","opening_hours":"Tu-Sa 09:00-13:00","shop":"farm","id":"node/6903208412"},"geometry":{"type":"Point","coordinates":[7.0278838,49.2010887]}}
+{"type":"Feature","id":"node/6903208412","properties":{"check_date:opening_hours":"2021-09-26","name":"Hofladen Maurer","opening_hours":"We-Sa 09:00-13:00; PH,Mo-Tu,Su closed","shop":"farm","wheelchair":"yes","id":"node/6903208412"},"geometry":{"type":"Point","coordinates":[7.0278845,49.2011294]}}

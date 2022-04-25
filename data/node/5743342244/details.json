@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5743342244","properties":{"amenity":"vending_machine","is_in":"Edeka Bergmannstraße","vending":"milk","id":"node/5743342244"},"geometry":{"type":"Point","coordinates":[13.3884756,52.4896794]}}
+{"type":"Feature","id":"node/5743342244","properties":{"amenity":"vending_machine","check_date":"2022-04-22","is_in":"Edeka Bergmannstraße","vending":"milk","id":"node/5743342244"},"geometry":{"type":"Point","coordinates":[13.3884756,52.4896794]}}

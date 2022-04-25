@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8904433486","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Maiwald 12 Familie Keck","vending":"eggs","id":"node/8904433486"},"geometry":{"type":"Point","coordinates":[7.9932029,48.6493688]}}
+{"type":"Feature","id":"node/8904433486","properties":{"amenity":"vending_machine","automated":"yes","covered":"yes","opening_hours":"24/7","operator":"Maiwald 12 Familie Keck","payment:cash":"only","vending":"food","id":"node/8904433486"},"geometry":{"type":"Point","coordinates":[7.9928569,48.6493653]}}

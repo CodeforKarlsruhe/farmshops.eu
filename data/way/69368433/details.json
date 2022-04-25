@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/69368433","properties":{"building":"yes","name":"Hofladen Kossack","shop":"farm","id":"way/69368433"},"geometry":{"type":"Point","coordinates":[8.7785141,52.2569102]}}
+{"type":"Feature","id":"way/69368433","properties":{"building":"yes","email":"simon-kossack@gmx.de","name":"Hofladen Kossack","opening_hours":"Mo-Th 08:00-18:00; Sa 08:00-13:00","phone":"+49 5734 1713","shop":"farm","id":"way/69368433"},"geometry":{"type":"Point","coordinates":[8.7785141,52.2569102]}}

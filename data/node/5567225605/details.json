@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5567225605","properties":{"amenity":"vending_machine","vending":"eggs;meat","id":"node/5567225605"},"geometry":{"type":"Point","coordinates":[8.7856108,48.74282]}}
+{"type":"Feature","id":"node/5567225605","properties":{"amenity":"vending_machine","operator":"Waldenserhof Jourdan","vending":"eggs;meat;pasta","id":"node/5567225605"},"geometry":{"type":"Point","coordinates":[8.7856108,48.74282]}}
