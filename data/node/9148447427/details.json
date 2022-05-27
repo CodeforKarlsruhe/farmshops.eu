@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9148447427","properties":{"amenity":"marketplace","name":"Friedrich-Ebert-Platz","opening_hours":"Tu, Fr","wheelchair":"yes","id":"node/9148447427"},"geometry":{"type":"Point","coordinates":[7.2204551,51.5381113]}}
+{"type":"Feature","id":"node/9148447427","properties":{"amenity":"marketplace","name":"Friedrich-Ebert-Platz","opening_hours":"Tu, Fr","website":"https://www.herne.de/Rathaus/Buergerservice/Wochenm%C3%A4rkte/","wheelchair":"yes","id":"node/9148447427"},"geometry":{"type":"Point","coordinates":[7.2203625,51.5381113]}}

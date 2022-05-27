@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/817464938","properties":{"amenity":"marketplace","name":"Gallus Markt","opening_hours":"Fr 08:00-18:00; PH off","opening_hours:covid19":"same","id":"way/817464938"},"geometry":{"type":"Point","coordinates":[8.6344261,50.1040023]}}
+{"type":"Feature","id":"way/817464938","properties":{"amenity":"marketplace","name":"Gallus Markt","opening_hours":"Fr 08:00-18:30; PH off","opening_hours:covid19":"same","id":"way/817464938"},"geometry":{"type":"Point","coordinates":[8.6344261,50.1040023]}}

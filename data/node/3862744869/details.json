@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3862744869","properties":{"name":"Gemüsehäusle","payment:coins":"only","shop":"farm","id":"node/3862744869"},"geometry":{"type":"Point","coordinates":[9.2368036,48.6818495]}}
+{"type":"Feature","id":"node/3862744869","properties":{"image":"https://i.imgur.com/HRd1gV0.jpg","name":"Gemüsehäusle","opening_hours:signed":"no","payment:cards":"no","payment:cash":"yes","payment:coins":"only","payment:credit_cards":"no","payment:debit_cards":"no","shop":"farm","id":"node/3862744869"},"geometry":{"type":"Point","coordinates":[9.2368036,48.6818495]}}

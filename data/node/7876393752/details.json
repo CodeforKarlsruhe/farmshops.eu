@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7876393752","properties":{"amenity":"vending_machine","food":"meat","vending":"food","id":"node/7876393752"},"geometry":{"type":"Point","coordinates":[10.0795007,53.7810255]}}
+{"type":"Feature","id":"node/7876393752","properties":{"amenity":"vending_machine","currency:EUR":"yes","food":"meat","operator":"Landschlachterei Busack","payment:cash":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:girocard":"yes","vending":"food","id":"node/7876393752"},"geometry":{"type":"Point","coordinates":[10.0795007,53.7810255]}}

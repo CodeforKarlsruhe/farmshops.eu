@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7529582224","properties":{"amenity":"vending_machine","vending":"milk","id":"node/7529582224"},"geometry":{"type":"Point","coordinates":[8.8037033,48.8300707]}}
+{"type":"Feature","id":"node/7529582224","properties":{"amenity":"vending_machine","operator":"Römerhof Tiefenbronn","payment:cash":"yes","source":"https://www.hofladen-bauernladen.info/adressen/tiefenbronn-roemerhof-verkausautomaten-verkaufsstelle__44554.php","vending":"milk","id":"node/7529582224"},"geometry":{"type":"Point","coordinates":[8.8037103,48.8300647]}}

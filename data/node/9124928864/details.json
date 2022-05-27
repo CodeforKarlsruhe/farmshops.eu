@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9124928864","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Die Maierei","vending":"food","website":"www.die-maierei.de","id":"node/9124928864"},"geometry":{"type":"Point","coordinates":[11.8152476,48.0215903]}}
+{"type":"Feature","id":"node/9124928864","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Die Maierei","vending":"food","website":"https://www.die-maierei.de/","id":"node/9124928864"},"geometry":{"type":"Point","coordinates":[11.8152476,48.0215903]}}

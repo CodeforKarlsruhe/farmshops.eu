@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1776803241","properties":{"amenity":"marketplace","id":"node/1776803241"},"geometry":{"type":"Point","coordinates":[8.5280404,49.4335543]}}
+{"type":"Feature","id":"node/1776803241","properties":{"amenity":"marketplace","name":"Stadtteilmarkt Rheinau","opening_hours":"Fr 07:00-13:30","operator":"Event & Promotion Mannheim","website":"https://ep-ma.de/wochenmarkt/stadtteilmaerkte/stadtteilmarkt-rheinau-nord/","id":"node/1776803241"},"geometry":{"type":"Point","coordinates":[8.5280404,49.4335543]}}

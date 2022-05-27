@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4869063260","properties":{"check_date":"2021-04-07","food:asparagus":"yes","operator":"Löding","seasonal":"yes","shop":"farm","id":"node/4869063260"},"geometry":{"type":"Point","coordinates":[10.6986719,53.8501921]}}
+{"type":"Feature","id":"node/4869063260","properties":{"check_date":"2021-04-07","food:asparagus":"yes","name":"Lödings Bauernhof am See","opening_hours":"Th-Sa 09:00-13:00","operator":"Löding","seasonal":"yes","shop":"farm","id":"node/4869063260"},"geometry":{"type":"Point","coordinates":[10.6986719,53.8501921]}}

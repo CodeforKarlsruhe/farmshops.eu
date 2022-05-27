@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8732975713","properties":{"amenity":"vending_machine","operator":"Metzgerei Güthlein","vending":"eggs;barbecue","id":"node/8732975713"},"geometry":{"type":"Point","coordinates":[11.0289685,49.5957048]}}
+{"type":"Feature","id":"node/8732975713","properties":{"amenity":"historic:vending_machine","end_date":"2022-04-28","operator":"Metzgerei Güthlein","vending":"eggs;barbecue","id":"node/8732975713"},"geometry":{"type":"Point","coordinates":[11.0289685,49.5957048]}}

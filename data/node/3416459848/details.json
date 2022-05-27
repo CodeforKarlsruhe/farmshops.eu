@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3416459848","properties":{"name":"Hofladen","operator":"Obst- und Ferienhof Zurell","shop":"farm","id":"node/3416459848"},"geometry":{"type":"Point","coordinates":[9.3878136,47.7197699]}}
+{"type":"Feature","id":"node/3416459848","properties":{"name":"Hofladen","opening_hours":"Mo,Tu 08:30-12:30, Mo,Tu 14:30-17:30; Th 14:30-17:30, Fr 08:30-12:30,14:30-17:30, Sa 08:00-13:30; PH off","operator":"Obst- und Ferienhof Zurell","shop":"farm","id":"node/3416459848"},"geometry":{"type":"Point","coordinates":[9.3878136,47.7197699]}}

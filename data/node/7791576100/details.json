@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7791576100","properties":{"amenity":"marketplace","food":"yes","name":"Wochenmarkt Münchner Freiheit","opening_hours":"Th 10:00-18:00","id":"node/7791576100"},"geometry":{"type":"Point","coordinates":[11.5869439,48.1633588]}}
+{"type":"Feature","id":"node/7791576100","properties":{"amenity":"marketplace","check_date:opening_hours":"2022-05-07","food":"yes","name":"Wochenmarkt Münchner Freiheit","opening_hours":"Th 10:00-18:00","id":"node/7791576100"},"geometry":{"type":"Point","coordinates":[11.5869439,48.1633588]}}
