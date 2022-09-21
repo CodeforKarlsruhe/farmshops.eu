@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8188225546","properties":{"amenity":"vending_machine","fee":"no","operator":"Foodsharing Luxembourg","vending":"food","id":"node/8188225546"},"geometry":{"type":"Point","coordinates":[6.1383473,49.5986568]}}
+{"type":"Feature","id":"node/8188225546","properties":{"amenity":"vending_machine","check_date":"2022-08-21","fee":"no","operator":"Foodsharing Luxembourg","vending":"food","id":"node/8188225546"},"geometry":{"type":"Point","coordinates":[6.1383473,49.5986568]}}

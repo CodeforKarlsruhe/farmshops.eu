@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/170822992","properties":{"amenity":"marketplace","opening_hours":"\"nur Fusion Festival\"","operator":"Fusion Festival","id":"way/170822992"},"geometry":{"type":"Point","coordinates":[12.7424498,53.3116903]}}
+{"type":"Feature","id":"way/170822992","properties":{"access":"private","amenity":"marketplace","opening_hours":"\"only Fusion Festival\"","operator":"Fusion Festival","id":"way/170822992"},"geometry":{"type":"Point","coordinates":[12.7423837,53.3118775]}}

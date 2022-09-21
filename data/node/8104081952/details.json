@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8104081952","properties":{"amenity":"vending_machine","vending":"milk","id":"node/8104081952"},"geometry":{"type":"Point","coordinates":[9.3589595,52.4327032]}}
+{"type":"Feature","id":"node/8104081952","properties":{"amenity":"vending_machine","operator":"Hof Teigeler","vending":"milk;raw_milk","id":"node/8104081952"},"geometry":{"type":"Point","coordinates":[9.3589595,52.4327032]}}

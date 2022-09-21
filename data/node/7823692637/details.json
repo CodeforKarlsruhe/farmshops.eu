@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7823692637","properties":{"fixme":"title","name":"Täglich frische Rohmilch","shop":"farm","id":"node/7823692637"},"geometry":{"type":"Point","coordinates":[11.6763003,48.2826846]}}
+{"type":"Feature","id":"node/7823692637","properties":{"fixme":"title","name":"Täglich frische Rohmilch","opening_hours":"Mo-Su 18:30-19:00","payment:cash":"yes","shop":"farm","vending":"milk","id":"node/7823692637"},"geometry":{"type":"Point","coordinates":[11.6763268,48.2827461]}}

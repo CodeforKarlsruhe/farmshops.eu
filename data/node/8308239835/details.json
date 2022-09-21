@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8308239835","properties":{"amenity":"marketplace","name":"Flohmarkt Wittenau","id":"node/8308239835"},"geometry":{"type":"Point","coordinates":[13.3342994,52.5952608]}}
+{"type":"Feature","id":"node/8308239835","properties":{"amenity":"marketplace","name":"Flohmarkt Wittenau","wheelchair":"yes","id":"node/8308239835"},"geometry":{"type":"Point","coordinates":[13.3342994,52.5952608]}}

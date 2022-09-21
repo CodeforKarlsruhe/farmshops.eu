@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/998173477","properties":{"amenity":"marketplace","id":"way/998173477"},"geometry":{"type":"Point","coordinates":[13.5263451,52.4823458]}}
+{"type":"Feature","id":"way/998173477","properties":{"amenity":"marketplace","name:signed":"no","opening_hours":"Tu,Fr 09:00-17:00","wheelchair":"yes","id":"way/998173477"},"geometry":{"type":"Point","coordinates":[13.5263451,52.4823458]}}

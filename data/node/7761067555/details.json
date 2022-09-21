@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7761067555","properties":{"amenity":"vending_machine","opening_hours":"24/7","vending":"cheese;eggs;potatoes;oil","wheelchair":"yes","id":"node/7761067555"},"geometry":{"type":"Point","coordinates":[9.0247482,47.4683967]}}
+{"type":"Feature","id":"node/7761067555","properties":{"amenity":"vending_machine","check_date":"2022-08-27","opening_hours":"24/7","vending":"cheese;eggs;potatoes;oil","wheelchair":"yes","id":"node/7761067555"},"geometry":{"type":"Point","coordinates":[9.0247482,47.4683967]}}

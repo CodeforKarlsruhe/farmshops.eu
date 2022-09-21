@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1710704642","properties":{"amenity":"vending_machine","name":"AlpenhofFrischMilch","operator":"Alpenhof","vending":"milk","id":"node/1710704642"},"geometry":{"type":"Point","coordinates":[10.7461067,47.0279872]}}
+{"type":"Feature","id":"node/1710704642","properties":{"amenity":"vending_machine","check_date":"2022-08-31","name":"AlpenhofFrischMilch","operator":"Alpenhof","vending":"milk","id":"node/1710704642"},"geometry":{"type":"Point","coordinates":[10.7461067,47.0279872]}}

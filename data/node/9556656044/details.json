@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9556656044","properties":{"addr:city":"Bunnik","addr:housenumber":"25","addr:street":"Achterdijk","name":"Boerenwinkel","shop":"farm","id":"node/9556656044"},"geometry":{"type":"Point","coordinates":[5.18183,52.0569817]}}
+{"type":"Feature","id":"node/9556656044","properties":{"addr:city":"Bunnik","addr:housenumber":"25","addr:street":"Achterdijk","name":"Boerenwinkel","payment:debit_cards":"yes","shop":"farm","id":"node/9556656044"},"geometry":{"type":"Point","coordinates":[5.1820501,52.0569304]}}

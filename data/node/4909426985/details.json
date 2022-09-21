@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4909426985","properties":{"organic":"no","shop":"farm","id":"node/4909426985"},"geometry":{"type":"Point","coordinates":[9.7621034,53.4301236]}}
+{"type":"Feature","id":"node/4909426985","properties":{"organic":"no","self_service":"yes","shop":"farm","id":"node/4909426985"},"geometry":{"type":"Point","coordinates":[9.7621034,53.4301236]}}

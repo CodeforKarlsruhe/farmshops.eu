@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9621056792","properties":{"amenity":"marketplace","name":"Rathausplatz","opening_hours":"Fr 07:00-12:00","website":"https://www.bad-duerrheim.info/de/Aktuelles/Maerkte/Wochenmarkt","id":"node/9621056792"},"geometry":{"type":"Point","coordinates":[8.5321173,48.0181098]}}
+{"type":"Feature","id":"node/9621056792","properties":{"amenity":"marketplace","opening_hours":"Fr 07:00-12:00","website":"https://www.bad-duerrheim.info/de/Aktuelles/Maerkte/Wochenmarkt","id":"node/9621056792"},"geometry":{"type":"Point","coordinates":[8.5321671,48.0180923]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7504396940","properties":{"amenity":"vending_machine","organic":"only","origin":"regional","vending":"milk","id":"node/7504396940"},"geometry":{"type":"Point","coordinates":[8.5958465,47.3938027]}}
+{"type":"Feature","id":"node/7504396940","properties":{"amenity":"vending_machine","check_date":"2022-05-29","organic":"only","origin":"regional","vending":"milk","id":"node/7504396940"},"geometry":{"type":"Point","coordinates":[8.5958465,47.3938027]}}

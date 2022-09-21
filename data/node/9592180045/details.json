@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9592180045","properties":{"shop":"farm","id":"node/9592180045"},"geometry":{"type":"Point","coordinates":[9.0428126,47.3806065]}}
+{"type":"Feature","id":"node/9592180045","properties":{"name":"Chrimberg-Hof","opening_hours":"24/7","payment:cash":"yes","payment:twint":"yes","phone":"+41 79 752 49 35","shop":"farm","website":"https://www.chrimberg-hof.ch/","id":"node/9592180045"},"geometry":{"type":"Point","coordinates":[9.0428178,47.38061]}}

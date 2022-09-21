@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9576013495","properties":{"amenity":"marketplace","name":"Mellery","opening_hours":"We 10:00-15:00","id":"node/9576013495"},"geometry":{"type":"Point","coordinates":[4.3568801,50.8797827]}}
+{"type":"Feature","id":"node/9576013495","properties":{"amenity":"marketplace","contact:website":"https://marches.bruxelles.be/marches/marche-mellery","name":"Mellery","opening_hours":"Th 10:00-15:00","id":"node/9576013495"},"geometry":{"type":"Point","coordinates":[4.3568801,50.8797827]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7473578129","properties":{"name":"Eierautomat","shop":"farm","id":"node/7473578129"},"geometry":{"type":"Point","coordinates":[7.136686,51.0872361]}}
+{"type":"Feature","id":"node/7473578129","properties":{"amenity":"vending_machine","vending":"eggs","id":"node/7473578129"},"geometry":{"type":"Point","coordinates":[7.136686,51.0872361]}}

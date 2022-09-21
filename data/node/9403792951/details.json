@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9403792951","properties":{"name":"Feldkiosk","shop":"farm","website":"https://www.feldkiosk.de","id":"node/9403792951"},"geometry":{"type":"Point","coordinates":[10.1528411,53.5671166]}}
+{"type":"Feature","id":"node/9403792951","properties":{"addr:city":"Barsbüttel","addr:housenumber":"15","addr:postcode":"22885","addr:street":"Steinbeker Weg","name":"Feldkiosk","phone":"+49 163 6418556","shop":"farm","website":"https://www.feldkiosk.de","id":"node/9403792951"},"geometry":{"type":"Point","coordinates":[10.1528411,53.5671166]}}

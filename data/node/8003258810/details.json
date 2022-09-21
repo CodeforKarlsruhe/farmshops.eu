@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8003258810","properties":{"amenity":"marketplace","opening_hours":"Th, Fr 8:00-13:00","website":"https://www.langen.de/de/feste-und-maerkte.html","id":"node/8003258810"},"geometry":{"type":"Point","coordinates":[8.6716554,49.9886343]}}
+{"type":"Feature","id":"node/8003258810","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Th, Fr 8:00-13:00","website":"https://www.langen.de/de/feste-und-maerkte.html","wheelchair":"limited","id":"node/8003258810"},"geometry":{"type":"Point","coordinates":[8.671752,49.9886274]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8515151081","properties":{"amenity":"vending_machine","name":"Region Oim","vending":"egg;meat","id":"node/8515151081"},"geometry":{"type":"Point","coordinates":[11.6424706,47.804385]}}
+{"type":"Feature","id":"node/8515151081","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Region Oim","payment:cash":"yes","vending":"egg;meat;cheese;ice_cream;milk;drinks","id":"node/8515151081"},"geometry":{"type":"Point","coordinates":[11.6424706,47.804385]}}

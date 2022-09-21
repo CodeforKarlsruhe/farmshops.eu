@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8869138869","properties":{"amenity":"marketplace","opening_hours":"Sa[2,4] 08:00-12:00","id":"node/8869138869"},"geometry":{"type":"Point","coordinates":[16.3098425,48.0951255]}}
+{"type":"Feature","id":"node/8869138869","properties":{"amenity":"marketplace","opening_hours":"Sa[2,4] 08:00-12:00","website":"https://www.mariaenzersdorf.gv.at/Wochenmarkt_Suedstadt_Samstag_11","id":"node/8869138869"},"geometry":{"type":"Point","coordinates":[16.3098016,48.0951498]}}

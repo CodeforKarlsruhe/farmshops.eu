@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/945223030","properties":{"amenity":"shelter","shop":"farm","id":"way/945223030"},"geometry":{"type":"Point","coordinates":[8.9403771,47.6514399]}}
+{"type":"Feature","id":"way/945223030","properties":{"amenity":"shelter","name:signed":"no","opening_hours:signed":"no","shop":"farm","id":"way/945223030"},"geometry":{"type":"Point","coordinates":[8.9403771,47.6514399]}}

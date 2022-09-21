@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8641712923","properties":{"amenity":"vending_machine","operator":"Nusseckenmanufaktur","payment:coins":"yes","vending":"food","id":"node/8641712923"},"geometry":{"type":"Point","coordinates":[11.0108444,49.5273115]}}
+{"type":"Feature","id":"node/8641712923","properties":{"amenity":"vending_machine","fair_trade":"only","operator":"Nusseckenmanufaktur","organic":"only","payment:coins":"yes","vending":"food","website":"https://www.meister-kuefner.de/","id":"node/8641712923"},"geometry":{"type":"Point","coordinates":[11.0108444,49.5273115]}}

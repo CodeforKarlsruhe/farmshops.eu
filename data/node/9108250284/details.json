@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9108250284","properties":{"name":"Kürbisverkauf","opening_hours":"sep,oct","product":"pumpkin","shop":"farm","id":"node/9108250284"},"geometry":{"type":"Point","coordinates":[11.6128642,50.0568528]}}
+{"type":"Feature","id":"node/9108250284","properties":{"name":"Kürbisverkauf","opening_hours":"sep,oct","payment:credit_cards":"no","payment:debit_cards":"no","product":"pumpkin","shop":"farm","wheelchair":"no","id":"node/9108250284"},"geometry":{"type":"Point","coordinates":[11.6128642,50.0568528]}}

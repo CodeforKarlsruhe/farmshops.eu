@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9760070462","properties":{"name":"Truskawki","shop":"farm","id":"node/9760070462"},"geometry":{"type":"Point","coordinates":[16.6199463,50.6834813]}}
+{"type":"Feature","id":"node/9760070462","properties":{"name":"Truskawki","opening_hours":"May-Aug Mo-Fr 09:00-09:30+,12:30-13:00+","organic":"only","seasonal":"summer","shop":"farm","id":"node/9760070462"},"geometry":{"type":"Point","coordinates":[16.6199463,50.6834813]}}

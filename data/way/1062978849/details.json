@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1062978849","properties":{"building":"commercial","building:levels":"1","shop":"farm","id":"way/1062978849"},"geometry":{"type":"Point","coordinates":[9.1556188,52.6601988]}}
+{"type":"Feature","id":"way/1062978849","properties":{"building":"retail","building:levels":"1","name":"Früchtehof Schindler","nohousenumber":"yes","opening_hours":"Mo-Fr 09:00-18:00; Sa 09:00-14:00","shop":"farm","id":"way/1062978849"},"geometry":{"type":"Point","coordinates":[9.1556188,52.6601988]}}

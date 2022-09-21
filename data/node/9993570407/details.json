@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/9993570407","properties":{"amenity":"vending_machine","operator":"Hofgut Rimpertsweiler","payment:cash":"yes","payment:contactless":"yes","payment:girocard":"yes","payment:mastercard":"yes","payment:visa":"yes","vending":"drinks;food","id":"node/9993570407"},"geometry":{"type":"Point","coordinates":[9.359105,47.754561]}}

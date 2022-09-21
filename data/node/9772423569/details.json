@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9772423569","properties":{"amenity":"vending_machine","covered":"no","vending":"food","wheelchair":"yes","id":"node/9772423569"},"geometry":{"type":"Point","coordinates":[8.7437984,53.1869754]}}
+{"type":"Feature","id":"node/9772423569","properties":{"amenity":"vending_machine","covered":"no","operator":"Stöver Landwirtschaft","payment:cash":"yes","payment:coins":"yes","payment:notes":"yes","vending":"food;snacks;eggs","wheelchair":"yes","id":"node/9772423569"},"geometry":{"type":"Point","coordinates":[8.7437984,53.1869754]}}

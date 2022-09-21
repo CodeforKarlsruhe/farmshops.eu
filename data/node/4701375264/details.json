@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4701375264","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Brühlhof","vending":"milk","id":"node/4701375264"},"geometry":{"type":"Point","coordinates":[8.5342546,50.1303169]}}
+{"type":"Feature","id":"node/4701375264","properties":{"amenity":"vending_machine","check_date":"2022-06-26","opening_hours":"24/7","operator":"Brühlhof","vending":"milk","id":"node/4701375264"},"geometry":{"type":"Point","coordinates":[8.5342546,50.1303169]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/780515896","properties":{"amenity":"marketplace","name":"Wochenmarkt im Meurerweg","opening_hours":"Do 09:00-13:00","url":"https://www.hamburg.de/wochenmarkt-mitte/6251940/wochenmarkt-meurerweg/","wheelchair":"yes","id":"way/780515896"},"geometry":{"type":"Point","coordinates":[10.0851673,53.5542569]}}
+{"type":"Feature","id":"way/780515896","properties":{"amenity":"marketplace","name":"Wochenmarkt Horn","opening_hours":"Tu 09:00-13:00","wheelchair":"yes","id":"way/780515896"},"geometry":{"type":"Point","coordinates":[10.0851673,53.5542569]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2393153068","properties":{"name":"Lützelhof","shop":"farm","id":"node/2393153068"},"geometry":{"type":"Point","coordinates":[8.7798117,47.1969907]}}
+{"type":"Feature","id":"node/2393153068","properties":{"name":"Lützelhof","opening_hours":"Mo-Su 07:00-18:30","shop":"farm","id":"node/2393153068"},"geometry":{"type":"Point","coordinates":[8.7798117,47.1969907]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6960360196","properties":{"amenity":"vending_machine","payment:cash":"yes","vending":"eggs","id":"node/6960360196"},"geometry":{"type":"Point","coordinates":[7.9717648,48.707359]}}
+{"type":"Feature","id":"node/6960360196","properties":{"amenity":"vending_machine","operator":"Zimpferhof Maiwald","payment:cash":"yes","vending":"eggs","id":"node/6960360196"},"geometry":{"type":"Point","coordinates":[7.9717648,48.707359]}}

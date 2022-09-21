@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9543649794","properties":{"amenity":"vending_machine","image":"https://osm.z3h.de/OjDVE.jpg","operator":"Bäckerei Ubbos Backhuus","payment:cash":"yes","vending":"eggs","id":"node/9543649794"},"geometry":{"type":"Point","coordinates":[7.5436507,53.4883148]}}
+{"type":"Feature","id":"node/9543649794","properties":{"amenity":"vending_machine","image":"https://osm.z3h.de/OjDVE.jpg","payment:cash":"yes","vending":"eggs","id":"node/9543649794"},"geometry":{"type":"Point","coordinates":[7.5436507,53.4883148]}}
