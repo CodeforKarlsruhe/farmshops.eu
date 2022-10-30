@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8781010940","properties":{"amenity":"marketplace","opening_hours":"We 08:00-12:00","id":"node/8781010940"},"geometry":{"type":"Point","coordinates":[6.5470153,50.3864723]}}
+{"type":"Feature","id":"node/8781010940","properties":{"addr:city":"Dahlem","addr:postcode":"53949","addr:street":"Bahnstraße","amenity":"marketplace","name":"Wochenmarkt Dahlem","opening_hours":"We 08:00-12:00","id":"node/8781010940"},"geometry":{"type":"Point","coordinates":[6.5474791,50.3862287]}}

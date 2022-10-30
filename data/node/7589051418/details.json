@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7589051418","properties":{"amenity":"vending_machine","description":"Milch u. Lebensmittelautomat","opening_hours":"24/7","vending":"food;milk","id":"node/7589051418"},"geometry":{"type":"Point","coordinates":[11.6078147,50.4843569]}}
+{"type":"Feature","id":"node/7589051418","properties":{"amenity":"vending_machine","check_date":"2022-10-01","description":"Milch u. Lebensmittelautomat","opening_hours":"24/7","vending":"food;milk","id":"node/7589051418"},"geometry":{"type":"Point","coordinates":[11.6078147,50.4843569]}}

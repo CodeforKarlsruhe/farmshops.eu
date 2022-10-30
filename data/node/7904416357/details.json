@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7904416357","properties":{"amenity":"vending_machine","covered":"yes","currency:EUR":"yes","payment:coins":"yes","vending":"eggs","id":"node/7904416357"},"geometry":{"type":"Point","coordinates":[16.2144163,47.7257655]}}
+{"type":"Feature","id":"node/7904416357","properties":{"amenity":"vending_machine","check_date":"2022-10-04","covered":"yes","currency:EUR":"yes","payment:coins":"yes","vending":"eggs","id":"node/7904416357"},"geometry":{"type":"Point","coordinates":[16.2144163,47.7257655]}}

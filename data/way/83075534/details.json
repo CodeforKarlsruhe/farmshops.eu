@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/83075534","properties":{"amenity":"marketplace","id":"way/83075534"},"geometry":{"type":"Point","coordinates":[6.9832812,51.0307298]}}
+{"type":"Feature","id":"way/83075534","properties":{"amenity":"marketplace","opening_hours":"Mi 07:00-13:00; Sa 07:00-13:00","website":"https://www.leverkusen.de/leben-in-lev/freizeit-tourismus/einkaufen/wochenmarkt.php","id":"way/83075534"},"geometry":{"type":"Point","coordinates":[6.9832812,51.0307298]}}

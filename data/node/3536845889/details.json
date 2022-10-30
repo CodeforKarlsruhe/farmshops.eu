@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3536845889","properties":{"amenity":"vending_machine","vending":"sweets;drinks;food","id":"node/3536845889"},"geometry":{"type":"Point","coordinates":[16.3525319,48.2314699]}}
+{"type":"Feature","id":"node/3536845889","properties":{"amenity":"vending_machine","check_date":"2022-10-15","indoor":"yes","opening_hours":"24/7","payment:mastercard":"yes","payment:visa":"yes","vending":"sweets;drinks;food;coffee","id":"node/3536845889"},"geometry":{"type":"Point","coordinates":[16.3525319,48.2314699]}}

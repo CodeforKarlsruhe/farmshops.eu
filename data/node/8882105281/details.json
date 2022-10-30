@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8882105281","properties":{"name":"Erdbeeren","product":"strawberries","shop":"farm","id":"node/8882105281"},"geometry":{"type":"Point","coordinates":[12.3339652,47.8845479]}}
+{"type":"Feature","id":"node/8882105281","properties":{"name":"Erdbeeren","opening_hours":"24/7","product":"strawberries","shop":"farm","id":"node/8882105281"},"geometry":{"type":"Point","coordinates":[12.3339652,47.8845479]}}

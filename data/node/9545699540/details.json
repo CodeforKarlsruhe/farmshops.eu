@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9545699540","properties":{"opening_hours":"Mo-Su 08:00-20:00","operator":"Familie Wieland","organic":"only","shop":"farm","id":"node/9545699540"},"geometry":{"type":"Point","coordinates":[7.7186518,46.8769859]}}
+{"type":"Feature","id":"node/9545699540","properties":{"opening_hours":"Mo-Su 08:00-20:00","operator":"Familie Wieland","organic":"only","payment:cash":"yes","shop":"farm","website":"https://wielandleben.ch","id":"node/9545699540"},"geometry":{"type":"Point","coordinates":[7.7186518,46.8769859]}}

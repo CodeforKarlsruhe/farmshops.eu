@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7398627241","properties":{"amenity":"vending_machine","vending":"chewing_gums;condoms;drinks;food;sweets","id":"node/7398627241"},"geometry":{"type":"Point","coordinates":[8.5923721,47.4126555]}}
+{"type":"Feature","id":"node/7398627241","properties":{"amenity":"vending_machine","check_date":"2022-10-26","vending":"chewing_gums;condoms;drinks;food;sweets","id":"node/7398627241"},"geometry":{"type":"Point","coordinates":[8.5923721,47.4126555]}}

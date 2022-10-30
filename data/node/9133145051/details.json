@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9133145051","properties":{"addr:city":"Aukrug","addr:housenumber":"12","addr:postcode":"24613","addr:street":"Zum Sportplatz","shop":"farm","id":"node/9133145051"},"geometry":{"type":"Point","coordinates":[9.7973359,54.0721237]}}
+{"type":"Feature","id":"node/9133145051","properties":{"addr:city":"Aukrug","addr:country":"DE","addr:housenumber":"12","addr:postcode":"24613","addr:street":"Zum Sportplatz","shop":"farm","id":"node/9133145051"},"geometry":{"type":"Point","coordinates":[9.7973359,54.0721237]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10061894745","properties":{"amenity":"vending_machine","description":"Kühlschrank mit Eiern und Bergkäse. Bezahlung bar per Kasse.","payment:coins":"yes","payment:notes":"yes","vending":"eggs;cheese","id":"node/10061894745"},"geometry":{"type":"Point","coordinates":[9.6472822,47.3122198]}}

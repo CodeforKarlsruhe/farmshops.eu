@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10093505090","properties":{"amenity":"vending_machine","covered":"yes","name":"Regiobox","payment:cash":"yes","payment:coins":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","vending":"food;drinks","id":"node/10093505090"},"geometry":{"type":"Point","coordinates":[10.8222646,47.625178]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/33632943","properties":{"amenity":"marketplace","lit":"yes","name":"Buttermarkt","surface":"sett","id":"way/33632943"},"geometry":{"type":"Point","coordinates":[6.418222,51.364469]}}
+{"type":"Feature","id":"way/33632943","properties":{"amenity":"marketplace","description":"Wochenmarkt jeden Dienstag und Freitag","lit":"yes","name":"Buttermarkt","opening_hours":"Tu, Fr 07:00-13:00","surface":"sett","id":"way/33632943"},"geometry":{"type":"Point","coordinates":[6.418222,51.364469]}}

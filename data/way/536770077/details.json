@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/536770077","properties":{"building":"yes","name":"Ziemniaki Jajka","shop":"farm","id":"way/536770077"},"geometry":{"type":"Point","coordinates":[16.7894081,52.3934902]}}
+{"type":"Feature","id":"way/536770077","properties":{"building":"yes","name":"Ziemniaki Jajka","produce":"potatoes;eggs","shop":"farm","id":"way/536770077"},"geometry":{"type":"Point","coordinates":[16.7894081,52.3934902]}}

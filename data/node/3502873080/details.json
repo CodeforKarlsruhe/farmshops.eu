@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3502873080","properties":{"name":"Lux","shop":"farm","id":"node/3502873080"},"geometry":{"type":"Point","coordinates":[9.4514122,48.6482494]}}
+{"type":"Feature","id":"node/3502873080","properties":{"name":"Lux","opening_hours":"Mo-Fr 08:00-17:00; Sa 08:00-12:30; PH,Su off","shop":"farm","id":"node/3502873080"},"geometry":{"type":"Point","coordinates":[9.4514122,48.6482494]}}

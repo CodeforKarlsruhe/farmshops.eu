@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2213338685","properties":{"name":"Bläsihof Hofladen","shop":"farm","id":"node/2213338685"},"geometry":{"type":"Point","coordinates":[8.6945707,47.4616415]}}
+{"type":"Feature","id":"node/2213338685","properties":{"check_date:opening_hours":"2022-10-26","name":"Bläsihof Hofladen","opening_hours:signed":"no","shop":"farm","id":"node/2213338685"},"geometry":{"type":"Point","coordinates":[8.6945707,47.4616415]}}

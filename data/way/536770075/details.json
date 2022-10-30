@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/536770075","properties":{"building":"yes","name":"Sprzedaż Jajek","shop":"farm","id":"way/536770075"},"geometry":{"type":"Point","coordinates":[16.7891283,52.3936948]}}
+{"type":"Feature","id":"way/536770075","properties":{"building":"yes","name":"Sprzedaż Jajek","produce":"eggs","shop":"farm","id":"way/536770075"},"geometry":{"type":"Point","coordinates":[16.7891283,52.3936948]}}

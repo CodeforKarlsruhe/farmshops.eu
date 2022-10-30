@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9181209993","properties":{"addr:city":"Jahrsdorf","addr:housenumber":"4","addr:postcode":"24594","addr:street":"Dorfstraße","shop":"farm","id":"node/9181209993"},"geometry":{"type":"Point","coordinates":[9.6345271,54.0657891]}}
+{"type":"Feature","id":"node/9181209993","properties":{"addr:city":"Jahrsdorf","addr:country":"DE","addr:housenumber":"4","addr:postcode":"24594","addr:street":"Dorfstraße","shop":"farm","id":"node/9181209993"},"geometry":{"type":"Point","coordinates":[9.6345271,54.0657891]}}

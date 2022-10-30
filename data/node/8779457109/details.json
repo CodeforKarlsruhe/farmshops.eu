@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8779457109","properties":{"amenity":"cafe","name":"Ostseemühle","opening_hours":"Mo-Sa 09:00-17:00","shop":"farm","website":"http://www.ostseemühle.de/","id":"node/8779457109"},"geometry":{"type":"Point","coordinates":[12.6517908,54.2780627]}}
+{"type":"Feature","id":"node/8779457109","properties":{"amenity":"cafe","name":"Ostseemühle","opening_hours":"Mo-Sa 09:00-17:00","shop":"farm","website":"https://www.ostseemühle.de/","id":"node/8779457109"},"geometry":{"type":"Point","coordinates":[12.6517908,54.2780627]}}
