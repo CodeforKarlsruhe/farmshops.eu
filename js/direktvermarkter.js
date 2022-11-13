@@ -68,7 +68,7 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
         } else if (feature.properties.p === 'vending_machine') {
             return L.marker(latlng, { icon: machineMarker });
         } else {
-            console.log("nicht bekannte Daten verwendet");
+            console.log("nicht bekannte Daten verwendet: " + feature.properties.p);
             return L.marker(latlng, { icon: blackMarker });
         }
     },
@@ -124,7 +124,7 @@ var markers = L.markerClusterGroup({
                     machinesInCluster = true;
                 }
                 else {
-                    console.log("else schleife")
+                    console.log("nicht betrachteter Markertyp: " + markers[c].feature.properties.p)
 
                 }
 
