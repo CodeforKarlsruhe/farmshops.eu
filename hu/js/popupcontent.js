@@ -83,13 +83,13 @@ function popupcontent(feature, layer) {
                     .replace("indoor", "Innenraum")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
-                    .replace("lunch", "Mittagstisch")                
-                    .replace("drinK:raw_milk", "Rohmilch")                
-                    .replace("milk", "Milch")                
+                    .replace("lunch", "Mittagstisch")
+                    .replace("drinK:raw_milk", "Rohmilch")
+                    .replace("milk", "Milch")
                     .replace("start_date", "Geöffnet seit")
                     .replace("contact", "")
                     .replace("name", "Name")
-                    .replace("addr ", "Adresse")
+                    .replace("addr", "Adresse")
                     .replace(":", " ")
                               
                 + ":</strong> </td><td>"
