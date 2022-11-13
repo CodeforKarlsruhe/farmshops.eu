@@ -93,7 +93,7 @@ function popupcontent(feature, layer) {
                               
                 + ":</strong> </td><td>"
                 + feature.properties[prop]
-                    .replace(";", ", ")
+                    .replace(/;/g, ", ")
                     .replace("only", "nur")
                     .replace("vending_machine", "Verkaufsautomat")
                     .replace("raw_milk", "Rohmilch")
