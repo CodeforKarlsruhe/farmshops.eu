@@ -28,7 +28,7 @@ If you want a few free stickers, simply write a mail with your post adress to fa
 
 ## Documentation in German
 
-Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der DACH-Region (Deutschland, Österreich, Schweiz). Die Karte erhält alle ihre Daten von OpenstreetMap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
+Übersichtskarte von Hofläden, Milchautomaten und anderen Direktvermarktern aus der DACH-Region (Deutschland, Österreich, Schweiz). Die Karte erhält alle ihre Daten von OpenstreetMap, bereitet sie optisch auf und unterstützt die Pflege der Daten, indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM zurück verlinkt.
 
 Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
 
@@ -56,7 +56,7 @@ Für ein konfortables Update mit automatischen Commit gibt es das shell script u
 Das Script verwendet https://overpass-turbo.eu/ um diese Tags von OpenstreetMap zu ziehen:
 
 - https://wiki.openstreetmap.org/wiki/DE:Tag:shop=farm
-- https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine ( Wobei vending machines indirekt über Tags wie vending:milk oder vending:food gezogen werden.)
+- https://wiki.openstreetmap.org/wiki/DE:Tag:amenity%3Dvending_machine (Wobei vending machines indirekt über Tags wie vending:milk oder vending:food gezogen werden.)
 - https://wiki.openstreetmap.org/wiki/DE:Tag:amenity=marketplace
 - https://wiki.openstreetmap.org/wiki/DE:Tag:craft%3Dbeekeeper
 

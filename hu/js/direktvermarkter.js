@@ -196,8 +196,8 @@ console.log(lastUpdate);
 var sidebar = L.control.sidebar('sidebar').addTo(map);
 
 var tilesAuswahl = {
-    "Openstreetmap": tiles,
-    "Satelit": Esri_WorldImagery,
+    "OpenStreetMap": tiles,
+    "Satellit": Esri_WorldImagery,
 };
 
 var overlays = {
