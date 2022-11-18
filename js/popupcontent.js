@@ -5,7 +5,7 @@ function popupcontent(feature, layer) {
     for (var prop in feature.properties) {
 
 
-        if (prop == "id" || prop == "shop" || prop == "name" || prop == "addr:city" || prop == "addr:country" || prop == "addr:housenumber" || prop == "addr:postcode" || prop == "addr:suburb" || prop == "addr:street" || prop == "opening_hours" || prop == "image") {
+        if (prop == "id" || prop == "shop" || prop == "craft" || prop == "name" || prop == "addr:city" || prop == "addr:country" || prop == "addr:housenumber" || prop == "addr:postcode" || prop == "addr:suburb" || prop == "addr:street" || prop == "opening_hours" || prop == "image") {
             console.log(prop + " " + feature.properties[prop] + " in Tabelle unsichtbar");
             //do nothing
         }
@@ -32,7 +32,7 @@ function popupcontent(feature, layer) {
         }
         else if (prop == "phone" || prop == "contact:phone") {
             popupcontent.unshift("<tr><td><strong>"
-                + prop.replace("email", "E-Mail").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='tel:"
+                + prop.replace("phone", "Telefon").replace("contact:", "") + ":</strong> </td><td>" + "<a target='_blank' rel='noopener' link href='tel:"
                 + feature.properties[prop] + "' target='_blank' rel='noopener'>"
                 + feature.properties[prop] + "</a></td></tr>");
             console.log(prop + " " + feature.properties[prop] + " als Link Formatiert");
@@ -40,56 +40,111 @@ function popupcontent(feature, layer) {
         else {
             popupcontent.push("<tr><td><strong>"
                 + prop
-                    .replace(":", " ")
-                    .replace("addr ", "")
-                    .replace("name", "Name")
                     .replace("opening_hours", "Öffnungszeiten")
                     .replace("city", "Stadt")
                     .replace("housenumber", "Hausnummer")
                     .replace("phone", "Telefon")
+                    .replace("website", "Webseite")
                     .replace("operator", "Betreiber")
                     .replace("postcode", "Postleitzahl")
                     .replace("street", "Straße")
                     .replace("organic", "Biologisch")
-                    .replace("produce", "Produzieren")
+                    .replace("produce", "Erzeugnisse")
                     .replace("product", "Produkt(e)")
-                    .replace("contact", "")
                     .replace("suburb", "Bezirk")
                     .replace("description", "Beschreibung")
                     .replace("building", "Gebäude")
                     .replace("wheelchair", "Rollstuhlgerecht")
-                    .replace("payment coins", "Nimmt Münzen")
-                    .replace("payment notes", "Nimmt Scheine")
-                    .replace("payment cash", "Nimmt Bargeld")
+                    .replace("currency:others", "andere Währungen")
+                    .replace("currency", "Währung")
+                    .replace("payment:apple_pay", "Nimmt Apple Pay")
+                    .replace("payment:cash", "Nimmt Bargeld")
+                    .replace("payment:coins", "Nimmt Münzen")
+                    .replace("payment:contactless", "kontaktloses Bezahlen")
+                    .replace("payment:cards", "Kartenzahlung")
+                    .replace("payment:credit_cards", "Nimmt Kreditkarten")
+                    .replace("payment:cryptocurrencies", "Nimmt Kryptowährungen")
+                    .replace("payment:debit_cards", "Nimmt Debitkarten")
+                    .replace("payment:electronic_purses", "Nimmt Elektronische Geldbörsen")
+                    .replace("payment:girocard", "Nimmt Girocard")
+                    .replace("payment:google_pay", "Nimmt Google Pay")
+                    .replace("payment:maestro", "Nimmt Maestro-Karten")
+                    .replace("payment:mastercard", "Nimmt Mastercard")
+                    .replace("payment:notes:denominations", "Banknotenstückelung")
+                    .replace("payment:notes", "Nimmt Banknoten")
+                    .replace("payment:paypal", "Nimmt PayPal")
+                    .replace("payment:visa", "Nimmt Visa-Karten")
+                    .replace("vending:food", "Lebensmittelverkauf")
                     .replace("vending", "Verkauft")
                     .replace("amenity", "Einrichtung ")
                     .replace("country", "Land")
-                    .replace("houseName", "Hausname")
+                    .replace("housename", "Hausname")
                     .replace("covered", "Überdacht")
+                    .replace("indoor", "Innenraum")
                     .replace("lastcheck", "Letze Überprüfung")
                     .replace("source", "Quelle")
-                    .replace("lunch", "Mittagstisch")                
+                    .replace("lunch", "Mittagstisch")
+                    .replace("drinK:raw_milk", "Rohmilch")
+                    .replace("milk", "Milch")
                     .replace("start_date", "Geöffnet seit")
+                    .replace("contact", "")
+                    .replace("name", "Name")
+                    .replace("addr", "Adresse")
+                    .replace(":", " ")
                               
                 + ":</strong> </td><td>"
                 + feature.properties[prop]
-                    .replace(";", ", ")
-                    .replace("yes", "ja")
+                    .replace(/;/g, ", ")
                     .replace("only", "nur")
                     .replace("vending_machine", "Verkaufsautomat")
                     .replace("raw_milk", "Rohmilch")
                     .replace("eggs", "Eier")
+                    .replace("aspice", "Sülze")
                     .replace("meat", "Fleisch")
+                    .replace("soup", "Suppen")
+                    .replace("edible oil", "Speiseöl")
+                    .replace("rapeseed oil", "Rapsöl")
+                    .replace("linseed oil", "Leinöl")
+                    .replace("canned sausages", "Wurstkonserven")
                     .replace("sausages", "Wurst")
+                    .replace("potatoes", "Kartoffeln")
+                    .replace("carrots", "Möhren")
+                    .replace("courgettes", "Zucchini")
+                    .replace("zucchini", "Zucchini")
+                    .replace("pumpkins", "Kürbisse")
+                    .replace("asparagus", "Spargel")
+                    .replace("tomatoes", "Tomaten")
                     .replace("vegetables", "Gemüse")
+                    .replace("apples", "Äpfel")
+                    .replace("blueberries", "Heidelbeeren")
+                    .replace("raspberries", "Himbeeren")
+                    .replace("strawberries", "Erdbeeren")
+                    .replace("fruits", "Früchte")
+                    .replace("jam", "Marmelade")
                     .replace("milk", "Milch")
+                    .replace("cream cheese", "Frischkäse")
                     .replace("cheese", "Käse")
                     .replace("butter", "Butter")
+                    .replace("yogurt", "Joghurt")
+                    .replace("curd", "Quark")
+                    .replace("dairy", "Molkereiprodukte")
                     .replace("marketplace", "Marktplatz")
+                    .replace("noodles", "Nudeln")
+                    .replace("flour", "Mehl")
+                    .replace("bread roll", "Brötchen")
                     .replace("bread", "Brot")
+                    .replace("cake", "Kuchen")
+                    .replace("honey", "Honig")
                     .replace("fast_food", "Schnellimbiss")
+                    .replace("seafood", "Meeresfrüchte")
+                    .replace("sweets", "Süßigkeiten")
                     .replace("food", "Lebensmittel")
                     .replace("drinks", "Getränke")
+                    .replace("water", "Wasser")
+                    .replace("apple juice", "Apfelsaft")
+                    .replace("partially", "teilweise")
+                    .replace("yes", "ja")
+                    .replace("no", "nein")
                 + "</td></tr>");
         }
 
@@ -183,6 +238,7 @@ function popupcontent(feature, layer) {
             return headline
         }
         else {
+            console.log("keine headline gefunden, nutze name")
             headline = feature.properties.name;
             return headline;
         }
@@ -195,7 +251,7 @@ function popupcontent(feature, layer) {
         + "</div><div id='links'>"
         + "<strong>Dieser Ort auf</strong><br>"
         + "<a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'>OpenStreetMap</a>"
-        + "<br><a target='_blank' rel='noopener' href='https://maps.openrouteservice.org/directions?n1=" + linkLong + "&n2=" + linkLat + "&n3=14&a=null,null," + linkLong + "," + linkLat + "&b=0&c=0&k1=en-US&k2=km'>Open Routeservice</a>"
+        + "<br><a target='_blank' rel='noopener' href='https://maps.openrouteservice.org/directions?n1=" + linkLong + "&n2=" + linkLat + "&n3=14&a=null,null," + linkLong + "," + linkLat + "&b=0&c=0&k1=en-US&k2=km'>Openrouteservice</a>"
         + "<br><a target='_blank' rel='noopener' href='http://maps.google.de/?q=" + linkLong + "," + linkLat + "'>Google Maps</a>"
 
         + "</div><div id='times'>"
