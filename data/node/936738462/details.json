@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/936738462","properties":{"name":"Bauernladen Kirschenhof","shop":"farm","id":"node/936738462"},"geometry":{"type":"Point","coordinates":[9.396653,51.4355001]}}
+{"type":"Feature","id":"node/936738462","properties":{"name":"Bauernladen Kirschenhof","opening_hours":"Apr-Aug:Mo-Su 09:00-18:00","operator":"Klemme Obstplantagen","phone":"+49 5674 6455","shop":"farm","website":"https://klemme-obstplantagen.de/","id":"node/936738462"},"geometry":{"type":"Point","coordinates":[9.396653,51.4355001]}}

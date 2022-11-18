@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7841395060","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Heinz","payment:cash":"yes","vending":"eggs;food","id":"node/7841395060"},"geometry":{"type":"Point","coordinates":[10.1078271,48.1762246]}}
+{"type":"Feature","id":"node/7841395060","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Heinz","payment:cash":"yes","vending":"eggs;food;drinks","id":"node/7841395060"},"geometry":{"type":"Point","coordinates":[10.1078271,48.1762246]}}

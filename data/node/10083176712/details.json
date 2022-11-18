@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10083176712","properties":{"amenity":"vending_machine","note":"Es gib ein offenes Ticket hierzu.","operator":"Elbtaler Hofschlachterei","vending":"food;meat","id":"node/10083176712"},"geometry":{"type":"Point","coordinates":[10.6166591,53.4825461]}}
+{"type":"Feature","id":"node/10083176712","properties":{"amenity":"vending_machine","operator":"Elbtaler Hofschlachterei","vending":"food;meat","id":"node/10083176712"},"geometry":{"type":"Point","coordinates":[10.6166591,53.4825461]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6916595939","properties":{"amenity":"vending_machine","vending":"food:eggs=yes","id":"node/6916595939"},"geometry":{"type":"Point","coordinates":[9.8079765,52.1591145]}}
+{"type":"Feature","id":"node/6916595939","properties":{"amenity":"vending_machine","payment:notes":"yes","vending":"food:eggs=yes;feed:_canned_sausage=yes","id":"node/6916595939"},"geometry":{"type":"Point","coordinates":[9.8079765,52.1591145]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8620695701","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Thomeshof","vending":"eggs;meat;milk;potatoes;sausages;cheese","id":"node/8620695701"},"geometry":{"type":"Point","coordinates":[6.2713519,51.1653663]}}
+{"type":"Feature","id":"node/8620695701","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Thomeshof","vending":"eggs;meat;sausages;cheese;coffee;ice","id":"node/8620695701"},"geometry":{"type":"Point","coordinates":[6.271366,51.1654001]}}

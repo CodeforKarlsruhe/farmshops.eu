@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9044077617","properties":{"amenity":"vending_machine","name":"Kartoffelautomat","vending":"food","id":"node/9044077617"},"geometry":{"type":"Point","coordinates":[8.1171647,52.8079046]}}
+{"type":"Feature","id":"node/9044077617","properties":{"amenity":"vending_machine","name":"Kartoffelautomat","vending":"food;potato","id":"node/9044077617"},"geometry":{"type":"Point","coordinates":[8.1171647,52.8079046]}}
