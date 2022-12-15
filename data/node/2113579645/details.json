@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2113579645","properties":{"name":"Früchtehof Diethelm","shop":"farm","website":"http://www.fruechtehof.ch","wheelchair":"no","id":"node/2113579645"},"geometry":{"type":"Point","coordinates":[8.8870721,47.1729363]}}
+{"type":"Feature","id":"node/2113579645","properties":{"name":"Früchtehof Diethelm","opening_hours":"Mo-Fr 08:00-11:30,15:30-18:00; Sa 08:00-14:00","shop":"farm","website":"http://www.fruechtehof.ch","wheelchair":"no","id":"node/2113579645"},"geometry":{"type":"Point","coordinates":[8.8870694,47.1729272]}}

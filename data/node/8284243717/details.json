@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8284243717","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:coins":"yes","vending":"eggs;noodles;macarons","id":"node/8284243717"},"geometry":{"type":"Point","coordinates":[11.3655684,47.6596993]}}
+{"type":"Feature","id":"node/8284243717","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:coins":"yes","vending":"eggs;noodles;macarons","id":"node/8284243717"},"geometry":{"type":"Point","coordinates":[11.3652168,47.6596412]}}

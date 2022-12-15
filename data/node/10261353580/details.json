@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10261353580","properties":{"addr:city":"Buttikon SZ","addr:country":"CH","addr:postcode":"8863","addr:street":"Zollrütistrasse","opening_hours":"Mo-Fr 08:30-11:30,13:30-18:30; Sa 08:30-11:30","payment:cash":"yes","payment:twint":"yes","shop":"farm","id":"node/10261353580"},"geometry":{"type":"Point","coordinates":[8.952601,47.1712669]}}

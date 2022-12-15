@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9384075204","properties":{"amenity":"vending_machine","fixme":"lage, details?","name":"Selbstbedienungs Hittn","vending":"food","id":"node/9384075204"},"geometry":{"type":"Point","coordinates":[11.0785988,48.4294729]}}
+{"type":"Feature","id":"node/9384075204","properties":{"amenity":"vending_machine","fixme":"details?","name":"Selbstbedienungs Hittn","vending":"food","id":"node/9384075204"},"geometry":{"type":"Point","coordinates":[11.0786538,48.4294978]}}

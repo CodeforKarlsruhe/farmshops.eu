@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8913678273","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Blöcherhof","vending":"saisonales;food","id":"node/8913678273"},"geometry":{"type":"Point","coordinates":[6.6988727,51.0313485]}}
+{"type":"Feature","id":"node/8913678273","properties":{"amenity":"vending_machine","currency:EUR":"yes","currency:others":"no","operator":"Blöcherhof","payment:cash":"yes","payment:contactless":"yes","vending":"saisonales;food;potatoes","id":"node/8913678273"},"geometry":{"type":"Point","coordinates":[6.6988727,51.0313485]}}

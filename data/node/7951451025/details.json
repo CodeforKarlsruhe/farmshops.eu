@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7951451025","properties":{"check_date:opening_hours":"2022-05-15","craft":"beekeeper","noname":"yes","opening_hours:signed":"no","shop":"honey","id":"node/7951451025"},"geometry":{"type":"Point","coordinates":[10.9119344,50.9080758]}}
+{"type":"Feature","id":"node/7951451025","properties":{"check_date:opening_hours":"2022-05-15","craft":"beekeeper","description":"Honig","noname":"yes","opening_hours:signed":"no","shop":"farm","id":"node/7951451025"},"geometry":{"type":"Point","coordinates":[10.9119344,50.9080758]}}

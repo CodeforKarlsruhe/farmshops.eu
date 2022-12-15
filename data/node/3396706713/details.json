@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3396706713","properties":{"operator":"Priskas Hoflädeli","shop":"farm","id":"node/3396706713"},"geometry":{"type":"Point","coordinates":[8.7170629,47.3841607]}}
+{"type":"Feature","id":"node/3396706713","properties":{"addr:city":"Gutenswil","addr:housenumber":"1","addr:postcode":"8605","addr:street":"Alte Schulhausstrasse","name":"Priskas Hoflädeli","operator":"Priska Lindenmann","shop":"farm","id":"node/3396706713"},"geometry":{"type":"Point","coordinates":[8.7170629,47.3841607]}}

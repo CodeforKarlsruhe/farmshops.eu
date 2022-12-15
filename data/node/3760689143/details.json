@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3760689143","properties":{"amenity":"vending_machine","name":"Milchtankstelle Pelkum","vending":"milk","website":"http://milchtankstellen.com","id":"node/3760689143"},"geometry":{"type":"Point","coordinates":[7.3305634,51.866985]}}
+{"type":"Feature","id":"node/3760689143","properties":{"amenity":"vending_machine","drink:raw_milk":"yes","name":"Milchtankstelle Hof Pelkum","vending":"eggs;milk;potatoes;noodles;meat;honey","website":"https://www.hof-pelkum.de","id":"node/3760689143"},"geometry":{"type":"Point","coordinates":[7.3304935,51.8669524]}}

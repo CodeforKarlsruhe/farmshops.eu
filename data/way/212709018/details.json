@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/212709018","properties":{"building":"hut","craft":"beekeeper","name":"Rolf Wüthrich","id":"way/212709018"},"geometry":{"type":"Point","coordinates":[8.684547,47.4550517]}}
+{"type":"Feature","id":"way/212709018","properties":{"building":"hut","craft":"beekeeper","name":"Rolf Wüthrich","operator":"Rolf Wüthrich","id":"way/212709018"},"geometry":{"type":"Point","coordinates":[8.684547,47.4550517]}}

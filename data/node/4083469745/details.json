@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4083469745","properties":{"name":"Auhof","shop":"farm","id":"node/4083469745"},"geometry":{"type":"Point","coordinates":[8.8731504,47.2259473]}}
+{"type":"Feature","id":"node/4083469745","properties":{"addr:city":"Wagen","addr:housenumber":"66","addr:postcode":"8646","addr:street":"Austrasse","name":"Auhof","opening_hours":"Mo-Fr 09:00-12:00,14:00-18:30; Sa 08:00-15:00","shop":"farm","website":"https://www.auhofwagen.ch/","id":"node/4083469745"},"geometry":{"type":"Point","coordinates":[8.8731504,47.2259473]}}
