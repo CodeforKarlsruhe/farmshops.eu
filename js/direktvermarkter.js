@@ -76,7 +76,7 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
     onEachFeature: function onEachFeature(feature, layer) {
         layer.once("click", function () {
             $.getJSON('data/' + feature.properties.id + '/details.json', function (data) {
-                layer.bindPopup(popupcontent(data, layer)).openPopup();
+                layer.bindPopup(popupcontent(data, layer), {maxHeight: 0.8*document.getElementById('map').offsetHeight}).openPopup();
             });
         });
     }
