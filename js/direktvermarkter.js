@@ -75,13 +75,20 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
 
     onEachFeature: function onEachFeature(feature, layer) {
         layer.once("click", function () {
-            divmap = document.getElementById('map');
             $.getJSON('data/' + feature.properties.id + '/details.json', function (data) {
-                layer.bindPopup(popupcontent(data, layer), {maxHeight: 0.8*divmap.offsetHeight, maxWidth: 0.95*divmap.offsetWidth}).openPopup();
+                layer.bindPopup(popupcontent(data, layer)).openPopup();
             });
         });
     }
 }).addLayer(tiles);
+
+map.on('popupopen', function (e) {
+  // resize popups to current map size to avoid overflows
+  var divmap = document.getElementById('map');
+  e.popup.options.maxHeight = 0.8 * divmap.offsetHeight;
+  e.popup.options.maxWidth = 0.95 * divmap.offsetWidth;
+  e.popup.update();
+});
 
 //Changing Cluster radius based on zoom level
 var GetClusterRadius = function (zoom) { 
