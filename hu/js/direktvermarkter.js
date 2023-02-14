@@ -82,6 +82,14 @@ var geojson1 = L.geoJson(farmshopGeoJson, {
     }
 }).addLayer(tiles);
 
+map.on('popupopen', function (e) {
+  // resize popups to current map size to avoid overflows
+  var divmap = document.getElementById('map');
+  e.popup.options.maxHeight = 0.8 * divmap.offsetHeight;
+  e.popup.options.maxWidth = 0.95 * divmap.offsetWidth;
+  e.popup.update();
+});
+
 //Changing Cluster radius based on zoom level
 var GetClusterRadius = function (zoom) { 
     if (zoom < 12){

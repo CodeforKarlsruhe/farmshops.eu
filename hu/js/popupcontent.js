@@ -20,7 +20,7 @@ function popupcontent(feature, layer) {
             popupcontent.push("<tr><td><strong>"
                 + prop.replace("fixme", "Unklare Daten") + ":</strong> </td><td>"
                 + feature.properties[prop].replace("position estimated", "Position geschätzt")
-                + " <a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'> Daten Verbessern</a>");
+                + " <a target='_blank' rel='noopener' href='http://openstreetmap.org/" + feature.id + "'> Daten verbessern</a>");
             console.log(prop + " " + feature.properties[prop] + " (fixme)");
         }
         else if (prop == "email" || prop == "contact:email") {
