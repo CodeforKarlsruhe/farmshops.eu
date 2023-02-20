@@ -1,6 +1,6 @@
 # Farmshops Map / Direktvermarkter Karte
 Data viewer for  markets, farmshops, milk and food vending machines and other direct marketers on openstreetmap.
-
+ 
 Using:
 - [leaflet.js](https://github.com/Leaflet/Leaflet)
 - [leaflet extra markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
