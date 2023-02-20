@@ -6,23 +6,22 @@ on:
       - main
 
 jobs:
-  update-data:
+  build:
+
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout Code
+    - name: Checkout repository
       uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2.5.3
       with:
         node-version: '14.x'
-    - name: Install Dependencies
+
+    - name: Install dependencies
       run: npm install
-    - name: Run Script
+
+    - name: Run Node.js script
       run: node update_data.js
-    - name: Commit Changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update data
-        commit_user_name: GitHub Actions
-        commit_user_email: actions@github.com
-        branch: master
+
