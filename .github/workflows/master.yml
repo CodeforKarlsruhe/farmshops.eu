@@ -16,10 +16,3 @@ jobs:
       run: npm install
     - name: Run Script
       run: sh ./update.sh
-    - name: Commit Changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update data
-        commit_user_name: GitHub Actions
-        commit_user_email: actions@github.com
-        branch: master
