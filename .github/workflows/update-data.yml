@@ -1,4 +1,4 @@
-name: Update Data
+name: Update Data from OSM
 on:
   push:
     branches: [ update-data ]
