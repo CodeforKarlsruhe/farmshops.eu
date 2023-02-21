@@ -1,0 +1,35 @@
+name: Update Data
+on:
+  push:
+    branches: [ update-data ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14.x'
+    - name: Install dependencies
+      run: npm install
+    - name: Run Script
+      run: node update_data.js
+    - name: Pull Request
+      uses: devops-infra/action-pull-request@v0.5.5
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        source_branch: development
+        target_branch: master
+        title: My pull request
+        template: .github/PULL_REQUEST_TEMPLATE.md
+        body: "**Automated pull request**"
+        reviewer: stefangrotz
+        assignee: stefangrotz
+        label: data_update
+        draft: true
+        old_string: "<!-- Add your description here -->"
+        new_string: "** Automatic pull request**"
+        get_diff: true
+        allow_no_diff: false
