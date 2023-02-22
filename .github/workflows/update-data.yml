@@ -20,7 +20,7 @@ jobs:
       run: |
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
-        git add -A /data
+        git add -A data
         git commit -m "Update by Github Action"
     - name: Create pull request
       uses: peter-evans/create-pull-request@v3
