@@ -20,8 +20,11 @@ jobs:
       run: |
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
-        git add -A data
-        git commit -m "Update by Github Action"
+        number=$(find data -type f | wc -l)
+        let number-=2
+        echo "Anzahl der Nodes: $number"
+        git add data/*
+        git commit -m "🗃 - Auto-Datenupdate $number"
     - name: Create pull request
       uses: peter-evans/create-pull-request@v3
       with:
