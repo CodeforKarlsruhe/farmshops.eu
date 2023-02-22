@@ -22,7 +22,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         source_branch: development
         target_branch: master
-        title: My pull request
+        title: Update Data
         template: .github/PULL_REQUEST_TEMPLATE.md
         body: "**Automated pull request**"
         reviewer: stefangrotz
