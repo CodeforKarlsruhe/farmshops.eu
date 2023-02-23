@@ -23,7 +23,7 @@ jobs:
         number=$(find data -type f | wc -l)
         let number-=2
         echo "Anzahl der Nodes: $number"
-        git add data/*
+        git add data/* hu/data/*
         git commit -m "🗃 - Auto-Datenupdate $number"
     - name: Create pull request
       uses: peter-evans/create-pull-request@v3
