@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Run Script
-      run: node update_data.js
+      run: node hu/update_data.js
     - name: Add changes to commit
       run: |
         git config --global user.email "np-reply@example.com"
