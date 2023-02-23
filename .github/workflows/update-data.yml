@@ -29,6 +29,6 @@ jobs:
       uses: peter-evans/create-pull-request@v3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        title: Auto-commit changes
-        branch: main
-        commit-message: Auto-commit changes
+        title: Auto-commit Data Update
+        branch: update-data
+        commit-message: Overpass query from Openstreetmap
