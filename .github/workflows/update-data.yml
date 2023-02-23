@@ -16,20 +16,19 @@ jobs:
       run: npm install
     - name: Run Script
       run: node update_data.js
-    - name: Pull Request
-      uses: devops-infra/action-pull-request@v0.5.5
+    - name: Add changes to commit
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        number=$(find data -type f | wc -l)
+        let number-=2
+        echo "Anzahl der Nodes: $number"
+        git add data/*
+        git commit -m "🗃 - Auto-Datenupdate $number"
+    - name: Create pull request
+      uses: peter-evans/create-pull-request@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        source_branch: development
-        target_branch: master
-        title: My pull request
-        template: .github/PULL_REQUEST_TEMPLATE.md
-        body: "**Automated pull request**"
-        reviewer: stefangrotz
-        assignee: stefangrotz
-        label: data_update
-        draft: true
-        old_string: "<!-- Add your description here -->"
-        new_string: "** Automatic pull request**"
-        get_diff: true
-        allow_no_diff: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+        title: Auto-commit changes
+        branch: main
+        commit-message: Auto-commit changes

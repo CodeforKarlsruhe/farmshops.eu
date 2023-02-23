@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9095263045","properties":{"name:signed":"no","produce":"honey","shop":"farm","id":"node/9095263045"},"geometry":{"type":"Point","coordinates":[6.7841641,46.8131408]}}
+{"type":"Feature","id":"node/9095263045","properties":{"check_date:opening_hours":"2023-02-22","name:signed":"no","opening_hours:signed":"no","produce":"honey","shop":"farm","id":"node/9095263045"},"geometry":{"type":"Point","coordinates":[6.7841641,46.8131408]}}

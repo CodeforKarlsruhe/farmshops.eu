@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10167499024","properties":{"amenity":"marketplace","name":"Rynek Łazarski","id":"node/10167499024"},"geometry":{"type":"Point","coordinates":[16.9014683,52.3945193]}}
+{"type":"Feature","id":"node/10167499024","properties":{"amenity":"marketplace","contact:mobile":"+48 605 946 392","name":"Targowisko Rynek Łazarski","opening_hours":"Mo-Sa 06:00-20:00","operator":"Targowiska Sp. z o.o.","website":"https://www.targowiska.com.pl/lokalizacje/rynek-lazarski-2/","id":"node/10167499024"},"geometry":{"type":"Point","coordinates":[16.9014683,52.3945193]}}

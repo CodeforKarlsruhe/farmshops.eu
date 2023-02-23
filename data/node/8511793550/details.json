@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8511793550","properties":{"amenity":"vending_machine","operator":"Setzer","vending":"food","id":"node/8511793550"},"geometry":{"type":"Point","coordinates":[9.4884528,49.2047502]}}
+{"type":"Feature","id":"node/8511793550","properties":{"amenity":"vending_machine","covered":"yes","level":"0","name":"Genussbox24","operator":"Setzer","vending":"food","id":"node/8511793550"},"geometry":{"type":"Point","coordinates":[9.4884474,49.2047572]}}

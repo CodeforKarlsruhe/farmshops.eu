@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6922484213","properties":{"amenity":"vending_machine","vending":"milk","id":"node/6922484213"},"geometry":{"type":"Point","coordinates":[13.1300166,47.6979616]}}
+{"type":"Feature","id":"node/6922484213","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Fam. Schnöll","payment:coins":"yes","vending":"milk","id":"node/6922484213"},"geometry":{"type":"Point","coordinates":[13.1300166,47.6979616]}}
