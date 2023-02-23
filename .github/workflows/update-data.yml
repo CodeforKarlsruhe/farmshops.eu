@@ -33,4 +33,3 @@ jobs:
         title: Auto-commit Data Update
         branch: update-data
         commit-message: Overpass query from Openstreetmap
-        path: data/**
