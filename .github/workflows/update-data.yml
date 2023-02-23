@@ -18,8 +18,8 @@ jobs:
       run: node update_data.js
     - name: Add changes to commit
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "np-reply@example.com"
+        git config --global user.name "GH Action"
         number=$(find data -type f | wc -l)
         let number-=2
         echo "Anzahl der Nodes: $number"
@@ -32,3 +32,4 @@ jobs:
         title: Auto-commit Data Update
         branch: update-data
         commit-message: Overpass query from Openstreetmap
+        path: data/**
