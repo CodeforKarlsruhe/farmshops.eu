@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/230860310","properties":{"building":"commercial","shop":"farm","id":"way/230860310"},"geometry":{"type":"Point","coordinates":[9.0293488,47.8394121]}}
+{"type":"Feature","id":"way/230860310","properties":{"addr:housenumber":"4","addr:street":"Bodenseeallee","building":"commercial","shop":"farm","id":"way/230860310"},"geometry":{"type":"Point","coordinates":[9.0293757,47.8394067]}}

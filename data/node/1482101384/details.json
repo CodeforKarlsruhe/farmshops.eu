@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1482101384","properties":{"amenity":"marketplace","name":"Burchardplatz","opening_hours":"Tu 06:00-17:00; Th 06:00-16:00","wheelchair":"yes","id":"node/1482101384"},"geometry":{"type":"Point","coordinates":[10.0018015,53.5488807]}}
+{"type":"Feature","id":"node/1482101384","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-01-01","name":"Burchardplatz","opening_hours":"Tu 06:00-17:00; Th 06:00-16:00","wheelchair":"yes","id":"node/1482101384"},"geometry":{"type":"Point","coordinates":[10.0018015,53.5488807]}}

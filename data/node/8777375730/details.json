@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8777375730","properties":{"amenity":"vending_machine","vending":"food","id":"node/8777375730"},"geometry":{"type":"Point","coordinates":[10.0861187,47.5525028]}}
+{"type":"Feature","id":"node/8777375730","properties":{"amenity":"vending_machine","name":"Brotzeiten & Schmankerl","payment:cash":"yes","payment:coins":"yes","vending":"food;drinks","id":"node/8777375730"},"geometry":{"type":"Point","coordinates":[10.0861187,47.5525028]}}
