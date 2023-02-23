@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8892874044","properties":{"name":"Annis Hofladen","shop":"farm","id":"node/8892874044"},"geometry":{"type":"Point","coordinates":[10.1118232,47.4659019]}}
+{"type":"Feature","id":"node/8892874044","properties":{"addr:city":"Balderschwang","addr:housenumber":"4 1/3","addr:postcode":"87538","addr:street":"Dorf","contact:website":"https://www.annis-hofladen.de/","name":"Annis Hofladen","shop":"farm","id":"node/8892874044"},"geometry":{"type":"Point","coordinates":[10.1118232,47.4659019]}}
