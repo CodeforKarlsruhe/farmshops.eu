@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7187385865","properties":{"addr:city":"Crasna","addr:postcode":"457085","amenity":"marketplace","building":"yes","id":"node/7187385865"},"geometry":{"type":"Point","coordinates":[22.8722344,47.1623338]}}
+{"type":"Feature","id":"node/7187385865","properties":{"addr:city":"Crasna","addr:postcode":"457085","amenity":"marketplace","building":"yes","name:signed":"no","id":"node/7187385865"},"geometry":{"type":"Point","coordinates":[22.8722344,47.1623338]}}

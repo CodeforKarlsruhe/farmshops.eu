@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/139593801","properties":{"addr:street":"Korompay Lajos utca","amenity":"marketplace","building":"yes","name":"Piac","id":"way/139593801"},"geometry":{"type":"Point","coordinates":[18.1426539,47.1998344]}}
+{"type":"Feature","id":"way/139593801","properties":{"addr:postcode":"8100","addr:street":"Korompay Lajos utca","amenity":"marketplace","building":"yes","name":"Piac","id":"way/139593801"},"geometry":{"type":"Point","coordinates":[18.1426424,47.1998009]}}

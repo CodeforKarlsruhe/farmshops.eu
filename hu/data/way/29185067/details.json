@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/29185067","properties":{"amenity":"marketplace","building":"yes","name":"Piața Deva","id":"way/29185067"},"geometry":{"type":"Point","coordinates":[22.9065706,45.8813452]}}
+{"type":"Feature","id":"way/29185067","properties":{"amenity":"marketplace","building":"yes","building:levels":"2","name":"Piața Deva","id":"way/29185067"},"geometry":{"type":"Point","coordinates":[22.9065706,45.8813452]}}

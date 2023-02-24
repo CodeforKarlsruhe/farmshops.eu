@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/269071033","properties":{"amenity":"marketplace","building":"yes","id":"way/269071033"},"geometry":{"type":"Point","coordinates":[22.9874392,48.5508881]}}
+{"type":"Feature","id":"way/269071033","properties":{"amenity":"marketplace","building":"retail","roof:shape":"flat","id":"way/269071033"},"geometry":{"type":"Point","coordinates":[22.9875531,48.5507886]}}

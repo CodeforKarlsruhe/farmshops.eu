@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/61922538","properties":{"amenity":"marketplace","name":"Градски пијац","id":"way/61922538"},"geometry":{"type":"Point","coordinates":[20.0875543,45.9306306]}}
+{"type":"Feature","id":"way/61922538","properties":{"amenity":"marketplace","name":"Градски пијац","name:hu":"Városi piac","id":"way/61922538"},"geometry":{"type":"Point","coordinates":[20.0875543,45.9306306]}}

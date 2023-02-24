@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10049479073","properties":{"amenity":"vending_machine","check_date":"2022-09-24","name":"Burritomat","operator":"Komidatek","payment:cash":"no","payment:credit_cards":"yes","payment:debit_cards":"yes","vending":"food","id":"node/10049479073"},"geometry":{"type":"Point","coordinates":[16.3627234,48.217042]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7512584378","properties":{"amenity":"vending_machine","operator":"Felber","vending":"bread;food;drinks","id":"node/7512584378"},"geometry":{"type":"Point","coordinates":[15.9964566,48.2950883]}}
+{"type":"Feature","id":"node/7512584378","properties":{"amenity":"vending_machine","check_date":"2023-02-15","level":"0","opening_hours":"Mo-Fr 05:00-18:00; Sa-Su 07:00-12:00","operator":"Felber","vending":"bread;food;drinks","id":"node/7512584378"},"geometry":{"type":"Point","coordinates":[15.9964566,48.2950883]}}

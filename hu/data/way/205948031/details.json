@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/205948031","properties":{"amenity":"marketplace","building":"yes","name":"Vásárcsarnok","id":"way/205948031"},"geometry":{"type":"Point","coordinates":[21.0306539,46.8260111]}}
+{"type":"Feature","id":"way/205948031","properties":{"amenity":"marketplace","building":"yes","name":"Vásárcsarnok","name:hu":"Piac csarnok","id":"way/205948031"},"geometry":{"type":"Point","coordinates":[21.0306449,46.826013]}}

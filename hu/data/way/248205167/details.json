@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/248205167","properties":{"amenity":"marketplace","building":"yes","name":"Tržnica Bregana","id":"way/248205167"},"geometry":{"type":"Point","coordinates":[15.6877161,45.8380798]}}
+{"type":"Feature","id":"way/248205167","properties":{"amenity":"marketplace","building":"yes","layer":"1","name":"Tržnica Bregana","id":"way/248205167"},"geometry":{"type":"Point","coordinates":[15.6877161,45.8380798]}}

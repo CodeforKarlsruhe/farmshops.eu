@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/485306979","properties":{"amenity":"marketplace","building":"no","opening_hours":"Sa 06:30-13:00","id":"way/485306979"},"geometry":{"type":"Point","coordinates":[15.835783,46.0911277]}}
+{"type":"Feature","id":"way/485306979","properties":{"amenity":"marketplace","building":"no","name":"Tržnica","opening_hours":"Sa 06:30-13:00","id":"way/485306979"},"geometry":{"type":"Point","coordinates":[15.835783,46.0911277]}}
