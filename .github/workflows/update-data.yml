@@ -1,7 +1,5 @@
 name: Update Data
-on:
-  push:
-    branches: [ update-data ]
+on: workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -33,5 +31,5 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         title: Auto-commit Data Update
         commit-message: Overpass query from Openstreetmap
-        branch: data-branch
+        branch: update-data
         delete-branch: true
