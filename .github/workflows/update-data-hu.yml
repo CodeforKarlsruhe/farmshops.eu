@@ -20,7 +20,7 @@ jobs:
       run: |
         git config --global user.email "np-reply@example.com"
         git config --global user.name "GH Action"
-        number=$(find data -type f | wc -l)
+        number=$(find hu/data -type f | wc -l)
         let number-=2
         echo "Anzahl der Nodes: $number"
         git add hu/data/*
