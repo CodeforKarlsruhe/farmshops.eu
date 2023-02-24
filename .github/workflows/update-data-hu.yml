@@ -23,13 +23,13 @@ jobs:
         number=$(find data -type f | wc -l)
         let number-=2
         echo "Anzahl der Nodes: $number"
-        git add data/* hu/data/*
+        git add hu/data/*
         git commit -m "🗃 - Auto-Datenupdate $number"
     - name: Create pull request
       uses: peter-evans/create-pull-request@v3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        title: Auto-commit Data Update
+        title: Auto-commit Data Update HU
         commit-message: Overpass query from Openstreetmap
         branch: update-data
         delete-branch: true
