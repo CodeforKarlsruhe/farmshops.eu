@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/308282504","properties":{"addr:city":"Arad","addr:street":"Calea Aurel Vlaicu","amenity":"marketplace","name":"Târg Auto","opening_hours":"Su 07:00-15:00","id":"way/308282504"},"geometry":{"type":"Point","coordinates":[21.2614145,46.2010034]}}
+{"type":"Feature","id":"way/308282504","properties":{"addr:city":"Arad","addr:street":"Calea Aurel Vlaicu","amenity":"marketplace","name":"Târg Auto","opening_hours":"Su 07:00-15:00","shop":"car","id":"way/308282504"},"geometry":{"type":"Point","coordinates":[21.2613548,46.2009489]}}

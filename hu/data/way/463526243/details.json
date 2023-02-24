@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/463526243","properties":{"addr:city":"Čantavir","amenity":"marketplace","building":"yes","name":"Csantavéri Piactér","id":"way/463526243"},"geometry":{"type":"Point","coordinates":[19.7624651,45.9206674]}}
+{"type":"Feature","id":"way/463526243","properties":{"addr:city":"Čantavir","amenity":"marketplace","name":"Csantavéri Piactér","id":"way/463526243"},"geometry":{"type":"Point","coordinates":[19.7624624,45.9206671]}}

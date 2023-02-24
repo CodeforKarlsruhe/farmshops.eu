@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/24254654","properties":{"alt_name":"Óbudai Piac","amenity":"marketplace","building":"yes","name":"Vörösvári úti piac","id":"way/24254654"},"geometry":{"type":"Point","coordinates":[19.0382842,47.543707]}}
+{"type":"Feature","id":"way/24254654","properties":{"addr:city":"Budapest","addr:housenumber":"2-4","addr:postcode":"1035","addr:street":"Szél utca","alt_name":"Óbudai Piac","amenity":"marketplace","building":"yes","name":"Vörösvári úti piac","id":"way/24254654"},"geometry":{"type":"Point","coordinates":[19.0382842,47.543707]}}

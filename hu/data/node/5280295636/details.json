@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5280295636","properties":{"name":"кооп","shop":"farm","id":"node/5280295636"},"geometry":{"type":"Point","coordinates":[23.1104178,48.5117985]}}
+{"type":"Feature","id":"node/5280295636","properties":{"name":"Кооп","name:uk":"Кооп","shop":"farm","id":"node/5280295636"},"geometry":{"type":"Point","coordinates":[23.1104178,48.5117985]}}

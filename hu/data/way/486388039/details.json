@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/486388039","properties":{"amenity":"marketplace","name":"Plac","id":"way/486388039"},"geometry":{"type":"Point","coordinates":[16.1279596,46.2268779]}}
+{"type":"Feature","id":"way/486388039","properties":{"amenity":"marketplace","description":"Gradska tržnica Ivanec","name":"Plac","operator":"Ivkom d.d.","id":"way/486388039"},"geometry":{"type":"Point","coordinates":[16.1279596,46.2268779]}}

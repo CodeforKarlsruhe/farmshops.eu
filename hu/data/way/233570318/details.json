@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/233570318","properties":{"addr:city":"Șimleu Silvaniei","amenity":"marketplace","building":"yes","name":"Piața Șimleul Silvaniei","id":"way/233570318"},"geometry":{"type":"Point","coordinates":[22.8001542,47.2295422]}}
+{"type":"Feature","id":"way/233570318","properties":{"addr:city":"Șimleu Silvaniei","addr:postcode":"455300","amenity":"marketplace","building":"yes","name":"Piața Șimleul Silvaniei","opening_hours:covid19":"open","phone":"+40260112236","id":"way/233570318"},"geometry":{"type":"Point","coordinates":[22.8001542,47.2295422]}}

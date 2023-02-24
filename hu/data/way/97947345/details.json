@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/97947345","properties":{"amenity":"marketplace","landuse":"commercial","name":"Piața Flavia","id":"way/97947345"},"geometry":{"type":"Point","coordinates":[21.1991259,45.7316439]}}
+{"type":"Feature","id":"way/97947345","properties":{"addr:city":"Timișoara","addr:street":"Strada Talăngii","amenity":"marketplace","landuse":"commercial","name":"Piața Flavia","id":"way/97947345"},"geometry":{"type":"Point","coordinates":[21.1991259,45.7316439]}}

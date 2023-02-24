@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/380886045","properties":{"amenity":"marketplace","building":"yes","name":"Piactér","id":"way/380886045"},"geometry":{"type":"Point","coordinates":[20.7974691,47.4320895]}}
+{"type":"Feature","id":"way/380886045","properties":{"amenity":"marketplace","name":"Piactér","id":"way/380886045"},"geometry":{"type":"Point","coordinates":[20.7974691,47.4320895]}}
