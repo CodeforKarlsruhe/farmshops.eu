@@ -32,5 +32,6 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         title: Auto-commit Data Update
-        branch: master
         commit-message: Overpass query from Openstreetmap
+        branch: data-branch
+        delete-branch: true
