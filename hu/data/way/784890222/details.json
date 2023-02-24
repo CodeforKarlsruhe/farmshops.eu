@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/784890222","properties":{"addr:housenumber":"31A","addr:street":"Celine Samoborske","building":"yes","name":"OPG RADEK","phone":"01/3380-697","shop":"farm","id":"way/784890222"},"geometry":{"type":"Point","coordinates":[15.751259,45.8280426]}}
+{"type":"Feature","id":"way/784890222","properties":{"addr:housenumber":"31A","addr:street":"Celine Samoborske","building":"yes","name":"OPG RADEK","phone":"+385 1 3380 697","shop":"farm","id":"way/784890222"},"geometry":{"type":"Point","coordinates":[15.751259,45.8280426]}}

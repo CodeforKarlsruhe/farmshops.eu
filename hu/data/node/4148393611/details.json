@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4148393611","properties":{"amenity":"marketplace","name":"Piata de fructe","id":"node/4148393611"},"geometry":{"type":"Point","coordinates":[22.4716234,47.683323]}}
+{"type":"Feature","id":"node/4148393611","properties":{"addr:city":"Carei","addr:postcode":"445100","amenity":"marketplace","name":"Piata de fructe","name:ro":"Piata de fructe","survey:date":"2022-05-03","id":"node/4148393611"},"geometry":{"type":"Point","coordinates":[22.4715925,47.6832845]}}

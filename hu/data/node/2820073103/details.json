@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2820073103","properties":{"addr:city":"Cluj-Napoca","addr:country":"RO","amenity":"marketplace","name":"Piață agroalimentară","source":"survey","id":"node/2820073103"},"geometry":{"type":"Point","coordinates":[23.5933471,46.7747162]}}
+{"type":"Feature","id":"node/2820073103","properties":{"addr:city":"Cluj-Napoca","addr:country":"RO","amenity":"marketplace","name":"Piață agroalimentară Leul","source":"survey","id":"node/2820073103"},"geometry":{"type":"Point","coordinates":[23.5933471,46.7747162]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/8328527149","properties":{"addr:city":"Zagreb","addr:housenumber":"199","addr:postcode":"10040","addr:street":"Markuševečka cesta","amenity":"vending_machine","name":"Mljekomat","payment:coins":"yes","phone":"+385923191640","self_service":"yes","vending":"milk","id":"node/8328527149"},"geometry":{"type":"Point","coordinates":[16.0139466,45.8756652]}}

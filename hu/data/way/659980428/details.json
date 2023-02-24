@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/659980428","properties":{"amenity":"marketplace","id":"way/659980428"},"geometry":{"type":"Point","coordinates":[21.0306215,46.8264079]}}
+{"type":"Feature","id":"way/659980428","properties":{"amenity":"marketplace","name":"Vásártér","name:en":"Market place","name:hu":"Piac tér","id":"way/659980428"},"geometry":{"type":"Point","coordinates":[21.0306215,46.8264079]}}

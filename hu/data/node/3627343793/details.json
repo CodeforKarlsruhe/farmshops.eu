@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3627343793","properties":{"amenity":"vending_machine","name":"Mliekomat","operator":"PD Hlohovec","source":"bing","vending":"raw_milk;milk_products","id":"node/3627343793"},"geometry":{"type":"Point","coordinates":[17.7984074,48.4281945]}}
+{"type":"Feature","id":"node/3627343793","properties":{"amenity":"vending_machine","drink:raw_milk":"yes","name":"Mliekomat","operator":"PD Hlohovec","reusable_packaging:accept":"yes","source":"Bing","vending":"milk","id":"node/3627343793"},"geometry":{"type":"Point","coordinates":[17.7984295,48.4281869]}}

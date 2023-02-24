@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/222704485","properties":{"amenity":"marketplace","id":"way/222704485"},"geometry":{"type":"Point","coordinates":[20.1403022,47.5119198]}}
+{"type":"Feature","id":"way/222704485","properties":{"amenity":"marketplace","name":"Városi Piac","opening_hours":"thursdax and saturday from morning till noon","opening_hours:covid19":"open","operator":"Városi önkormányzat","id":"way/222704485"},"geometry":{"type":"Point","coordinates":[20.1399453,47.5119584]}}

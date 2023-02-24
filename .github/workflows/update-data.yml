@@ -1,10 +1,9 @@
 name: Update Data
-on:
-  push:
-    branches: [ update-data ]
+on: workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -15,11 +14,12 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Run Script
+      working-directory: ./hu
       run: node update_data.js
     - name: Add changes to commit
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "np-reply@example.com"
+        git config --global user.name "GH Action"
         number=$(find data -type f | wc -l)
         let number-=2
         echo "Anzahl der Nodes: $number"
@@ -30,5 +30,6 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         title: Auto-commit Data Update
-        branch: update-data
         commit-message: Overpass query from Openstreetmap
+        branch: update-data
+        delete-branch: true

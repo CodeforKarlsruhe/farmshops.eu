@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/97947344","properties":{"amenity":"marketplace","landuse":"commercial","name":"Piața Aurora","id":"way/97947344"},"geometry":{"type":"Point","coordinates":[21.1991185,45.7327959]}}
+{"type":"Feature","id":"way/97947344","properties":{"addr:city":"Timișoara","addr:street":"Strada Laurențiu Nicoară","amenity":"marketplace","landuse":"commercial","name":"Piața Aurora","id":"way/97947344"},"geometry":{"type":"Point","coordinates":[21.1991185,45.7327959]}}

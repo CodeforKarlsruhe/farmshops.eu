@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/543358927","properties":{"amenity":"marketplace","name":"Gyulai Piac","id":"way/543358927"},"geometry":{"type":"Point","coordinates":[21.2695268,46.6403437]}}
+{"type":"Feature","id":"way/543358927","properties":{"amenity":"marketplace","internet_access:ssid":"gyulaipiac","name":"Gyulai Piac","opening_hours":"Mo-Su 06:00-18:00","id":"way/543358927"},"geometry":{"type":"Point","coordinates":[21.2695268,46.6403437]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/110780361","properties":{"amenity":"marketplace","building":"yes","construction":"building","name":"Piața Badea Cârțan","id":"way/110780361"},"geometry":{"type":"Point","coordinates":[21.2486223,45.7613443]}}
+{"type":"Feature","id":"way/110780361","properties":{"amenity":"marketplace","building":"yes","name":"Piața Badea Cârțan","old_name":"Piața de Fân","id":"way/110780361"},"geometry":{"type":"Point","coordinates":[21.2486223,45.7613443]}}
