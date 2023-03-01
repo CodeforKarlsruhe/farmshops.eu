@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5306206992","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:coins":"yes","payment:notes":"yes","vending":"eggs;honey","id":"node/5306206992"},"geometry":{"type":"Point","coordinates":[13.7352483,51.1486011]}}
+{"type":"Feature","id":"node/5306206992","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:coins":"yes","payment:notes":"yes","vending":"eggs;honey","id":"node/5306206992"},"geometry":{"type":"Point","coordinates":[13.7352398,51.1485982]}}

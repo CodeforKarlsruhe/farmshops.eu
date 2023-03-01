@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7359899357","properties":{"name":"Spargel & Erdbeeren Wolf","shop":"farm","id":"node/7359899357"},"geometry":{"type":"Point","coordinates":[11.1473559,48.2823022]}}
+{"type":"Feature","id":"node/7359899357","properties":{"addr:city":"Pfaffenhofen an der Glonn","addr:housenumber":"10","addr:postcode":"85235","addr:street":"Bayerzeller Straße","name":"Spargel & Erdbeeren Wolf","shop":"farm","website":"https://www.erdbeeren-wolf.de/","id":"node/7359899357"},"geometry":{"type":"Point","coordinates":[11.1473391,48.2822834]}}
