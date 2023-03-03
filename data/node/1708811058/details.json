@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1708811058","properties":{"name":"Untermigler","shop":"farm","source":"www.tabaccoeditrice.com","id":"node/1708811058"},"geometry":{"type":"Point","coordinates":[11.385924,46.5461998]}}
+{"type":"Feature","id":"node/1708811058","properties":{"name":"Untermigl","name:de":"Untermigl","name:en":"Untermigl","name:it":"Untermigl","old_name":"Untermigl","place":"farm","shop":"farm","source":"Gemeinde Ritten Verz. Höfe","source:date":"2002-11-01","id":"node/1708811058"},"geometry":{"type":"Point","coordinates":[11.385924,46.5461998]}}
