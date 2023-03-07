@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7130329766","properties":{"self_service":"no","shop":"farm","vending":"honey","id":"node/7130329766"},"geometry":{"type":"Point","coordinates":[8.9723913,47.1717382]}}
+{"type":"Feature","id":"node/7130329766","properties":{"addr:city":"Reichenburg","addr:housenumber":"11","addr:postcode":"8864","addr:street":"Stutzstrasse","payment:cash":"yes","self_service":"no","shop":"farm","vending":"honey","id":"node/7130329766"},"geometry":{"type":"Point","coordinates":[8.9723979,47.1717403]}}
