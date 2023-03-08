@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8880160633","properties":{"amenity":"vending_machine","name":"Menger Eizelle","opening_hours":"24/7","vending":"eggs","id":"node/8880160633"},"geometry":{"type":"Point","coordinates":[7.128271,49.1488005]}}
+{"type":"Feature","id":"node/8880160633","properties":{"amenity":"vending_machine","name":"Menger Eizelle","opening_hours":"24/7","payment:cash":"yes","payment:coins":"yes","vending":"eggs","id":"node/8880160633"},"geometry":{"type":"Point","coordinates":[7.128271,49.1488005]}}

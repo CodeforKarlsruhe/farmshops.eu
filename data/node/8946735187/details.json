@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8946735187","properties":{"amenity":"vending_machine","description":"sells meat.","vending":"food","website":"http://luetzelsee-beef.ch/","id":"node/8946735187"},"geometry":{"type":"Point","coordinates":[8.7662893,47.2576187]}}
+{"type":"Feature","id":"node/8946735187","properties":{"amenity":"vending_machine","description":"sells meat","operator":"Lützelsee-Beef","vending":"food","website":"http://luetzelsee-beef.ch/","id":"node/8946735187"},"geometry":{"type":"Point","coordinates":[8.7662893,47.2576187]}}
