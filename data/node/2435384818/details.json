@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2435384818","properties":{"amenity":"marketplace","name":"Bressel","opening_hours":"Mo-Sa 08:00-18:00","wheelchair":"yes","id":"node/2435384818"},"geometry":{"type":"Point","coordinates":[7.864061,48.0349652]}}
+{"type":"Feature","id":"node/2435384818","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-03-13","name":"Bressel","opening_hours":"Mo-Sa 08:00-18:00","wheelchair":"yes","id":"node/2435384818"},"geometry":{"type":"Point","coordinates":[7.864061,48.0349652]}}

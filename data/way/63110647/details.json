@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/63110647","properties":{"amenity":"marketplace","name":"Brücker Marktplatz","opening_hours":"Tu 07:00-13:00; Fr 07:00-13:00","id":"way/63110647"},"geometry":{"type":"Point","coordinates":[7.076346,50.9446588]}}
+{"type":"Feature","id":"way/63110647","properties":{"amenity":"marketplace","highway":"de:strassenschluessel=no","name":"Brücker Marktplatz","opening_hours":"Tu 07:00-13:00; Fr 07:00-13:00","id":"way/63110647"},"geometry":{"type":"Point","coordinates":[7.076346,50.9446588]}}
