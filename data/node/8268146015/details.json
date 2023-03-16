@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8268146015","properties":{"amenity":"vending_machine","description":"Automat mit Grillfleisch","operator":"Fleischerei Többen","vending":"food","id":"node/8268146015"},"geometry":{"type":"Point","coordinates":[7.6466918,52.9243934]}}
+{"type":"Feature","id":"node/8268146015","properties":{"amenity":"vending_machine","check_date":"2023-03-13","description":"Automat mit Grillfleisch","operator":"Fleischerei Többen","vending":"food","id":"node/8268146015"},"geometry":{"type":"Point","coordinates":[7.6466918,52.9243934]}}
