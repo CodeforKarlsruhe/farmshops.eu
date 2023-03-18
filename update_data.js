@@ -1,7 +1,6 @@
 #!/usr/local/bin/node
 const query_overpass = require("query-overpass");
 const fs = require("fs");
-const bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
 
 function mkdirSyncRecursive(directory) {
     const path = directory.replace(/\/$/, "").split("/");
@@ -106,17 +105,27 @@ const vendings = [
 ];
 
 let query = `
-    [out:json][timeout:742][bbox:${bbox}];
-    (
-      nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"];
+[out:json][timeout:742];
+area["ISO3166-1"="DE"]->.germany;
+area["ISO3166-1"="AT"]->.austria;
+area["ISO3166-1"="CH"]->.switzerland;
+(
+  nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"](area.germany);
+  nwr[amenity=marketplace](area.germany);
+  nwr[shop=farm](area.germany);
+  nwr[craft=beekeeper](area.germany);
 
-      nwr[amenity=marketplace];
+  nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"](area.austria);
+  nwr[amenity=marketplace](area.austria);
+  nwr[shop=farm](area.austria);
+  nwr[craft=beekeeper](area.austria);
 
-      nwr[shop=farm];
-
-      nwr[craft=beekeeper];
-    );
-    out center;
+  nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"](area.switzerland);
+  nwr[amenity=marketplace](area.switzerland);
+  nwr[shop=farm](area.switzerland);
+  nwr[craft=beekeeper](area.switzerland);
+);
+out center;
 `;
 
 // query overpass, write to folders by id
