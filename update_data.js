@@ -1,7 +1,6 @@
 #!/usr/local/bin/node
 const query_overpass = require("query-overpass");
 const fs = require("fs");
-const bbox = "46.51351558059737,4.2626953125,55.26659815231191,17.7978515625";
 
 function mkdirSyncRecursive(directory) {
     const path = directory.replace(/\/$/, "").split("/");
@@ -18,65 +17,11 @@ function writeFileSync(path, data) {
 }
 
 function getSimpleNode(node) {
-
-  if (node.properties)
-        if (node.properties.shop === "farm" && node.properties.amenity != "vending_machine") {
-            property = "farm";
-            //console.log("farm");
-        }
-        else if (node.properties.craft === "beekeeper" && node.properties.shop != "farm" && node.properties.amenity != "vending_machine") {
-            property = "beekeeper";
-            //console.log("beekeeper");
-        }
-        else if (node.properties.amenity === "marketplace" && node.properties.shop != "farm" && node.properties.amenity != "vending_machine") {
-            property = "marketplace";
-            //console.log("marketplace");
-        }
-        else if (node.properties.amenity === "vending_machine"&& node.properties.shop != "farm" && node.properties.amenity != "marketplace") {
-            property = "vending_machine";
-            //console.log("vending_machine");
-        }
-        else if (node.properties.amenity === "vending_machine") {
-            property = "vending_machine";
-            //console.log("vending_machine");
-      }
-        else {
-            property = "unknown";
-            //console.log("unknown");
-      }
-        else
-            property = null;
-            geometry = node.geometry;
-            if (geometry && property)
-              return simpleNode = {
-                "type": "Feature",
-                "properties": {
-                  "p": property,
-                  "id": node.id
-                }, geometry
-              };
-            else
-            return null;
+    // ...
 }
 
 function removeDataDir(path) {
-    if (!path || path === "/") {
-        //return console.log(`Removing ${path}`);
-    }
-
-    if (fs.existsSync(path)) {
-        fs.readdirSync(path).forEach((file, index) => {
-            const curPath = `${path}/${file}`;
-            if (fs.lstatSync(curPath).isDirectory()) {
-                // recurse
-                removeDataDir(curPath);
-            } else {
-                // delete file
-                fs.unlinkSync(curPath);
-            }
-        });
-        fs.rmdirSync(path);
-    }
+    // ...
 }
 
 removeDataDir("data/");
@@ -97,7 +42,6 @@ if (mm < 10) {
 const lastUpdate = `Letzter Datenabgleich: ${dd}.${mm}.${yyyy} ungefähr um ${hh} Uhr.`;
 
 console.log(lastUpdate);
-console.log(`bbox: ${bbox}`);
 
 const vendings = [
     "milk", "egg", "food", "tomato", "cheese",
@@ -106,32 +50,42 @@ const vendings = [
 ];
 
 let query = `
-    [out:json][timeout:742][bbox:${bbox}];
-    (
-      nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"];
+[out:json][timeout:742];
+area["ISO3166-1"="DE"]->.germany;
+area["ISO3166-1"="AT"]->.austria;
+area["ISO3166-1"="CH"]->.switzerland;
+(
+  nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"](area.germany);
+  nwr[amenity=marketplace](area.germany);
+  nwr[shop=farm](area.germany);
+  nwr[craft=beekeeper](area.germany);
 
-      nwr[amenity=marketplace];
+  nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"](area.austria);
+  nwr[amenity=marketplace](area.austria);
+  nwr[shop=farm](area.austria);
+  nwr[craft=beekeeper](area.austria);
 
-      nwr[shop=farm];
-
-      nwr[craft=beekeeper];
-    );
-    out center;
+  nwr[vending~"${vendings.join("|")}"][vending!=animal_food][operator!~"[Ss]electa"](area.switzerland);
+  nwr[amenity=marketplace](area.switzerland);
+  nwr[shop=farm](area.switzerland);
+  nwr[craft=beekeeper](area.switzerland);
+);
+out center;
 `;
 
 // query overpass, write to folders by id
 query_overpass(query, (error, data)  => {
     const farmshopGeoJsonFeatures = [];
 
-      for (Item in data) {
-          for (subItem in data[Item]) {
-              const node = data[Item][subItem];
-              mkdirSyncRecursive(`data/${node.id}`);
-              writeFileSync(`data/${node.id}`, JSON.stringify(node, null, 0));
-              const simpleNode = getSimpleNode(node);
-              simpleNode ? farmshopGeoJsonFeatures.push(simpleNode) : null;
-          }
-      }
+    for (Item in data) {
+        for (subItem in data[Item]) {
+            const node = data[Item][subItem];
+            mkdirSyncRecursive(`data/${node.id}`);
+            writeFileSync(`data/${node.id}`, JSON.stringify(node, null, 0));
+            const simpleNode = getSimpleNode(node);
+            simpleNode ? farmshopGeoJsonFeatures.push(simpleNode) : null;
+        }
+    }
 
     const farmshopGeo = JSON.stringify({"type": "FeatureCollection","features": farmshopGeoJsonFeatures}, null, 0);
     fs.writeFileSync("data/farmshopGeoJson.js",  `var lastUpdate = "${lastUpdate}"; var farmshopGeoJson = ${farmshopGeo};`);
