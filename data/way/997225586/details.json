@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/997225586","properties":{"amenity":"marketplace","name":"Wochenmarkt Klopstockstr.","opening_hours":"Fr 08:00-13:00","id":"way/997225586"},"geometry":{"type":"Point","coordinates":[9.7745796,52.4003648]}}
+{"type":"Feature","id":"way/997225586","properties":{"amenity":"marketplace","name":"Wochenmarkt Klopstockstr.","opening_hours":"Fr 08:00-13:00","wheelchair":"yes","id":"way/997225586"},"geometry":{"type":"Point","coordinates":[9.7745796,52.4003648]}}

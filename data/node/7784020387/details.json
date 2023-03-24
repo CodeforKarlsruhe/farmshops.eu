@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7784020387","properties":{"amenity":"marketplace","opening_hours":"Th 10:00-18:00","id":"node/7784020387"},"geometry":{"type":"Point","coordinates":[7.8721923,48.3395798]}}
+{"type":"Feature","id":"node/7784020387","properties":{"amenity":"marketplace","name":"Wochenmarkt auf dem Schlossplatz","opening_hours":"Th 10:00-18:00","id":"node/7784020387"},"geometry":{"type":"Point","coordinates":[7.8721923,48.3395798]}}

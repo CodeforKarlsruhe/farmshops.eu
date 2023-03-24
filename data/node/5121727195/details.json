@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5121727195","properties":{"amenity":"vending_machine","direction":"80","name":"Käse-Automat","opening_hours":"24/7","piste:type":"nordic","vending":"cheese","id":"node/5121727195"},"geometry":{"type":"Point","coordinates":[10.1768942,47.6133351]}}
+{"type":"Feature","id":"node/5121727195","properties":{"amenity":"vending_machine","direction":"80","name":"Käse-Automat","opening_hours":"24/7","vending":"cheese","id":"node/5121727195"},"geometry":{"type":"Point","coordinates":[10.1768942,47.6133351]}}
