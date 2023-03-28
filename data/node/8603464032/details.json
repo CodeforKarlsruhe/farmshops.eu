@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8603464032","properties":{"amenity":"vending_machine","vending":"food","id":"node/8603464032"},"geometry":{"type":"Point","coordinates":[10.5642373,47.5684251]}}
+{"type":"Feature","id":"node/8603464032","properties":{"amenity":"vending_machine","description":"Käse und Honig des benachbarten Ladens.","vending":"food","id":"node/8603464032"},"geometry":{"type":"Point","coordinates":[10.5642373,47.5684251]}}

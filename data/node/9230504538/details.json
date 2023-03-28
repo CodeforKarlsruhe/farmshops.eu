@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9230504538","properties":{"opening_hours":"Mo-Fr 08:00-18:00; Sa 08:00-15:00","shop":"farm","id":"node/9230504538"},"geometry":{"type":"Point","coordinates":[8.2414797,49.9808985]}}
+{"type":"Feature","id":"node/9230504538","properties":{"name:signed":"no","opening_hours":"Mo-Fr 08:00-18:00; Sa 08:00-15:00","shop":"farm","id":"node/9230504538"},"geometry":{"type":"Point","coordinates":[8.2414797,49.9808985]}}
