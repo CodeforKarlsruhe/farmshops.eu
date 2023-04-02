@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7589437924","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:cash":"yes","payment:coins":"yes","vending":"drinks;food","id":"node/7589437924"},"geometry":{"type":"Point","coordinates":[11.0447598,48.098056]}}
+{"type":"Feature","id":"node/7589437924","properties":{"amenity":"vending_machine","check_date":"2023-03-31","currency:EUR":"yes","payment:cash":"yes","payment:coins":"yes","vending":"drinks;food","id":"node/7589437924"},"geometry":{"type":"Point","coordinates":[11.0447598,48.098056]}}
