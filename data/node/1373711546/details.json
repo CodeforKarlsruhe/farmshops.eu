@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1373711546","properties":{"amenity":"vending_machine","check_date":"2021-03-04","currency:EUR":"yes","operator":"Aubinger Ökoladen","vending":"food","id":"node/1373711546"},"geometry":{"type":"Point","coordinates":[11.4142794,48.1609623]}}
+{"type":"Feature","id":"node/1373711546","properties":{"amenity":"vending_machine","check_date":"2023-04-06","currency:EUR":"yes","operator":"Aubinger Ökoladen","vending":"food","id":"node/1373711546"},"geometry":{"type":"Point","coordinates":[11.4142794,48.1609623]}}
