@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10789806218","properties":{"amenity":"vending_machine","currency:EUR":"yes","note":"Fleisch- und Wurstspezialitäten","opening_hours":"24/7","operator":"Fa. Bellgarth, Lange Str. 24, 38723 Seesen","payment:cash":"yes","payment:girocard":"yes","vending":"meat","id":"node/10789806218"},"geometry":{"type":"Point","coordinates":[10.1234701,51.9437232]}}
