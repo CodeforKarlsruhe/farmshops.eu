@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9863761206","properties":{"amenity":"marketplace","name:signed":"no","source":"survey","id":"node/9863761206"},"geometry":{"type":"Point","coordinates":[4.3315704,52.0009689]}}
+{"type":"Feature","id":"node/9863761206","properties":{"amenity":"marketplace","name:signed":"no","payment:cash":"yes","source":"survey","id":"node/9863761206"},"geometry":{"type":"Point","coordinates":[4.3315704,52.0009689]}}
