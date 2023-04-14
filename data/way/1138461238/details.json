@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1138461238","properties":{"building":"shed","building:levels":"1","craft":"beekeeper","id":"way/1138461238"},"geometry":{"type":"Point","coordinates":[9.7622034,50.5113925]}}
+{"type":"Feature","id":"way/1138461238","properties":{"building":"shed","building:levels":"1","craft":"beekeeper","name":"Bienenhaus","id":"way/1138461238"},"geometry":{"type":"Point","coordinates":[9.7622034,50.5113925]}}

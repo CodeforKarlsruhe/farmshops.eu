@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/677066953","properties":{"amenity":"marketplace","name":"Regensburger Bauernmarkt","opening_hours":"Th 13:30-17:30","wheelchair":"yes","id":"way/677066953"},"geometry":{"type":"Point","coordinates":[12.1149131,49.0298619]}}
+{"type":"Feature","id":"way/677066953","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-04-11","name":"Regensburger Bauernmarkt","opening_hours":"Th 13:30-17:30","wheelchair":"yes","id":"way/677066953"},"geometry":{"type":"Point","coordinates":[12.1149131,49.0298619]}}
