@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10820311925","properties":{"addr:city":"Benstrup","addr:housenumber":"1","addr:postcode":"49624","addr:street":"Nordesch","addr:suburb":"Benstrup","amenity":"vending_machine","currency:EUR":"yes","operator":"Bischoff","payment:cash":"yes","vending":"eggs","id":"node/10820311925"},"geometry":{"type":"Point","coordinates":[7.7947682,52.7805522]}}
