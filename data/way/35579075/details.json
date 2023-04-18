@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/35579075","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","lit":"yes","name":"Markt","opening_hours":"Th","surface":"paving_stones","id":"way/35579075"},"geometry":{"type":"Point","coordinates":[11.263726,50.6842654]}}
+{"type":"Feature","id":"way/35579075","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","lit":"yes","name":"Markt","opening_hours":"Th","smoothness":"good","surface":"paving_stones","id":"way/35579075"},"geometry":{"type":"Point","coordinates":[11.263726,50.6842654]}}

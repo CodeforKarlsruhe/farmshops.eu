@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9157615433","properties":{"amenity":"vending_machine","description":"eggs, meat","opening_hours":"24/7","operator":"Rauenhof","vending":"food","id":"node/9157615433"},"geometry":{"type":"Point","coordinates":[6.3970718,51.2217621]}}
+{"type":"Feature","id":"node/9157615433","properties":{"amenity":"vending_machine","food":"eggs;meat","opening_hours":"24/7","operator":"Rauenhof","vending":"food","id":"node/9157615433"},"geometry":{"type":"Point","coordinates":[6.3970718,51.2217621]}}
