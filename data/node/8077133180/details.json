@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8077133180","properties":{"amenity":"vending_machine","name":"jederzeit aus der Box","opening_hours":"24/7","operator":"Metzgerei Klein","vending":"food","id":"node/8077133180"},"geometry":{"type":"Point","coordinates":[10.1535757,48.4131753]}}
+{"type":"Feature","id":"node/8077133180","properties":{"amenity":"vending_machine","check_date":"2023-04-21","name":"jederzeit aus der Box","opening_hours":"24/7","operator":"Metzgerei Klein","vending":"food","id":"node/8077133180"},"geometry":{"type":"Point","coordinates":[10.1535757,48.4131753]}}
