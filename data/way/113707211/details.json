@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/113707211","properties":{"amenity":"marketplace","area":"yes","name":"Marktplatz","id":"way/113707211"},"geometry":{"type":"Point","coordinates":[11.9740084,51.751098]}}
+{"type":"Feature","id":"way/113707211","properties":{"amenity":"marketplace","area":"yes","name":"Marktplatz","name:de":"Marktplatz","name:fr":"Place du Marché","id":"way/113707211"},"geometry":{"type":"Point","coordinates":[11.9740084,51.751098]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10833546721","properties":{"amenity":"vending_machine","operator":"Käseleckerland","payment:cash":"no","payment:contactless":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","vending":"cheese;food;milk","id":"node/10833546721"},"geometry":{"type":"Point","coordinates":[10.533407,52.1718796]}}
