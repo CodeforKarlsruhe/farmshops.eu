@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/960180611","properties":{"building":"yes","name":"Gemüsehof Steiger","shop":"farm","website":"https://gemuesehofsteiger.de/","id":"way/960180611"},"geometry":{"type":"Point","coordinates":[6.955303,50.7734228]}}
+{"type":"Feature","id":"way/960180611","properties":{"building":"yes","name":"Gemüsehof Steiger","opening_hours":"Tu-Fr 08:30-18:30; Sa 08:30-13:00","shop":"farm","website":"https://gemuesehofsteiger.de/","wheelchair":"yes","id":"way/960180611"},"geometry":{"type":"Point","coordinates":[6.955303,50.7734228]}}
