@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8540803408","properties":{"amenity":"marketplace","name":"Wochenmarkt am Samstag","opening_hours":"Sat 07-12:30","opening_hours:covid19":"open","id":"node/8540803408"},"geometry":{"type":"Point","coordinates":[8.7732294,50.2304833]}}
+{"type":"Feature","id":"node/8540803408","properties":{"amenity":"marketplace","name":"Wochenmarkt am Samstag","opening_hours":"Sa 07:00-12:30","id":"node/8540803408"},"geometry":{"type":"Point","coordinates":[8.7732294,50.2304833]}}

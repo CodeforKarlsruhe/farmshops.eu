@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/25811487","properties":{"amenity":"marketplace","lit":"no","name":"Alaunplatz","surface":"paving_stones","id":"way/25811487"},"geometry":{"type":"Point","coordinates":[13.7561236,51.0701258]}}
+{"type":"Feature","id":"way/25811487","properties":{"addr:postcode":"01099","amenity":"marketplace","lit":"no","name":"Alaunplatz","opening_hours":"Th 09:00-17:00; Sa 09:00-13:00","surface":"paving_stones","website":"https://www.dresden.de/maerkte","wheelchair":"yes","id":"way/25811487"},"geometry":{"type":"Point","coordinates":[13.7561236,51.0701258]}}
