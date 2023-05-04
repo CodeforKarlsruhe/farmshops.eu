@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8475953391","properties":{"amenity":"vending_machine","vending":"eggs","id":"node/8475953391"},"geometry":{"type":"Point","coordinates":[7.1564706,51.0815251]}}
+{"type":"Feature","id":"node/8475953391","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Gut Luchtenberg","vending":"eggs;cheese;noodles","id":"node/8475953391"},"geometry":{"type":"Point","coordinates":[7.1564743,51.0815251]}}

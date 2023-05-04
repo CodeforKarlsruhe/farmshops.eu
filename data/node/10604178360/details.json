@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10604178360","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Ferme des Gimeys","source":"knowledge","vending":"meat","id":"node/10604178360"},"geometry":{"type":"Point","coordinates":[5.9800091,48.6587466]}}
+{"type":"Feature","id":"node/10604178360","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Ferme des Gimeys","payment:cash":"no","payment:debit_cards":"yes","source":"knowledge","vending":"meat","id":"node/10604178360"},"geometry":{"type":"Point","coordinates":[5.9799938,48.6587434]}}
