@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10591680805","properties":{"name":"Der Ackerladen","opening_hours":"We-Fr 10:00-18:00; Sa 09:00-14:00","shop":"farm","website":"http://derackerladen.de","id":"node/10591680805"},"geometry":{"type":"Point","coordinates":[9.9429615,49.7533153]}}
+{"type":"Feature","id":"node/10591680805","properties":{"name":"Der Ackerladen","opening_hours":"We-Fr 10:00-18:00; Sa 09:00-14:00","shop":"farm","website":"https://www.derackerladen.de/","id":"node/10591680805"},"geometry":{"type":"Point","coordinates":[9.9429615,49.7533153]}}
