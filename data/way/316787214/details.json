@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/316787214","properties":{"amenity":"marketplace","fee":"yes","name":"Smaragdplein","opening_hours":"Tu 09:00-14:00","id":"way/316787214"},"geometry":{"type":"Point","coordinates":[5.1249562,52.0725916]}}
+{"type":"Feature","id":"way/316787214","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-05-06","fee":"yes","name":"Smaragdplein","opening_hours":"Tu 09:00-14:00","id":"way/316787214"},"geometry":{"type":"Point","coordinates":[5.1249562,52.0725916]}}

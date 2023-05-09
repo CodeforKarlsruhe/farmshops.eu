@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8898152318","properties":{"payment:cash":"yes","payment:twint":"yes","self_service":"yes","shop":"farm","id":"node/8898152318"},"geometry":{"type":"Point","coordinates":[9.0734902,47.4401909]}}
+{"type":"Feature","id":"node/8898152318","properties":{"currency:CHF":"yes","currency:others":"no","payment:cash":"yes","payment:twint":"yes","produce":"eggs;honey;milk","self_service":"yes","shop":"farm","id":"node/8898152318"},"geometry":{"type":"Point","coordinates":[9.0734902,47.4401909]}}
