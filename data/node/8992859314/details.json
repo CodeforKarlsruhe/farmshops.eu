@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8992859314","properties":{"addr:city":"Kopčany","addr:housenumber":"838","addr:postcode":"90848","addr:street":"Moravská","craft":"beekeeper","name":"Predaj medu","id":"node/8992859314"},"geometry":{"type":"Point","coordinates":[17.103514,48.7859523]}}
+{"type":"Feature","id":"node/8992859314","properties":{"craft":"beekeeper","name":"Predaj medu","id":"node/8992859314"},"geometry":{"type":"Point","coordinates":[17.103514,48.7859523]}}
