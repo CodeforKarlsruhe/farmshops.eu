@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9831723971","properties":{"produce":"cheese","shop":"farm","id":"node/9831723971"},"geometry":{"type":"Point","coordinates":[4.505055,52.0943636]}}
+{"type":"Feature","id":"node/9831723971","properties":{"name":"'t Geertje","produce":"cheese","shop":"farm","id":"node/9831723971"},"geometry":{"type":"Point","coordinates":[4.505055,52.0943636]}}

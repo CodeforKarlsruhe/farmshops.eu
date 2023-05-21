@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8256363698","properties":{"amenity":"vending_machine","covered":"yes","indoor":"no","level":"0","operator":"Erdapfel Naturkost","vending":"food","id":"node/8256363698"},"geometry":{"type":"Point","coordinates":[9.9553846,48.3962587]}}
+{"type":"Feature","id":"node/8256363698","properties":{"amenity":"vending_machine","check_date":"2023-05-17","covered":"yes","indoor":"no","level":"0","operator":"Erdapfel Naturkost","vending":"food","id":"node/8256363698"},"geometry":{"type":"Point","coordinates":[9.9553846,48.3962587]}}

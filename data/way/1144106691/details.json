@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1144106691","properties":{"building":"yes","name":"Hof Twachtmann","shop":"farm","wheelchair":"no","id":"way/1144106691"},"geometry":{"type":"Point","coordinates":[9.0791902,52.5731522]}}
+{"type":"Feature","id":"way/1144106691","properties":{"building":"yes","name":"Hof Twachtmann","payment:credit_cards":"no","payment:debit_cards":"no","shop":"farm","wheelchair":"no","id":"way/1144106691"},"geometry":{"type":"Point","coordinates":[9.0791902,52.5731522]}}
