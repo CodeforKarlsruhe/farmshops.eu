@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4016822892","properties":{"organic":"yes","produce":"flour","shop":"farm","website":"https://www.moulindehollange.be","id":"node/4016822892"},"geometry":{"type":"Point","coordinates":[5.6906106,49.9106712]}}
+{"type":"Feature","id":"node/4016822892","properties":{"email":"info@moulindehollange.be","organic":"yes","phone":"+32 61 26 68 76","produce":"flour","shop":"farm","website":"https://www.moulindehollange.be","id":"node/4016822892"},"geometry":{"type":"Point","coordinates":[5.6906106,49.9106712]}}

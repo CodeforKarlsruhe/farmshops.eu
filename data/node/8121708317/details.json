@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8121708317","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:cash":"yes","payment:maestro":"yes","vending":"drinks;food","id":"node/8121708317"},"geometry":{"type":"Point","coordinates":[8.4921992,50.1347295]}}
+{"type":"Feature","id":"node/8121708317","properties":{"amenity":"vending_machine","covered":"yes","currency:EUR":"yes","name":"Regiomat Hof Wilhelmshöhe","payment:cash":"yes","payment:maestro":"yes","vending":"drinks;food","id":"node/8121708317"},"geometry":{"type":"Point","coordinates":[8.4924603,50.1346014]}}

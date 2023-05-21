@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/831804464","properties":{"name":"Hofladen Köller","payment:cash":"yes","shop":"farm","wheelchair":"yes","id":"node/831804464"},"geometry":{"type":"Point","coordinates":[7.1933514,51.3455214]}}
+{"type":"Feature","id":"node/831804464","properties":{"name":"Hofladen Köller","opening_hours":"PH,Mo-Su 09:00-18:00","payment:cash":"yes","payment:credit_cards":"no","payment:debit_cards":"no","shop":"farm","wheelchair":"yes","id":"node/831804464"},"geometry":{"type":"Point","coordinates":[7.1933514,51.3455214]}}
