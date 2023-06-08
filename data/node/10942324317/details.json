@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10942324317","properties":{"amenity":"vending_machine","currency:CHF":"yes","currency:EUR":"no","opening_hours":"24/7","payment:cash":"no","payment:coins":"yes","payment:contactless":"no","payment:prepaid_card":"yes","vending":"milk","id":"node/10942324317"},"geometry":{"type":"Point","coordinates":[8.6313032,46.8793541]}}

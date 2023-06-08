@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8401793425","properties":{"amenity":"vending_machine","currency:CHF":"yes","operator":"Chäs Michi","payment:coins":"yes","vending":"drinks;cheese","id":"node/8401793425"},"geometry":{"type":"Point","coordinates":[9.5399361,47.3780951]}}
+{"type":"Feature","id":"node/8401793425","properties":{"amenity":"vending_machine","check_date":"2023-06-03","currency:CHF":"yes","operator":"Chäs Michi","payment:coins":"yes","vending":"drinks;cheese","id":"node/8401793425"},"geometry":{"type":"Point","coordinates":[9.5399361,47.3780951]}}

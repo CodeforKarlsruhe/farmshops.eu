@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9197394932","properties":{"amenity":"vending_machine","payment:coins":"yes","vending":"food;milk;eggs;meat;potatoes","id":"node/9197394932"},"geometry":{"type":"Point","coordinates":[7.5336834,51.4708147]}}
+{"type":"Feature","id":"node/9197394932","properties":{"amenity":"vending_machine","fixme":"payment","name":"Freilandeier & Regionales","opening_hours":"24/7","operator":"Hof Prein","payment:coins":"yes","vending":"food;milk;eggs;meat;potatoes","id":"node/9197394932"},"geometry":{"type":"Point","coordinates":[7.5336834,51.4708147]}}
