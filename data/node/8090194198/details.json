@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8090194198","properties":{"amenity":"vending_machine","name":"Ferme de l'Ill","vending":"food","id":"node/8090194198"},"geometry":{"type":"Point","coordinates":[7.3640209,47.7874256]}}
+{"type":"Feature","id":"node/8090194198","properties":{"amenity":"vending_machine","check_date":"2023-05-26","name":"Ferme de l'Ill","vending":"food","id":"node/8090194198"},"geometry":{"type":"Point","coordinates":[7.3640209,47.7874256]}}

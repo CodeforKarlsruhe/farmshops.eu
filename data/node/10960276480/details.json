@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/10960276480","properties":{"amenity":"vending_machine","operator":"Alter Dorfkrug","payment:coins":"no","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:notes":"no","vending":"drinks;food;sweets","id":"node/10960276480"},"geometry":{"type":"Point","coordinates":[13.3534416,52.2727153]}}

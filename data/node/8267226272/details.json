@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8267226272","properties":{"name":"Melktap Grolloo","opening_hours":"Mo-Su 08:00-20:00","shop":"farm","website":"https://www.facebook.com/jobingbuurman","id":"node/8267226272"},"geometry":{"type":"Point","coordinates":[6.6642643,52.9542116]}}
+{"type":"Feature","id":"node/8267226272","properties":{"contact:facebook":"https://www.facebook.com/jobingbuurman","name":"Melktap Grolloo","opening_hours":"Mo-Su 08:00-20:00","shop":"farm","id":"node/8267226272"},"geometry":{"type":"Point","coordinates":[6.6642643,52.9542116]}}
