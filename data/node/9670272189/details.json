@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9670272189","properties":{"amenity":"vending_machine","covered":"yes","description":"Eier und Nudeln","vending":"food","id":"node/9670272189"},"geometry":{"type":"Point","coordinates":[11.7706228,48.1051169]}}
+{"type":"Feature","id":"node/9670272189","properties":{"amenity":"vending_machine","check_date":"2023-06-15","covered":"yes","description":"Eier und Nudeln","vending":"food","id":"node/9670272189"},"geometry":{"type":"Point","coordinates":[11.7706228,48.1051169]}}
