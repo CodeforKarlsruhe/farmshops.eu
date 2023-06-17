@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10939547651","properties":{"name":"Hof Kraienhemke","shop":"farm","website":"https://www.kraienhemke.de/","id":"node/10939547651"},"geometry":{"type":"Point","coordinates":[7.7484526,51.7172324]}}
+{"type":"Feature","id":"node/10939547651","properties":{"name":"Hof Kraienhemke","opening_hours":"Su,Mo off; Tu-Fr 09:00-19:00; Sa 09:00-14:00","organic":"yes","phone":"+49 2381 483827","shop":"farm","website":"https://www.kraienhemke.de/","id":"node/10939547651"},"geometry":{"type":"Point","coordinates":[7.7484526,51.7172324]}}

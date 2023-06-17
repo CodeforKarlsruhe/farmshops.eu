@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4319733789","properties":{"shop":"farm","id":"node/4319733789"},"geometry":{"type":"Point","coordinates":[8.4189597,47.034639]}}
+{"type":"Feature","id":"node/4319733789","properties":{"name":"Hofladen Hügeri","opening_hours":"Mo-Fr 08:30-11:30, 13:30-18:00; Sa 08:30-17:00","shop":"farm","id":"node/4319733789"},"geometry":{"type":"Point","coordinates":[8.4189597,47.034639]}}
