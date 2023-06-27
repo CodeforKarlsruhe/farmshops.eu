@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4058228492","properties":{"name":"Meier","shop":"farm","id":"node/4058228492"},"geometry":{"type":"Point","coordinates":[8.5244645,47.442671]}}
+{"type":"Feature","id":"node/4058228492","properties":{"description":"Kirschen, Tomaten, Eier, Honig, Cheminéeholz, Salate und noch mehr (24.6.2023).","name":"Meier","payment:cash":"yes","payment:twint":"yes","shop":"farm","wheelchair":"limited","id":"node/4058228492"},"geometry":{"type":"Point","coordinates":[8.5244062,47.4428234]}}
