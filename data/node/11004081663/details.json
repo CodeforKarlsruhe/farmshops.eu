@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/11004081663","properties":{"amenity":"vending_machine","check_date":"2023-06-24","covered":"yes","currency:EUR":"yes","indoor":"no","opening_hours":"24/7","payment:mastercard":"yes","payment:visa":"yes","source":"survey","vending":"food;milk","id":"node/11004081663"},"geometry":{"type":"Point","coordinates":[11.883236,47.2357104]}}
