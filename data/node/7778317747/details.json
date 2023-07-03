@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7778317747","properties":{"name":"Ferme de La Charmoye","shop":"farm","website":"http://www.lacharmoye.elima.fr/","id":"node/7778317747"},"geometry":{"type":"Point","coordinates":[6.4450452,47.7393216]}}
+{"type":"Feature","id":"node/7778317747","properties":{"description":"Cueillette à la ferme possible.","name":"Ferme de La Charmoye","operator":"Philippe et Annemieke LORIDAT","organic":"only","shop":"farm","website":"https://fermedelacharmoye.fr/","id":"node/7778317747"},"geometry":{"type":"Point","coordinates":[6.4450452,47.7393216]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1648579093","properties":{"addr:city":"Schwalmtal","addr:housenumber":"14","addr:postcode":"41366","addr:street":"Stöcken","name":"Janshof","shop":"farm","id":"node/1648579093"},"geometry":{"type":"Point","coordinates":[6.2825409,51.2246657]}}
+{"type":"Feature","id":"node/1648579093","properties":{"description":"strawberry, potatoes, cabbage, pumpkin","name":"Janshof","opening_hours":"Mo-Fr 09:00-18:00; Sa 09:00-15:00","shop":"farm","id":"node/1648579093"},"geometry":{"type":"Point","coordinates":[6.2825409,51.2246657]}}

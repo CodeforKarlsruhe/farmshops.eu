@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/111804648","properties":{"addr:city":"Büttelborn","addr:country":"DE","addr:postcode":"64572","addr:street":"Dornheimer Weg","building":"yes","name":"Birkenhof","shop":"farm","id":"way/111804648"},"geometry":{"type":"Point","coordinates":[8.5076496,49.8964851]}}
+{"type":"Feature","id":"way/111804648","properties":{"addr:city":"Büttelborn","addr:country":"DE","addr:housenumber":"2","addr:place":"Birkenhof","building":"yes","name":"Birkenhof","shop":"farm","id":"way/111804648"},"geometry":{"type":"Point","coordinates":[8.5076496,49.8964851]}}
