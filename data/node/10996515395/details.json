@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10996515395","properties":{"amenity":"vending_machine","operator":"EDi","vending":"drinks;coffee;food","id":"node/10996515395"},"geometry":{"type":"Point","coordinates":[9.3090314,49.1438631]}}
+{"type":"Feature","id":"node/10996515395","properties":{"amenity":"vending_machine","operator":"EDi","vending":"drinks;coffee;food;sweets;water","id":"node/10996515395"},"geometry":{"type":"Point","coordinates":[9.3090142,49.1438992]}}
