@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9365272459","properties":{"amenity":"vending_machine","operator":"Monts & Terroirs","vending":"cheese","id":"node/9365272459"},"geometry":{"type":"Point","coordinates":[5.4627495,46.6774123]}}
+{"type":"Feature","id":"node/9365272459","properties":{"amenity":"vending_machine","check_date":"2023-07-05","operator":"Monts & Terroirs","vending":"cheese","id":"node/9365272459"},"geometry":{"type":"Point","coordinates":[5.4627495,46.6774123]}}

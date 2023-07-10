@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8589545837","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Floimayr","vending":"eggs","id":"node/8589545837"},"geometry":{"type":"Point","coordinates":[14.2272136,48.1367996]}}
+{"type":"Feature","id":"node/8589545837","properties":{"amenity":"vending_machine","check_date":"2023-07-08","currency:EUR":"yes","operator":"Floimayr","vending":"eggs","id":"node/8589545837"},"geometry":{"type":"Point","coordinates":[14.2272136,48.1367996]}}
