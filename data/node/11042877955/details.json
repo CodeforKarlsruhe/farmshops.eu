@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/11042877955","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:coins":"yes","payment:contactless":"no","payment:twint":"yes","vending":"cheese;meat","id":"node/11042877955"},"geometry":{"type":"Point","coordinates":[7.9315075,47.1828906]}}

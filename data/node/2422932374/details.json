@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2422932374","properties":{"amenity":"marketplace","name":"Wochenmarkt Herrieden","id":"node/2422932374"},"geometry":{"type":"Point","coordinates":[10.4977529,49.232784]}}
+{"type":"Feature","id":"node/2422932374","properties":{"amenity":"marketplace","name":"Wochenmarkt Herrieden","opening_hours":"Fr 11:30-16:30","id":"node/2422932374"},"geometry":{"type":"Point","coordinates":[10.4977529,49.232784]}}
