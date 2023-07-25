@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5028316222","properties":{"amenity":"marketplace","lastcheck":"2017-08-11","name":"Wochenmarkt Tauberbischofsheim","opening_hours":"Tu,Fr 08:00-13:00","id":"node/5028316222"},"geometry":{"type":"Point","coordinates":[9.6628145,49.6228125]}}
+{"type":"Feature","id":"node/5028316222","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-07-20","lastcheck":"2017-08-11","name":"Wochenmarkt Tauberbischofsheim","opening_hours":"Tu,Fr 08:00-13:00","id":"node/5028316222"},"geometry":{"type":"Point","coordinates":[9.6628145,49.6228125]}}

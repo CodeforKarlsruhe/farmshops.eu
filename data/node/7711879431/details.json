@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7711879431","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Landschlachterei Neldner","vending":"food","id":"node/7711879431"},"geometry":{"type":"Point","coordinates":[10.5932093,52.1077022]}}
+{"type":"Feature","id":"node/7711879431","properties":{"amenity":"vending_machine","check_date":"2023-07-13","opening_hours":"24/7","operator":"Landschlachterei Neldner","vending":"food","id":"node/7711879431"},"geometry":{"type":"Point","coordinates":[10.5932093,52.1077022]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6588659501","properties":{"name":"Erdbeerland","operator":"Erdbeerland Ernst","seasonal":"spring;summer","shop":"farm","id":"node/6588659501"},"geometry":{"type":"Point","coordinates":[7.0213077,49.2341536]}}
+{"type":"Feature","id":"node/6588659501","properties":{"name":"Erdbeerland","opening_hours":"Mo-Fr 09:00-18:00; Sa 08:00-14:00; PH,Su closed","operator":"Erdbeerland Ernst","payment:cash":"yes","seasonal":"spring;summer","shop":"farm","wheelchair":"yes","id":"node/6588659501"},"geometry":{"type":"Point","coordinates":[7.0213077,49.2341536]}}
