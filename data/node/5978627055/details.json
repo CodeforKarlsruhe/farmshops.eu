@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5978627055","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Fr 14:00-18:00","id":"node/5978627055"},"geometry":{"type":"Point","coordinates":[7.1596268,52.302078]}}
+{"type":"Feature","id":"node/5978627055","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Fr 14:00-18:00","website":"https://www.badbentheim.de/event/wochenmarkt-im-schlosspark","id":"node/5978627055"},"geometry":{"type":"Point","coordinates":[7.1553621,52.3034967]}}
