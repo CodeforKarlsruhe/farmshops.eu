@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9142624683","properties":{"shop":"farm","id":"node/9142624683"},"geometry":{"type":"Point","coordinates":[12.3211841,47.7805117]}}
+{"type":"Feature","id":"node/9142624683","properties":{"addr:city":"Aschau im Chiemgau","addr:postcode":"83229","addr:street":"Rosenheimer Straße","description":"Ohne Verkäufer/in\nJahreszeitliche Produkte","payment:cash":"yes","shop":"farm","id":"node/9142624683"},"geometry":{"type":"Point","coordinates":[12.3211391,47.7805197]}}

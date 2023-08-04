@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7933445358","properties":{"amenity":"marketplace","name":"Wochemaart","opening_hours":"Tu 08:00-15:00","operator":"union commerciale","id":"node/7933445358"},"geometry":{"type":"Point","coordinates":[6.1608448,49.8691973]}}
+{"type":"Feature","id":"node/7933445358","properties":{"amenity":"marketplace","name":"Wochemaart","opening_hours":"Tu 08:00-12:00","operator":"union commerciale","website":"https://www.visit-diekirch.lu/fr/diekirch/infos-utiles/marche","id":"node/7933445358"},"geometry":{"type":"Point","coordinates":[6.1608448,49.8691973]}}
