@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7553957663","properties":{"amenity":"vending_machine","operator":"Metzgerer Pfarrer","payment:coins":"yes","payment:notes":"yes","vending":"meat","id":"node/7553957663"},"geometry":{"type":"Point","coordinates":[8.815907,50.3977901]}}
+{"type":"Feature","id":"node/7553957663","properties":{"amenity":"vending_machine","check_date":"2023-08-06","operator":"Metzgerer Pfarrer","payment:coins":"yes","payment:notes":"yes","vending":"meat","id":"node/7553957663"},"geometry":{"type":"Point","coordinates":[8.815907,50.3977901]}}
