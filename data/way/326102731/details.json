@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/326102731","properties":{"building":"yes","name":"Alpe Oberhirschberg","shop":"farm","id":"way/326102731"},"geometry":{"type":"Point","coordinates":[9.9986866,47.3551018]}}
+{"type":"Feature","id":"way/326102731","properties":{"addr:city":"Schnepfau","addr:country":"AT","addr:housenumber":"109","addr:place":"Hirschberg","addr:postcode":"6882","at_bev:addr_date":"2023-04-15","building":"yes","name":"Alpe Oberhirschberg","shop":"farm","id":"way/326102731"},"geometry":{"type":"Point","coordinates":[9.9986866,47.3551018]}}
