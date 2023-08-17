@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8121207140","properties":{"name":"Eier","opening_hours":"Mo-Su 09:00-21:00","opening_hours:covid19":"same","payment:cash":"yes","shop":"farm","id":"node/8121207140"},"geometry":{"type":"Point","coordinates":[15.3204263,47.4649522]}}
+{"type":"Feature","id":"node/8121207140","properties":{"name":"Eier","opening_hours":"Mo-Su 09:00-21:00","payment:cash":"yes","shop":"farm","id":"node/8121207140"},"geometry":{"type":"Point","coordinates":[15.3204263,47.4649522]}}
