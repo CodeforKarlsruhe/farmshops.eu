@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7868890446","properties":{"amenity":"marketplace","name":"Wochenmarkt Schmalkalden","opening_hours":"We 8:00-17:00; Sa 8:00-12:00","opening_hours:covid19":"same","organic":"yes","id":"node/7868890446"},"geometry":{"type":"Point","coordinates":[10.4510981,50.7212705]}}
+{"type":"Feature","id":"node/7868890446","properties":{"amenity":"marketplace","name":"Wochenmarkt Schmalkalden","opening_hours":"We 8:00-17:00; Sa 8:00-12:00","organic":"yes","id":"node/7868890446"},"geometry":{"type":"Point","coordinates":[10.4510981,50.7212705]}}

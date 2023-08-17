@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7391406778","properties":{"amenity":"vending_machine","indoor":"yes","opening_hours":"PH,Mo-Su 08:00-20:00","vending":"milk","id":"node/7391406778"},"geometry":{"type":"Point","coordinates":[4.9605314,51.1550904]}}
+{"type":"Feature","id":"node/7391406778","properties":{"amenity":"vending_machine","indoor":"yes","opening_hours":"PH,Mo-Su 08:00-20:00","payment:cash":"yes","payment:credit_cards":"no","payment:debit_cards":"no","vending":"milk","id":"node/7391406778"},"geometry":{"type":"Point","coordinates":[4.9605169,51.1550702]}}

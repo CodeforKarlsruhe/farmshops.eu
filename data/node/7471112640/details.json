@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7471112640","properties":{"amenity":"vending_machine","opening_hours":"24/7","opening_hours:covid19":"same","operator":"Hühnerhof Schneider","payment:cash":"yes","vending":"eggs;noodles","id":"node/7471112640"},"geometry":{"type":"Point","coordinates":[8.8201325,48.6518433]}}
+{"type":"Feature","id":"node/7471112640","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Hühnerhof Schneider","payment:cash":"yes","vending":"eggs;noodles","id":"node/7471112640"},"geometry":{"type":"Point","coordinates":[8.8201325,48.6518433]}}

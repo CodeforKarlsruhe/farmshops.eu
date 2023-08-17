@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11091706805","properties":{"opening_hours":"24/7","shop":"farm","id":"node/11091706805"},"geometry":{"type":"Point","coordinates":[7.0959649,46.7657635]}}
+{"type":"Feature","id":"node/11091706805","properties":{"addr:city":"Posieux","addr:postcode":"1725","name":"Self service - Ferme Zamofing","opening_hours":"24/7","payment:cash":"yes","payment:twint":"yes","produce":"oeufs;lait","shop":"farm","id":"node/11091706805"},"geometry":{"type":"Point","coordinates":[7.0960439,46.765835]}}
