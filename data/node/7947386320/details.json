@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7947386320","properties":{"name":"Hammerhof","shop":"farm","wheelchair":"yes","id":"node/7947386320"},"geometry":{"type":"Point","coordinates":[9.7048237,47.5669933]}}
+{"type":"Feature","id":"node/7947386320","properties":{"name":"Hammerhof","opening_hours":"Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH,Su 10:00-17:00","shop":"farm","wheelchair":"yes","id":"node/7947386320"},"geometry":{"type":"Point","coordinates":[9.7048237,47.5669933]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8995288759","properties":{"name":"Stapf's Hoflädle","shop":"farm","website":"www.stapfs-hoflaedle.de","id":"node/8995288759"},"geometry":{"type":"Point","coordinates":[9.4260425,49.1895139]}}
+{"type":"Feature","id":"node/8995288759","properties":{"email":"hofladen@gi-stapf.de","name":"Stapf's Hoflädle","opening_hours":"Th,Fr 09:00-18:00; Sa 09:00-14:00","phone":"+49 7946 9440 770","shop":"farm","website":"http://www.gi-stapf.de/","id":"node/8995288759"},"geometry":{"type":"Point","coordinates":[9.4262812,49.1895139]}}

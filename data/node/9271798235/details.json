@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9271798235","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Tu 10:00-18:00; Fr 10:00-18:00","organic":"yes","id":"node/9271798235"},"geometry":{"type":"Point","coordinates":[6.9591495,50.9232993]}}
+{"type":"Feature","id":"node/9271798235","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Tu 10:00-18:00; Fr 10:00-18:00","organic":"yes","website":"https://oekomarkt.de","id":"node/9271798235"},"geometry":{"type":"Point","coordinates":[6.9591495,50.9232993]}}

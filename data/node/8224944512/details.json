@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8224944512","properties":{"name":"HonigSchnitte.ch","opening_hours:covid19":"open","payment:cash":"yes","shop":"farm","website":"https://honigschnitte.ch/","id":"node/8224944512"},"geometry":{"type":"Point","coordinates":[7.6487661,46.896219]}}
+{"type":"Feature","id":"node/8224944512","properties":{"name":"HonigSchnitte.ch","payment:cash":"yes","shop":"farm","website":"https://honigschnitte.ch/","id":"node/8224944512"},"geometry":{"type":"Point","coordinates":[7.6487661,46.896219]}}
