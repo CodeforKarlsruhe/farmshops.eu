@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7466794872","properties":{"name":"Klaus Sindlinger Biohof","operator":"Klaus Sindlinger","phone":"+49 7034 20960","shop":"farm","id":"node/7466794872"},"geometry":{"type":"Point","coordinates":[8.921518,48.626603]}}
+{"type":"Feature","id":"node/7466794872","properties":{"name":"Klaus Sindlinger Biohof","opening_hours":"24/7","operator":"Klaus Sindlinger","phone":"+49 7034 20960","shop":"farm","wheelchair":"yes","id":"node/7466794872"},"geometry":{"type":"Point","coordinates":[8.921518,48.626603]}}

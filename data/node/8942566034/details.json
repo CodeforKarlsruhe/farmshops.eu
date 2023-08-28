@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8942566034","properties":{"amenity":"vending_machine","vending":"food;drinks","website":"https://www.deichhof-knudsen.de/","id":"node/8942566034"},"geometry":{"type":"Point","coordinates":[8.4851052,54.740999]}}
+{"type":"Feature","id":"node/8942566034","properties":{"amenity":"vending_machine","check_date":"2023-08-25","vending":"food;drinks","website":"https://www.deichhof-knudsen.de/","id":"node/8942566034"},"geometry":{"type":"Point","coordinates":[8.4851052,54.740999]}}

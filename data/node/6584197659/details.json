@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6584197659","properties":{"craft":"beekeeper","shop":"beekeeper","id":"node/6584197659"},"geometry":{"type":"Point","coordinates":[6.746791,47.9909269]}}
+{"type":"Feature","id":"node/6584197659","properties":{"contact:housenumber":"9","contact:street":"Aux Tilles","craft":"beekeeper","name":"Miel Bassurois","ref:FR:SIRET":"45285670100027","shop":"beekeeper","website":"http://entdidier.free.fr","id":"node/6584197659"},"geometry":{"type":"Point","coordinates":[6.7466657,47.9909202]}}

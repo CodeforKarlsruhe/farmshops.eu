@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8464350021","properties":{"name":"Hofladen Engelhard","shop":"farm","id":"node/8464350021"},"geometry":{"type":"Point","coordinates":[9.6348773,49.8677846]}}
+{"type":"Feature","id":"node/8464350021","properties":{"check_date":"2023-08-26","name":"Hofladen Engelhard","opening_hours":"We 09:00-15:00; Th 09:00-12:00; Fr 15:00-18:00; Sa 09:30-12:00","phone":"+49 171 4274387","shop":"farm","website":"https://www.landgasthaus-engelhard.de/hofladen/","id":"node/8464350021"},"geometry":{"type":"Point","coordinates":[9.6348773,49.8677846]}}
