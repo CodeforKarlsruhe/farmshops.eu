@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8438286671","properties":{"amenity":"vending_machine","name":"Heuwasen Hofladen","vending":"food;milk;cheese","id":"node/8438286671"},"geometry":{"type":"Point","coordinates":[8.5716332,48.5376601]}}
+{"type":"Feature","id":"node/8438286671","properties":{"amenity":"vending_machine","check_date":"2023-09-06","name":"Heuwasen Hofladen","vending":"food;milk;cheese","id":"node/8438286671"},"geometry":{"type":"Point","coordinates":[8.5716332,48.5376601]}}

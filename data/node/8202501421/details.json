@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8202501421","properties":{"amenity":"vending_machine","name":"Hoflädle Uhlandshöhe","operator":"Gärtnerei Locher","vending":"food","id":"node/8202501421"},"geometry":{"type":"Point","coordinates":[9.1959744,48.7821732]}}
+{"type":"Feature","id":"node/8202501421","properties":{"amenity":"vending_machine","check_date":"2023-09-06","name":"Hoflädle Uhlandshöhe","operator":"Gärtnerei Locher","vending":"food","id":"node/8202501421"},"geometry":{"type":"Point","coordinates":[9.1959744,48.7821732]}}

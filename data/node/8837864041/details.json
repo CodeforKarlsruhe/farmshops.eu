@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8837864041","properties":{"amenity":"marketplace","name":"L'archenterre","opening_hours":"Su 09:00-17:00","opening_hours:covid19":"same","id":"node/8837864041"},"geometry":{"type":"Point","coordinates":[4.6473863,50.6446194]}}
+{"type":"Feature","id":"node/8837864041","properties":{"amenity":"marketplace","name":"L'archenterre","opening_hours":"Su 09:00-17:00","id":"node/8837864041"},"geometry":{"type":"Point","coordinates":[4.6473863,50.6446194]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7685459921","properties":{"craft":"beekeeper","name":"Imkerei Rausch","operator":"Thomas Rausch","id":"node/7685459921"},"geometry":{"type":"Point","coordinates":[11.9006133,51.6324947]}}
+{"type":"Feature","id":"node/7685459921","properties":{"check_date":"2023-09-01","craft":"beekeeper","name":"Imkerei Rausch","operator":"Thomas Rausch","id":"node/7685459921"},"geometry":{"type":"Point","coordinates":[11.9006133,51.6324947]}}

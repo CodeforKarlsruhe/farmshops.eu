@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8944746844","properties":{"amenity":"vending_machine","operator":"Alpe Nenzigast","payment:cash":"yes","vending":"cheese;drinks","id":"node/8944746844"},"geometry":{"type":"Point","coordinates":[10.1091602,47.1048354]}}
+{"type":"Feature","id":"node/8944746844","properties":{"amenity":"vending_machine","check_date":"2023-09-01","operator":"Alpe Nenzigast","payment:cash":"yes","vending":"cheese;drinks","id":"node/8944746844"},"geometry":{"type":"Point","coordinates":[10.1091602,47.1048354]}}
