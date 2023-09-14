@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5656371616","properties":{"name":"Hofverkauf Pump","shop":"farm","id":"node/5656371616"},"geometry":{"type":"Point","coordinates":[10.0950663,53.7897745]}}
+{"type":"Feature","id":"node/5656371616","properties":{"name":"Hofverkauf Pump","opening_hours":"Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off","phone":"+49 4535 6293","shop":"farm","id":"node/5656371616"},"geometry":{"type":"Point","coordinates":[10.0950663,53.7897745]}}

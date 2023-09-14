@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8118937631","properties":{"amenity":"vending_machine","vending":"meat;sausages","id":"node/8118937631"},"geometry":{"type":"Point","coordinates":[9.6831913,48.49163]}}
+{"type":"Feature","id":"node/8118937631","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Hans Wurst","operator":"Kronen-Metzgerei","payment:cash":"yes","vending":"meat;sausages","website":"https://www.kronenmetzgerei.de/","id":"node/8118937631"},"geometry":{"type":"Point","coordinates":[9.6831913,48.49163]}}

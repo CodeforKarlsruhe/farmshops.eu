@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9193265800","properties":{"amenity":"vending_machine","operator":"Cafe und Wein","payment:cash":"yes","vending":"food","id":"node/9193265800"},"geometry":{"type":"Point","coordinates":[9.188709,49.1108004]}}
+{"type":"Feature","id":"node/9193265800","properties":{"amenity":"vending_machine","check_date":"2023-09-14","covered":"yes","opening_hours":"24/7","operator":"Cafe und Wein","payment:cash":"yes","vending":"food","id":"node/9193265800"},"geometry":{"type":"Point","coordinates":[9.188709,49.1108004]}}
