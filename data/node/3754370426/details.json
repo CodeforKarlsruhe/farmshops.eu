@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3754370426","properties":{"amenity":"marketplace","name":"Mecklenburger Platz","opening_hours":"Sa 09:00-13:30; We 14:00-18:00","organic":"only","wheelchair":"yes","id":"node/3754370426"},"geometry":{"type":"Point","coordinates":[8.8291711,53.0711145]}}
+{"type":"Feature","id":"node/3754370426","properties":{"amenity":"marketplace","name":"Mecklenburger Platz","opening_hours":"Sa 09:00-13:30","organic":"only","wheelchair":"yes","id":"node/3754370426"},"geometry":{"type":"Point","coordinates":[8.8291711,53.0711145]}}
