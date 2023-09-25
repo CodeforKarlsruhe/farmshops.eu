@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7593119674","properties":{"amenity":"marketplace","name":"Woensdag","id":"node/7593119674"},"geometry":{"type":"Point","coordinates":[4.8533305,51.9470151]}}
+{"type":"Feature","id":"node/7593119674","properties":{"amenity":"marketplace","description":"Woensdag","id":"node/7593119674"},"geometry":{"type":"Point","coordinates":[4.8533305,51.9470151]}}
