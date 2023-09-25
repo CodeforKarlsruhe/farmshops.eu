@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/620313204","properties":{"building":"barn","craft":"beekeeper","name":"Čebelarstvo Hozjan","id":"way/620313204"},"geometry":{"type":"Point","coordinates":[16.3632851,46.5774184]}}
+{"type":"Feature","id":"way/620313204","properties":{"building":"barn","craft":"beekeeper","name":"Čebelarstvo Hozjan","ref:gurs:sta_sid":"23321651","id":"way/620313204"},"geometry":{"type":"Point","coordinates":[16.3632851,46.5774184]}}
