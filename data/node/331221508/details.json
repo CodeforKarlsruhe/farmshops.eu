@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/331221508","properties":{"name":"Hofladen Wagenburg","shop":"farm","id":"node/331221508"},"geometry":{"type":"Point","coordinates":[8.76816,47.3450515]}}
+{"type":"Feature","id":"node/331221508","properties":{"name":"Hofladen Wagenburg","opening_hours":"Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-16:00; PH,Su,Mo off","shop":"farm","id":"node/331221508"},"geometry":{"type":"Point","coordinates":[8.76816,47.3450515]}}
