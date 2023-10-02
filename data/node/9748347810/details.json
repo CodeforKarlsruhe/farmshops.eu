@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9748347810","properties":{"amenity":"vending_machine","description":"Verkauft wird Saft Wurst und Käse vom Bauern","vending":"food;drinks","id":"node/9748347810"},"geometry":{"type":"Point","coordinates":[9.2026185,47.6820134]}}
+{"type":"Feature","id":"node/9748347810","properties":{"amenity":"vending_machine","description":"Verkauft wird Saft Wurst und Käse vom Bauern","operator":"Hofliebe","vending":"food;drinks","website":"https://www.hofliebe.eu/","id":"node/9748347810"},"geometry":{"type":"Point","coordinates":[9.2026185,47.6820134]}}
