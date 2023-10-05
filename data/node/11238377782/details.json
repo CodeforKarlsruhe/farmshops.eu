@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/11238377782","properties":{"amenity":"vending_machine","description":"Vertrauenskasse","payment:cash":"yes","payment:credit_cards":"no","payment:cryptocurrencies":"no","payment:debit_cards":"no","payment:electronic_purses":"no","vending":"eggs","id":"node/11238377782"},"geometry":{"type":"Point","coordinates":[15.6049097,48.4485799]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9689555076","properties":{"name":"Imkerei Springer","payment:cash":"yes","payment:paypal":"yes","self_service":"yes","shop":"farm","id":"node/9689555076"},"geometry":{"type":"Point","coordinates":[8.9501692,52.3387062]}}
+{"type":"Feature","id":"node/9689555076","properties":{"name":"Imkerei Springer","opening_hours":"24/7","payment:cash":"yes","payment:paypal":"yes","self_service":"yes","shop":"farm","id":"node/9689555076"},"geometry":{"type":"Point","coordinates":[8.9501692,52.3387062]}}
