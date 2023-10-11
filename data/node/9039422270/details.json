@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9039422270","properties":{"shop":"farm","id":"node/9039422270"},"geometry":{"type":"Point","coordinates":[11.2023286,49.7016283]}}
+{"type":"Feature","id":"node/9039422270","properties":{"addr:housenumber":"2","addr:place":"Seidmar","name":"Hofladen Galster","shop":"farm","id":"node/9039422270"},"geometry":{"type":"Point","coordinates":[11.2023286,49.7016283]}}
