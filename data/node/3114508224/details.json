@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3114508224","properties":{"amenity":"marketplace","id":"node/3114508224"},"geometry":{"type":"Point","coordinates":[7.2647437,47.0398303]}}
+{"type":"Feature","id":"node/3114508224","properties":{"addr:housenumber":"28","addr:street":"Murtenstrasse","name":"Eggli Gemüse und Früchte","opening_hours":"Mo-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-16:00","phone":"032 392 12 66","shop":"farm","website":"https://gemuese-eggli.ch/","id":"node/3114508224"},"geometry":{"type":"Point","coordinates":[7.2647437,47.0398303]}}
