@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8308239830","properties":{"amenity":"marketplace","name":"Trödelmarkt Hermann-Ehlers-Platz","opening_hours":"Su 08:00-16:00","wheelchair":"yes","id":"node/8308239830"},"geometry":{"type":"Point","coordinates":[13.3217445,52.4568736]}}
+{"type":"Feature","id":"node/8308239830","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-10-13","name":"Trödelmarkt Hermann-Ehlers-Platz","opening_hours":"Su 08:00-16:00","wheelchair":"yes","id":"node/8308239830"},"geometry":{"type":"Point","coordinates":[13.3217445,52.4568736]}}

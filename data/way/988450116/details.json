@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/988450116","properties":{"building":"yes","name":"Hofladen","shop":"farm","id":"way/988450116"},"geometry":{"type":"Point","coordinates":[9.8097173,54.070625]}}
+{"type":"Feature","id":"way/988450116","properties":{"building":"commercial","name":"Hofladen","shop":"farm","id":"way/988450116"},"geometry":{"type":"Point","coordinates":[9.8097173,54.070625]}}

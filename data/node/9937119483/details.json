@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9937119483","properties":{"name":"Weidefleisch Tiefel","shop":"farm","website":"http://www.weidefleisch-tiefel.de/","id":"node/9937119483"},"geometry":{"type":"Point","coordinates":[10.8771717,49.4869669]}}
+{"type":"Feature","id":"node/9937119483","properties":{"name":"Weidefleisch Tiefel","operator":"Tiefel","organic":"yes","payment:cards":"yes","shop":"farm","website":"https://weidefleisch-tiefel.de/direktvermarktung/tiefels-farmbox-24-7/","id":"node/9937119483"},"geometry":{"type":"Point","coordinates":[10.8771985,49.4870078]}}

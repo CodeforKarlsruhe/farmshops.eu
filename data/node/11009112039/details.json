@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11009112039","properties":{"amenity":"vending_machine","brand":"Regiomat","vending":"drinks;food;eggs","id":"node/11009112039"},"geometry":{"type":"Point","coordinates":[8.3043739,49.5400825]}}
+{"type":"Feature","id":"node/11009112039","properties":{"amenity":"vending_machine","name":"Finkenhof - Feldfrüchte","vending":"food;eggs;milk;ice_cream","id":"node/11009112039"},"geometry":{"type":"Point","coordinates":[8.3041896,49.5401426]}}
