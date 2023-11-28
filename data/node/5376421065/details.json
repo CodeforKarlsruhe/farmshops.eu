@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5376421065","properties":{"amenity":"vending_machine","opening_hours":"24/7","vending":"milk","id":"node/5376421065"},"geometry":{"type":"Point","coordinates":[9.9921392,54.6250908]}}
+{"type":"Feature","id":"node/5376421065","properties":{"amenity":"vending_machine","check_date":"2023-11-18","opening_hours":"24/7","vending":"drinks;eggs;food;milk;raw_milk;art;coffee","id":"node/5376421065"},"geometry":{"type":"Point","coordinates":[9.9921392,54.6250908]}}

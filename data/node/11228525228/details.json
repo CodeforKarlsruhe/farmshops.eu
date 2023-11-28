@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11228525228","properties":{"name":"Muh & Meh","opening_hours":"PH,Mo-Su 08:00-20:00","shop":"farm","id":"node/11228525228"},"geometry":{"type":"Point","coordinates":[8.3838094,46.9580682]}}
+{"type":"Feature","id":"node/11228525228","properties":{"name":"Muh & Meh","opening_hours":"PH,Mo-Su 08:00-20:00","payment:cash":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:twint":"yes","shop":"farm","id":"node/11228525228"},"geometry":{"type":"Point","coordinates":[8.3838094,46.9580682]}}

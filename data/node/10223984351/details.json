@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10223984351","properties":{"amenity":"marketplace","name:signed":"no","opening_hours":"Fr 05:00-16:00","id":"node/10223984351"},"geometry":{"type":"Point","coordinates":[10.2435862,53.5535384]}}
+{"type":"Feature","id":"node/10223984351","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-10-26","name:signed":"no","opening_hours":"Fr 05:00-16:00","id":"node/10223984351"},"geometry":{"type":"Point","coordinates":[10.2435862,53.5535384]}}

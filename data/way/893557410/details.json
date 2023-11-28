@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/893557410","properties":{"amenity":"marketplace","designation":"Markt: Mittwochs und Samstags","name":"Riemker Markt","id":"way/893557410"},"geometry":{"type":"Point","coordinates":[7.2117934,51.510086]}}
+{"type":"Feature","id":"way/893557410","properties":{"amenity":"marketplace","name":"Riemker Markt","opening_hours":"We, Sa 07:00-13:00","id":"way/893557410"},"geometry":{"type":"Point","coordinates":[7.2117934,51.510086]}}

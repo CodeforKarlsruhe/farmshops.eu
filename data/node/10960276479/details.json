@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10960276479","properties":{"amenity":"vending_machine","vending":"drinks;food","id":"node/10960276479"},"geometry":{"type":"Point","coordinates":[13.2199542,52.3388568]}}
+{"type":"Feature","id":"node/10960276479","properties":{"amenity":"vending_machine","opening_hours":"24/7","vending":"drinks;food","id":"node/10960276479"},"geometry":{"type":"Point","coordinates":[13.2199542,52.3388568]}}

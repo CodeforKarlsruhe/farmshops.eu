@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10206858915","properties":{"craft":"beekeeper","email":"frank@melario.de","mobile":"+49 163 7193282","name":"Melario","website":"melario.de","wheelchair":"yes","id":"node/10206858915"},"geometry":{"type":"Point","coordinates":[7.7764196,47.8555339]}}
+{"type":"Feature","id":"node/10206858915","properties":{"craft":"beekeeper","email":"frank@melario.de","mobile":"+49 163 7193282","name":"Melario","website":"https://melario.de/","wheelchair":"yes","id":"node/10206858915"},"geometry":{"type":"Point","coordinates":[7.7764196,47.8555339]}}

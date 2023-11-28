@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6524858871","properties":{"amenity":"marketplace","name":"Wochenmarkt Ortsteil Sachsendorf","operator":"Stadt Cottbus","website":"http://www.cottbuser-wochenmarkt.de","id":"node/6524858871"},"geometry":{"type":"Point","coordinates":[14.3270593,51.7278675]}}
+{"type":"Feature","id":"node/6524858871","properties":{"amenity":"marketplace","name":"Wochenmarkt Ortsteil Sachsendorf","operator":"Stadt Cottbus","website":"https://www.cottbuser-wochenmarkt.de/","id":"node/6524858871"},"geometry":{"type":"Point","coordinates":[14.3270593,51.7278675]}}

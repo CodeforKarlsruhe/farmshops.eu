@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5846628902","properties":{"addr:housenumber":"22/c","addr:street":"P.-Haspingerstr.","name":"Regiohof","shop":"farm","website":"http://regiohof.com","id":"node/5846628902"},"geometry":{"type":"Point","coordinates":[12.2449228,46.8336495]}}
+{"type":"Feature","id":"node/5846628902","properties":{"addr:housenumber":"22/c","addr:street":"P.-Haspingerstr.","name":"Regiohof","shop":"farm","website":"https://regiohof.com/","id":"node/5846628902"},"geometry":{"type":"Point","coordinates":[12.2449228,46.8336495]}}
