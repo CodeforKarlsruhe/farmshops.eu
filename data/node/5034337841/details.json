@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5034337841","properties":{"amenity":"marketplace","name":"Wochenmarkt Memmingen","opening_hours":"Tu,Sa 07:00-12:30","id":"node/5034337841"},"geometry":{"type":"Point","coordinates":[10.1808903,47.9863762]}}
+{"type":"Feature","id":"node/5034337841","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-11-04","name":"Wochenmarkt Memmingen","opening_hours":"Tu,Sa 07:00-12:30","id":"node/5034337841"},"geometry":{"type":"Point","coordinates":[10.1808903,47.9863762]}}

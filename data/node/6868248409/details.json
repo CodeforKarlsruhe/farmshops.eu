@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6868248409","properties":{"amenity":"vending_machine","vending":"milk","id":"node/6868248409"},"geometry":{"type":"Point","coordinates":[7.4473799,46.9988644]}}
+{"type":"Feature","id":"node/6868248409","properties":{"amenity":"vending_machine","integrated_farming":"only","opening_hours":"24/7","operator":"Hof Frei, Illiswil","vending":"milk","id":"node/6868248409"},"geometry":{"type":"Point","coordinates":[7.4473799,46.9988644]}}

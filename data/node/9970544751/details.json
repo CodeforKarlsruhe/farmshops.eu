@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9970544751","properties":{"amenity":"vending_machine","name":"Ackerbox","vending":"food","website":"www.ackerbox.com","id":"node/9970544751"},"geometry":{"type":"Point","coordinates":[13.8274299,46.5886304]}}
+{"type":"Feature","id":"node/9970544751","properties":{"amenity":"vending_machine","name":"Ackerbox","vending":"food","website":"https://ackerbox.com/","id":"node/9970544751"},"geometry":{"type":"Point","coordinates":[13.8274299,46.5886304]}}

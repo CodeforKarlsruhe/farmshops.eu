@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1081390331","properties":{"building":"yes","name":"Gronbach's Hofhäusle","payment:cash":"yes","shop":"farm","id":"way/1081390331"},"geometry":{"type":"Point","coordinates":[10.0777526,49.1155742]}}
+{"type":"Feature","id":"way/1081390331","properties":{"building":"yes","name":"Gronbach's Hofhäusle","opening_hours":"PH,Mo-Su 12:00+","payment:cash":"yes","shop":"farm","id":"way/1081390331"},"geometry":{"type":"Point","coordinates":[10.0777526,49.1155742]}}

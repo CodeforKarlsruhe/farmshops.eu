@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1128200534","properties":{"addr:postcode":"9587","name":"Gams 24/7","opening_hours":"24/7","phone":"+43 676 8355 5632","shop":"farm","website":"dergams.at","id":"way/1128200534"},"geometry":{"type":"Point","coordinates":[13.7971051,46.5576276]}}
+{"type":"Feature","id":"way/1128200534","properties":{"addr:postcode":"9587","name":"Gams 24/7","opening_hours":"24/7","phone":"+43 676 8355 5632","shop":"farm","website":"https://dergams.at/","id":"way/1128200534"},"geometry":{"type":"Point","coordinates":[13.7971051,46.5576276]}}

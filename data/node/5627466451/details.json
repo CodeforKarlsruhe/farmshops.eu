@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5627466451","properties":{"amenity":"vending_machine","description":"Grillfleisch","vending":"food","id":"node/5627466451"},"geometry":{"type":"Point","coordinates":[12.5959112,48.0818841]}}
+{"type":"Feature","id":"node/5627466451","properties":{"amenity":"vending_machine","check_date":"2023-11-17","description":"Grillfleisch","vending":"food","id":"node/5627466451"},"geometry":{"type":"Point","coordinates":[12.5959112,48.0818841]}}

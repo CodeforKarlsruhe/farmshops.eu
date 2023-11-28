@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8615578252","properties":{"amenity":"vending_machine","check_date":"2022-07-23","indoor":"yes","operator":"Hof Griem","vending":"food;milk;drinks","id":"node/8615578252"},"geometry":{"type":"Point","coordinates":[10.2419695,53.5701829]}}
+{"type":"Feature","id":"node/8615578252","properties":{"amenity":"vending_machine","check_date":"2023-10-29","indoor":"yes","operator":"Hof Griem","vending":"food;milk;drinks","id":"node/8615578252"},"geometry":{"type":"Point","coordinates":[10.2419695,53.5701829]}}

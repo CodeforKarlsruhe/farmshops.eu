@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3759830741","properties":{"addr:housenumber":"1","addr:street":"Mehrower Dorfstraße","name":"Rahlf","shop":"farm","website":"http://www.landhof-rahlf.de/","id":"node/3759830741"},"geometry":{"type":"Point","coordinates":[13.6144936,52.5707971]}}
+{"type":"Feature","id":"node/3759830741","properties":{"addr:housenumber":"1","addr:street":"Mehrower Dorfstraße","name":"Rahlf","shop":"farm","website":"https://www.landhof-rahlf.de/","id":"node/3759830741"},"geometry":{"type":"Point","coordinates":[13.6144936,52.5707971]}}

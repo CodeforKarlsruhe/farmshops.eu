@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10846140425","properties":{"addr:city":"Reutte","addr:country":"A","addr:housenumber":"13","addr:street":"Weidenstraße","craft":"beekeeper","name":"Imkerei Kuisle","id":"node/10846140425"},"geometry":{"type":"Point","coordinates":[10.7312902,47.5042706]}}
+{"type":"Feature","id":"node/10846140425","properties":{"addr:city":"Reutte","addr:country":"AT","addr:housenumber":"13","addr:street":"Weidenstraße","craft":"beekeeper","name":"Imkerei Kuisle","id":"node/10846140425"},"geometry":{"type":"Point","coordinates":[10.7312902,47.5042706]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8482050972","properties":{"amenity":"vending_machine","name":"Hofladen Saxhof","vending":"food","website":"https://www.saxhof.ch","id":"node/8482050972"},"geometry":{"type":"Point","coordinates":[9.4767849,47.1538905]}}
+{"type":"Feature","id":"node/8482050972","properties":{"amenity":"vending_machine","check_date":"2023-11-19","name":"Hofladen Saxhof","vending":"food","website":"https://www.saxhof.ch","id":"node/8482050972"},"geometry":{"type":"Point","coordinates":[9.4767849,47.1538905]}}

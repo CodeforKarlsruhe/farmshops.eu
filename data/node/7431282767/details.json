@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7431282767","properties":{"name":"Ferme Iseli","payment:twint":"yes","phone":"+41 21 866 66 01","shop":"farm","website":"http://www.ferme-iseli.ch/","id":"node/7431282767"},"geometry":{"type":"Point","coordinates":[6.5066206,46.6480055]}}
+{"type":"Feature","id":"node/7431282767","properties":{"name":"Ferme Iseli","payment:twint":"yes","phone":"+41 21 866 66 01","shop":"farm","website":"https://www.ferme-iseli.ch/","id":"node/7431282767"},"geometry":{"type":"Point","coordinates":[6.5066206,46.6480055]}}

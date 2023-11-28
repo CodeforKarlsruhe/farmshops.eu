@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11071227139","properties":{"addr:street":"Traverse des Muses","amenity":"marketplace","name":"Marché de Bomel","opening_hours":"Oct-Mar Mo 15:00-18:00","id":"node/11071227139"},"geometry":{"type":"Point","coordinates":[4.8637318,50.47273]}}
+{"type":"Feature","id":"node/11071227139","properties":{"addr:street":"Traverse des Muses","amenity":"marketplace","name":"Marché de Bomel","opening_hours":"Oct-Mar Mo 15:00-18:00","organic":"yes","wheelchair":"yes","id":"node/11071227139"},"geometry":{"type":"Point","coordinates":[4.8637318,50.47273]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/100609239","properties":{"building":"yes","name":"Käse","shop":"farm","id":"way/100609239"},"geometry":{"type":"Point","coordinates":[8.573873,46.7180733]}}
+{"type":"Feature","id":"way/100609239","properties":{"addr:city":"Meien","addr:housenumber":"3","addr:place":"Husen","addr:postcode":"6485","building":"yes","name":"Käse","shop":"farm","id":"way/100609239"},"geometry":{"type":"Point","coordinates":[8.573873,46.7180733]}}
