@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3547190483","properties":{"alt_name":"Blechmetzger","amenity":"vending_machine","name":"Lebensmittelautomat","operator":"Metzgerei Prem","vending":"food","id":"node/3547190483"},"geometry":{"type":"Point","coordinates":[11.6827149,47.3419004]}}
+{"type":"Feature","id":"node/3547190483","properties":{"alt_name":"Blechmetzger","amenity":"vending_machine","check_date":"2023-12-09","name":"Lebensmittelautomat","operator":"Metzgerei Prem","vending":"food","id":"node/3547190483"},"geometry":{"type":"Point","coordinates":[11.6827149,47.3419004]}}
