@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4482490925","properties":{"amenity":"vending_machine","operator":"Hiaslhof","vending":"milk","website":"https://www.hellhof.at/","id":"node/4482490925"},"geometry":{"type":"Point","coordinates":[11.2791884,47.2311587]}}
+{"type":"Feature","id":"node/4482490925","properties":{"amenity":"vending_machine","check_date":"2023-12-06","operator":"Hiaslhof","vending":"milk","website":"https://www.hellhof.at/","id":"node/4482490925"},"geometry":{"type":"Point","coordinates":[11.2791884,47.2311587]}}

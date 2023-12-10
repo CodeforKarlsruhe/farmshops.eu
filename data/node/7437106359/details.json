@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7437106359","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Fruitière à comté","vending":"cheese","id":"node/7437106359"},"geometry":{"type":"Point","coordinates":[6.4803067,47.0468361]}}
+{"type":"Feature","id":"node/7437106359","properties":{"amenity":"vending_machine","location":"indoor","opening_hours":"24/7","operator":"Fruitière à comté","vending":"cheese","id":"node/7437106359"},"geometry":{"type":"Point","coordinates":[6.4803349,47.0467872]}}
