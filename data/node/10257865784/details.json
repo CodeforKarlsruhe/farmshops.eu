@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10257865784","properties":{"name:signed":"no","product":"eggs;potatoes","shop":"farm","vending":"eggs;potatoes","id":"node/10257865784"},"geometry":{"type":"Point","coordinates":[15.1865194,48.6024754]}}
+{"type":"Feature","id":"node/10257865784","properties":{"check_date":"2023-12-22","name:signed":"no","product":"eggs;potatoes","self_service":"yes","shop":"farm","vending":"eggs;potatoes","id":"node/10257865784"},"geometry":{"type":"Point","coordinates":[15.1865194,48.6024754]}}

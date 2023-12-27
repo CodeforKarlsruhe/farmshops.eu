@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9828309983","properties":{"amenity":"vending_machine","payment:cards":"yes","payment:cash":"yes","vending":"food;wurst;fleisch","id":"node/9828309983"},"geometry":{"type":"Point","coordinates":[7.76385,49.469248]}}
+{"type":"Feature","id":"node/9828309983","properties":{"amenity":"vending_machine","name":"Event Catering Fröhlich","payment:cards":"yes","payment:cash":"yes","vending":"food;wurst;fleisch","id":"node/9828309983"},"geometry":{"type":"Point","coordinates":[7.76385,49.469248]}}

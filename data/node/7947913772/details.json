@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7947913772","properties":{"name":"Melissa's Eiershop","organic":"yes","shop":"farm","id":"node/7947913772"},"geometry":{"type":"Point","coordinates":[8.7664086,49.2910298]}}
+{"type":"Feature","id":"node/7947913772","properties":{"amenity":"vending_machine","automated":"no","name":"Melissa's Eiershop","organic":"yes","payment:cash":"only","shop":"farm","vending":"food","id":"node/7947913772"},"geometry":{"type":"Point","coordinates":[8.7664086,49.2910298]}}

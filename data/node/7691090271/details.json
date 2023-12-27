@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7691090271","properties":{"opening_hours":"24/7","produce":"eggs","shop":"farm","id":"node/7691090271"},"geometry":{"type":"Point","coordinates":[10.8839046,49.5805923]}}
+{"type":"Feature","id":"node/7691090271","properties":{"opening_hours":"24/7","produce":"eggs","self_service":"only","shop":"farm","id":"node/7691090271"},"geometry":{"type":"Point","coordinates":[10.8839046,49.5805923]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8922701201","properties":{"amenity":"vending_machine","operator":"Metzgerei Meindl","vending":"meat","id":"node/8922701201"},"geometry":{"type":"Point","coordinates":[11.9536552,49.1615839]}}
+{"type":"Feature","id":"node/8922701201","properties":{"amenity":"vending_machine","check_date":"2023-12-13","operator":"Metzgerei Meindl","vending":"meat","id":"node/8922701201"},"geometry":{"type":"Point","coordinates":[11.9536552,49.1615839]}}

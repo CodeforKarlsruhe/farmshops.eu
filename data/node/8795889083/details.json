@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8795889083","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Bauer Beck","payment:cash":"yes","vending":"eggs","id":"node/8795889083"},"geometry":{"type":"Point","coordinates":[9.3734229,48.6451552]}}
+{"type":"Feature","id":"node/8795889083","properties":{"amenity":"vending_machine","check_date":"2023-12-25","currency:EUR":"yes","operator":"Bauer Beck","payment:cash":"yes","vending":"eggs","id":"node/8795889083"},"geometry":{"type":"Point","coordinates":[9.3734229,48.6451552]}}

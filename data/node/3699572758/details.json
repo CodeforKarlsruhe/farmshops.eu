@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3699572758","properties":{"amenity":"vending_machine","check_date":"2022-11-20","name":"Snacks & Drinks","vending":"food","id":"node/3699572758"},"geometry":{"type":"Point","coordinates":[8.6631135,50.1074218]}}
+{"type":"Feature","id":"node/3699572758","properties":{"amenity":"vending_machine","check_date":"2022-11-20","indoor":"yes","name":"Snacks & Drinks","vending":"food","id":"node/3699572758"},"geometry":{"type":"Point","coordinates":[8.6631135,50.1074218]}}
