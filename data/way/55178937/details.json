@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/55178937","properties":{"amenity":"marketplace","name":"Markt","id":"way/55178937"},"geometry":{"type":"Point","coordinates":[10.7527891,50.5098385]}}
+{"type":"Feature","id":"way/55178937","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-12-26","name":"Markt","opening_hours:signed":"no","id":"way/55178937"},"geometry":{"type":"Point","coordinates":[10.7527891,50.5098385]}}

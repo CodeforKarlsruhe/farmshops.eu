@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7538629871","properties":{"amenity":"vending_machine","food":"eggs","note:de":"Schrank mit Geldbüchse","payment:cash":"yes","vending":"food","id":"node/7538629871"},"geometry":{"type":"Point","coordinates":[10.8374843,52.2392996]}}
+{"type":"Feature","id":"node/7538629871","properties":{"amenity":"vending_machine","check_date":"2023-12-25","food":"eggs","note:de":"Schrank mit Geldbüchse","payment:cash":"yes","vending":"food","id":"node/7538629871"},"geometry":{"type":"Point","coordinates":[10.8374843,52.2392996]}}
