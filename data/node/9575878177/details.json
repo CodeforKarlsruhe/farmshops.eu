@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9575878177","properties":{"amenity":"marketplace","name":"Krabbenverkauf","opening_hours":"\"abhängig von Wasserstand\"","operator":"Gila Hus7","wheelchair":"yes","id":"node/9575878177"},"geometry":{"type":"Point","coordinates":[8.8074211,54.4973338]}}
+{"type":"Feature","id":"node/9575878177","properties":{"amenity":"marketplace","name":"Krabbenverkauf Gila","opening_hours":"\"abhängig von Wasserstand\"","operator":"Gila Hus7","wheelchair":"yes","id":"node/9575878177"},"geometry":{"type":"Point","coordinates":[8.8074211,54.4973338]}}

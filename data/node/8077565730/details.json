@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8077565730","properties":{"amenity":"vending_machine","currency:CHF":"yes","vending":"cheese;sausage;meat","id":"node/8077565730"},"geometry":{"type":"Point","coordinates":[7.6918192,46.7335514]}}
+{"type":"Feature","id":"node/8077565730","properties":{"amenity":"vending_machine","check_date":"2024-01-01","currency:CHF":"yes","vending":"cheese;sausage;meat","id":"node/8077565730"},"geometry":{"type":"Point","coordinates":[7.6918192,46.7335514]}}
