@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9199856635","properties":{"amenity":"vending_machine","name":"Fleisch- und Wurstwaren Wenk Frischeautomat","opening_hours":"24/7","vending":"food","id":"node/9199856635"},"geometry":{"type":"Point","coordinates":[14.4307343,51.1800792]}}
+{"type":"Feature","id":"node/9199856635","properties":{"amenity":"vending_machine","check_date":"2023-12-29","name":"Fleisch- und Wurstwaren Wenk Frischeautomat","opening_hours":"24/7","vending":"food","id":"node/9199856635"},"geometry":{"type":"Point","coordinates":[14.4307343,51.1800792]}}

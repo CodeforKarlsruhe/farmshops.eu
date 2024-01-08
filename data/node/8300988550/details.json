@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8300988550","properties":{"amenity":"marketplace","opening_hours":"Jul 12-Aug 16 Fr 17:00-22:00","source":"knowledge;Ortho HR","id":"node/8300988550"},"geometry":{"type":"Point","coordinates":[6.0839407,48.4305772]}}
+{"type":"Feature","id":"node/8300988550","properties":{"amenity":"marketplace","name:signed":"no","opening_hours":"Jul 12-Aug 16 Fr 17:00-22:00","source":"knowledge;Ortho HR","id":"node/8300988550"},"geometry":{"type":"Point","coordinates":[6.0839407,48.4305772]}}

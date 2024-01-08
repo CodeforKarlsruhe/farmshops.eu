@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/11489105880","properties":{"amenity":"vending_machine","operator":"EDEKA Südwest","payment:cash":"no","payment:credit_cards":"no","payment:debit_cards":"yes","vending":"food;drinks;snack;sweets;beer;wine;milk;water;cheese;sausage;eggs","id":"node/11489105880"},"geometry":{"type":"Point","coordinates":[7.8250546,47.98158]}}

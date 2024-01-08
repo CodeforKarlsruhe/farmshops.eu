@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8777045435","properties":{"fixme":"exact position","name":"Hofladen Hagenmühle","shop":"farm","website":"http://www.hagenmuehle-willanzheim.de","id":"node/8777045435"},"geometry":{"type":"Point","coordinates":[10.2286856,49.6696373]}}
+{"type":"Feature","id":"node/8777045435","properties":{"name":"Hofladen Hagenmühle","shop":"farm","website":"http://www.hagenmuehle-willanzheim.de","id":"node/8777045435"},"geometry":{"type":"Point","coordinates":[10.2286856,49.6696373]}}

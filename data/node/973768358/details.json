@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/973768358","properties":{"amenity":"marketplace","name":"Wochenmarkt Eckernförde","opening_hours":"We 07:00-13:00; Sa 07:00-13:00","wheelchair":"yes","id":"node/973768358"},"geometry":{"type":"Point","coordinates":[9.8363766,54.4713098]}}
+{"type":"Feature","id":"node/973768358","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-12-28","name":"Wochenmarkt Eckernförde","opening_hours":"We 07:00-13:00; Sa 07:00-13:00","wheelchair":"yes","id":"node/973768358"},"geometry":{"type":"Point","coordinates":[9.8363766,54.4713098]}}
