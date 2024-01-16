@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9422303955","properties":{"amenity":"vending_machine","vending":"food","id":"node/9422303955"},"geometry":{"type":"Point","coordinates":[8.2348859,50.1890992]}}
+{"type":"Feature","id":"node/9422303955","properties":{"amenity":"vending_machine","brand":"Regiomat","name":"Regiomat Eschenhahner Landeier","vending":"coffee;drinks;food;milk;sweets;water","id":"node/9422303955"},"geometry":{"type":"Point","coordinates":[8.2348859,50.1890992]}}
