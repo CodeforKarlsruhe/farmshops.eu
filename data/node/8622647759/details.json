@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8622647759","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Forchenhof, Familie Fenchel","vending":"eggs","id":"node/8622647759"},"geometry":{"type":"Point","coordinates":[8.848038,48.7274855]}}
+{"type":"Feature","id":"node/8622647759","properties":{"amenity":"vending_machine","check_date":"2024-01-15","currency:EUR":"yes","operator":"Forchenhof, Familie Fenchel","vending":"eggs","id":"node/8622647759"},"geometry":{"type":"Point","coordinates":[8.848038,48.7274855]}}
