@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4414620921","properties":{"amenity":"vending_machine","check_date":"2021-10-14","vending":"food","id":"node/4414620921"},"geometry":{"type":"Point","coordinates":[11.862812,49.4476092]}}
+{"type":"Feature","id":"node/4414620921","properties":{"amenity":"vending_machine","check_date":"2024-01-18","operator":"zoells.de GmbH","vending":"food","id":"node/4414620921"},"geometry":{"type":"Point","coordinates":[11.862812,49.4476092]}}
