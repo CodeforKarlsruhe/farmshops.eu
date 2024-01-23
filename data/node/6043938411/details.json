@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6043938411","properties":{"amenity":"marketplace","name":"Wochenmarkt Sauerlach","opening_hours":"Th 08:00-14:00","id":"node/6043938411"},"geometry":{"type":"Point","coordinates":[11.6543687,47.9732903]}}
+{"type":"Feature","id":"node/6043938411","properties":{"amenity":"marketplace","name":"Wochenmarkt Sauerlach","opening_hours":"Th 08:00-14:00","wheelchair":"yes","id":"node/6043938411"},"geometry":{"type":"Point","coordinates":[11.6543687,47.9732903]}}
