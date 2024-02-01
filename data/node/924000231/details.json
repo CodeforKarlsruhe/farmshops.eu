@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/924000231","properties":{"name":"Hof Bartels, Hofladen & Cafe","shop":"farm","id":"node/924000231"},"geometry":{"type":"Point","coordinates":[9.7963133,53.3880587]}}
+{"type":"Feature","id":"node/924000231","properties":{"amenity":"cafe","name":"Hof Bartels, Hofladen & Cafe","shop":"farm","id":"node/924000231"},"geometry":{"type":"Point","coordinates":[9.7963133,53.3880587]}}

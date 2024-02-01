@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10891675759","properties":{"amenity":"marketplace","fixme":"Startzeit des Marktes am Fr. Morgen fehlt","name":"Landlmühle Markt","opening_hours":"Fr -14:00","id":"node/10891675759"},"geometry":{"type":"Point","coordinates":[12.1662329,47.8473433]}}
+{"type":"Feature","id":"node/10891675759","properties":{"amenity":"marketplace","name":"Landlmühle Markt","opening_hours":"Fr, Sa 10:00-14:00","id":"node/10891675759"},"geometry":{"type":"Point","coordinates":[12.1662329,47.8473433]}}
