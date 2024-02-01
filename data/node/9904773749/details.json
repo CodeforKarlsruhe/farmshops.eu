@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9904773749","properties":{"name":"Hirschvogels","opening_hours":"Mo-Fr 09:00-18:30; Sa 09:00-13:00","operator":"Ali Muhamad Obeid","shop":"farm","id":"node/9904773749"},"geometry":{"type":"Point","coordinates":[11.547899,48.117557]}}
+{"type":"Feature","id":"node/9904773749","properties":{"name":"Hirschvogels","opening_hours":"Sa 10:00-14:00; Th, Fr 10:00-19:00","operator":"Christina Riedmair","shop":"farm","website":"https://www.hirschvogels-hofladen.de/","id":"node/9904773749"},"geometry":{"type":"Point","coordinates":[11.547899,48.117557]}}
