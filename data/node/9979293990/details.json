@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9979293990","properties":{"shop":"farm","id":"node/9979293990"},"geometry":{"type":"Point","coordinates":[8.3613951,46.9594125]}}
+{"type":"Feature","id":"node/9979293990","properties":{"name":"Blumen Selber Schneiden","pick-your-own":"yes","produce":"flowers","self_service":"yes","shop":"farm","id":"node/9979293990"},"geometry":{"type":"Point","coordinates":[8.3613951,46.9594125]}}
