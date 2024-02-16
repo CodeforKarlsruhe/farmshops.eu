@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2101686400","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Sa 07:00-13:00","id":"node/2101686400"},"geometry":{"type":"Point","coordinates":[10.2191289,47.5599439]}}
+{"type":"Feature","id":"node/2101686400","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Sa 07:00-13:00","wheelchair":"yes","id":"node/2101686400"},"geometry":{"type":"Point","coordinates":[10.2191289,47.5599439]}}
