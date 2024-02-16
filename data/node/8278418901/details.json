@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8278418901","properties":{"amenity":"vending_machine","covered":"yes","indoor":"no","operator":"SAUTTER Kartoffelverarbeitung","vending":"food","id":"node/8278418901"},"geometry":{"type":"Point","coordinates":[8.8218335,48.522394]}}
+{"type":"Feature","id":"node/8278418901","properties":{"amenity":"vending_machine","check_date":"2024-02-16","covered":"yes","indoor":"no","operator":"SAUTTER Kartoffelverarbeitung","vending":"food","id":"node/8278418901"},"geometry":{"type":"Point","coordinates":[8.8218335,48.522394]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11556484769","properties":{"addr:housenumber":"20","addr:street":"Ringstrasse","name":"Gislers Churer Spargeln und Steinobst","shop":"farm","website":"https://churer-spargeln.ch","id":"node/11556484769"},"geometry":{"type":"Point","coordinates":[9.5133122,46.8514614]}}
+{"type":"Feature","id":"node/11556484769","properties":{"name":"Gislers Churer Spargeln und Steinobst","shop":"farm","website":"https://churer-spargeln.ch","id":"node/11556484769"},"geometry":{"type":"Point","coordinates":[9.5133711,46.8514675]}}
