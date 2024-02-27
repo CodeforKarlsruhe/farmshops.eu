@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11247937239","properties":{"name":"La Grangette - Beaulieu","shop":"farm","id":"node/11247937239"},"geometry":{"type":"Point","coordinates":[6.6247488,46.5287673]}}
+{"type":"Feature","id":"node/11247937239","properties":{"name":"La Grangette - Beaulieu","opening_hours":"Mo-Su 06:00-22:00","operator":"Domaine de La Grangette","organic":"only","self_service":"yes","shop":"farm","id":"node/11247937239"},"geometry":{"type":"Point","coordinates":[6.624723,46.5287736]}}

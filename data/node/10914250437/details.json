@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10914250437","properties":{"amenity":"marketplace","name":"Wochenmarkt Neuperlach","opening_hours":"Fr 13:00-18:00; PH off","wheelchair":"yes","id":"node/10914250437"},"geometry":{"type":"Point","coordinates":[11.6466736,48.1001049]}}
+{"type":"Feature","id":"node/10914250437","properties":{"amenity":"marketplace","check_date:opening_hours":"2024-02-24","name":"Wochenmarkt Neuperlach","opening_hours":"Fr 13:00-18:00; PH off","wheelchair":"yes","id":"node/10914250437"},"geometry":{"type":"Point","coordinates":[11.6466736,48.1001049]}}
