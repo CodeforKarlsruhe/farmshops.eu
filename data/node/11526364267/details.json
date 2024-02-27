@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11526364267","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Do 13:00-18:00","wheelchair":"yes","id":"node/11526364267"},"geometry":{"type":"Point","coordinates":[8.5305024,49.3694379]}}
+{"type":"Feature","id":"node/11526364267","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Do 13:00-18:00","operator":"Marktgilde","wheelchair":"yes","id":"node/11526364267"},"geometry":{"type":"Point","coordinates":[8.5305024,49.3694379]}}
