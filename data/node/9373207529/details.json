@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9373207529","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:cash":"yes","vending":"meat;sausages;food","id":"node/9373207529"},"geometry":{"type":"Point","coordinates":[9.0342691,49.8930666]}}
+{"type":"Feature","id":"node/9373207529","properties":{"amenity":"vending_machine","check_date":"2024-03-07","currency:EUR":"yes","payment:cash":"yes","vending":"meat;sausages;food","id":"node/9373207529"},"geometry":{"type":"Point","coordinates":[9.0342691,49.8930666]}}

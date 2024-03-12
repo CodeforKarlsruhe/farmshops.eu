@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6357046689","properties":{"shop":"farm","id":"node/6357046689"},"geometry":{"type":"Point","coordinates":[8.9905185,47.474679]}}
+{"type":"Feature","id":"node/6357046689","properties":{"addr:city":"Münchwilen TG","addr:housenumber":"7","addr:postcode":"9542","addr:street":"Kettstrasse","name":"Bruggmann's Oberhofen","phone":"+41 71 966 59 91","shop":"farm","website":"https://www.bruggmanns-oberhofen.ch/","id":"node/6357046689"},"geometry":{"type":"Point","coordinates":[8.9905185,47.474679]}}

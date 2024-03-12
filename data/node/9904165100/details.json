@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9904165100","properties":{"amenity":"vending_machine","food":"Eier, Honig, Kartoffeln, Gemüse","vending":"food","id":"node/9904165100"},"geometry":{"type":"Point","coordinates":[8.6144373,53.0157966]}}
+{"type":"Feature","id":"node/9904165100","properties":{"amenity":"vending_machine","description":"Eier, Honig, Kartoffeln, Gemüse","food:eggs":"yes","food:honey":"yes","food:potatoes":"yes","food:vegetables":"yes","vending":"food","id":"node/9904165100"},"geometry":{"type":"Point","coordinates":[8.6144373,53.0157966]}}

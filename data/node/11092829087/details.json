@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11092829087","properties":{"amenity":"vending_machine","vending":"food","id":"node/11092829087"},"geometry":{"type":"Point","coordinates":[8.0996255,51.227033]}}
+{"type":"Feature","id":"node/11092829087","properties":{"disused:amenity":"vending_machine","note":"außer Betrieb wegen Insolvenz BSD Wald, 07.02.24","vending":"food","id":"node/11092829087"},"geometry":{"type":"Point","coordinates":[8.0995524,51.2271086]}}

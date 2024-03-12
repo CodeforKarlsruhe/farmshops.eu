@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8508267777","properties":{"amenity":"marketplace","name":"Mömlinger Wochenmarkt","opening_hours":"Th 08:30-13:30; PH off","id":"node/8508267777"},"geometry":{"type":"Point","coordinates":[9.0843375,49.8582807]}}
+{"type":"Feature","id":"node/8508267777","properties":{"amenity":"marketplace","check_date:opening_hours":"2024-03-06","name":"Mömlinger Wochenmarkt","opening_hours":"Th 08:30-13:30; PH off","id":"node/8508267777"},"geometry":{"type":"Point","coordinates":[9.0843375,49.8582807]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9010465081","properties":{"amenity":"marketplace","id":"node/9010465081"},"geometry":{"type":"Point","coordinates":[5.8374216,52.4467206]}}
+{"type":"Feature","id":"node/9010465081","properties":{"amenity":"marketplace","name":"Weekmarkt Elburg","opening_hours":"Tu 08:00-12:00","id":"node/9010465081"},"geometry":{"type":"Point","coordinates":[5.8374216,52.4467206]}}

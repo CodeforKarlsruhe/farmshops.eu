@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/984733064","properties":{"amenity":"marketplace","area:highway":"pedestrian","name":"Marktplatz","id":"way/984733064"},"geometry":{"type":"Point","coordinates":[8.2039423,51.8017191]}}
+{"type":"Feature","id":"way/984733064","properties":{"amenity":"marketplace","area:highway":"pedestrian","name":"Marktplatz","opening_hours":"24/7","id":"way/984733064"},"geometry":{"type":"Point","coordinates":[8.2039423,51.8017191]}}

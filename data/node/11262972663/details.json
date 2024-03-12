@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11262972663","properties":{"self_service":"yes","shop":"farm","source":"survey 10.2023 and Imagery","id":"node/11262972663"},"geometry":{"type":"Point","coordinates":[9.6073093,47.3318207]}}
+{"type":"Feature","id":"node/11262972663","properties":{"amenity":"vending_machine","description":"Dorfautomat","name":"Dorfautomat","opening_hours":"24/7","self_service":"yes","shop":"farm","source":"survey 02.2024 and Vogis 2022","vending":"milk","id":"node/11262972663"},"geometry":{"type":"Point","coordinates":[9.6068864,47.3319911]}}

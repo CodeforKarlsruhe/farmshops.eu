@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1211615834","properties":{"name":"Hof Preut","opening_hours":"24/7","shop":"farm","id":"way/1211615834"},"geometry":{"type":"Point","coordinates":[7.8695007,52.9962613]}}
+{"type":"Feature","id":"way/1211615834","properties":{"addr:city":"Friesoythe","addr:housenumber":"18","addr:postcode":"26169","addr:street":"Pehmertanger Weg","name":"Hof Preut","opening_hours":"24/7","shop":"farm","id":"way/1211615834"},"geometry":{"type":"Point","coordinates":[7.8695734,52.9962381]}}

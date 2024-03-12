@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7784122486","properties":{"name":"Romanhof","shop":"farm","id":"node/7784122486"},"geometry":{"type":"Point","coordinates":[7.99721,48.3004212]}}
+{"type":"Feature","id":"node/7784122486","properties":{"addr:housenumber":"22","addr:place":"Prinzbach","addr:street":"Obertal","name":"Romanhof","shop":"farm","id":"node/7784122486"},"geometry":{"type":"Point","coordinates":[7.99721,48.3004212]}}
