@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9938720967","properties":{"amenity":"vending_machine","phone":"+49 175 4178974","product":"eggs","shop":"farm","id":"node/9938720967"},"geometry":{"type":"Point","coordinates":[7.958865,52.3897473]}}
+{"type":"Feature","id":"node/9938720967","properties":{"amenity":"vending_machine","phone":"+49 175 4178974","shop":"farm","vending":"eggs","id":"node/9938720967"},"geometry":{"type":"Point","coordinates":[7.958865,52.3897473]}}

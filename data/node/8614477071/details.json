@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8614477071","properties":{"produce":"eggs;potatoes","shop":"farm","id":"node/8614477071"},"geometry":{"type":"Point","coordinates":[9.3723893,49.400257]}}
+{"type":"Feature","id":"node/8614477071","properties":{"name":"Schmutz GbR","phone":"+49 6291 1205","produce":"eggs;potatoes","shop":"farm","id":"node/8614477071"},"geometry":{"type":"Point","coordinates":[9.3723893,49.400257]}}

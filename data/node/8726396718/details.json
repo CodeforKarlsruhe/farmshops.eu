@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8726396718","properties":{"amenity":"vending_machine","name":"Diglas im Glas","operator":"Cafe Diglas im Schottenstift","vending":"food","id":"node/8726396718"},"geometry":{"type":"Point","coordinates":[16.3638664,48.2125895]}}
+{"type":"Feature","id":"node/8726396718","properties":{"amenity":"vending_machine","indoor":"no","name":"Diglas im Glas","operator":"Cafe Diglas im Schottenstift","vending":"food","id":"node/8726396718"},"geometry":{"type":"Point","coordinates":[16.3638664,48.2125895]}}

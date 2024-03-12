@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/32727309","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Marktplatz Lüchow","surface":"paving_stones","id":"way/32727309"},"geometry":{"type":"Point","coordinates":[11.1556023,52.9673928]}}
+{"type":"Feature","id":"way/32727309","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Marktplatz Lüchow","surface":"paving_stones","wheelchair":"yes","id":"way/32727309"},"geometry":{"type":"Point","coordinates":[11.1556023,52.9673928]}}

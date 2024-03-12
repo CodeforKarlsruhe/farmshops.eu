@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4408364096","properties":{"amenity":"marketplace","name":"Marché de producteurs","opening_hours":"Th 17:00-19:00","id":"node/4408364096"},"geometry":{"type":"Point","coordinates":[4.677706,46.5262856]}}
+{"type":"Feature","id":"node/4408364096","properties":{"amenity":"marketplace","name":"Marché de producteurs","opening_hours":"Mar-Dec: Fr 17:00-19:00","wheelchair":"yes","id":"node/4408364096"},"geometry":{"type":"Point","coordinates":[4.6776872,46.5263271]}}
