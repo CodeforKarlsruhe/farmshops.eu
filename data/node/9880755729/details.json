@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9880755729","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:coins":"yes","shop":"ice_cream","vending":"food;eggs;milk","id":"node/9880755729"},"geometry":{"type":"Point","coordinates":[9.7013954,48.5598399]}}
+{"type":"Feature","id":"node/9880755729","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:coins":"yes","shop":"ice_cream","vending":"food;eggs;milk;ice_cream","id":"node/9880755729"},"geometry":{"type":"Point","coordinates":[9.7013954,48.5598399]}}

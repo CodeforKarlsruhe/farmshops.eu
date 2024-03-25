@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10004837418","properties":{"amenity":"vending_machine","vending":"milk","id":"node/10004837418"},"geometry":{"type":"Point","coordinates":[9.0118566,48.6716305]}}
+{"type":"Feature","id":"node/10004837418","properties":{"amenity":"vending_machine","name":"Schönbuch Milch","vending":"milk","id":"node/10004837418"},"geometry":{"type":"Point","coordinates":[9.0118566,48.6716305]}}
