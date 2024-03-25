@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2591388337","properties":{"amenity":"marketplace","id":"node/2591388337"},"geometry":{"type":"Point","coordinates":[5.2204636,52.3716324]}}
+{"type":"Feature","id":"node/2591388337","properties":{"amenity":"marketplace","name":"Stadhuisplein","opening_hours":"\"Always open\"","id":"node/2591388337"},"geometry":{"type":"Point","coordinates":[5.2204636,52.3716324]}}
