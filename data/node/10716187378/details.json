@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10716187378","properties":{"description:de":"Kräuter, Honig, Eier, Marmelade","name":"Hofladen","shop":"farm","id":"node/10716187378"},"geometry":{"type":"Point","coordinates":[12.0118614,54.1563537]}}
+{"type":"Feature","id":"node/10716187378","properties":{"description:de":"Kräuter, Honig, Eier, Marmelade","name":"Hofladen","shop":"farm","wheelchair":"no","id":"node/10716187378"},"geometry":{"type":"Point","coordinates":[12.0118614,54.1563537]}}
