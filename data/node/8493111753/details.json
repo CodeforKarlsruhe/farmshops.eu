@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8493111753","properties":{"amenity":"vending_machine","check_date":"2023-03-12","description":"Verkauf von Kartoffeln","vending":"food","id":"node/8493111753"},"geometry":{"type":"Point","coordinates":[11.4277926,48.1524127]}}
+{"type":"Feature","id":"node/8493111753","properties":{"amenity":"vending_machine","check_date":"2023-03-12","description":"Verkauf von Kartoffeln","indoor":"yes","vending":"food","id":"node/8493111753"},"geometry":{"type":"Point","coordinates":[11.4277926,48.1524127]}}

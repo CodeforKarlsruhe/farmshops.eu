@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1241010040","properties":{"name":"Äweleshof","shop":"farm","id":"node/1241010040"},"geometry":{"type":"Point","coordinates":[8.798482,49.6662238]}}
+{"type":"Feature","id":"node/1241010040","properties":{"name":"Äweleshof","opening_hours":"Sa 10:00-12:00","shop":"farm","id":"node/1241010040"},"geometry":{"type":"Point","coordinates":[8.798482,49.6662238]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7952719778","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Motzengut","vending":"milk","id":"node/7952719778"},"geometry":{"type":"Point","coordinates":[13.128222,47.6968505]}}
+{"type":"Feature","id":"node/7952719778","properties":{"amenity":"vending_machine","check_date":"2024-04-05","currency:EUR":"yes","operator":"Motzengut","vending":"milk","id":"node/7952719778"},"geometry":{"type":"Point","coordinates":[13.128222,47.6968505]}}

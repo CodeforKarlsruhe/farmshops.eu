@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11470946245","properties":{"check_date":"2023-12-30","opening_hours":"06:00-20:00","self_service":"yes","shop":"farm","wheelchair":"no","id":"node/11470946245"},"geometry":{"type":"Point","coordinates":[15.89455,48.4279097]}}
+{"type":"Feature","id":"node/11470946245","properties":{"check_date":"2023-12-30","opening_hours":"Mo-Su 06:00-20:00","self_service":"yes","shop":"farm","wheelchair":"no","id":"node/11470946245"},"geometry":{"type":"Point","coordinates":[15.89455,48.4279097]}}
