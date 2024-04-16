@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10223646430","properties":{"name":"Hofladen Pflüglerhof","shop":"farm","id":"node/10223646430"},"geometry":{"type":"Point","coordinates":[11.6668203,48.3131816]}}
+{"type":"Feature","id":"node/10223646430","properties":{"check_date":"2024-04-13","name":"Hofladen Pflüglerhof","opening_hours":"Th 14:00-18:00; Fr 08:00-18:00; Sa 08:00-12:00","shop":"farm","id":"node/10223646430"},"geometry":{"type":"Point","coordinates":[11.6668203,48.3131816]}}
