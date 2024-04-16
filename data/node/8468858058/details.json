@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8468858058","properties":{"opening_hours":"Mo-Su 07:00-19:30","shop":"farm","id":"node/8468858058"},"geometry":{"type":"Point","coordinates":[7.7078487,47.1878057]}}
+{"type":"Feature","id":"node/8468858058","properties":{"name":"Bürlihuus","opening_hours":"Mo-Su 07:00-19:30","operator":"Familie Günter","shop":"farm","id":"node/8468858058"},"geometry":{"type":"Point","coordinates":[7.7078767,47.1878269]}}
