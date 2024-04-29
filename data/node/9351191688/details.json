@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9351191688","properties":{"amenity":"vending_machine","operator":"Geflügelhof Wulf","start_date":"2021","vending":"food","id":"node/9351191688"},"geometry":{"type":"Point","coordinates":[10.8856652,54.2204899]}}
+{"type":"Feature","id":"node/9351191688","properties":{"amenity":"vending_machine","check_date":"2024-04-23","operator":"Geflügelhof Wulf","start_date":"2021","vending":"food","id":"node/9351191688"},"geometry":{"type":"Point","coordinates":[10.8856652,54.2204899]}}

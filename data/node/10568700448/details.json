@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10568700448","properties":{"amenity":"vending_machine","vending":"potatoes;eggs","id":"node/10568700448"},"geometry":{"type":"Point","coordinates":[10.201569,52.4628877]}}
+{"type":"Feature","id":"node/10568700448","properties":{"amenity":"vending_machine","indoor":"no","vending":"potatoes;eggs","id":"node/10568700448"},"geometry":{"type":"Point","coordinates":[10.201569,52.4628877]}}

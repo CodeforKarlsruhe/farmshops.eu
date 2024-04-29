@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3512169794","properties":{"name":"Spargelhof Rafz","shop":"farm","website":"https://juckerfarm.ch/","id":"node/3512169794"},"geometry":{"type":"Point","coordinates":[8.5552137,47.5993129]}}
+{"type":"Feature","id":"node/3512169794","properties":{"email":"info@juckerfarm.ch","name":"Spargelhof Rafz","organic":"yes","payment:cards":"yes","payment:cash":"yes","payment:qr_code":"yes","phone":"+41 44 934 34 84","shop":"farm","website":"https://juckerfarm.ch/","id":"node/3512169794"},"geometry":{"type":"Point","coordinates":[8.5552137,47.5993129]}}

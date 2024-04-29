@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3452261973","properties":{"name":"Fuchsmühle","opening_hours":"Th 16:00-19:00","shop":"farm","wheelchair":"yes","id":"node/3452261973"},"geometry":{"type":"Point","coordinates":[7.8200277,48.2514991]}}
+{"type":"Feature","id":"node/3452261973","properties":{"check_date:opening_hours":"2024-04-22","name":"Fuchsmühle","opening_hours":"Th 16:00-19:00","shop":"farm","wheelchair":"yes","id":"node/3452261973"},"geometry":{"type":"Point","coordinates":[7.8200277,48.2514991]}}
