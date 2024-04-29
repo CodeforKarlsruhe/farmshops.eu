@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3844342710","properties":{"amenity":"marketplace","fvst:navnelbnr":"521876","name":"Compass Fairs","ref:DK:cvr":"28886756","ref:DK:cvr:pnummer":"1004903836","id":"node/3844342710"},"geometry":{"type":"Point","coordinates":[9.3467988,55.0725086]}}
+{"type":"Feature","id":"node/3844342710","properties":{"amenity":"marketplace","name":"Compass Fairs","ref:DK:cvr":"28886756","ref:DK:cvr:pnummer":"1004903836","id":"node/3844342710"},"geometry":{"type":"Point","coordinates":[9.3467988,55.0725086]}}

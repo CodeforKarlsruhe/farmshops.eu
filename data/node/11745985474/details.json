@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11745985474","properties":{"addr:housenumber":"3","addr:place":"Wind","name":"Pröls","phone":"+49 9502 329","shop":"farm","website":"https://www.proels-genuss.de/","id":"node/11745985474"},"geometry":{"type":"Point","coordinates":[10.8487699,49.7774976]}}
+{"type":"Feature","id":"node/11745985474","properties":{"name":"Pröls","phone":"+49 9502 329","shop":"farm","website":"https://www.proels-genuss.de/","id":"node/11745985474"},"geometry":{"type":"Point","coordinates":[10.8487699,49.7774976]}}
