@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9624467563","properties":{"amenity":"vending_machine","vending":"milk","id":"node/9624467563"},"geometry":{"type":"Point","coordinates":[7.7391587,51.5441224]}}
+{"type":"Feature","id":"node/9624467563","properties":{"amenity":"vending_machine","contact:website":"https://www.milchhof-muehlhausen.de/","operator":"Milchhof Mühlhausen","payment:coins":"yes","payment:notes":"yes","vending":"milk","id":"node/9624467563"},"geometry":{"type":"Point","coordinates":[7.7391275,51.5441243]}}

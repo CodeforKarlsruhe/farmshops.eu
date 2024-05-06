@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7843052999","properties":{"amenity":"vending_machine","payment:coins":"yes","vending":"milk;bottles","id":"node/7843052999"},"geometry":{"type":"Point","coordinates":[16.5852618,49.2210253]}}
+{"type":"Feature","id":"node/7843052999","properties":{"amenity":"vending_machine","check_date":"2024-05-05","payment:coins":"yes","vending":"milk;bottles","id":"node/7843052999"},"geometry":{"type":"Point","coordinates":[16.5852618,49.2210253]}}
