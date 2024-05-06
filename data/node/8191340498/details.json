@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8191340498","properties":{"amenity":"vending_machine","name":"Kartoffelhütte","vending":"food","id":"node/8191340498"},"geometry":{"type":"Point","coordinates":[11.2623898,48.2173033]}}
+{"type":"Feature","id":"node/8191340498","properties":{"amenity":"vending_machine","check_date":"2024-04-29","covered":"yes","name":"Kartoffelhütte","vending":"food","id":"node/8191340498"},"geometry":{"type":"Point","coordinates":[11.2623898,48.2173033]}}

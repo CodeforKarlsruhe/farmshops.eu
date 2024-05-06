@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8032390312","properties":{"amenity":"vending_machine","name":"Leimstollenhof","vending":"eggs","id":"node/8032390312"},"geometry":{"type":"Point","coordinates":[7.9067138,48.0322884]}}
+{"type":"Feature","id":"node/8032390312","properties":{"amenity":"vending_machine","check_date":"2019-10-17","name":"Leimstollenhof","vending":"eggs","id":"node/8032390312"},"geometry":{"type":"Point","coordinates":[7.9067138,48.0322884]}}

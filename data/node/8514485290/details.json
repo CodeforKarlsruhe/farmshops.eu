@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8514485290","properties":{"amenity":"vending_machine","organic":"only","vending":"eggs","id":"node/8514485290"},"geometry":{"type":"Point","coordinates":[7.4566564,52.6568365]}}
+{"type":"Feature","id":"node/8514485290","properties":{"amenity":"vending_machine","check_date":"2024-05-01","organic":"only","vending":"eggs","id":"node/8514485290"},"geometry":{"type":"Point","coordinates":[7.4566564,52.6568365]}}
