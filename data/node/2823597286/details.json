@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2823597286","properties":{"name":"Hofladen","shop":"farm","id":"node/2823597286"},"geometry":{"type":"Point","coordinates":[12.9448087,52.3469978]}}
+{"type":"Feature","id":"node/2823597286","properties":{"addr:housenumber":"60","addr:postcode":"14542","addr:street":"Fercher Straße","name":"Hofladen","name:de":"Christine Berger GmbH Hofladen","phone":"+49332746910","shop":"farm","id":"node/2823597286"},"geometry":{"type":"Point","coordinates":[12.9448087,52.3469978]}}

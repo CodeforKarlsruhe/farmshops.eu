@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/24354857","properties":{"amenity":"marketplace","name":"Markt","id":"way/24354857"},"geometry":{"type":"Point","coordinates":[13.9313635,52.2550979]}}
+{"type":"Feature","id":"way/24354857","properties":{"amenity":"marketplace","name":"Markt","opening_hours":"Mo,Fr 08:00-16:00","id":"way/24354857"},"geometry":{"type":"Point","coordinates":[13.9313635,52.2550979]}}

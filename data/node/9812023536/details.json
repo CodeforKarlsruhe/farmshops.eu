@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9812023536","properties":{"amenity":"vending_machine","name":"Alter Schlosswirt","vending":"drinks;food","id":"node/9812023536"},"geometry":{"type":"Point","coordinates":[11.5939163,49.4807865]}}
+{"type":"Feature","id":"node/9812023536","properties":{"amenity":"vending_machine","description":"Es ist alles für eine komplette Brotzeit vorhanden. Essen, Geschirr, Gläser.","name":"Alter Schlosswirt","vending":"drinks;food","id":"node/9812023536"},"geometry":{"type":"Point","coordinates":[11.5939163,49.4807865]}}

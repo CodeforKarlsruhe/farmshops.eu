@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/11895371480","properties":{"addr:city":"Xanten","addr:housenumber":"2","addr:postcode":"46509","addr:street":"Urseler Straße","amenity":"vending_machine","payment:cash":"yes","produce":"egg","shop":"farm","vending":"milk","id":"node/11895371480"},"geometry":{"type":"Point","coordinates":[6.4136843,51.6645828]}}

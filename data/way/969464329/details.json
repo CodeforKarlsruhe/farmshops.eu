@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/969464329","properties":{"check_date":"2021-08-01","craft":"beekeeper","name":"Pasieka","id":"way/969464329"},"geometry":{"type":"Point","coordinates":[17.2492355,51.0501498]}}
+{"type":"Feature","id":"way/969464329","properties":{"check_date":"2021-08-01","craft":"beekeeper","description":"Pasieka","landuse":"apiary","id":"way/969464329"},"geometry":{"type":"Point","coordinates":[17.2492355,51.0501498]}}
