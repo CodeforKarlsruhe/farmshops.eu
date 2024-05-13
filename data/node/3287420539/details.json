@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3287420539","properties":{"amenity":"vending_machine","operator":"Fleischerei Schwane","payment:coins":"yes","vending":"food","id":"node/3287420539"},"geometry":{"type":"Point","coordinates":[6.8423408,51.7695963]}}
+{"type":"Feature","id":"node/3287420539","properties":{"amenity":"vending_machine","check_date":"2024-05-12","indoor":"no","operator":"Fleischerei Schwane","payment:coins":"yes","vending":"food","id":"node/3287420539"},"geometry":{"type":"Point","coordinates":[6.8423408,51.7695963]}}
