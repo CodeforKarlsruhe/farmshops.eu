@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11750439840","properties":{"amenity":"marketplace","name":"Achimer Wochenmarkt","opening_hours":"We 07:00-13:00; Sa 07:00-13:30","operator":"Stadt Achim","id":"node/11750439840"},"geometry":{"type":"Point","coordinates":[9.0359952,53.0120093]}}
+{"type":"Feature","id":"node/11750439840","properties":{"amenity":"marketplace","name":"Achimer Wochenmarkt","opening_hours":"We 07:00-13:00; Sa 07:00-13:30","operator":"Stadt Achim","wheelchair":"yes","id":"node/11750439840"},"geometry":{"type":"Point","coordinates":[9.0359952,53.0120093]}}

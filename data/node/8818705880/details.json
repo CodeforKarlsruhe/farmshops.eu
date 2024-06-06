@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8818705880","properties":{"addr:housenumber":"13","addr:street":"Im Kornfeld","name":"Weide-Eier Bauernhof Pflugfelder","opening_hours":"24/7","shop":"farm","id":"node/8818705880"},"geometry":{"type":"Point","coordinates":[9.1266842,48.8698403]}}
+{"type":"Feature","id":"node/8818705880","properties":{"addr:housenumber":"13","addr:street":"Im Kornfeld","check_date":"2024-06-01","name":"Weide-Eier Bauernhof Pflugfelder","opening_hours":"24/7","shop":"farm","id":"node/8818705880"},"geometry":{"type":"Point","coordinates":[9.1266842,48.8698403]}}

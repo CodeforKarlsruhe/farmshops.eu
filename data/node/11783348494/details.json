@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11783348494","properties":{"name":"Fungi Futuri","opening_hours":"Fr 12:00-15:00","shop":"farm","web":"https://fungifuturi.ch/","id":"node/11783348494"},"geometry":{"type":"Point","coordinates":[7.63929,46.7743554]}}
+{"type":"Feature","id":"node/11783348494","properties":{"name":"Fungi Futuri","opening_hours":"Fr 12:00-15:00","shop":"farm","url":"https://fungifuturi.ch/","id":"node/11783348494"},"geometry":{"type":"Point","coordinates":[7.63929,46.7743554]}}

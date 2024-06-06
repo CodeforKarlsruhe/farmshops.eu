@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11842269199","properties":{"amenity":"marketplace","name":"Marché couvert","id":"node/11842269199"},"geometry":{"type":"Point","coordinates":[6.5810517,48.045919]}}
+{"type":"Feature","id":"node/11842269199","properties":{"addr:city":"Saint-Nabord","amenity":"marketplace","name":"Marché couvert","id":"node/11842269199"},"geometry":{"type":"Point","coordinates":[6.5810517,48.045919]}}

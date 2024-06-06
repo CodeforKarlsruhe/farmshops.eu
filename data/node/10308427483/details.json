@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10308427483","properties":{"amenity":"marketplace","name":"Burgwal","opening_hours":"Sa","source":"survey","wheelchair":"yes","id":"node/10308427483"},"geometry":{"type":"Point","coordinates":[4.3608786,52.0110475]}}
+{"type":"Feature","id":"node/10308427483","properties":{"amenity":"marketplace","name":"Burgwal","opening_hours":"Sa","payment:cash":"yes","source":"survey","wheelchair":"yes","id":"node/10308427483"},"geometry":{"type":"Point","coordinates":[4.3608786,52.0110475]}}
