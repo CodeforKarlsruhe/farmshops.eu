@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11687748865","properties":{"amenity":"vending_machine","vending":"eggs;drinks;cheese","id":"node/11687748865"},"geometry":{"type":"Point","coordinates":[9.6400592,47.3233898]}}
+{"type":"Feature","id":"node/11687748865","properties":{"amenity":"vending_machine","organic":"only","payment:coins":"yes","vending":"eggs;drinks;cheese","id":"node/11687748865"},"geometry":{"type":"Point","coordinates":[9.6400592,47.3233898]}}

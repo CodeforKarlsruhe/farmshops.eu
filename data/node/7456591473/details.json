@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7456591473","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Fries Beef","vending":"food","website":"https://www.fries-beef.de/","id":"node/7456591473"},"geometry":{"type":"Point","coordinates":[10.8860714,49.2175553]}}
+{"type":"Feature","id":"node/7456591473","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Roemerbeef","vending":"food","website":"https://www.roemerbeef.shop/saloon","id":"node/7456591473"},"geometry":{"type":"Point","coordinates":[10.8862421,49.2175631]}}

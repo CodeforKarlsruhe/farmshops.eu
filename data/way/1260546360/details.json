@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1260546360","properties":{"amenity":"marketplace","name":"Rathausplatz","surface":"cobblestone:flattened","id":"way/1260546360"},"geometry":{"type":"Point","coordinates":[13.777012,54.054246]}}
+{"type":"Feature","id":"way/1260546360","properties":{"amenity":"marketplace","name":"Rathausplatz","opening_hours":"Th 09:00-18:00+","surface":"cobblestone:flattened","id":"way/1260546360"},"geometry":{"type":"Point","coordinates":[13.777012,54.054246]}}
