@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8805793977","properties":{"amenity":"marketplace","opening_hours":"Fr 07:00-12:00","organic":"yes","id":"node/8805793977"},"geometry":{"type":"Point","coordinates":[16.2833597,48.0856327]}}
+{"type":"Feature","id":"node/8805793977","properties":{"amenity":"marketplace","name":"Schrannenplatz","opening_hours":"Fr 07:00-12:00","organic":"yes","id":"node/8805793977"},"geometry":{"type":"Point","coordinates":[16.2833597,48.0856327]}}

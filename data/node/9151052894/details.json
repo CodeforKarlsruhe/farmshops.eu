@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9151052894","properties":{"amenity":"vending_machine","name":"Snack Boxx","vending":"food;drinks;coffee","id":"node/9151052894"},"geometry":{"type":"Point","coordinates":[14.2916083,48.296757]}}
+{"type":"Feature","id":"node/9151052894","properties":{"amenity":"vending_machine","check_date":"2024-06-18","indoor":"yes","name":"Snack Boxx","vending":"food;drinks;coffee","id":"node/9151052894"},"geometry":{"type":"Point","coordinates":[14.2916083,48.296757]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10742941278","properties":{"amenity":"vending_machine","level":"0","operator":"Saveurs des deux Ourthes","vending":"eggs;drinks;food","id":"node/10742941278"},"geometry":{"type":"Point","coordinates":[5.8400414,50.088589]}}
+{"type":"Feature","id":"node/10742941278","properties":{"amenity":"vending_machine","operator":"Saveurs des deux Ourthes","vending":"eggs;drinks;food","id":"node/10742941278"},"geometry":{"type":"Point","coordinates":[5.8400414,50.088589]}}

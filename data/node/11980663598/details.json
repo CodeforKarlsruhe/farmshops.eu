@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/11980663598","properties":{"addr:city":"Münster","addr:country":"DE","addr:housenumber":"37","addr:postcode":"48167","addr:street":"Homannstraße","amenity":"vending_machine","opening_hours":"24/7","operator":"Hof Homann-Niehoff","vending":"dairy;eggs;milk","id":"node/11980663598"},"geometry":{"type":"Point","coordinates":[7.6883192,51.922688]}}

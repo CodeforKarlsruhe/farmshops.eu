@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10172123217","properties":{"fixme":"position estimated","name":"Götzenmühle","phone":"+49 6805 7603","shop":"farm","id":"node/10172123217"},"geometry":{"type":"Point","coordinates":[7.0889349,49.1620644]}}
+{"type":"Feature","id":"node/10172123217","properties":{"name":"Götzenmühle","opening_hours":"Mo-We,Fr 14:30-18:00; Sa 09:00-12:00","phone":"+49 6805 7603","shop":"farm","id":"node/10172123217"},"geometry":{"type":"Point","coordinates":[7.0890456,49.1622011]}}

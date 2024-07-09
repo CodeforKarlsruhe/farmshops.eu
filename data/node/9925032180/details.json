@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9925032180","properties":{"amenity":"vending_machine","vending":"food;eggs","id":"node/9925032180"},"geometry":{"type":"Point","coordinates":[10.2219186,47.6300531]}}
+{"type":"Feature","id":"node/9925032180","properties":{"amenity":"vending_machine","indoor":"yes","opening_hours":"24/7","vending":"food;eggs","id":"node/9925032180"},"geometry":{"type":"Point","coordinates":[10.2218554,47.6300173]}}

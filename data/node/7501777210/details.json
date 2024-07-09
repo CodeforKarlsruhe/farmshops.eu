@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7501777210","properties":{"fruit":"strawberry","name":"Döpke","opening_hours":"May-Jul Mo-Su 07:00-13:00; PH off","payment:cash":"yes","seasonal":"summer","shop":"farm","id":"node/7501777210"},"geometry":{"type":"Point","coordinates":[8.18794,53.2472191]}}
+{"type":"Feature","id":"node/7501777210","properties":{"name":"Döpke","opening_hours":"May-Jul Mo-Su 07:00-13:00; PH off","payment:cash":"yes","produce":"strawberry","seasonal":"summer","shop":"farm","id":"node/7501777210"},"geometry":{"type":"Point","coordinates":[8.18794,53.2472191]}}

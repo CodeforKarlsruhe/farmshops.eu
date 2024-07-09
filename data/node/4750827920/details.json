@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4750827920","properties":{"name":"Hofladen Gnamm","opening_hours":"Tu,Th 08:00-13:00,15:00-18:30; Fr 08:00-18:30; Sa 08:00-14:00; PH,We,Su,Mo off","shop":"farm","id":"node/4750827920"},"geometry":{"type":"Point","coordinates":[9.316667,48.8695636]}}
+{"type":"Feature","id":"node/4750827920","properties":{"name":"Hofladen Gnamm","opening_hours":"Tu,Th 08:00-13:00,14:30-18:30; Fr 08:00-18:30; Sa 08:00-13:00; We,Su,Mo,PH off","shop":"farm","id":"node/4750827920"},"geometry":{"type":"Point","coordinates":[9.316667,48.8695636]}}

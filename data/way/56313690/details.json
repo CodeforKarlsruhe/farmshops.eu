@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/56313690","properties":{"amenity":"marketplace","name":"Heckewerthplatz","opening_hours":"We,Fr 07:00-13:00","id":"way/56313690"},"geometry":{"type":"Point","coordinates":[8.5592534,52.1409164]}}
+{"type":"Feature","id":"way/56313690","properties":{"amenity":"marketplace","name":"Heckewerthplatz","opening_hours":"We,Fr 07:00-13:00","wheelchair":"yes","id":"way/56313690"},"geometry":{"type":"Point","coordinates":[8.5592534,52.1409164]}}

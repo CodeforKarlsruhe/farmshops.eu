@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/101008072","properties":{"amenity":"marketplace","id":"way/101008072"},"geometry":{"type":"Point","coordinates":[10.6070032,52.7298883]}}
+{"type":"Feature","id":"way/101008072","properties":{"addr:city":"Hankensbüttel","addr:postcode":"29386","addr:street":"Bahnhofstraße","amenity":"marketplace","name":"Platz der Parnerschaften","id":"way/101008072"},"geometry":{"type":"Point","coordinates":[10.6072479,52.7297298]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11733641190","properties":{"amenity":"vending_machine","operator":"Özan Frischmarkt","vending":"snack;eggs;beverage;vapes","id":"node/11733641190"},"geometry":{"type":"Point","coordinates":[12.1115036,47.8656009]}}
+{"type":"Feature","id":"node/11733641190","properties":{"amenity":"vending_machine","check_date":"2024-07-07","covered":"yes","indoor":"no","opening_hours":"24/7","operator":"Özan Frischmarkt","vending":"snack;eggs;beverage;vapes","id":"node/11733641190"},"geometry":{"type":"Point","coordinates":[12.1115036,47.8656009]}}
