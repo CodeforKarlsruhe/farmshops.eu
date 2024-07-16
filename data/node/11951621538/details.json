@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11951621538","properties":{"addr:housenumber":"246","addr:street":"Kastanienbaumstrasse","name":"Hofladen Gemüse","shop":"farm","website":"gmuesmattli.ch","id":"node/11951621538"},"geometry":{"type":"Point","coordinates":[8.3352468,47.0110743]}}
+{"type":"Feature","id":"node/11951621538","properties":{"addr:housenumber":"246","addr:street":"Kastanienbaumstrasse","name":"Hofladen Gemüse","shop":"farm","website":"https://gmuesmattli.ch/","id":"node/11951621538"},"geometry":{"type":"Point","coordinates":[8.3352468,47.0110743]}}

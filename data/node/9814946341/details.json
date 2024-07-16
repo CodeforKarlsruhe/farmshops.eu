@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9814946341","properties":{"amenity":"vending_machine","operator":"Hof Schnakenberg","vending":"food","id":"node/9814946341"},"geometry":{"type":"Point","coordinates":[8.972997,53.0583344]}}
+{"type":"Feature","id":"node/9814946341","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Hof Schnakenberg","payment:cash":"yes","payment:contactless":"yes","payment:credit_cards":"yes","vending":"food","id":"node/9814946341"},"geometry":{"type":"Point","coordinates":[8.972997,53.0583344]}}

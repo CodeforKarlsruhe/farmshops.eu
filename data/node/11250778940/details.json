@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11250778940","properties":{"name":"Bati's Früchteecke","shop":"farm","id":"node/11250778940"},"geometry":{"type":"Point","coordinates":[9.051364,48.5057736]}}
+{"type":"Feature","id":"node/11250778940","properties":{"check_date:opening_hours":"2024-07-12","name":"Bati's Früchteecke","opening_hours:signed":"no","shop":"farm","id":"node/11250778940"},"geometry":{"type":"Point","coordinates":[9.051364,48.5057736]}}
