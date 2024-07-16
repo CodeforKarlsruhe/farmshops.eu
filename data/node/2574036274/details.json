@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2574036274","properties":{"addr:city":"Neuhofen Pfalz","addr:country":"DE","addr:housenumber":"11","addr:postcode":"67141","addr:street":"Hauptstraße","shop":"farm","id":"node/2574036274"},"geometry":{"type":"Point","coordinates":[8.4283522,49.4218292]}}
+{"type":"Feature","id":"node/2574036274","properties":{"addr:city":"Neuhofen","addr:country":"DE","addr:housenumber":"11","addr:postcode":"67141","addr:street":"Hauptstraße","shop":"farm","id":"node/2574036274"},"geometry":{"type":"Point","coordinates":[8.4283522,49.4218292]}}

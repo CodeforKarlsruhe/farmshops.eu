@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11590898012","properties":{"amenity":"vending_machine","currency:EUR":"yes","vending":"drinks;sweets;food;condoms;feminine_hygiene","id":"node/11590898012"},"geometry":{"type":"Point","coordinates":[9.6920648,49.5988599]}}
+{"type":"Feature","id":"node/11590898012","properties":{"amenity":"vending_machine","currency:EUR":"yes","vending":"drinks;sweets;food","id":"node/11590898012"},"geometry":{"type":"Point","coordinates":[9.6920648,49.5988599]}}

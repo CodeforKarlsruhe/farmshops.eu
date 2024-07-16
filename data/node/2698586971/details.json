@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2698586971","properties":{"name":"Chueweid","shop":"farm","website":"https://www.chueweid.ch/","id":"node/2698586971"},"geometry":{"type":"Point","coordinates":[7.4780346,46.8728059]}}
+{"type":"Feature","id":"node/2698586971","properties":{"name":"Chueweid","opening_hours":"08:30-11:30; 13:30-17:00.","produce":"strawberry","shop":"farm","website":"https://www.chueweid.ch/","id":"node/2698586971"},"geometry":{"type":"Point","coordinates":[7.4780346,46.8728059]}}

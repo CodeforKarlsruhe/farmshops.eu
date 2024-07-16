@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11545738970","properties":{"addr:city":"Bruissonville","addr:housenumber":"36","addr:postcode":"5580","addr:street":"Rue de Haid","name":"NADIR","organic":"only","shop":"farm","id":"node/11545738970"},"geometry":{"type":"Point","coordinates":[5.1823815,50.2203803]}}
+{"type":"Feature","id":"node/11545738970","properties":{"addr:housenumber":"36","addr:street":"Rue de Haid","name":"Nadir","organic":"only","shop":"farm","id":"node/11545738970"},"geometry":{"type":"Point","coordinates":[5.1823815,50.2203803]}}

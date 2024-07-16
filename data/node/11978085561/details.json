@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/11978085561","properties":{"addr:city":"Salzburg","amenity":"vending_machine","currency:EUR":"yes","food":"snacks","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:mastercard":"yes","vending":"food;drinks","id":"node/11978085561"},"geometry":{"type":"Point","coordinates":[13.0705254,47.7879933]}}

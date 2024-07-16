@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11111472364","properties":{"amenity":"vending_machine","description":"Grillguterzeugnisse","operator":"Eichsfelder Landschlachterei Fahlbusch","vending":"food","id":"node/11111472364"},"geometry":{"type":"Point","coordinates":[9.9223012,51.628218]}}
+{"type":"Feature","id":"node/11111472364","properties":{"amenity":"vending_machine","description":"4 machines","name":"Regiomat","operator":"Eichsfelder Landschlachterei Fahlbusch","vending":"food","id":"node/11111472364"},"geometry":{"type":"Point","coordinates":[9.9222677,51.6282228]}}

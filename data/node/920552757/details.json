@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/920552757","properties":{"amenity":"vending_machine","fixme":"resurvey location, operator","vending":"food","id":"node/920552757"},"geometry":{"type":"Point","coordinates":[8.5266759,47.3773755]}}
+{"type":"Feature","id":"node/920552757","properties":{"amenity":"vending_machine","check_date":"2024-06-14","note":"no operator written at the location","vending":"food","id":"node/920552757"},"geometry":{"type":"Point","coordinates":[8.5265723,47.3773749]}}
