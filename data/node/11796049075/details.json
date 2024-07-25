@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11796049075","properties":{"description":"Honig Verkauf","opening_hours":"Fr 13:00-15:00","produce":"honey","shop":"farm","id":"node/11796049075"},"geometry":{"type":"Point","coordinates":[8.6678458,49.42141]}}
+{"type":"Feature","id":"node/11796049075","properties":{"description":"Honig Verkauf","name":"Honigautomat","opening_hours":"Fr 13:00-15:00","produce":"honey","shop":"farm","id":"node/11796049075"},"geometry":{"type":"Point","coordinates":[8.6678458,49.42141]}}

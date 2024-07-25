@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9274427087","properties":{"amenity":"vending_machine","operator":"Hofladen Schütz","vending":"food","id":"node/9274427087"},"geometry":{"type":"Point","coordinates":[10.197088,48.0801871]}}
+{"type":"Feature","id":"node/9274427087","properties":{"amenity":"vending_machine","check_date":"2024-07-14","operator":"Hofladen Schütz","vending":"food","id":"node/9274427087"},"geometry":{"type":"Point","coordinates":[10.197088,48.0801871]}}

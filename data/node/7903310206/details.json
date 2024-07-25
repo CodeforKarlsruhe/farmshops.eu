@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7903310206","properties":{"amenity":"vending_machine","check_date":"2023-06-25","vending":"drinks;ice_cream;sausage;food;sweets;water","id":"node/7903310206"},"geometry":{"type":"Point","coordinates":[11.9399989,47.2484729]}}
+{"type":"Feature","id":"node/7903310206","properties":{"amenity":"vending_machine","check_date":"2023-06-25","indoor":"yes","vending":"drinks;ice_cream;sausage;food;sweets;water","id":"node/7903310206"},"geometry":{"type":"Point","coordinates":[11.9399989,47.2484729]}}
