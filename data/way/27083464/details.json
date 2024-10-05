@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/27083464","properties":{"amenity":"marketplace","name":"Südermarkt","name:da":"Søndertorv","place":"square","wikidata":"Q12338464","id":"way/27083464"},"geometry":{"type":"Point","coordinates":[9.4363279,54.7828639]}}
+{"type":"Feature","id":"way/27083464","properties":{"amenity":"marketplace","name":"Südermarkt","name:da":"Søndertorv","opening_hours":"24/7","place":"square","wikidata":"Q12338464","id":"way/27083464"},"geometry":{"type":"Point","coordinates":[9.4363279,54.7828639]}}

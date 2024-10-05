@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9060500191","properties":{"name":"Bischof","opening_hours":"We,Fr 14:00-19:00; PH off","shop":"farm","id":"node/9060500191"},"geometry":{"type":"Point","coordinates":[13.4879233,48.564551]}}
+{"type":"Feature","id":"node/9060500191","properties":{"check_date:opening_hours":"2024-09-03","name":"Bischof","opening_hours":"We,Fr 14:00-19:00; PH off","shop":"farm","id":"node/9060500191"},"geometry":{"type":"Point","coordinates":[13.4879233,48.564551]}}

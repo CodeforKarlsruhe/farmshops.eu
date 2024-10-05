@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9665388848","properties":{"amenity":"vending_machine","level":"0","operator":"Feinkost Weller","vending":"food","id":"node/9665388848"},"geometry":{"type":"Point","coordinates":[9.1640622,48.7764804]}}
+{"type":"Feature","id":"node/9665388848","properties":{"amenity":"vending_machine","check_date":"2024-07-28","level":"0","operator":"Feinkost Weller","vending":"food","id":"node/9665388848"},"geometry":{"type":"Point","coordinates":[9.1640622,48.7764804]}}

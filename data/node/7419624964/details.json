@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7419624964","properties":{"shop":"farm","id":"node/7419624964"},"geometry":{"type":"Point","coordinates":[8.0338611,47.1349943]}}
+{"type":"Feature","id":"node/7419624964","properties":{"addr:city":"Grosswangen","addr:housenumber":"16","addr:postcode":"6022","addr:street":"Moos","name":"Hofladen Wiederkehr","opening_hours":"24/7","operator":"Fam. Wiederkehr","payment:cash":"yes","payment:twint":"yes","shop":"farm","id":"node/7419624964"},"geometry":{"type":"Point","coordinates":[8.0338611,47.1349943]}}

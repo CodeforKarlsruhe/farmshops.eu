@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1056509299","properties":{"building":"yes","shop":"farm","id":"way/1056509299"},"geometry":{"type":"Point","coordinates":[14.7940798,48.6984868]}}
+{"type":"Feature","id":"way/1056509299","properties":{"building":"yes","name":"Bauernladen zum selber nehmen!","opening_hours":"Mo-Su,PH 08:00-22:00","shop":"farm","id":"way/1056509299"},"geometry":{"type":"Point","coordinates":[14.7940798,48.6984868]}}

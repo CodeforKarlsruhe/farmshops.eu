@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12127557806","properties":{"amenity":"vending_machine","check_date":"2024-08-22","covered":"yes","indoor":"no","operator":"Isermann","payment:cards":"no","payment:cash":"yes","payment:credit_cards":"no","payment:debit_cards":"no","vending":"meat","id":"node/12127557806"},"geometry":{"type":"Point","coordinates":[10.2939482,53.2314717]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9880417984","properties":{"amenity":"vending_machine","description":"Fischautomat","operator":"Fischerei Gebhardt","vending":"food","id":"node/9880417984"},"geometry":{"type":"Point","coordinates":[11.2163798,49.8081011]}}
+{"type":"Feature","id":"node/9880417984","properties":{"amenity":"vending_machine","description":"Fischautomat","indoor":"yes","operator":"Fischerei Gebhardt","vending":"food","id":"node/9880417984"},"geometry":{"type":"Point","coordinates":[11.2164844,49.8083205]}}

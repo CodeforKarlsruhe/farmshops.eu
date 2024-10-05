@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/764408807","properties":{"building":"yes","shop":"farm","id":"way/764408807"},"geometry":{"type":"Point","coordinates":[7.3972125,53.6093842]}}
+{"type":"Feature","id":"way/764408807","properties":{"building":"yes","name":"Hofladen Ostarle","opening_hours":"\"08:00 Uhr bis Sonnenuntergangs\"","payment:credit_cards":"yes","payment:debit_cards":"yes","shop":"farm","wheelchair":"limited","id":"way/764408807"},"geometry":{"type":"Point","coordinates":[7.3972125,53.6093842]}}

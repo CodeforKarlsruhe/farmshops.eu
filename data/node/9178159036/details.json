@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9178159036","properties":{"amenity":"marketplace","name":"s'Obstlädele","opening_hours":"Tu,Fr,Sa 08:30-12:30","id":"node/9178159036"},"geometry":{"type":"Point","coordinates":[7.8693783,48.0436454]}}
+{"type":"Feature","id":"node/9178159036","properties":{"amenity":"marketplace","name":"s'Obstlädele","opening_hours":"Tu,Fr 08:30-12:30","id":"node/9178159036"},"geometry":{"type":"Point","coordinates":[7.8693783,48.0436454]}}

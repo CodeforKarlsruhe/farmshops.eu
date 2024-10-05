@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12122896163","properties":{"amenity":"vending_machine","indoor":"yes","level":"0","operator":"Delta-Alpha","payment:coins":"yes","payment:notes":"yes","payment:notes:denominations":"5 EUR;10 EUR","phone":"+49 391 6243550","vending":"food;sweets","id":"node/12122896163"},"geometry":{"type":"Point","coordinates":[11.6189082,52.1028526]}}

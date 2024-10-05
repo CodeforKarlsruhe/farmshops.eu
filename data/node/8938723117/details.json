@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8938723117","properties":{"seasonal":"summer","shop":"farm","survey:date":"2021-07-21","id":"node/8938723117"},"geometry":{"type":"Point","coordinates":[10.5692442,52.2239455]}}
+{"type":"Feature","id":"node/8938723117","properties":{"name":"Automat Glindemanns Landei","opening_hours":"24/7","seasonal":"summer","shop":"farm","survey:date":"2021-07-21","id":"node/8938723117"},"geometry":{"type":"Point","coordinates":[10.5692442,52.2239455]}}

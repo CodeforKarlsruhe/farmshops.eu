@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5882724487","properties":{"addr:housenumber":"5","addr:street":"Achtern Diek","name":"De Appelkommer","shop":"farm","id":"node/5882724487"},"geometry":{"type":"Point","coordinates":[9.5625795,53.7013907]}}
+{"type":"Feature","id":"node/5882724487","properties":{"addr:housenumber":"5","addr:street":"Achtern Diek","name":"De Appelkommer","produce":"apple;eggs;potatoes;plum;onion","shop":"farm","wheelchair":"limited","id":"node/5882724487"},"geometry":{"type":"Point","coordinates":[9.5624899,53.7014423]}}

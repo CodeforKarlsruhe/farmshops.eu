@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11782366853","properties":{"name":"Geflügeöhof Müller","shop":"farm","website":"https://mueller-gefluegelhof.de/","id":"node/11782366853"},"geometry":{"type":"Point","coordinates":[10.2633843,47.6914665]}}
+{"type":"Feature","id":"node/11782366853","properties":{"addr:housenumber":"195","addr:street":"Gösers","name":"Geflügelhof Müller","opening_hours":"Fr 15:00-18:00","phone":"+49 8378/416","shop":"farm","website":"https://mueller-gefluegelhof.de/","id":"node/11782366853"},"geometry":{"type":"Point","coordinates":[10.2633843,47.6914665]}}

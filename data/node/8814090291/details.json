@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8814090291","properties":{"amenity":"vending_machine","operator":"T-Bone Steakhouse","vending":"food","id":"node/8814090291"},"geometry":{"type":"Point","coordinates":[11.7160243,48.1287468]}}
+{"type":"Feature","id":"node/8814090291","properties":{"amenity":"vending_machine","check_date":"2024-09-26","operator":"T-Bone Steakhouse","vending":"food","id":"node/8814090291"},"geometry":{"type":"Point","coordinates":[11.7160243,48.1287468]}}

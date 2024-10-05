@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/354324604","properties":{"addr:street":"Schwabacher Straße","building":"yes","name":"Bärenhof","shop":"farm","id":"way/354324604"},"geometry":{"type":"Point","coordinates":[11.0542825,49.2398737]}}
+{"type":"Feature","id":"way/354324604","properties":{"addr:city":"Roth","addr:country":"DE","addr:postcode":"91154","addr:street":"Schwabacher Straße","building":"yes","name":"Bärenhof","shop":"farm","id":"way/354324604"},"geometry":{"type":"Point","coordinates":[11.0542825,49.2398737]}}

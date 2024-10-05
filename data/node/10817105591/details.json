@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10817105591","properties":{"amenity":"vending_machine","operator":"Gladbachs Bauernmarkt","vending":"food","id":"node/10817105591"},"geometry":{"type":"Point","coordinates":[6.9414879,51.1312506]}}
+{"type":"Feature","id":"node/10817105591","properties":{"amenity":"vending_machine","check_date":"2024-08-04","operator":"Gladbachs Bauernmarkt","vending":"food","id":"node/10817105591"},"geometry":{"type":"Point","coordinates":[6.9414879,51.1312506]}}

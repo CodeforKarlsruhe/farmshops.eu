@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7110266125","properties":{"addr:city":"Lensahn","addr:country":"DE","addr:postcode":"23738","addr:street":"Manhagener Weg","craft":"beekeeper","name":"Hof Schütt","id":"node/7110266125"},"geometry":{"type":"Point","coordinates":[10.9057304,54.2030608]}}
+{"type":"Feature","id":"node/7110266125","properties":{"addr:city":"Manhagen","addr:country":"DE","addr:postcode":"23738","addr:street":"Manhagener Weg","craft":"beekeeper","name":"Hof Schütt","id":"node/7110266125"},"geometry":{"type":"Point","coordinates":[10.9057304,54.2030608]}}

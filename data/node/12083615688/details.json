@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12083615688","properties":{"amenity":"vending_machine","name":"Bücker's Hof-Kiste","network":"Regiomat","payment:american_express":"yes","payment:coins":"yes","payment:girocard":"yes","payment:notes":"yes","payment:visa":"yes","vending":"food","id":"node/12083615688"},"geometry":{"type":"Point","coordinates":[7.7254251,51.5211811]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12177187048","properties":{"amenity":"vending_machine","level":"1","opening_hours":"24/7","payment:coins":"no","payment:credit_cards":"no","payment:debit_cards":"yes","payment:notes":"no","payment:qr_code":"no","vending":"food;sweets","id":"node/12177187048"},"geometry":{"type":"Point","coordinates":[5.859053,51.0023278]}}
