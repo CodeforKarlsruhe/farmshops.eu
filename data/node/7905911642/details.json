@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7905911642","properties":{"amenity":"vending_machine","vending":"fruit;vegetables;bread","id":"node/7905911642"},"geometry":{"type":"Point","coordinates":[5.1293571,50.4312113]}}
+{"type":"Feature","id":"node/7905911642","properties":{"amenity":"vending_machine","operator":"Le champ paysan + Fleurs paysannes","vending":"fruit;vegetables;bread;fleurs","id":"node/7905911642"},"geometry":{"type":"Point","coordinates":[5.1293571,50.4312113]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/451472610","properties":{"amenity":"marketplace","name":"Ratskeller / Marktplatz","id":"way/451472610"},"geometry":{"type":"Point","coordinates":[9.7755833,52.0843981]}}
+{"type":"Feature","id":"way/451472610","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Ratskeller / Marktplatz","id":"way/451472610"},"geometry":{"type":"Point","coordinates":[9.7755833,52.0843981]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6383455457","properties":{"amenity":"vending_machine","name":"Regiomat","operator":"Bauerngarten Vorsee","vending":"food;drinks","id":"node/6383455457"},"geometry":{"type":"Point","coordinates":[9.574129,47.886406]}}
+{"type":"Feature","id":"node/6383455457","properties":{"amenity":"vending_machine","check_date":"2024-07-21","name":"Regiomat","operator":"Bauerngarten Vorsee","vending":"food;drinks","id":"node/6383455457"},"geometry":{"type":"Point","coordinates":[9.574129,47.886406]}}

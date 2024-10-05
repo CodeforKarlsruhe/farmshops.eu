@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5848650651","properties":{"name":"Magapomme","shop":"farm","id":"node/5848650651"},"geometry":{"type":"Point","coordinates":[5.1134035,47.2337429]}}
+{"type":"Feature","id":"node/5848650651","properties":{"name":"Magapomme","opening_hours":"Tu-Fr 10:00-12:00, 14:00-19:00; Mo 14:00-18:00; Sa 10:00-12:30, 14:00-18:00","phone":"+333 80 39 89 96","shop":"farm","website":"https://www.magapomme.com/","id":"node/5848650651"},"geometry":{"type":"Point","coordinates":[5.1134035,47.2337429]}}

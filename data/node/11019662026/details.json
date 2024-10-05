@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11019662026","properties":{"description":"Milch, Eier","payment:twint":"yes","shop":"farm","id":"node/11019662026"},"geometry":{"type":"Point","coordinates":[8.5405458,47.3048707]}}
+{"type":"Feature","id":"node/11019662026","properties":{"check_date":"2024-08-10","description":"Milch, Eier","payment:twint":"yes","shop":"farm","id":"node/11019662026"},"geometry":{"type":"Point","coordinates":[8.5405458,47.3048707]}}

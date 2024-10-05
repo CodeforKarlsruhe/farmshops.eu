@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9694504953","properties":{"name":"Ferme Versant du Soleil","shop":"farm","website":"http://www.ferme-versant-du-soleil.fr/","id":"node/9694504953"},"geometry":{"type":"Point","coordinates":[7.1226331,48.052067]}}
+{"type":"Feature","id":"node/9694504953","properties":{"name":"Ferme Versant du Soleil","opening_hours":"Mo-Sa 09:00-12:00,14:00-18:00; Su 10:00-12:00,14:00-18:00","shop":"farm","website":"http://www.ferme-versant-du-soleil.fr/","id":"node/9694504953"},"geometry":{"type":"Point","coordinates":[7.1226331,48.052067]}}

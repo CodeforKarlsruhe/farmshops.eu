@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9587344975","properties":{"name":"Neuwirtshof","opening_hours":"Mo-Th 08:00-12:00,15:00-18:00, Fr 08:00-18:00, Sa 08:00-12:00","shop":"farm","id":"node/9587344975"},"geometry":{"type":"Point","coordinates":[12.3141825,47.4483983]}}
+{"type":"Feature","id":"node/9587344975","properties":{"check_date":"2024-08-20","name":"Neuwirtshof","opening_hours":"Mo-Th 08:00-12:00,15:00-18:00, Fr 08:00-18:00, Sa 08:00-12:00","shop":"farm","id":"node/9587344975"},"geometry":{"type":"Point","coordinates":[12.3141825,47.4483983]}}

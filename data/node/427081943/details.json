@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/427081943","properties":{"addr:housenumber":"1","addr:street":"Hainmühle","name":"Mühlenladen","organic":"yes","shop":"farm","website":"http://bio1.de/m%C3%BChlenladen/","id":"node/427081943"},"geometry":{"type":"Point","coordinates":[11.2581551,49.0225539]}}
+{"type":"Feature","id":"node/427081943","properties":{"addr:housenumber":"1","addr:street":"Hainmühle","name":"Mühlenladen","organic":"yes","shop":"farm","website":"https://bio1.de","id":"node/427081943"},"geometry":{"type":"Point","coordinates":[11.2581551,49.0225539]}}

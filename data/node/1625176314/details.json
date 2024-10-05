@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1625176314","properties":{"name":"Pöllauer Bauernladen","shop":"farm","id":"node/1625176314"},"geometry":{"type":"Point","coordinates":[15.8341004,47.3019822]}}
+{"type":"Feature","id":"node/1625176314","properties":{"contact:phone":"+43 3335 4550","name":"Pöllauer Bauernladen","shop":"farm","website":"https://www.poellauer-bauernladen.at/","id":"node/1625176314"},"geometry":{"type":"Point","coordinates":[15.8341004,47.3019822]}}

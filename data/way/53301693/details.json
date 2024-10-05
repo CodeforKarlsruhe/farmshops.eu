@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/53301693","properties":{"building":"yes","craft":"beekeeper","ref:bag":"275100000012830","source":"BAG","source:date":"2014-05-07","start_date":"1962","id":"way/53301693"},"geometry":{"type":"Point","coordinates":[6.0237352,52.0159984]}}
+{"type":"Feature","id":"way/53301693","properties":{"building":"yes","craft":"beekeeper","name":"Simonveste","ref:bag":"275100000012830","source":"BAG","source:date":"2014-05-07","start_date":"1962","id":"way/53301693"},"geometry":{"type":"Point","coordinates":[6.0237352,52.0159984]}}

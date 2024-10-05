@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11459244550","properties":{"amenity":"vending_machine","opening_hours":"24/7","payment:cards":"yes","payment:cash":"yes","vending":"food","id":"node/11459244550"},"geometry":{"type":"Point","coordinates":[11.7337947,50.5058419]}}
+{"type":"Feature","id":"node/11459244550","properties":{"amenity":"vending_machine","opening_hours":"24/7","payment:cards":"yes","payment:cash":"yes","vending":"food","id":"node/11459244550"},"geometry":{"type":"Point","coordinates":[11.7337885,50.5058435]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8009076928","properties":{"name":"Bürgstock-Lädeli","shop":"farm","id":"node/8009076928"},"geometry":{"type":"Point","coordinates":[7.5178386,46.9743592]}}
+{"type":"Feature","id":"node/8009076928","properties":{"name":"Bürgstock-Lädeli","opening_hours":"Mo-Su 08:00-19:00","shop":"farm","id":"node/8009076928"},"geometry":{"type":"Point","coordinates":[7.5178386,46.9743592]}}

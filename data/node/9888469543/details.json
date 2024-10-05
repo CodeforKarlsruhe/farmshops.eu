@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9888469543","properties":{"amenity":"vending_machine","vending":"food","id":"node/9888469543"},"geometry":{"type":"Point","coordinates":[8.8938001,51.184825]}}
+{"type":"Feature","id":"node/9888469543","properties":{"note":"Stand 2024-09-22 abgebaut. Situation wird beobachtet","removed:amenity":"vending_machine","vending":"food","id":"node/9888469543"},"geometry":{"type":"Point","coordinates":[8.8938001,51.184825]}}

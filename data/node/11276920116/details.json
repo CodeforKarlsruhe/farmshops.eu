@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11276920116","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:cards":"yes","payment:cash":"yes","vending":"meat","id":"node/11276920116"},"geometry":{"type":"Point","coordinates":[9.227552,48.4598989]}}
+{"type":"Feature","id":"node/11276920116","properties":{"amenity":"vending_machine","currency:EUR":"yes","description":"Wiesengrund Box","operator":"Metzgerei Luz","payment:cards":"yes","payment:cash":"yes","vending":"meat;drinks;eggs","id":"node/11276920116"},"geometry":{"type":"Point","coordinates":[9.227552,48.4598989]}}

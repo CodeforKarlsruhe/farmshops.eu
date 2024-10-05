@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9922242200","properties":{"name":"Papiermühle","payment:cash":"yes","payment:coins":"yes","payment:notes":"yes","shop":"farm","wheelchair":"limited","id":"node/9922242200"},"geometry":{"type":"Point","coordinates":[9.2066458,50.4229861]}}
+{"type":"Feature","id":"node/9922242200","properties":{"name":"Papiermühle","payment:coins":"yes","payment:notes":"yes","shop":"farm","wheelchair":"limited","id":"node/9922242200"},"geometry":{"type":"Point","coordinates":[9.2066458,50.4229861]}}

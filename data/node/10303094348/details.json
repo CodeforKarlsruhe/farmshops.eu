@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10303094348","properties":{"amenity":"vending_machine","payment:cash":"true","vending":"eggs; sausages","id":"node/10303094348"},"geometry":{"type":"Point","coordinates":[9.2911604,51.1973859]}}
+{"type":"Feature","id":"node/10303094348","properties":{"amenity":"vending_machine","payment:cash":"yes","vending":"eggs; sausages","id":"node/10303094348"},"geometry":{"type":"Point","coordinates":[9.2911604,51.1973859]}}

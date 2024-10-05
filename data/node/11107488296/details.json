@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11107488296","properties":{"amenity":"marketplace","name":"Galerie Decorde","id":"node/11107488296"},"geometry":{"type":"Point","coordinates":[7.7365805,48.5804304]}}
+{"type":"Feature","id":"node/11107488296","properties":{"addr:floor":"0","amenity":"marketplace","check_date":"2024-10-04","level":"0","name":"Galerie Decorde","opening_hours":"We,Fr 07:00-13:00","source":"survey","wheelchair":"yes","id":"node/11107488296"},"geometry":{"type":"Point","coordinates":[7.7365805,48.5804304]}}

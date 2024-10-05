@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8893064538","properties":{"shop":"farm","id":"node/8893064538"},"geometry":{"type":"Point","coordinates":[11.0151995,48.2351194]}}
+{"type":"Feature","id":"node/8893064538","properties":{"name":"Dominikus Hof","opening_hours":"24/7","organic":"only","product":"noodles;eggs;egg liqueur","self_service":"yes","shop":"farm","id":"node/8893064538"},"geometry":{"type":"Point","coordinates":[11.0151766,48.2351287]}}

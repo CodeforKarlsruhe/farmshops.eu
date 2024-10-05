@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7078743067","properties":{"amenity":"marketplace","name":"Wochenmarkt Schifferstadt","opening_hours":"Fr 07:00-12:00","id":"node/7078743067"},"geometry":{"type":"Point","coordinates":[8.3739229,49.386512]}}
+{"type":"Feature","id":"node/7078743067","properties":{"amenity":"marketplace","name":"Wochenmarkt Schifferstadt","opening_hours":"Fr 08:00-13:00","source":"https://www.schifferstadt.de/kalender/2024/2024-01-12-wochenmarkt/","wheelchair":"yes","id":"node/7078743067"},"geometry":{"type":"Point","coordinates":[8.3739229,49.386512]}}

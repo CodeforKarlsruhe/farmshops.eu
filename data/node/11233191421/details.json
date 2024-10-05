@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11233191421","properties":{"shop":"farm","id":"node/11233191421"},"geometry":{"type":"Point","coordinates":[11.055347,49.6099281]}}
+{"type":"Feature","id":"node/11233191421","properties":{"check_date:opening_hours":"2024-10-01","name":"Bauernhof Karl","opening_hours:signed":"no","shop":"farm","id":"node/11233191421"},"geometry":{"type":"Point","coordinates":[11.055347,49.6099281]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/697245283","properties":{"amenity":"marketplace","id":"way/697245283"},"geometry":{"type":"Point","coordinates":[13.216812,52.4386066]}}
+{"type":"Feature","id":"way/697245283","properties":{"amenity":"marketplace","name":"Markt Schlachtensee","opening_hours":"Tu,Fr 08:00-14:00","website":"https://www.marktschlachtensee.de/","id":"way/697245283"},"geometry":{"type":"Point","coordinates":[13.216812,52.4386066]}}

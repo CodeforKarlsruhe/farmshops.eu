@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5176928094","properties":{"amenity":"vending_machine","operator":"Strobelhof","vending":"milk;food;sweets;bread;eggs;coffee","website":"https://www.strobelhof.de/","id":"node/5176928094"},"geometry":{"type":"Point","coordinates":[9.1176312,48.0783098]}}
+{"type":"Feature","id":"node/5176928094","properties":{"amenity":"vending_machine","operator":"Strobelhof","vending":"milk;food;sweets;bread;eggs;coffee;ice_cream","website":"https://www.strobelhof.de/","id":"node/5176928094"},"geometry":{"type":"Point","coordinates":[9.1176312,48.0783098]}}

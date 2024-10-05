@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9388588183","properties":{"amenity":"vending_machine","vending":"food","website":"https://dermausserhof.de/wordpress/der-24-h-automat/","id":"node/9388588183"},"geometry":{"type":"Point","coordinates":[10.5682431,49.30967]}}
+{"type":"Feature","id":"node/9388588183","properties":{"amenity":"vending_machine","check_date":"2024-02-08","vending":"food","website":"https://dermausserhof.de/wordpress/der-24-h-automat/","id":"node/9388588183"},"geometry":{"type":"Point","coordinates":[10.5682431,49.30967]}}

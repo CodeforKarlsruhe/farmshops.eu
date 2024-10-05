@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2620786496","properties":{"addr:housenumber":"7","addr:street":"Oggersheimer Straße","shop":"farm","id":"node/2620786496"},"geometry":{"type":"Point","coordinates":[8.3283148,49.4723674]}}
+{"type":"Feature","id":"node/2620786496","properties":{"addr:city":"Ludwigshafen am Rhein","addr:housenumber":"7","addr:postcode":"67071","addr:street":"Oggersheimer Straße","addr:suburb":"Ruchheim","shop":"farm","id":"node/2620786496"},"geometry":{"type":"Point","coordinates":[8.3283148,49.4723674]}}

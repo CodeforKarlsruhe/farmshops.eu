@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10300606922","properties":{"amenity":"vending_machine","vending":"food","id":"node/10300606922"},"geometry":{"type":"Point","coordinates":[11.3790313,47.2692124]}}
+{"type":"Feature","id":"node/10300606922","properties":{"amenity":"vending_machine","covered":"yes","currency:EUR":"yes","payment:cash":"yes","vending":"food","id":"node/10300606922"},"geometry":{"type":"Point","coordinates":[11.3790313,47.2692124]}}

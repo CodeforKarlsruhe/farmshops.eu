@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11623755841","properties":{"amenity":"vending_machine","name":"Rewe Ready","operator":"Lekkerland","vending":"food;drinks;chemist","id":"node/11623755841"},"geometry":{"type":"Point","coordinates":[9.9826187,53.099471]}}
+{"type":"Feature","id":"node/11623755841","properties":{"amenity":"vending_machine","indoor":"yes","name":"Rewe Ready","operator":"Lekkerland","vending":"food;drinks;chemist","id":"node/11623755841"},"geometry":{"type":"Point","coordinates":[9.9826187,53.099471]}}

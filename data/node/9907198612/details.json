@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9907198612","properties":{"amenity":"marketplace","name":"Termelői piac","opening_hours":"Th 17:00-20:00; Su 09:00-13:00","organic":"yes","seasonal":"yes","id":"node/9907198612"},"geometry":{"type":"Point","coordinates":[16.363684,46.8648387]}}
+{"type":"Feature","id":"node/9907198612","properties":{"amenity":"marketplace","covered":"yes","name":"Termelői piac","opening_hours":"Th 17:00-20:00; Su 09:00-13:00","organic":"yes","seasonal":"yes","id":"node/9907198612"},"geometry":{"type":"Point","coordinates":[16.363684,46.8648387]}}

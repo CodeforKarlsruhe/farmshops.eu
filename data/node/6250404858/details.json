@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6250404858","properties":{"amenity":"marketplace","name":"Amstetten","opening_hours":"Th,Sa 07:00-12:00","source":"survey","id":"node/6250404858"},"geometry":{"type":"Point","coordinates":[14.8724131,48.1231864]}}
+{"type":"Feature","id":"node/6250404858","properties":{"amenity":"marketplace","name":"Bauernmarkt Amstetten","opening_hours":"Th 07:00-12:00","source":"survey","website":"https://www.ambauernmarkt.at/","id":"node/6250404858"},"geometry":{"type":"Point","coordinates":[14.8724131,48.1231864]}}
