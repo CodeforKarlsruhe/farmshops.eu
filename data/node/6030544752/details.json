@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6030544752","properties":{"name":"Hofladen Brüsseler","shop":"farm","id":"node/6030544752"},"geometry":{"type":"Point","coordinates":[6.0846622,50.7937171]}}
+{"type":"Feature","id":"node/6030544752","properties":{"name":"Hofladen Brüsseler","opening_hours":"Mo-Fr 09:00-18:00; Sa 09:00-14:00","shop":"farm","id":"node/6030544752"},"geometry":{"type":"Point","coordinates":[6.0846622,50.7937171]}}
