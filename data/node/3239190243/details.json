@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3239190243","properties":{"name":"Elviras","opening_hours":"Mo-Fr 13:00-19:00; Sa 11:00-18:00; Su, PH off","shop":"farm","start_date":"August 2022","id":"node/3239190243"},"geometry":{"type":"Point","coordinates":[9.9284678,49.7962268]}}
+{"type":"Feature","id":"node/3239190243","properties":{"name":"Elviras","opening_hours":"Mo-Su,PH 07:00-20:00","shop":"farm","start_date":"August 2022","id":"node/3239190243"},"geometry":{"type":"Point","coordinates":[9.9284678,49.7962268]}}

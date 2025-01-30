@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/902034035","properties":{"amenity":"marketplace","name":"Wochenmarkt in Bruchhausen-Vilsen","opening_hours":"Fr 14:30-18:30","type":"bio","id":"way/902034035"},"geometry":{"type":"Point","coordinates":[8.9878073,52.8235337]}}
+{"type":"Feature","id":"way/902034035","properties":{"amenity":"marketplace","name":"Wochenmarkt in Bruchhausen-Vilsen","opening_hours":"Fr 14:30-18:30","organic":"yes","id":"way/902034035"},"geometry":{"type":"Point","coordinates":[8.9878073,52.8235337]}}

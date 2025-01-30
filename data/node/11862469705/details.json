@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11862469705","properties":{"amenity":"vending_machine","name":"Regiomat","vending":"food;eggs;drinks","id":"node/11862469705"},"geometry":{"type":"Point","coordinates":[8.5991919,49.9293128]}}
+{"type":"Feature","id":"node/11862469705","properties":{"amenity":"vending_machine","covered":"yes","name":"Regiomat","vending":"food;eggs;drinks","id":"node/11862469705"},"geometry":{"type":"Point","coordinates":[8.5991919,49.9293128]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1105923864","properties":{"amenity":"marketplace","area":"yes","name":"Tržiště","shop":"farm","id":"way/1105923864"},"geometry":{"type":"Point","coordinates":[15.8804782,49.2160093]}}
+{"type":"Feature","id":"way/1105923864","properties":{"amenity":"marketplace","area":"yes","name":"Tržiště","shop":"farm","wheelchair":"yes","id":"way/1105923864"},"geometry":{"type":"Point","coordinates":[15.8804782,49.2160093]}}

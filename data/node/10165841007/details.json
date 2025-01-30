@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10165841007","properties":{"name":"Hofladen","shop":"farm","id":"node/10165841007"},"geometry":{"type":"Point","coordinates":[11.3493415,51.6581059]}}
+{"type":"Feature","id":"node/10165841007","properties":{"name":"Hofladen","opening_hours":"Mo-Fr 09:30-16:00; Sa,Su 09:00-18:00","shop":"farm","id":"node/10165841007"},"geometry":{"type":"Point","coordinates":[11.3493415,51.6581059]}}

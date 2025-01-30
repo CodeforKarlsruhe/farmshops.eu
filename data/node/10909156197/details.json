@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10909156197","properties":{"amenity":"vending_machine","vending":"food","id":"node/10909156197"},"geometry":{"type":"Point","coordinates":[9.0168904,48.8167261]}}
+{"type":"Feature","id":"node/10909156197","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Metzgerei Hess","payment:cards":"yes","payment:cash":"yes","vending":"food","id":"node/10909156197"},"geometry":{"type":"Point","coordinates":[9.0168904,48.8167261]}}

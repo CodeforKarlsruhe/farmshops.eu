@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5732731862","properties":{"amenity":"marketplace","name":"Markt","id":"node/5732731862"},"geometry":{"type":"Point","coordinates":[10.3196205,50.9747565]}}
+{"type":"Feature","id":"node/5732731862","properties":{"amenity":"marketplace","name":"Markt","wheelchair":"yes","id":"node/5732731862"},"geometry":{"type":"Point","coordinates":[10.3196205,50.9747565]}}

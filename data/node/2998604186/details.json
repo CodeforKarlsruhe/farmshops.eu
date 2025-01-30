@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/2998604186","properties":{"name":"Schlossgut Pfäffikon","shop":"farm","id":"node/2998604186"},"geometry":{"type":"Point","coordinates":[8.7755154,47.2044781]}}
+{"type":"Feature","id":"node/2998604186","properties":{"name":"Schlossgut Pfäffikon","opening_hours":"Jan-Jul: We 16:00-18:30; Jan-Jul: Sa 09:00-12:00; Jul-Dec: Mo-Fr 16:00-18:30; Jul-Dec: Sa 09:00-12:00","shop":"farm","id":"node/2998604186"},"geometry":{"type":"Point","coordinates":[8.7755154,47.2044781]}}

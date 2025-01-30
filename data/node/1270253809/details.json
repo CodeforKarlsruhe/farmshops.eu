@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/1270253809","properties":{"amenity":"marketplace","id":"node/1270253809"},"geometry":{"type":"Point","coordinates":[4.8360307,51.1773598]}}
+{"type":"Feature","id":"node/1270253809","properties":{"amenity":"marketplace","opening_hours":"Fr 06:00-13:00","operator":"Stad Herentals","website":"https://www.herentals.be/evenementen/beleven/markten-en-ambulante-handel","id":"node/1270253809"},"geometry":{"type":"Point","coordinates":[4.835941,51.1773223]}}

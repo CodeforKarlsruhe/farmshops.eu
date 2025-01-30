@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9215041478","properties":{"amenity":"vending_machine","check_date":"2024-06-01","vending":"eggs;noodles;pickles","id":"node/9215041478"},"geometry":{"type":"Point","coordinates":[11.2189262,48.211313]}}
+{"type":"Feature","id":"node/9215041478","properties":{"amenity":"vending_machine","check_date":"2024-06-01","indoor":"no","vending":"eggs;noodles;pickles","id":"node/9215041478"},"geometry":{"type":"Point","coordinates":[11.2189262,48.211313]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12269115393","properties":{"amenity":"vending_machine","food":"snacks","payment:apple_pay":"yes","payment:cards":"yes","payment:cash":"yes","payment:girocard":"yes","payment:google_pay":"yes","payment:mastercard":"yes","payment:visa":"yes","vending":"food","id":"node/12269115393"},"geometry":{"type":"Point","coordinates":[8.6701497,51.9793084]}}

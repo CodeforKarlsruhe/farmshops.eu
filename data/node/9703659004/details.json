@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9703659004","properties":{"cash_withdrawal":"Twint","name":"Mattenhof","organic":"yes","shop":"farm","id":"node/9703659004"},"geometry":{"type":"Point","coordinates":[8.2901444,47.3916484]}}
+{"type":"Feature","id":"node/9703659004","properties":{"cash_withdrawal":"Twint","check_date":"2025-01-26","name":"Mattenhof","opening_hours":"Mo-Sa 08:00-18:00","organic":"yes","payment:twint":"yes","shop":"farm","id":"node/9703659004"},"geometry":{"type":"Point","coordinates":[8.2901444,47.3916484]}}

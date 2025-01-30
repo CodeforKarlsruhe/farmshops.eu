@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12206540867","properties":{"amenity":"vending_machine","cuisine":"chinese","currency:EUR":"yes","vending":"food","id":"node/12206540867"},"geometry":{"type":"Point","coordinates":[4.7103629,51.0752608]}}
+{"type":"Feature","id":"node/12206540867","properties":{"amenity":"vending_machine","cuisine":"chinese","currency:EUR":"yes","opening_hours":"24/7","panoramax":"1e4bff49-116e-4abb-8a52-965353021260","vending":"food","id":"node/12206540867"},"geometry":{"type":"Point","coordinates":[4.7103629,51.0752608]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9841938067","properties":{"amenity":"vending_machine","opening_hours":"24/7","vending":"meat;butter","id":"node/9841938067"},"geometry":{"type":"Point","coordinates":[8.430751,48.9579919]}}
+{"type":"Feature","id":"node/9841938067","properties":{"amenity":"vending_machine","opening_hours":"24/7","vending":"eggs;butter","id":"node/9841938067"},"geometry":{"type":"Point","coordinates":[8.430751,48.9579919]}}

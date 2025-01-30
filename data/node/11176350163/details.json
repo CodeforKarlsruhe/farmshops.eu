@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11176350163","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Sa 07:00-14:00","surface":"sett","wheelchair":"yes","id":"node/11176350163"},"geometry":{"type":"Point","coordinates":[8.7104702,49.4121596]}}
+{"type":"Feature","id":"node/11176350163","properties":{"amenity":"marketplace","check_date":"2024-10-23","name":"Wochenmarkt","opening_hours":"Sa 07:00-14:00","surface":"sett","wheelchair":"yes","id":"node/11176350163"},"geometry":{"type":"Point","coordinates":[8.7104702,49.4121596]}}

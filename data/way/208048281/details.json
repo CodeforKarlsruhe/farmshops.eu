@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/208048281","properties":{"addr:street":"Szeglet utca","amenity":"marketplace","building":"retail","name":"Vásárcsarnok","id":"way/208048281"},"geometry":{"type":"Point","coordinates":[16.8444777,46.8470082]}}
+{"type":"Feature","id":"way/208048281","properties":{"amenity":"marketplace","building":"retail","name":"Vásárcsarnok","id":"way/208048281"},"geometry":{"type":"Point","coordinates":[16.8444777,46.8470082]}}

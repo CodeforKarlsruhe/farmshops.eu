@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10568620395","properties":{"amenity":"vending_machine","vending":"potatoes;eggs","id":"node/10568620395"},"geometry":{"type":"Point","coordinates":[10.138919,52.4124921]}}
+{"type":"Feature","id":"node/10568620395","properties":{"amenity":"vending_machine","vending":"dosenwurst;zwiebeln;saisonales_obst_und_gemüse;kartoffeln;eggs","id":"node/10568620395"},"geometry":{"type":"Point","coordinates":[10.138919,52.4124921]}}

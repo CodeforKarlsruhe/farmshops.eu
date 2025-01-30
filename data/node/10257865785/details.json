@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10257865785","properties":{"check_date":"2023-12-22","name":"Erpfi","self_service":"yes","shop":"farm","vending":"potatoes","id":"node/10257865785"},"geometry":{"type":"Point","coordinates":[15.1363493,48.6107832]}}
+{"type":"Feature","id":"node/10257865785","properties":{"check_date":"2025-01-06","name":"Erpfi & Honig","self_service":"yes","shop":"farm","vending":"potatoes;honey","id":"node/10257865785"},"geometry":{"type":"Point","coordinates":[15.1363493,48.6107832]}}

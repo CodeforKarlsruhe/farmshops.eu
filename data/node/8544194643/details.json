@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8544194643","properties":{"amenity":"vending_machine","vending":"food;milk","id":"node/8544194643"},"geometry":{"type":"Point","coordinates":[9.9021921,52.4930904]}}
+{"type":"Feature","id":"node/8544194643","properties":{"amenity":"vending_machine","covered":"yes","name":"Regiomat & Milchtankstelle Büchtmann","vending":"food;milk;sweets;ice_cream","id":"node/8544194643"},"geometry":{"type":"Point","coordinates":[9.9021836,52.4930775]}}

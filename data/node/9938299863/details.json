@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9938299863","properties":{"amenity":"vending_machine","name":"Das Grimmsteig-Ei","payment:cash":"only","vending":"eggs;honey;noodles","website":"www Grimmsteigei.de","id":"node/9938299863"},"geometry":{"type":"Point","coordinates":[9.7238784,51.198318]}}
+{"type":"Feature","id":"node/9938299863","properties":{"amenity":"vending_machine","name":"Das Grimmsteig-Ei","payment:cash":"only","vending":"eggs;honey;noodles","website":"https://www.Grimmsteigei.de","id":"node/9938299863"},"geometry":{"type":"Point","coordinates":[9.7238784,51.198318]}}

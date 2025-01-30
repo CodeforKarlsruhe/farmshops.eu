@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11640982101","properties":{"amenity":"marketplace","name":"Le Marché bio","opening_hours":"Sa 08:00-12:30","id":"node/11640982101"},"geometry":{"type":"Point","coordinates":[7.4853355,48.4603161]}}
+{"type":"Feature","id":"node/11640982101","properties":{"amenity":"marketplace","check_date:opening_hours":"2024-10-26","name":"Le Marché bio","opening_hours":"Sa 08:00-12:30","id":"node/11640982101"},"geometry":{"type":"Point","coordinates":[7.4853355,48.4603161]}}

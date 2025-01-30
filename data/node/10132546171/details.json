@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10132546171","properties":{"amenity":"vending_machine","food":"eggs;potatoe;sausages","opening_hours":"24/7","operator":"Fam. Diesch","vending":"food","id":"node/10132546171"},"geometry":{"type":"Point","coordinates":[9.522242,48.1181151]}}
+{"type":"Feature","id":"node/10132546171","properties":{"amenity":"vending_machine","check_date":"2024-12-26","food":"eggs;potatoe;sausages","opening_hours":"24/7","operator":"Fam. Diesch","vending":"food","id":"node/10132546171"},"geometry":{"type":"Point","coordinates":[9.522242,48.1181151]}}
