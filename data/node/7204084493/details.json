@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7204084493","properties":{"amenity":"vending_machine","check_date":"2022-07-24","payment:cash":"yes","payment:coins":"yes","vending":"honey","id":"node/7204084493"},"geometry":{"type":"Point","coordinates":[12.5682898,54.4461884]}}
+{"type":"Feature","id":"node/7204084493","properties":{"amenity":"vending_machine","check_date":"2022-07-24","payment:cash":"yes","payment:coins":"yes","vending":"honey","id":"node/7204084493"},"geometry":{"type":"Point","coordinates":[12.5682744,54.4461689]}}

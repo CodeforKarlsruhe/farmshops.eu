@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4580157489","properties":{"name":"Hofladen Müller","shop":"farm","website":"http://www.hühnerhof-müller.de/hofladen/","id":"node/4580157489"},"geometry":{"type":"Point","coordinates":[9.066203,48.8002583]}}
+{"type":"Feature","id":"node/4580157489","properties":{"check_date:opening_hours":"2024-11-10","name":"Hofladen Müller","opening_hours:signed":"no","shop":"farm","website":"http://www.hühnerhof-müller.de/hofladen/","id":"node/4580157489"},"geometry":{"type":"Point","coordinates":[9.066203,48.8002583]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8324009929","properties":{"name":"Steinhäusers Hofladen","shop":"farm","id":"node/8324009929"},"geometry":{"type":"Point","coordinates":[9.688025,49.2573897]}}
+{"type":"Feature","id":"node/8324009929","properties":{"name":"Steinhäusers Hofladen","opening_hours":"Tu,Fr 09:00-18:00; Sa 09:00-13:00","shop":"farm","id":"node/8324009929"},"geometry":{"type":"Point","coordinates":[9.688025,49.2573897]}}

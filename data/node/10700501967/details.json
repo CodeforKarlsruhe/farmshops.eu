@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10700501967","properties":{"amenity":"vending_machine","covered":"yes","payment:cash":"yes","payment:coins":"yes","vending":"eggs;potatoes","id":"node/10700501967"},"geometry":{"type":"Point","coordinates":[8.7144059,50.2393641]}}
+{"type":"Feature","id":"node/10700501967","properties":{"amenity":"vending_machine","covered":"yes","payment:cash":"yes","payment:coins":"yes","vending":"eggs;potatoes","wheelchair":"no","id":"node/10700501967"},"geometry":{"type":"Point","coordinates":[8.7144059,50.2393641]}}

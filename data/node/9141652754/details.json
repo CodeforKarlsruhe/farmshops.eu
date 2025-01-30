@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9141652754","properties":{"amenity":"vending_machine","description":"Milch","opening_hours":"11:30-13:30 off","vending":"food","id":"node/9141652754"},"geometry":{"type":"Point","coordinates":[12.12546,47.878884]}}
+{"type":"Feature","id":"node/9141652754","properties":{"amenity":"vending_machine","description":"Milch","opening_hours":"11:30-13:30 off","operator":"Oama","payment:cash":"yes","vending":"food;milk","id":"node/9141652754"},"geometry":{"type":"Point","coordinates":[12.12546,47.878884]}}

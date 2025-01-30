@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5683092496","properties":{"amenity":"marketplace","name":"Marktplatz","opening_hours":"Sa 07:00-12:00","id":"node/5683092496"},"geometry":{"type":"Point","coordinates":[9.0610649,48.6212762]}}
+{"type":"Feature","id":"node/5683092496","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-01-17","name":"Marktplatz","opening_hours":"Sa 07:00-12:00","id":"node/5683092496"},"geometry":{"type":"Point","coordinates":[9.0610649,48.6212762]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/406959524","properties":{"amenity":"marketplace","building":"yes","name":"Pomurski sejem","id":"way/406959524"},"geometry":{"type":"Point","coordinates":[15.9966883,46.6748041]}}
+{"type":"Feature","id":"way/406959524","properties":{"amenity":"marketplace","building":"yes","construction_date":"1980","name":"Pomurski sejem","ref:gurs:sta_sid":"23262445","id":"way/406959524"},"geometry":{"type":"Point","coordinates":[15.9966774,46.6748041]}}

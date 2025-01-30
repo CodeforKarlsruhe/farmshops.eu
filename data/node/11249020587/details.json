@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11249020587","properties":{"image":"https://i.imgur.com/JG6ktzH.jpg","name":"Bayha","opening_hours":"PH,Mo-Su 08:00-20:00","shop":"farm","id":"node/11249020587"},"geometry":{"type":"Point","coordinates":[9.1744217,48.6954967]}}
+{"type":"Feature","id":"node/11249020587","properties":{"name":"Bayha","opening_hours":"PH,Mo-Su 08:00-20:00","panoramax":"3e652d8b-2047-4b3d-960a-3565738ae8ef","shop":"farm","id":"node/11249020587"},"geometry":{"type":"Point","coordinates":[9.1744217,48.6954967]}}

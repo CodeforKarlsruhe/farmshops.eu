@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7839899199","properties":{"amenity":"vending_machine","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/7839899199"},"geometry":{"type":"Point","coordinates":[11.858469,48.0821706]}}
+{"type":"Feature","id":"node/7839899199","properties":{"amenity":"vending_machine","currency:EUR":"yes","indoor":"yes","level":"0","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/7839899199"},"geometry":{"type":"Point","coordinates":[11.8584539,48.0821876]}}

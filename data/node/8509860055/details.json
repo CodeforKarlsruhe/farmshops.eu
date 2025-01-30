@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8509860055","properties":{"amenity":"vending_machine","check_date":"2023-09-10","drink:apple_juice":"yes","vending":"food","id":"node/8509860055"},"geometry":{"type":"Point","coordinates":[9.0273004,48.6399774]}}
+{"type":"Feature","id":"node/8509860055","properties":{"amenity":"vending_machine","check_date":"2023-09-10","drink:apple_juice":"yes","vending":"food;eggs;meat","id":"node/8509860055"},"geometry":{"type":"Point","coordinates":[9.0273004,48.6399774]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9677912113","properties":{"addr:housenumber":"19","addr:street":"obere Bachstraẞe","name":"Schönemanns Hofladen","opening_hours":"24/7","payment:cash":"yes","shop":"farm","id":"node/9677912113"},"geometry":{"type":"Point","coordinates":[9.8140451,51.3136777]}}
+{"type":"Feature","id":"node/9677912113","properties":{"addr:housenumber":"19","addr:street":"Obere Bachstraße","name":"Schönemanns Hofladen","opening_hours":"24/7","payment:cash":"yes","shop":"farm","id":"node/9677912113"},"geometry":{"type":"Point","coordinates":[9.8140451,51.3136777]}}

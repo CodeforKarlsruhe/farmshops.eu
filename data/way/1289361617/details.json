@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1289361617","properties":{"amenity":"marketplace","id":"way/1289361617"},"geometry":{"type":"Point","coordinates":[10.4063042,50.7859665]}}
+{"type":"Feature","id":"way/1289361617","properties":{"amenity":"marketplace","highway":"pedestrian","surface":"paving_stones","id":"way/1289361617"},"geometry":{"type":"Point","coordinates":[10.4063023,50.7859694]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9528128523","properties":{"amenity":"vending_machine","operator":"Talhof Heidenheim","start_date":"2016","vending":"milk;yogurt;quark;fresh_cheese;camembert;honey;eggs","id":"node/9528128523"},"geometry":{"type":"Point","coordinates":[10.1318328,48.6716665]}}
+{"type":"Feature","id":"node/9528128523","properties":{"amenity":"vending_machine","operator":"Talhof Heidenheim","start_date":"2016","vending":"milk;yogurt;quark;fresh_cheese;camembert;honey;eggs","id":"node/9528128523"},"geometry":{"type":"Point","coordinates":[10.1317825,48.6715425]}}

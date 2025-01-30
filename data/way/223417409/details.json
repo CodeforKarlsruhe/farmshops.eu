@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/223417409","properties":{"amenity":"marketplace","name":"Lindenplatz","opening_hours":"Tu 08:00-16:00","wheelchair":"yes","id":"way/223417409"},"geometry":{"type":"Point","coordinates":[13.8834758,52.578259]}}
+{"type":"Feature","id":"way/223417409","properties":{"amenity":"marketplace","check_date:opening_hours":"2024-11-13","name":"Lindenplatz","opening_hours":"Tu 08:00-16:00","wheelchair":"yes","id":"way/223417409"},"geometry":{"type":"Point","coordinates":[13.8834758,52.578259]}}

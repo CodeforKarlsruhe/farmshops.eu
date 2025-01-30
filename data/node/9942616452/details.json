@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9942616452","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Ble Noir","payment:cash":"yes","payment:girocard":"yes","vending":"food","id":"node/9942616452"},"geometry":{"type":"Point","coordinates":[8.7681502,50.839216]}}
+{"type":"Feature","id":"node/9942616452","properties":{"amenity":"vending_machine","check_date":"2025-01-18","currency:EUR":"yes","operator":"Ble Noir","payment:cash":"yes","payment:girocard":"yes","vending":"food","id":"node/9942616452"},"geometry":{"type":"Point","coordinates":[8.7681502,50.839216]}}

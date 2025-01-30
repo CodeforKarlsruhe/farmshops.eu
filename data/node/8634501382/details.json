@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8634501382","properties":{"amenity":"vending_machine","automated":"no","operator":"Imkerei Panther","vending":"drinks;honey","id":"node/8634501382"},"geometry":{"type":"Point","coordinates":[8.1362624,48.5807888]}}
+{"type":"Feature","id":"node/8634501382","properties":{"amenity":"vending_machine","automated":"no","check_date":"2024-10-15","operator":"Imkerei Panther","vending":"drinks;honey","id":"node/8634501382"},"geometry":{"type":"Point","coordinates":[8.1362624,48.5807888]}}

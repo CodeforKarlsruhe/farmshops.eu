@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6627277264","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Metzgerei Höfer","vending":"food","id":"node/6627277264"},"geometry":{"type":"Point","coordinates":[9.6346963,48.8769555]}}
+{"type":"Feature","id":"node/6627277264","properties":{"amenity":"vending_machine","check_date":"2025-01-28","currency:EUR":"yes","operator":"Metzgerei Höfer","vending":"food","id":"node/6627277264"},"geometry":{"type":"Point","coordinates":[9.6346963,48.8769555]}}
