@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11828871467","properties":{"amenity":"vending_machine","operator":"Crèmerie Pianet Humbey","vending":"cheese","id":"node/11828871467"},"geometry":{"type":"Point","coordinates":[5.551747,46.6736352]}}
+{"type":"Feature","id":"node/11828871467","properties":{"amenity":"vending_machine","fixme":"à vérifier","operator":"Crèmerie Pianet Humbey","vending":"cheese","id":"node/11828871467"},"geometry":{"type":"Point","coordinates":[5.5517416,46.6736369]}}

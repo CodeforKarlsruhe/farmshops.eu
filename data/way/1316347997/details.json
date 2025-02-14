@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1316347997","properties":{"building":"yes","craft":"beekeeper","id":"way/1316347997"},"geometry":{"type":"Point","coordinates":[15.9535913,53.8003921]}}
+{"type":"Feature","id":"way/1316347997","properties":{"craft":"beekeeper","landuse":"meadow","id":"way/1316347997"},"geometry":{"type":"Point","coordinates":[15.9535913,53.8003921]}}

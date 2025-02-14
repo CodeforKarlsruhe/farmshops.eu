@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9592371324","properties":{"amenity":"vending_machine","name":"Hof Plank","operator":"Hof Plank","vending":"eggs;milk","id":"node/9592371324"},"geometry":{"type":"Point","coordinates":[9.9205391,49.1724328]}}
+{"type":"Feature","id":"node/9592371324","properties":{"amenity":"vending_machine","check_date":"2025-02-09","name":"Hof Plank","operator":"Hof Plank","vending":"eggs;milk","id":"node/9592371324"},"geometry":{"type":"Point","coordinates":[9.9205391,49.1724328]}}

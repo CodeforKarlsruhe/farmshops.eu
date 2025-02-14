@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11180671541","properties":{"amenity":"marketplace","name":"Flohmarkt Bahrenfeld","opening_hours":"Mo,We,Sa 06:00-16:00","wheelchair":"limited","id":"node/11180671541"},"geometry":{"type":"Point","coordinates":[9.8935468,53.5741773]}}
+{"type":"Feature","id":"node/11180671541","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-02-09","name":"Flohmarkt Bahrenfeld","opening_hours":"Mo,We,Sa 06:00-16:00","wheelchair":"limited","id":"node/11180671541"},"geometry":{"type":"Point","coordinates":[9.8935468,53.5741773]}}
