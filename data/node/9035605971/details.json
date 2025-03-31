@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9035605971","properties":{"amenity":"vending_machine","indoor":"yes","opening_hours":"24/7","vending":"milk","id":"node/9035605971"},"geometry":{"type":"Point","coordinates":[8.511107,47.148466]}}
+{"type":"Feature","id":"node/9035605971","properties":{"amenity":"vending_machine","check_date":"2025-02-23","indoor":"yes","opening_hours":"24/7","vending":"milk","id":"node/9035605971"},"geometry":{"type":"Point","coordinates":[8.511107,47.148466]}}

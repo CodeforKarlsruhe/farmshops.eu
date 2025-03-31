@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12680483401","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:contactless":"yes","payment:qr_pay":"yes","vending":"milk;meat","id":"node/12680483401"},"geometry":{"type":"Point","coordinates":[5.6229826,53.1581713]}}

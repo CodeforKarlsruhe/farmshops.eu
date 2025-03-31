@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6256419949","properties":{"amenity":"vending_machine","operator":"Lohhof","vending":"food","id":"node/6256419949"},"geometry":{"type":"Point","coordinates":[8.8240868,47.9404156]}}
+{"type":"Feature","id":"node/6256419949","properties":{"amenity":"vending_machine","check_date":"2025-03-09","operator":"Lohhof","vending":"food","id":"node/6256419949"},"geometry":{"type":"Point","coordinates":[8.8240868,47.9404156]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12416024756","properties":{"addr:city":"Dassel","addr:housenumber":"5","addr:postcode":"37586","addr:street":"Ilmestraße","name":"Hof Ilmeaue","opening_hours":"24/7","shop":"farm","id":"node/12416024756"},"geometry":{"type":"Point","coordinates":[9.6998853,51.7976179]}}
+{"type":"Feature","id":"node/12416024756","properties":{"addr:city":"Dassel","addr:housenumber":"5","addr:postcode":"37586","addr:street":"Ilmestraße","opening_hours":"24/7","shop":"farm","id":"node/12416024756"},"geometry":{"type":"Point","coordinates":[9.6999157,51.7976242]}}

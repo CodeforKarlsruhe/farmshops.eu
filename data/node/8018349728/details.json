@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8018349728","properties":{"amenity":"vending_machine","operator":"Restaurant Linde","vending":"food","id":"node/8018349728"},"geometry":{"type":"Point","coordinates":[9.3653206,48.6473065]}}
+{"type":"Feature","id":"node/8018349728","properties":{"amenity":"vending_machine","check_date":"2025-02-18","operator":"Restaurant Linde","vending":"food","id":"node/8018349728"},"geometry":{"type":"Point","coordinates":[9.3653206,48.6473065]}}

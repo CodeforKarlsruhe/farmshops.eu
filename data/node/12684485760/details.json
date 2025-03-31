@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12684485760","properties":{"amenity":"vending_machine","charge":"10 Stück 3,50€","description":"Eier aus Freilandhaltung","name":"Malmersdorfer Gaggerli","payment:cash":"yes","payment:credit_cards":"no","payment:debit_cards":"no","vending":"eggs","id":"node/12684485760"},"geometry":{"type":"Point","coordinates":[10.7093564,49.2764663]}}

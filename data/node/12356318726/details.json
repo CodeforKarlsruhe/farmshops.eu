@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12356318726","properties":{"amenity":"marketplace","name":"Wochenmarkt Antonplatz","opening_hours":"Tu,Fr 09:00-18:00; PH off","id":"node/12356318726"},"geometry":{"type":"Point","coordinates":[13.4509978,52.5486283]}}
+{"type":"Feature","id":"node/12356318726","properties":{"amenity":"marketplace","name":"Wochenmarkt Antonplatz","opening_hours":"Tu,Fr 09:00-18:00; PH off","wikidata":"Q100255612","id":"node/12356318726"},"geometry":{"type":"Point","coordinates":[13.4509978,52.5486283]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6807924785","properties":{"name":"Finkennest","shop":"farm","website":"https://finkennest-zillham.com/hofladen","id":"node/6807924785"},"geometry":{"type":"Point","coordinates":[12.2660074,47.9848377]}}
+{"type":"Feature","id":"node/6807924785","properties":{"name":"Finkennest","shop":"farm","website":"https://finkennest-zillham.com/hofladen","wheelchair":"yes","id":"node/6807924785"},"geometry":{"type":"Point","coordinates":[12.2660074,47.9848377]}}

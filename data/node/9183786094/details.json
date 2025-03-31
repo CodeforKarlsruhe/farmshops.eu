@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9183786094","properties":{"name":"Meyer’s Hofladen","opening_hours":"Tu-Fr 08:00-17:30; Sa 08:00-15:00","shop":"farm","wheelchair":"yes","id":"node/9183786094"},"geometry":{"type":"Point","coordinates":[10.3940095,53.299418]}}
+{"type":"Feature","id":"node/9183786094","properties":{"name":"Meyer’s Hofladen","opening_hours":"Tu-Fr 08:00-17:30; Sa 08:00-15:00","payment:cash":"yes","shop":"farm","wheelchair":"yes","id":"node/9183786094"},"geometry":{"type":"Point","coordinates":[10.3940095,53.299418]}}
