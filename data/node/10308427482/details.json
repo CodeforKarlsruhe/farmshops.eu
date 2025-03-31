@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10308427482","properties":{"amenity":"marketplace","name":"Brabantse Turfmarkt","opening_hours":"Sa","source":"survey","wheelchair":"yes","id":"node/10308427482"},"geometry":{"type":"Point","coordinates":[4.3605221,52.0103977]}}
+{"type":"Feature","id":"node/10308427482","properties":{"amenity":"marketplace","name":"Brabantse Turfmarkt","opening_hours":"Sa","payment:cash":"yes","source":"survey","wheelchair":"yes","id":"node/10308427482"},"geometry":{"type":"Point","coordinates":[4.3605221,52.0103977]}}

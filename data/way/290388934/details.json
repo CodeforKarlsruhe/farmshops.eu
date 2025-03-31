@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/290388934","properties":{"amenity":"marketplace","name":"Wochenmarkt","opening_hours":"Th 06:00-14:00","wheelchair":"yes","id":"way/290388934"},"geometry":{"type":"Point","coordinates":[10.4408111,52.8990319]}}
+{"type":"Feature","id":"way/290388934","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-03-03","name":"Wochenmarkt","opening_hours":"Th 06:00-14:00","wheelchair":"yes","id":"way/290388934"},"geometry":{"type":"Point","coordinates":[10.4408111,52.8990319]}}

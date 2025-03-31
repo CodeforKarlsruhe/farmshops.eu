@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1119971478","properties":{"access":"yes","amenity":"marketplace","name":"Saseler Markt","opening_hours":"Th,Sa 08:00-13:00","wheelchair":"yes","id":"way/1119971478"},"geometry":{"type":"Point","coordinates":[10.1117011,53.6535281]}}
+{"type":"Feature","id":"way/1119971478","properties":{"access":"yes","amenity":"marketplace","lit":"yes","name":"Saseler Markt","opening_hours":"Th,Sa 08:00-13:00","surface":"paving_stones","wheelchair":"yes","id":"way/1119971478"},"geometry":{"type":"Point","coordinates":[10.1116683,53.653538]}}

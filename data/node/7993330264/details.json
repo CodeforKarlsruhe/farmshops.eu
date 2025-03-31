@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7993330264","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Technische Universität Chemnitz","vending":"drinks;food","id":"node/7993330264"},"geometry":{"type":"Point","coordinates":[12.9272402,50.8416421]}}
+{"type":"Feature","id":"node/7993330264","properties":{"amenity":"vending_machine","currency:EUR":"yes","indoor":"yes","operator":"Technische Universität Chemnitz","vending":"drinks;food","id":"node/7993330264"},"geometry":{"type":"Point","coordinates":[12.9271882,50.8416515]}}

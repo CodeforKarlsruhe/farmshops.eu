@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8120433884","properties":{"amenity":"vending_machine","vending":"milk;eggs","id":"node/8120433884"},"geometry":{"type":"Point","coordinates":[6.8268382,47.1139497]}}
+{"type":"Feature","id":"node/8120433884","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:coins":"yes","payment:credit_cards":"no","payment:cryptocurrencies":"no","payment:debit_cards":"no","payment:electronic_purses":"no","vending":"eggs;milk","id":"node/8120433884"},"geometry":{"type":"Point","coordinates":[6.8268382,47.1139497]}}

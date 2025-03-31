@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5895008094","properties":{"name:signed":"no","opening_hours":"24/7","payment:credit_cards":"no","payment:debit_cards":"no","shop":"farm","wheelchair":"yes","id":"node/5895008094"},"geometry":{"type":"Point","coordinates":[9.3392184,47.7024913]}}
+{"type":"Feature","id":"node/5895008094","properties":{"check_date":"2025-03-09","name:signed":"no","opening_hours":"24/7","payment:credit_cards":"no","payment:debit_cards":"no","shop":"farm","wheelchair":"yes","id":"node/5895008094"},"geometry":{"type":"Point","coordinates":[9.3392184,47.7024913]}}

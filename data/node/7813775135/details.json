@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7813775135","properties":{"addr:country":"DE","addr:housenumber":"91","addr:street":"Friedrich-Engels-Damm","craft":"beekeeper","name:signed":"no","id":"node/7813775135"},"geometry":{"type":"Point","coordinates":[14.0440969,52.26081]}}
+{"type":"Feature","id":"node/7813775135","properties":{"addr:city":"Bad Saarow","addr:country":"DE","addr:housenumber":"91","addr:postcode":"15526","addr:street":"Friedrich-Engels-Damm","craft":"beekeeper","name:signed":"no","id":"node/7813775135"},"geometry":{"type":"Point","coordinates":[14.0440969,52.26081]}}

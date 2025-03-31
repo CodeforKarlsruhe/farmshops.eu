@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7415816223","properties":{"amenity":"vending_machine","operator":"Bergkäserei Steibis","payment:coins":"yes","payment:notes":"yes","vending":"cheese","id":"node/7415816223"},"geometry":{"type":"Point","coordinates":[10.0240944,47.5299524]}}
+{"type":"Feature","id":"node/7415816223","properties":{"amenity":"vending_machine","check_date":"2025-03-02","operator":"Bergkäserei Steibis","payment:coins":"yes","payment:notes":"yes","vending":"cheese","id":"node/7415816223"},"geometry":{"type":"Point","coordinates":[10.0240944,47.5299524]}}

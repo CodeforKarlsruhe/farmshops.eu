@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5824052278","properties":{"amenity":"vending_machine","vending":"food","id":"node/5824052278"},"geometry":{"type":"Point","coordinates":[9.0178392,47.3735668]}}
+{"type":"Feature","id":"node/5824052278","properties":{"description":"Verschiedene Käse, Yoghurt, Butter (19.3.205)","opening_hours":"24/7","operator":"Toni Gübeli Käserei GmbH","payment:cash":"yes","payment:twint":"yes","shop":"farm","vending":"cheese;yoghurt;butter","wheelchair":"yes","id":"node/5824052278"},"geometry":{"type":"Point","coordinates":[9.0178392,47.3735668]}}
