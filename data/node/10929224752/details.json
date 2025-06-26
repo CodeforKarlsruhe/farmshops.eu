@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10929224752","properties":{"amenity":"vending_machine","covered":"yes","opening_hours":"24/7","operator":"Metzgerei Hofberger","vending":"meat","id":"node/10929224752"},"geometry":{"type":"Point","coordinates":[11.5993006,48.0344408]}}
+{"type":"Feature","id":"node/10929224752","properties":{"amenity":"vending_machine","check_date":"2025-06-06","covered":"yes","opening_hours":"24/7","operator":"Metzgerei Hofberger","vending":"meat","id":"node/10929224752"},"geometry":{"type":"Point","coordinates":[11.5993006,48.0344408]}}

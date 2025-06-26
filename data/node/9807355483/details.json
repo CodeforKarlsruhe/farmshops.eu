@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9807355483","properties":{"opening_hours":"Mo-Fr 09:00-11:00, 15:00-17:00; Sa 09:00-11:00","phone":"+41416107113","shop":"farm","id":"node/9807355483"},"geometry":{"type":"Point","coordinates":[8.3749294,46.9611279]}}
+{"type":"Feature","id":"node/9807355483","properties":{"name":"Hoflädeli","opening_hours":"Mo-Fr 09:00-11:00, 15:00-17:00; Sa 09:00-11:00","phone":"+41416107113","shop":"farm","id":"node/9807355483"},"geometry":{"type":"Point","coordinates":[8.3749294,46.9611279]}}

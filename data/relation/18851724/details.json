@@ -1,1 +1,1 @@
-{"type":"Feature","id":"relation/18851724","properties":{"amenity":"marketplace","building":"no","name":"Lindenauer Markt","type":"multipolygon","id":"relation/18851724"},"geometry":{"type":"Point","coordinates":[12.3347034,51.3371098]}}
+{"type":"Feature","id":"relation/18851724","properties":{"amenity":"marketplace","name":"Lindenauer Markt","type":"multipolygon","id":"relation/18851724"},"geometry":{"type":"Point","coordinates":[12.3347034,51.3371098]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11779004186","properties":{"amenity":"vending_machine","operator":"Metzgerei Weippert GmbH","vending":"food;sweets;drinks;cheese","id":"node/11779004186"},"geometry":{"type":"Point","coordinates":[8.9225763,48.5762127]}}
+{"type":"Feature","id":"node/11779004186","properties":{"amenity":"vending_machine","brand":"Regiomat","operator":"Metzgerei Weippert GmbH","vending":"food;sweets;drinks;cheese","id":"node/11779004186"},"geometry":{"type":"Point","coordinates":[8.9225763,48.5762127]}}

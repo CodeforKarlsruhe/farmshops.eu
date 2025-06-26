@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8118279974","properties":{"amenity":"marketplace","name":"Ökomarkt","opening_hours":"Fr 08:00-14:00","organic":"only","id":"node/8118279974"},"geometry":{"type":"Point","coordinates":[7.1559137,50.6855344]}}
+{"type":"Feature","id":"node/8118279974","properties":{"amenity":"marketplace","name":"Ökomarkt","opening_hours":"Fr 08:00-14:00","organic":"only","wheelchair":"yes","id":"node/8118279974"},"geometry":{"type":"Point","coordinates":[7.1559137,50.6855344]}}

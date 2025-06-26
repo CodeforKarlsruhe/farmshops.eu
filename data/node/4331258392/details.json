@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4331258392","properties":{"name":"Lanz","shop":"farm","id":"node/4331258392"},"geometry":{"type":"Point","coordinates":[9.5102759,47.6912836]}}
+{"type":"Feature","id":"node/4331258392","properties":{"name":"Lanz","opening_hours":"Fr,Sa 10:00-12:00, Fr 14:00-16:00","shop":"farm","id":"node/4331258392"},"geometry":{"type":"Point","coordinates":[9.5102759,47.6912836]}}

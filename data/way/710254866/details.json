@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/710254866","properties":{"building":"yes","name":"Ferme des Tourbières","shop":"farm","source":"Bing + surveying","vending":"food","website":"https://www.fermedestourbieres.ch","id":"way/710254866"},"geometry":{"type":"Point","coordinates":[6.7308371,46.9665121]}}
+{"type":"Feature","id":"way/710254866","properties":{"building":"shed","payment:cash":"yes","payment:twint":"yes","shop":"farm","vending":"food","website":"https://www.fermedestourbieres.ch","id":"way/710254866"},"geometry":{"type":"Point","coordinates":[6.7308371,46.9665121]}}

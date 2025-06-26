@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11119755920","properties":{"amenity":"vending_machine","name":"Food-Box","operator":"Fleischerei Bruhn","vending":"food","id":"node/11119755920"},"geometry":{"type":"Point","coordinates":[9.892121,54.7459442]}}
+{"type":"Feature","id":"node/11119755920","properties":{"amenity":"vending_machine","indoor":"no","name":"Food-Box","operator":"Fleischerei Bruhn","vending":"food","id":"node/11119755920"},"geometry":{"type":"Point","coordinates":[9.892121,54.7459442]}}

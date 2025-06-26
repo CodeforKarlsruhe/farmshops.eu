@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8783772158","properties":{"amenity":"vending_machine","vending":"food","id":"node/8783772158"},"geometry":{"type":"Point","coordinates":[11.1462666,49.7080945]}}
+{"type":"Feature","id":"node/8783772158","properties":{"amenity":"vending_machine","vending":"food","wheelchair":"limited","id":"node/8783772158"},"geometry":{"type":"Point","coordinates":[11.1462666,49.7080945]}}

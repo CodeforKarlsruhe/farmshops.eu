@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9952346371","properties":{"amenity":"vending_machine","operator":"Hof Broeker","payment:coins":"yes","payment:notes":"yes","vending":"eggs;pasta;oil","id":"node/9952346371"},"geometry":{"type":"Point","coordinates":[8.6096033,51.9133313]}}
+{"type":"Feature","id":"node/9952346371","properties":{"amenity":"vending_machine","operator":"Hof Broeker","payment:coins":"yes","payment:notes":"yes","vending":"eggs;pasta;oil","id":"node/9952346371"},"geometry":{"type":"Point","coordinates":[8.6096073,51.9133309]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/238376101","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Stiegelplatz","id":"way/238376101"},"geometry":{"type":"Point","coordinates":[9.0917078,48.8544041]}}
+{"type":"Feature","id":"way/238376101","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Stiegelplatz","surface":"paving_stones","id":"way/238376101"},"geometry":{"type":"Point","coordinates":[9.0917078,48.8544041]}}

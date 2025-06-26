@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12863250997","properties":{"amenity":"vending_machine","operator":"Proviantomat","payment:cash":"yes","payment:contactless":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","vending":"food;sweets;water","website":"https://proviantomat.de/","id":"node/12863250997"},"geometry":{"type":"Point","coordinates":[14.1100336,50.9801333]}}

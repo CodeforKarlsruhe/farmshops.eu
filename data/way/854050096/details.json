@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/854050096","properties":{"building":"yes","name":"Ferme du Maustitchi","shop":"farm","website":"https://www.maustitchi.be/","id":"way/854050096"},"geometry":{"type":"Point","coordinates":[4.3331005,50.388644]}}
+{"type":"Feature","id":"way/854050096","properties":{"building":"farm_auxiliary","name":"Ferme du Maustitchi","shop":"farm","source:geometry:date":"2023","source:geometry:ref":"missing","website":"https://www.maustitchi.be/","id":"way/854050096"},"geometry":{"type":"Point","coordinates":[4.3330996,50.3885982]}}

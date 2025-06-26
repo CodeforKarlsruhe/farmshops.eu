@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7785627346","properties":{"operator":"Hof Engel","shop":"farm","website":"http://www.bauernhof-engel.de/verkauf/","id":"node/7785627346"},"geometry":{"type":"Point","coordinates":[9.7316987,52.9071943]}}
+{"type":"Feature","id":"node/7785627346","properties":{"name:signed":"no","opening_hours":"Mo-Su,PH 07:30-19:00","operator":"Hof Engel","shop":"farm","website":"http://www.bauernhof-engel.de/verkauf/","id":"node/7785627346"},"geometry":{"type":"Point","coordinates":[9.7316987,52.9071943]}}

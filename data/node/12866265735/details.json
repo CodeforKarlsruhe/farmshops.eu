@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12866265735","properties":{"amenity":"vending_machine","description":"Self-service fridge with local milk and cheese.","location":"outdoor","opening_hours":"24/7","payment:coins":"only","self_service":"yes","vending":"milk","id":"node/12866265735"},"geometry":{"type":"Point","coordinates":[16.1198978,47.607531]}}

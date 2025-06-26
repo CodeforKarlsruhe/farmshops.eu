@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9513936259","properties":{"amenity":"vending_machine","food":"eggs","operator":"Bauernladen Scheiber","vending":"food","id":"node/9513936259"},"geometry":{"type":"Point","coordinates":[6.4153295,51.1523889]}}
+{"type":"Feature","id":"node/9513936259","properties":{"amenity":"vending_machine","check_date":"2025-04-18","food":"eggs","operator":"Bauernladen Scheiber","vending":"food","id":"node/9513936259"},"geometry":{"type":"Point","coordinates":[6.4153295,51.1523889]}}

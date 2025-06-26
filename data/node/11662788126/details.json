@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11662788126","properties":{"amenity":"vending_machine","note":"Standort prüfen wird versetzt","operator":"Metzgerei Fischer","vending":"meat;sausage","id":"node/11662788126"},"geometry":{"type":"Point","coordinates":[12.8932823,48.8616612]}}
+{"type":"Feature","id":"node/11662788126","properties":{"amenity":"vending_machine","operator":"Metzgerei Fischer","vending":"meat;sausage;food;drinks","id":"node/11662788126"},"geometry":{"type":"Point","coordinates":[12.8932823,48.8616612]}}

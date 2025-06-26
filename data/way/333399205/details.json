@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/333399205","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","name":"Schloßplatz","opening_hours":"24/7","surface":"sett","wheelchair":"limited","id":"way/333399205"},"geometry":{"type":"Point","coordinates":[12.247025,51.8332773]}}
+{"type":"Feature","id":"way/333399205","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","lit":"yes","name":"Schloßplatz","opening_hours":"24/7","surface":"sett","wheelchair":"limited","id":"way/333399205"},"geometry":{"type":"Point","coordinates":[12.247025,51.8332773]}}

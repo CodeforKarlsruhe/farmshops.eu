@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11010113363","properties":{"amenity":"vending_machine","name":"Winterhalder","vending":"food;drinks;honey;eggs;potatoes; vegetables","id":"node/11010113363"},"geometry":{"type":"Point","coordinates":[7.8116501,48.1255436]}}
+{"type":"Feature","id":"node/11010113363","properties":{"amenity":"vending_machine","name":"Winterhalder","payment:cash":"only","vending":"food;drinks;honey;eggs;potatoes; vegetables","id":"node/11010113363"},"geometry":{"type":"Point","coordinates":[7.8116501,48.1255436]}}

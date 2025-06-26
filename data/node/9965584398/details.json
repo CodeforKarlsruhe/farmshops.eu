@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9965584398","properties":{"addr:street":"Adam-Kuckhoff-Platz","amenity":"marketplace","opening_hours":"We,Fr 08:00-18:00; Sa 08:00-13:00","id":"node/9965584398"},"geometry":{"type":"Point","coordinates":[13.2258323,52.4205295]}}
+{"type":"Feature","id":"node/9965584398","properties":{"addr:street":"Adam-Kuckhoff-Platz","amenity":"marketplace","name":"Adam-Kuckhoff-Platz","opening_hours":"We,Fr 08:00-18:00; Sa 08:00-13:00","id":"node/9965584398"},"geometry":{"type":"Point","coordinates":[13.2258323,52.4205295]}}

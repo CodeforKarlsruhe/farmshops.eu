@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12651902492","properties":{"name":"Zimmermann Mühle","phone":"09378 99950","shop":"farm","id":"node/12651902492"},"geometry":{"type":"Point","coordinates":[9.3999839,49.668935]}}
+{"type":"Feature","id":"node/12651902492","properties":{"name":"Zimmermann Mühle","phone":"+49 9378 99950","shop":"farm","website":"https://zimmermann-muehle.de","id":"node/12651902492"},"geometry":{"type":"Point","coordinates":[9.3999839,49.668935]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8764969945","properties":{"amenity":"vending_machine","operator":"Echt Schlotters - Die Metzgerei","vending":"food","id":"node/8764969945"},"geometry":{"type":"Point","coordinates":[9.9835441,48.4819075]}}
+{"type":"Feature","id":"node/8764969945","properties":{"disused:amenity":"vending_machine","note":"Außer Betrieb","opening_hours":"closed","operator":"Echt Schlotters - Die Metzgerei","survey:date":"2025-06-07","vending":"food","id":"node/8764969945"},"geometry":{"type":"Point","coordinates":[9.9835441,48.4819075]}}

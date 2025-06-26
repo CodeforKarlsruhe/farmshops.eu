@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7809819155","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:coins":"yes","vending":"food","id":"node/7809819155"},"geometry":{"type":"Point","coordinates":[10.934924,47.3898171]}}
+{"type":"Feature","id":"node/7809819155","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Biezu Hof und Laden","payment:coins":"yes","vending":"food","id":"node/7809819155"},"geometry":{"type":"Point","coordinates":[10.934924,47.3898171]}}

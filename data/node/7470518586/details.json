@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7470518586","properties":{"amenity":"vending_machine","vending":"food;potatos;eggs","id":"node/7470518586"},"geometry":{"type":"Point","coordinates":[6.4297861,50.960193]}}
+{"type":"Feature","id":"node/7470518586","properties":{"amenity":"vending_machine","check_date":"2025-05-10","vending":"food;potatos;eggs","id":"node/7470518586"},"geometry":{"type":"Point","coordinates":[6.4297861,50.960193]}}

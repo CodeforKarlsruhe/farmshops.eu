@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4029870786","properties":{"amenity":"marketplace","description:fr":"Type : alimentation","opening_hours":"Th 08:00-13:00","sells":"grocery","id":"node/4029870786"},"geometry":{"type":"Point","coordinates":[4.3397315,50.8565874]}}
+{"type":"Feature","id":"node/4029870786","properties":{"amenity":"marketplace","description:fr":"Type : alimentation","name:signed":"no","opening_hours":"Th 08:00-13:00","sells":"grocery","id":"node/4029870786"},"geometry":{"type":"Point","coordinates":[4.3397315,50.8565874]}}
