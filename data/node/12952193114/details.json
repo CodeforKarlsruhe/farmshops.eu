@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12952193114","properties":{"amenity":"vending_machine","payment:coins":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:girocard":"yes","payment:visa_debit":"no","vending":"drinks;food;milk;sweets","id":"node/12952193114"},"geometry":{"type":"Point","coordinates":[7.8509572,50.5168385]}}

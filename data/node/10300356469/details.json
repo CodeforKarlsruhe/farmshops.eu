@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10300356469","properties":{"amenity":"vending_machine","indoor":"yes","payment:cryptocurrencies":"no","payment:electronic_purses":"no","vending":"drinks;food","id":"node/10300356469"},"geometry":{"type":"Point","coordinates":[7.3592553,53.6854121]}}
+{"type":"Feature","id":"node/10300356469","properties":{"amenity":"vending_machine","indoor":"yes","payment:cryptocurrencies":"no","payment:electronic_purses":"no","vending":"drinks;food","wheelchair":"yes","id":"node/10300356469"},"geometry":{"type":"Point","coordinates":[7.3592553,53.6854121]}}

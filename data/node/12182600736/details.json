@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12182600736","properties":{"amenity":"vending_machine","check_date":"2024-09-17","vending":"eggs","id":"node/12182600736"},"geometry":{"type":"Point","coordinates":[9.7940393,52.3189694]}}
+{"type":"Feature","id":"node/12182600736","properties":{"amenity":"vending_machine","check_date":"2024-09-17","vending":"eggs","wheelchair":"yes","id":"node/12182600736"},"geometry":{"type":"Point","coordinates":[9.7940393,52.3189694]}}

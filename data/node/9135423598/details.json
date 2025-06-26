@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9135423598","properties":{"amenity":"vending_machine","vending":"food","id":"node/9135423598"},"geometry":{"type":"Point","coordinates":[6.4096429,51.0404411]}}
+{"type":"Feature","id":"node/9135423598","properties":{"amenity":"vending_machine","contact:instagram":"kartoffelhof.kradepohl","name":"Kartoffelhof Kradepohl","vending":"food","id":"node/9135423598"},"geometry":{"type":"Point","coordinates":[6.4096336,51.0404481]}}

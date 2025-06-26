@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3848587575","properties":{"amenity":"vending_machine","check_date":"2025-03-20","food":"potatoes","operator":"Erdbeer- Kartoffelhof Herbert Weerts","vending":"food","id":"node/3848587575"},"geometry":{"type":"Point","coordinates":[9.1166571,53.9931522]}}
+{"type":"Feature","id":"node/3848587575","properties":{"amenity":"vending_machine","check_date":"2025-03-20","food":"potatoes","indoor":"no","operator":"Erdbeer- Kartoffelhof Herbert Weerts","vending":"food","id":"node/3848587575"},"geometry":{"type":"Point","coordinates":[9.1166571,53.9931522]}}

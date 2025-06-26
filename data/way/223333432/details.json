@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/223333432","properties":{"amenity":"marketplace","building":"yes","id":"way/223333432"},"geometry":{"type":"Point","coordinates":[4.3951909,50.4015939]}}
+{"type":"Feature","id":"way/223333432","properties":{"addr:city":"Marchienne-au-Pont","addr:housenumber":"165","addr:postcode":"6030","addr:street":"Rue de Beaumont","amenity":"marketplace","building":"yes","source:geometry:date":"20160609170515","source:geometry:ref":"Picc/3206264","id":"way/223333432"},"geometry":{"type":"Point","coordinates":[4.395217,50.4015453]}}

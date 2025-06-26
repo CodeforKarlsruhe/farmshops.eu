@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7618494734","properties":{"amenity":"vending_machine","fee":"yes","name":"Grill-Box","opening_hours":"24/7","vending":"meat","id":"node/7618494734"},"geometry":{"type":"Point","coordinates":[7.3750067,51.7767577]}}
+{"type":"Feature","id":"node/7618494734","properties":{"amenity":"vending_machine","fee":"yes","name":"Grill-Box","opening_hours":"24/7","payment:cash":"yes","vending":"meat","id":"node/7618494734"},"geometry":{"type":"Point","coordinates":[7.3750067,51.7767577]}}

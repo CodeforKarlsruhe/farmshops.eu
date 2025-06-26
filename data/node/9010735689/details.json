@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9010735689","properties":{"name":"Hofladen","shop":"farm","id":"node/9010735689"},"geometry":{"type":"Point","coordinates":[8.6167807,47.3819665]}}
+{"type":"Feature","id":"node/9010735689","properties":{"description":"Süssmost, Eier (1 Stück: 0.65chf, 6 Stück: 3.90chf, 10 Stück: 6.50chf, 12 Stück 7.80chf (20.4.2025))","name":"Hofladen","operator":"Familie Dürst","payment:cash":"yes","payment:twint":"yes","shop":"farm","wheelchair":"yes","id":"node/9010735689"},"geometry":{"type":"Point","coordinates":[8.6167458,47.3819424]}}

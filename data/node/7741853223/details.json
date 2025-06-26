@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7741853223","properties":{"name":"Erdbeerland","seasonal":"spring;summer","shop":"farm","wheelchair":"yes","id":"node/7741853223"},"geometry":{"type":"Point","coordinates":[7.0266242,49.1947088]}}
+{"type":"Feature","id":"node/7741853223","properties":{"name":"Erdbeerland","opening_hours":"Mo-Fr 09:00-18:00; Sa 08:00-14:00; PH,Su closed","seasonal":"spring;summer","shop":"farm","wheelchair":"yes","id":"node/7741853223"},"geometry":{"type":"Point","coordinates":[7.0266174,49.1946997]}}

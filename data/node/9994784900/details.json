@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9994784900","properties":{"amenity":"vending_machine","contact:website":"http://www.metzgerei-eberle.de/","opening_hours":"24/7","vending":"food","id":"node/9994784900"},"geometry":{"type":"Point","coordinates":[9.2886011,49.4439467]}}
+{"type":"Feature","id":"node/9994784900","properties":{"amenity":"vending_machine","currency:EUR":"yes","opening_hours":"24/7","operator":"Gemeinde Seckach","payment:cash":"yes","vending":"food;drinks","id":"node/9994784900"},"geometry":{"type":"Point","coordinates":[9.2886011,49.4439467]}}

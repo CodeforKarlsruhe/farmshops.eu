@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/305954986","properties":{"amenity":"marketplace","building":"roof","name":"Place du Marché","wheelchair":"yes","id":"way/305954986"},"geometry":{"type":"Point","coordinates":[7.4802982,48.8719935]}}
+{"type":"Feature","id":"way/305954986","properties":{"addr:city":"Ingwiller","addr:postcode":"67340","addr:street":"Place du Marché","amenity":"marketplace","building":"roof","layer":"1","name":"Place du Marché","wheelchair":"yes","id":"way/305954986"},"geometry":{"type":"Point","coordinates":[7.4804714,48.8719685]}}

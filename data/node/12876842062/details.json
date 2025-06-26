@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12876842062","properties":{"amenity":"vending_machine","height":"2.5","operator":"https://www.regiomat.de/home/","payment:cash":"yes","payment:coins":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:notes":"yes","vending":"food","id":"node/12876842062"},"geometry":{"type":"Point","coordinates":[11.1223056,53.1358105]}}

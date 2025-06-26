@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10801365022","properties":{"amenity":"vending_machine","currency:EUR":"yes","payment:cash":"yes","vending":"eggs;ice","id":"node/10801365022"},"geometry":{"type":"Point","coordinates":[7.1494594,51.3415089]}}
+{"type":"Feature","id":"node/10801365022","properties":{"amenity":"vending_machine","currency:EUR":"yes","indoor":"yes","payment:cash":"yes","vending":"eggs;ice","id":"node/10801365022"},"geometry":{"type":"Point","coordinates":[7.1494594,51.3415089]}}

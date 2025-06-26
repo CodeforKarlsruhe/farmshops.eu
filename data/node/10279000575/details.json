@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10279000575","properties":{"amenity":"vending_machine","covered":"yes","name":"HofBox","operator":"Bauer Giese","payment:cash":"yes","vending":"food","id":"node/10279000575"},"geometry":{"type":"Point","coordinates":[9.0977987,52.167809]}}
+{"type":"Feature","id":"node/10279000575","properties":{"amenity":"vending_machine","check_date":"2025-04-18","covered":"yes","name":"HofBox","operator":"Bauer Giese","payment:cash":"yes","vending":"food","id":"node/10279000575"},"geometry":{"type":"Point","coordinates":[9.0977987,52.167809]}}

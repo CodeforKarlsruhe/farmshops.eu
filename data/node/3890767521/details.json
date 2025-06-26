@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3890767521","properties":{"amenity":"vending_machine","check_date":"2022-11-28","operator":"Zankl's Hofladen","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/3890767521"},"geometry":{"type":"Point","coordinates":[11.2960744,48.1118252]}}
+{"type":"Feature","id":"node/3890767521","properties":{"amenity":"vending_machine","check_date":"2025-04-17","operator":"Zankl's Hofladen","payment:coins":"yes","payment:notes":"yes","vending":"food","id":"node/3890767521"},"geometry":{"type":"Point","coordinates":[11.2960744,48.1118252]}}

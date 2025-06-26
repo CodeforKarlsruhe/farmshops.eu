@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12837213995","properties":{"amenity":"vending_machine","covered":"yes","name":"Hofliebe","operator":"Heimatliebe","payment:apple_pay":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:google_pay":"yes","vending":"food","id":"node/12837213995"},"geometry":{"type":"Point","coordinates":[9.0733262,47.7246301]}}

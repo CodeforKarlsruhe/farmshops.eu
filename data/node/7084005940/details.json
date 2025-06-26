@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7084005940","properties":{"description":"Verkauf von Kartoffeln, Eiern, Honig","name":"Hof Beckmann","shop":"farm","id":"node/7084005940"},"geometry":{"type":"Point","coordinates":[8.5732679,52.943627]}}
+{"type":"Feature","id":"node/7084005940","properties":{"description":"Verkauf von Kartoffeln, Eiern, Honig","name":"Hof Beckmann","self_service":"only","shop":"farm","id":"node/7084005940"},"geometry":{"type":"Point","coordinates":[8.5732679,52.943627]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8026273496","properties":{"amenity":"vending_machine","check_date":"2023-11-06","indoor":"no","operator":"Glonner Hof","vending":"eggs","id":"node/8026273496"},"geometry":{"type":"Point","coordinates":[11.7828906,48.1122036]}}
+{"type":"Feature","id":"node/8026273496","properties":{"amenity":"vending_machine","check_date":"2025-05-11","indoor":"yes","opening_hours":"24/7","operator":"Glonner Hof","vending":"eggs","id":"node/8026273496"},"geometry":{"type":"Point","coordinates":[11.7828906,48.1122036]}}

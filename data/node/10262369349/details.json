@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10262369349","properties":{"addr:street":"Marienplatz","amenity":"marketplace","name":"Marienplatz-Markt","opening_hours":"wednesday","wheelchair":"yes","id":"node/10262369349"},"geometry":{"type":"Point","coordinates":[9.1682429,48.7641711]}}
+{"type":"Feature","id":"node/10262369349","properties":{"addr:street":"Marienplatz","amenity":"marketplace","name":"Marienplatz-Markt","opening_hours":"We 10:00-18:00","wheelchair":"yes","id":"node/10262369349"},"geometry":{"type":"Point","coordinates":[9.1682429,48.7641711]}}

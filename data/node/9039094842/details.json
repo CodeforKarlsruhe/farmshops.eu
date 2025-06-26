@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9039094842","properties":{"amenity":"vending_machine","check_date":"2024-12-23","indoor":"yes","operator":"Zoells","ref":"1046632","vending":"food","id":"node/9039094842"},"geometry":{"type":"Point","coordinates":[11.4619829,48.1496525]}}
+{"type":"Feature","id":"node/9039094842","properties":{"amenity":"vending_machine","check_date":"2024-12-23","indoor":"yes","operator":"Zoells","ref":"1046632","vending":"drinks;food","id":"node/9039094842"},"geometry":{"type":"Point","coordinates":[11.4619829,48.1496525]}}

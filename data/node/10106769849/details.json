@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10106769849","properties":{"shop":"farm","id":"node/10106769849"},"geometry":{"type":"Point","coordinates":[7.618235,47.2153074]}}
+{"type":"Feature","id":"node/10106769849","properties":{"addr:city":"Deitingen","addr:housenumber":"21","addr:postcode":"4543","addr:street":"Bahnhofstrasse","name":"Stüdi's Hofladen","opening_hours":"fretag","organic":"yes","shop":"farm","website":"https://www.stuedi-hofladen.ch/","id":"node/10106769849"},"geometry":{"type":"Point","coordinates":[7.618235,47.2153074]}}

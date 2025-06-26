@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10981975106","properties":{"payment:cash":"yes","payment:coins":"yes","shop":"farm","id":"node/10981975106"},"geometry":{"type":"Point","coordinates":[15.5632539,47.2069746]}}
+{"type":"Feature","id":"node/10981975106","properties":{"name":"Hofladen Schöckl","opening_hours":"Mo-Su,PH 00:00-23:59","payment:cash":"yes","payment:coins":"yes","shop":"farm","id":"node/10981975106"},"geometry":{"type":"Point","coordinates":[15.5632539,47.2069746]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11728359339","properties":{"addr:city":"Otzberg","addr:postcode":"64853","addr:street":"Schloßgasse","addr:suburb":"Habitzheim","bulk_purchase":"yes","fixme":"exact location","name":"Emmas Erben","shop":"farm","id":"node/11728359339"},"geometry":{"type":"Point","coordinates":[8.8792528,49.8507385]}}
+{"type":"Feature","id":"node/11728359339","properties":{"bulk_purchase":"yes","fixme":"exact location","name":"Emmas Erben","shop":"farm","id":"node/11728359339"},"geometry":{"type":"Point","coordinates":[8.8792528,49.8507385]}}

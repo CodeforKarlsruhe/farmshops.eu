@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9309864718","properties":{"amenity":"marketplace","name":"Oberer Marktplatz","wheelchair":"yes","id":"node/9309864718"},"geometry":{"type":"Point","coordinates":[9.7203709,53.9486243]}}
+{"type":"Feature","id":"node/9309864718","properties":{"amenity":"marketplace","name":"Oberer Marktplatz","opening_hours":"We 08:00-12:00","wheelchair":"yes","id":"node/9309864718"},"geometry":{"type":"Point","coordinates":[9.7203709,53.9486243]}}

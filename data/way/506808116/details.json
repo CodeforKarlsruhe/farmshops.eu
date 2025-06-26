@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/506808116","properties":{"building":"yes","craft":"beekeeper","source":"DOP_LVA_BY_01;local knowledge","id":"way/506808116"},"geometry":{"type":"Point","coordinates":[12.2189031,49.2055167]}}
+{"type":"Feature","id":"way/506808116","properties":{"addr:housenumber":"5","addr:street":"Hof am Regen","building":"yes","craft":"beekeeper","name":"Berufsimkerei Braun","source":"DOP_LVA_BY_01;local knowledge","id":"way/506808116"},"geometry":{"type":"Point","coordinates":[12.2189031,49.2055167]}}

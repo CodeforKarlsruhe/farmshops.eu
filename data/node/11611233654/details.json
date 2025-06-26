@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11611233654","properties":{"amenity":"vending_machine","vending":"eggs","id":"node/11611233654"},"geometry":{"type":"Point","coordinates":[8.2413433,52.8986525]}}
+{"type":"Feature","id":"node/11611233654","properties":{"amenity":"vending_machine","payment:cards":"yes","payment:cash":"yes","vending":"eggs;drinks;sweets;ice_cream","id":"node/11611233654"},"geometry":{"type":"Point","coordinates":[8.2413433,52.8986525]}}

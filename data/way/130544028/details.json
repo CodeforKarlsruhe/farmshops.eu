@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/130544028","properties":{"building":"yes","description":"Käseverkauf in Selbstbedienung","name":"Käseverkauf","operator":"Hofkäserei Onemoos","shop":"farm","id":"way/130544028"},"geometry":{"type":"Point","coordinates":[12.911052,47.4181502]}}
+{"type":"Feature","id":"way/130544028","properties":{"building":"yes","check_date":"2025-06-15","description":"Käseverkauf in Selbstbedienung","name":"Käseverkauf","operator":"Hofkäserei Onemoos","shop":"farm","id":"way/130544028"},"geometry":{"type":"Point","coordinates":[12.911052,47.4181502]}}

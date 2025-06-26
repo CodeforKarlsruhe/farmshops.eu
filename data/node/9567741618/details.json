@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9567741618","properties":{"amenity":"vending_machine","name":"Rathgebs-Regiomat","opening_hours":"24/7","vending":"eggs;food","id":"node/9567741618"},"geometry":{"type":"Point","coordinates":[10.069957,48.4121753]}}
+{"type":"Feature","id":"node/9567741618","properties":{"amenity":"vending_machine","check_date":"2025-05-01","name":"Rathgebs-Regiomat","opening_hours":"24/7","vending":"eggs;food","id":"node/9567741618"},"geometry":{"type":"Point","coordinates":[10.069957,48.4121753]}}
