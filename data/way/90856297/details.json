@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/90856297","properties":{"addr:housenumber":"27","addr:street":"Meisenweg","building":"yes","craft":"beekeeper","id":"way/90856297"},"geometry":{"type":"Point","coordinates":[8.5769399,49.9060353]}}
+{"type":"Feature","id":"way/90856297","properties":{"addr:city":"Weiterstadt","addr:country":"DE","addr:housenumber":"27","addr:postcode":"64331","addr:street":"Meisenweg","building":"yes","craft":"beekeeper","roof:shape":"gabled","id":"way/90856297"},"geometry":{"type":"Point","coordinates":[8.5769399,49.9060353]}}

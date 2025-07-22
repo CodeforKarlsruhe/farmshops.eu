@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12623272126","properties":{"amenity":"vending_machine","payment:coins":"yes","payment:contactless":"yes","vending":"food","id":"node/12623272126"},"geometry":{"type":"Point","coordinates":[14.4479046,50.0648105]}}
+{"type":"Feature","id":"node/12623272126","properties":{"amenity":"vending_machine","indoor":"yes","payment:coins":"yes","payment:contactless":"yes","vending":"food","id":"node/12623272126"},"geometry":{"type":"Point","coordinates":[14.4479046,50.0648105]}}

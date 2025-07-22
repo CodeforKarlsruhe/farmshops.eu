@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10901217037","properties":{"name":"Fenzhof","opening_hours":"24/7","shop":"farm","id":"node/10901217037"},"geometry":{"type":"Point","coordinates":[16.231504,47.7383543]}}
+{"type":"Feature","id":"node/10901217037","properties":{"amenity":"vending_machine","opening_hours":"24/7","vending":"eggs;food","id":"node/10901217037"},"geometry":{"type":"Point","coordinates":[16.2314695,47.7383775]}}

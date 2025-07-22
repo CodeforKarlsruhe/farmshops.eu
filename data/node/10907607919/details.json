@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10907607919","properties":{"amenity":"vending_machine","operator":"Metzgerei Meir","vending":"food","id":"node/10907607919"},"geometry":{"type":"Point","coordinates":[11.5625223,48.6143627]}}
+{"type":"Feature","id":"node/10907607919","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Metzgerei Meir","vending":"drinks;food;meat;sweets","id":"node/10907607919"},"geometry":{"type":"Point","coordinates":[11.5625223,48.6143627]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10316566197","properties":{"addr:city":"Knetzgau","addr:housenumber":"36","addr:postcode":"97478","addr:street":"Oberm Stück","craft":"beekeeper","name":"Böhlgrund Rinder & Schafe","operator":"Anke & Oliver Fuß","id":"node/10316566197"},"geometry":{"type":"Point","coordinates":[10.5604646,49.9665186]}}
+{"type":"Feature","id":"node/10316566197","properties":{"craft":"beekeeper","name":"Böhlgrund Rinder & Schafe","operator":"Anke & Oliver Fuß","id":"node/10316566197"},"geometry":{"type":"Point","coordinates":[10.5604646,49.9665186]}}

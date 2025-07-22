@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9557625671","properties":{"shop":"farm","id":"node/9557625671"},"geometry":{"type":"Point","coordinates":[9.3145014,48.8862657]}}
+{"type":"Feature","id":"node/9557625671","properties":{"name":"Hofladen Fischer","opening_hours":"Mo,Tu,Th,Fr 08:00-13:00,14:00-18:00; We 08:00-13:00; Sa 08:00-14:00","shop":"farm","id":"node/9557625671"},"geometry":{"type":"Point","coordinates":[9.3145014,48.8862657]}}

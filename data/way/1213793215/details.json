@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1213793215","properties":{"building":"yes","building:levels":"1","name":"Hannes Hofladen","opening_hours":"24/7","roof:shape":"hipped","shop":"farm","id":"way/1213793215"},"geometry":{"type":"Point","coordinates":[10.9152249,54.154629]}}
+{"type":"Feature","id":"way/1213793215","properties":{"building":"yes","building:levels":"1","name":"Hannes Hofladen","opening_hours":"24/7","roof:shape":"hipped","shop":"farm","wheelchair":"no","id":"way/1213793215"},"geometry":{"type":"Point","coordinates":[10.9152249,54.154629]}}

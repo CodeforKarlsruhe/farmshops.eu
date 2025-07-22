@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10173930661","properties":{"amenity":"vending_machine","indoor":"no","name":"Benzomat","vending":"drinks;food;ice_cream","id":"node/10173930661"},"geometry":{"type":"Point","coordinates":[8.6691346,49.923813]}}
+{"type":"Feature","id":"node/10173930661","properties":{"amenity":"vending_machine","indoor":"no","name":"Benzomat","operator":"Bauernladen Benz GbR","vending":"drinks;eggs;food;ice_cream;milk;sweets","id":"node/10173930661"},"geometry":{"type":"Point","coordinates":[8.6691346,49.923813]}}

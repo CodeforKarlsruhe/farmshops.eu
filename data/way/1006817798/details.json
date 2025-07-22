@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1006817798","properties":{"amenity":"marketplace","building":"no","opening_hours":"Tu 09:00-13:00","operator":"Stadt Helmbrechts","id":"way/1006817798"},"geometry":{"type":"Point","coordinates":[11.7155154,50.2367134]}}
+{"type":"Feature","id":"way/1006817798","properties":{"amenity":"marketplace","building":"no","name":"Wochenmarkt","opening_hours":"Tu 09:00-13:00","operator":"Stadt Helmbrechts","id":"way/1006817798"},"geometry":{"type":"Point","coordinates":[11.7155154,50.2367134]}}
