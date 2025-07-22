@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10029653989","properties":{"name":"Spicher Lädeli","shop":"farm","id":"node/10029653989"},"geometry":{"type":"Point","coordinates":[7.6478906,46.9095966]}}
+{"type":"Feature","id":"node/10029653989","properties":{"addr:city":"Grosshöchstetten","addr:housenumber":"8a","addr:place":"Möschberg","addr:postcode":"3506","name":"Spicher Lädeli","payment:cash":"yes","payment:twint":"yes","shop":"farm","website":"https://www.myfarm.ch/6XSR81","id":"node/10029653989"},"geometry":{"type":"Point","coordinates":[7.6478906,46.9095966]}}

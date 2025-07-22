@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10033321625","properties":{"amenity":"vending_machine","payment:coins":"yes","vending":"eggs","website":"https://www.ziegenalm.de","wheelchair":"yes","id":"node/10033321625"},"geometry":{"type":"Point","coordinates":[10.7936157,51.5031196]}}
+{"type":"Feature","id":"node/10033321625","properties":{"amenity":"vending_machine","covered":"yes","payment:coins":"yes","vending":"eggs","website":"https://www.ziegenalm.de","wheelchair":"yes","id":"node/10033321625"},"geometry":{"type":"Point","coordinates":[10.7936157,51.5031196]}}

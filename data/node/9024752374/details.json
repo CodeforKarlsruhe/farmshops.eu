@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9024752374","properties":{"payment:twint":"yes","shop":"farm","id":"node/9024752374"},"geometry":{"type":"Point","coordinates":[7.4791722,46.9199991]}}
+{"type":"Feature","id":"node/9024752374","properties":{"addr:city":"Kehrsatz","addr:housenumber":"41","addr:postcode":"3122","addr:street":"Selhofen","name":"Hofladen Soulfarm","operator":"Familie Wälchli","payment:twint":"yes","phone":"+41 78 662 23 83","shop":"farm","website":"https://soulfarm.ch","id":"node/9024752374"},"geometry":{"type":"Point","coordinates":[7.4791722,46.9199991]}}

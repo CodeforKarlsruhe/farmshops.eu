@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12880317519","properties":{"payment:twint":"yes","shop":"farm","id":"node/12880317519"},"geometry":{"type":"Point","coordinates":[7.5796649,46.904715]}}
+{"type":"Feature","id":"node/12880317519","properties":{"addr:city":"Trimstein","addr:housenumber":"35","addr:postcode":"3083","addr:street":"Dorf","payment:cash":"yes","payment:twint":"yes","shop":"farm","website":"https://biohof-trimstein.ch/hofladen","id":"node/12880317519"},"geometry":{"type":"Point","coordinates":[7.5796649,46.904715]}}
