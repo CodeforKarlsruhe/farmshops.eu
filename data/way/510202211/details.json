@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/510202211","properties":{"amenity":"marketplace","name":"Trhovisko Modra","id":"way/510202211"},"geometry":{"type":"Point","coordinates":[17.3077132,48.3339061]}}
+{"type":"Feature","id":"way/510202211","properties":{"amenity":"marketplace","name":"Trhovisko Modra","opening_hours":"Mo-Fr 06:00-18:00; Sa 06:00-14:00","id":"way/510202211"},"geometry":{"type":"Point","coordinates":[17.3077132,48.3339061]}}

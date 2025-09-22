@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6741748101","properties":{"amenity":"vending_machine","check_date":"2025-06-12","opening_hours":"08:00-20:00","operator":"Seitzhof Baierbrunn","vending":"milk","id":"node/6741748101"},"geometry":{"type":"Point","coordinates":[11.4770354,48.0239481]}}
+{"type":"Feature","id":"node/6741748101","properties":{"amenity":"vending_machine","check_date":"2025-06-12","indoor":"no","opening_hours":"08:00-20:00","operator":"Seitzhof Baierbrunn","vending":"milk","id":"node/6741748101"},"geometry":{"type":"Point","coordinates":[11.4770354,48.0239481]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11056820636","properties":{"amenity":"vending_machine","fixme":"position unsure","vending":"food","id":"node/11056820636"},"geometry":{"type":"Point","coordinates":[8.1742723,48.0387032]}}
+{"type":"Feature","id":"node/11056820636","properties":{"amenity":"vending_machine","check_date":"2025-08-20","fixme":"position unsure","vending":"food","id":"node/11056820636"},"geometry":{"type":"Point","coordinates":[8.1742723,48.0387032]}}

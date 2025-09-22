@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8852640252","properties":{"amenity":"vending_machine","operator":"Marker Streekproducten","vending":"food","id":"node/8852640252"},"geometry":{"type":"Point","coordinates":[5.1133644,52.4593263]}}
+{"type":"Feature","id":"node/8852640252","properties":{"amenity":"vending_machine","check_date":"2025-08-05","operator":"Marker Streekproducten","vending":"food","id":"node/8852640252"},"geometry":{"type":"Point","coordinates":[5.1133644,52.4593263]}}

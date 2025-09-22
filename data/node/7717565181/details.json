@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7717565181","properties":{"name":"Jessi‘s Hofladen","shop":"farm","id":"node/7717565181"},"geometry":{"type":"Point","coordinates":[8.880622,47.6457861]}}
+{"type":"Feature","id":"node/7717565181","properties":{"name":"Jessi‘s Hofladen","shop":"farm","wheelchair":"yes","id":"node/7717565181"},"geometry":{"type":"Point","coordinates":[8.880622,47.6457861]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1080718584","properties":{"amenity":"marketplace","level":"0","name":"Halle du marché de Neudorf","name:de":"Markthalle Neudorf","wheelchair":"yes","id":"way/1080718584"},"geometry":{"type":"Point","coordinates":[7.7604529,48.5667985]}}
+{"type":"Feature","id":"way/1080718584","properties":{"amenity":"marketplace","level":"0","name":"Halle du marché de Neudorf","name:de":"Markthalle Neudorf","opening_hours":"Tu,Sa 07:00-13:00","wheelchair":"yes","id":"way/1080718584"},"geometry":{"type":"Point","coordinates":[7.7604529,48.5667985]}}

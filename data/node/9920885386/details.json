@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9920885386","properties":{"amenity":"marketplace","opening_hours":"Tu-Th 10:30-22:00; Fr 10:30-23:00; Su-Mo 12:00-22:00","id":"node/9920885386"},"geometry":{"type":"Point","coordinates":[5.6075285,52.186829]}}
+{"type":"Feature","id":"node/9920885386","properties":{"amenity":"marketplace","name":"Warenmarkt zaterdag","opening_hours":"Tu-Th 10:30-22:00; Fr 10:30-23:00; Su-Mo 12:00-22:00","id":"node/9920885386"},"geometry":{"type":"Point","coordinates":[5.6075285,52.186829]}}

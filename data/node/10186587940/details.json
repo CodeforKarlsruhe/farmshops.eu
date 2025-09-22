@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10186587940","properties":{"amenity":"vending_machine","indoor":"yes","vending":"milk","id":"node/10186587940"},"geometry":{"type":"Point","coordinates":[8.6940318,51.2117404]}}
+{"type":"Feature","id":"node/10186587940","properties":{"amenity":"vending_machine","indoor":"yes","operator":"Schreiber Bio Hof","vending":"food;milk","id":"node/10186587940"},"geometry":{"type":"Point","coordinates":[8.6938945,51.2116472]}}

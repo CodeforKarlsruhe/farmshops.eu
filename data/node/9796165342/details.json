@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9796165342","properties":{"amenity":"vending_machine","name":"Geyer's Grillstation","operator":"Mario Geyer","vending":"food","id":"node/9796165342"},"geometry":{"type":"Point","coordinates":[11.9915869,49.5459875]}}
+{"type":"Feature","id":"node/9796165342","properties":{"amenity":"vending_machine","check_date":"2025-08-08","name":"Geyer's Grillstation","operator":"Mario Geyer","vending":"food","id":"node/9796165342"},"geometry":{"type":"Point","coordinates":[11.9915869,49.5459875]}}

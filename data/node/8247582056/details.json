@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8247582056","properties":{"vending":"food","id":"node/8247582056"},"geometry":{"type":"Point","coordinates":[9.7542353,48.0488767]}}
+{"type":"Feature","id":"node/8247582056","properties":{"name":"Genießerhüttchen","opening_hours":"24/7","operator":"Hofgut Voggenreute","organic":"only","payment:cash":"yes","shop":"farm","vending":"food","website":"https://hofgut-voggenreute.de/","id":"node/8247582056"},"geometry":{"type":"Point","coordinates":[9.7542353,48.0488767]}}

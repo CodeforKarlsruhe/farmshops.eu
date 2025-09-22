@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8711670470","properties":{"amenity":"vending_machine","name":"Eierautomat","vending":"eggs","id":"node/8711670470"},"geometry":{"type":"Point","coordinates":[8.5140633,47.8953101]}}
+{"type":"Feature","id":"node/8711670470","properties":{"amenity":"vending_machine","name":"Eierautomat","vending":"eggs","wheelchair":"yes","id":"node/8711670470"},"geometry":{"type":"Point","coordinates":[8.5140633,47.8953101]}}

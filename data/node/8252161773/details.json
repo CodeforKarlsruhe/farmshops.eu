@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8252161773","properties":{"amenity":"vending_machine","check_date":"2025-07-05","vending":"food","id":"node/8252161773"},"geometry":{"type":"Point","coordinates":[12.1613221,49.6765378]}}
+{"type":"Feature","id":"node/8252161773","properties":{"amenity":"vending_machine","name":"Power Station","vending":"food","id":"node/8252161773"},"geometry":{"type":"Point","coordinates":[12.1613221,49.6765378]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12589570926","properties":{"amenity":"marketplace","name":"Wochenmarkt Partenkirchen","opening_hours":"Do 9-13Uhr","website":"markt-gapa.de","id":"node/12589570926"},"geometry":{"type":"Point","coordinates":[11.1111778,47.4937884]}}
+{"type":"Feature","id":"node/12589570926","properties":{"amenity":"marketplace","name":"Wochenmarkt Partenkirchen","opening_hours":"Th 09:00-13:00","website":"markt-gapa.de","id":"node/12589570926"},"geometry":{"type":"Point","coordinates":[11.1111778,47.4937884]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10656210170","properties":{"name":"Häge Bio-Hof Langenau","phone":"0 73 45 · 91 93-54","shop":"farm","website":"https://familie-haege.de/","id":"node/10656210170"},"geometry":{"type":"Point","coordinates":[10.1123457,48.4846949]}}
+{"type":"Feature","id":"node/10656210170","properties":{"name":"Häge Bio-Hof Langenau","phone":"0 73 45 · 91 93-54","shop":"farm","website":"https://familie-haege.de/","wheelchair":"yes","id":"node/10656210170"},"geometry":{"type":"Point","coordinates":[10.1123457,48.4846949]}}

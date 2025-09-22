@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3785016192","properties":{"name":"Spargel- und Erdbeerhof Rohmann","shop":"farm","id":"node/3785016192"},"geometry":{"type":"Point","coordinates":[8.6571035,49.9115937]}}
+{"type":"Feature","id":"node/3785016192","properties":{"name":"Spargel- und Erdbeerhof Rohmann","opening_hours":"Mo 09:00-12:00,16:00-18:00; Tu,We 09:00-12:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00","shop":"farm","id":"node/3785016192"},"geometry":{"type":"Point","coordinates":[8.6571035,49.9115937]}}

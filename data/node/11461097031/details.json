@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11461097031","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Selbstbedienungsladen","payment:cash":"yes","vending":"potatoe","id":"node/11461097031"},"geometry":{"type":"Point","coordinates":[9.7454588,53.3913451]}}
+{"type":"Feature","id":"node/11461097031","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Selbstbedienungsladen","payment:cash":"yes","vending":"potatoes","id":"node/11461097031"},"geometry":{"type":"Point","coordinates":[9.7454588,53.3913451]}}

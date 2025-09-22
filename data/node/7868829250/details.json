@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7868829250","properties":{"amenity":"vending_machine","operator":"Rothermund","payment:cash":"yes","vending":"food","id":"node/7868829250"},"geometry":{"type":"Point","coordinates":[9.7296824,52.476308]}}
+{"type":"Feature","id":"node/7868829250","properties":{"amenity":"vending_machine","check_date":"2025-08-18","operator":"Rothermund","payment:cash":"yes","vending":"food","id":"node/7868829250"},"geometry":{"type":"Point","coordinates":[9.7296824,52.476308]}}

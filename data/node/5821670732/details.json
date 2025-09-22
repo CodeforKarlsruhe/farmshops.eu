@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5821670732","properties":{"shop":"farm","vending":"eggs","id":"node/5821670732"},"geometry":{"type":"Point","coordinates":[10.1470029,53.3487805]}}
+{"type":"Feature","id":"node/5821670732","properties":{"name:signed":"no","shop":"farm","vending":"eggs","id":"node/5821670732"},"geometry":{"type":"Point","coordinates":[10.146981,53.3488985]}}

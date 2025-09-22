@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11465595121","properties":{"amenity":"vending_machine","operator":"Billa Corso","vending":"food;drinks","id":"node/11465595121"},"geometry":{"type":"Point","coordinates":[16.5645349,48.1196062]}}
+{"type":"Feature","id":"node/11465595121","properties":{"amenity":"vending_machine","indoor":"yes","operator":"Billa Corso","vending":"food;drinks","id":"node/11465595121"},"geometry":{"type":"Point","coordinates":[16.5645349,48.1196062]}}

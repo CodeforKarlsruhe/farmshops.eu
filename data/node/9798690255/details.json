@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9798690255","properties":{"amenity":"marketplace","name":"Gräfrather Markt","id":"node/9798690255"},"geometry":{"type":"Point","coordinates":[7.0713954,51.2088278]}}
+{"type":"Feature","id":"node/9798690255","properties":{"amenity":"marketplace","name":"Gräfrather Markt","wheelchair":"no","id":"node/9798690255"},"geometry":{"type":"Point","coordinates":[7.0713954,51.2088278]}}

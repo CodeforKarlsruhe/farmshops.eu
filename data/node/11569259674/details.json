@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11569259674","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:twint":"yes","vending":"food","id":"node/11569259674"},"geometry":{"type":"Point","coordinates":[8.4450054,47.4343447]}}
+{"type":"Feature","id":"node/11569259674","properties":{"amenity":"vending_machine","payment:cash":"yes","payment:twint":"yes","shop":"farm","vending":"food","website":"https://www.scog-zuerichsee.ch/bilder/training-im-widenbad","id":"node/11569259674"},"geometry":{"type":"Point","coordinates":[8.4450035,47.4343423]}}

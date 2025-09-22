@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7141833095","properties":{"name":"Hofladen","opening_hours":"Sa 08:30-12:30; PH off","shop":"farm","id":"node/7141833095"},"geometry":{"type":"Point","coordinates":[6.9934636,50.9141439]}}
+{"type":"Feature","id":"node/7141833095","properties":{"addr:city":"Köln","addr:housenumber":"66","addr:postcode":"51105","addr:street":"Auf dem Sandberg","name":"Poller Hofladen","opening_hours":"Fr 17:00-18:30, Sa 08:30-12:30; PH off","shop":"farm","id":"node/7141833095"},"geometry":{"type":"Point","coordinates":[6.9934636,50.9141439]}}

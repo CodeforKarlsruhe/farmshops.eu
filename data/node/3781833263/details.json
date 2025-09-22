@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3781833263","properties":{"amenity":"marketplace","check_date:opening_hours":"2023-06-06","name":"U Práce","opening_hours":"Mo-Fr 07:30-15:00","source":"survey","id":"node/3781833263"},"geometry":{"type":"Point","coordinates":[13.3717618,49.7442258]}}
+{"type":"Feature","id":"node/3781833263","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-07-29","name":"U Práce","opening_hours":"Mo-Fr 07:30-15:00","source":"survey","wheelchair":"yes","id":"node/3781833263"},"geometry":{"type":"Point","coordinates":[13.3717618,49.7442258]}}

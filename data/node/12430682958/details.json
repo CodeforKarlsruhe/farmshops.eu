@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12430682958","properties":{"amenity":"vending_machine","check_date":"2024-12-18","food":"snacks","operator":"Wanty&Needs","vending":"food","id":"node/12430682958"},"geometry":{"type":"Point","coordinates":[11.4818342,47.8551647]}}
+{"type":"Feature","id":"node/12430682958","properties":{"amenity":"vending_machine","check_date":"2024-12-18","food":"snacks","indoor":"yes","operator":"Wanty&Needs","vending":"food","id":"node/12430682958"},"geometry":{"type":"Point","coordinates":[11.4818342,47.8551647]}}
