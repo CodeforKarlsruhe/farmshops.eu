@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6539327419","properties":{"name":"Meuter","shop":"farm","id":"node/6539327419"},"geometry":{"type":"Point","coordinates":[7.109443,47.0353559]}}
+{"type":"Feature","id":"node/6539327419","properties":{"check_date":"2025-08-03","name":"Meuter","opening_hours":"Mo-Fr 09:00-12:00,13:30-18:30; Sa 08:00-16:00","payment:cash":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:twint":"yes","shop":"farm","wheelchair":"yes","id":"node/6539327419"},"geometry":{"type":"Point","coordinates":[7.109443,47.0353559]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11020526482","properties":{"amenity":"vending_machine","brand":"Selecta","brand:wikidata":"Q472153","covered":"yee","vending":"food;drinks","id":"node/11020526482"},"geometry":{"type":"Point","coordinates":[8.3124971,46.9934998]}}
+{"type":"Feature","id":"node/11020526482","properties":{"amenity":"vending_machine","brand":"Selecta","brand:wikidata":"Q472153","covered":"yes","vending":"food;drinks","id":"node/11020526482"},"geometry":{"type":"Point","coordinates":[8.3124971,46.9934998]}}

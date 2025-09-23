@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/13144383769","properties":{"amenity":"vending_machine","opening_hours":"24/7","payment:coins":"yes","payment:credit_cards":"no","payment:debit_cards":"no","payment:notes":"5€;10€;20€","vending":"eggs;noodles;potatoes;müsli","id":"node/13144383769"},"geometry":{"type":"Point","coordinates":[7.765931,49.8379566]}}

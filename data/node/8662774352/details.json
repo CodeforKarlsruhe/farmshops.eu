@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8662774352","properties":{"amenity":"vending_machine","description":"Noppenberg","vending":"food","id":"node/8662774352"},"geometry":{"type":"Point","coordinates":[12.5158034,48.3390602]}}
+{"type":"Feature","id":"node/8662774352","properties":{"description":"Noppenberg","removed:amenity":"vending_machine","vending":"food","id":"node/8662774352"},"geometry":{"type":"Point","coordinates":[12.5158034,48.3390602]}}

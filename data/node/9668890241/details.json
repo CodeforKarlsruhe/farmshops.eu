@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9668890241","properties":{"amenity":"vending_machine","operator":"Burlein Hof","vending":"eggs;honey","id":"node/9668890241"},"geometry":{"type":"Point","coordinates":[11.4163824,47.9238337]}}
+{"type":"Feature","id":"node/9668890241","properties":{"amenity":"vending_machine","check_date":"2025-05-24","operator":"Burlein Hof","vending":"eggs;honey","id":"node/9668890241"},"geometry":{"type":"Point","coordinates":[11.4163824,47.9238337]}}

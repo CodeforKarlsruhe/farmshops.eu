@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10763760044","properties":{"addr:city":"Mainz","addr:postcode":"55116","addr:street":"Leichhof","amenity":"marketplace","name":"Wochenmarkt Mainz Leichhof","source":"survey","id":"node/10763760044"},"geometry":{"type":"Point","coordinates":[8.2732005,49.9982659]}}
+{"type":"Feature","id":"node/10763760044","properties":{"amenity":"marketplace","name":"Wochenmarkt Mainz Leichhof","source":"survey","id":"node/10763760044"},"geometry":{"type":"Point","coordinates":[8.2732005,49.9982659]}}

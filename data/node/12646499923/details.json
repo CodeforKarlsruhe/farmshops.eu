@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12646499923","properties":{"name":"Strahlhofer","operator":"Obsthof Strahlhofer","shop":"farm","id":"node/12646499923"},"geometry":{"type":"Point","coordinates":[15.7552257,47.1596544]}}
+{"type":"Feature","id":"node/12646499923","properties":{"name":"Strahlhofer Automat","opening_hours":"24/7","operator":"Obsthof Strahlhofer","shop":"farm","id":"node/12646499923"},"geometry":{"type":"Point","coordinates":[15.7552257,47.1596544]}}

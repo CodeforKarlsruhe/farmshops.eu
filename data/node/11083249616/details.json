@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11083249616","properties":{"amenity":"vending_machine","name":"Hoflädchen","operator":"Hof Heller","vending":"food","id":"node/11083249616"},"geometry":{"type":"Point","coordinates":[10.2696894,54.4170568]}}
+{"type":"Feature","id":"node/11083249616","properties":{"amenity":"vending_machine","check_date":"2025-08-14","name":"Hoflädchen","operator":"Hof Heller","vending":"food","id":"node/11083249616"},"geometry":{"type":"Point","coordinates":[10.2696894,54.4170568]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12995945422","properties":{"check_date":"2025-07-12","payment:twint":"yes","shop":"farm","wheelchair":"yes","id":"node/12995945422"},"geometry":{"type":"Point","coordinates":[9.2157215,47.1292368]}}
+{"type":"Feature","id":"node/12995945422","properties":{"check_date":"2025-08-20","check_date:opening_hours":"2025-08-20","name:signed":"no","opening_hours":"Mo-Su,PH 00:00-00:00","payment:twint":"yes","shop":"farm","wheelchair":"yes","id":"node/12995945422"},"geometry":{"type":"Point","coordinates":[9.2157215,47.1292368]}}

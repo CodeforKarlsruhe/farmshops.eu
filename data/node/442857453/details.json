@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/442857453","properties":{"craft":"beekeeper","name":"Honiglädchen","shop":"yes","id":"node/442857453"},"geometry":{"type":"Point","coordinates":[7.3216349,52.2093573]}}
+{"type":"Feature","id":"node/442857453","properties":{"check_date":"2025-09-10","craft":"beekeeper","name":"Honiglädchen","opening_hours":"Mo-Tu,Th-Fr,Su off; We 16:00-18:00; Sa 10:00-12:30","shop":"yes","id":"node/442857453"},"geometry":{"type":"Point","coordinates":[7.3216349,52.2093573]}}

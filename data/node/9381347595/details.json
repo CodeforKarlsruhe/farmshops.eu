@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9381347595","properties":{"name":"Maluhof - Hofladen","shop":"farm","id":"node/9381347595"},"geometry":{"type":"Point","coordinates":[16.0290514,47.1648196]}}
+{"type":"Feature","id":"node/9381347595","properties":{"check_date":"2025-08-02","name":"Maluhof - Hofladen","opening_hours":"We-Sa 09:00-19:00","payment:cash":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","shop":"farm","id":"node/9381347595"},"geometry":{"type":"Point","coordinates":[16.0290514,47.1648196]}}

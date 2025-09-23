@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9543598520","properties":{"amenity":"vending_machine","image":"https://osm.z3h.de/5LBTp.jpg","payment:cash":"yes","vending":"eggs","id":"node/9543598520"},"geometry":{"type":"Point","coordinates":[7.8010328,53.5443519]}}
+{"type":"Feature","id":"node/9543598520","properties":{"amenity":"vending_machine","check_date":"2025-08-14","image":"https://osm.z3h.de/5LBTp.jpg","payment:cash":"yes","vending":"eggs","id":"node/9543598520"},"geometry":{"type":"Point","coordinates":[7.8010328,53.5443519]}}

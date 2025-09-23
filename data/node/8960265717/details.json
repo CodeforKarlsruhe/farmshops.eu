@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8960265717","properties":{"amenity":"vending_machine","brand":"Diemtigtaler Markenprodukte","name":"Burelädeli Wasserspielplatz","vending":"food","id":"node/8960265717"},"geometry":{"type":"Point","coordinates":[7.4936727,46.5849343]}}
+{"type":"Feature","id":"node/8960265717","properties":{"amenity":"vending_machine","brand":"Diemtigtaler Markenprodukte","check_date":"2025-08-10","name":"Burelädeli Wasserspielplatz","vending":"food","id":"node/8960265717"},"geometry":{"type":"Point","coordinates":[7.4936727,46.5849343]}}

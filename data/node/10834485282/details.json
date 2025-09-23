@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10834485282","properties":{"amenity":"vending_machine","name":"Gemüsehöhle","source":"survey","vending":"food","id":"node/10834485282"},"geometry":{"type":"Point","coordinates":[8.6493459,49.7902274]}}
+{"type":"Feature","id":"node/10834485282","properties":{"amenity":"vending_machine","check_date":"2025-08-20","name":"Gemüsehöhle","source":"survey","vending":"food","id":"node/10834485282"},"geometry":{"type":"Point","coordinates":[8.6493459,49.7902274]}}

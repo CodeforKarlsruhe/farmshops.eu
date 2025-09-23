@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7662948146","properties":{"amenity":"marketplace","name":"Donderdag","id":"node/7662948146"},"geometry":{"type":"Point","coordinates":[4.4453943,52.2344609]}}
+{"type":"Feature","id":"node/7662948146","properties":{"amenity":"marketplace","name":"Donderdag","opening_hours":"Th 09:00-17:00; PH closed","wheelchair":"yes","id":"node/7662948146"},"geometry":{"type":"Point","coordinates":[4.4453943,52.2344609]}}

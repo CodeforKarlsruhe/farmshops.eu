@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9447738787","properties":{"amenity":"marketplace","name":"Marktplatz","id":"node/9447738787"},"geometry":{"type":"Point","coordinates":[9.0577019,48.4059412]}}
+{"type":"Feature","id":"node/9447738787","properties":{"addr:housenumber":"1","addr:street":"Falltorstraße","amenity":"marketplace","name":"Marktplatz","operator":"Stadt Mössingen","id":"node/9447738787"},"geometry":{"type":"Point","coordinates":[9.0577019,48.4059412]}}

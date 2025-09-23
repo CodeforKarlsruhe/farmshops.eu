@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/635020668","properties":{"amenity":"marketplace","name":"Bücher-Flohmarkt","id":"node/635020668"},"geometry":{"type":"Point","coordinates":[8.6522285,50.1197976]}}
+{"type":"Feature","id":"node/635020668","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-08-17","name":"Bücher-Flohmarkt","opening_hours:signed":"no","id":"node/635020668"},"geometry":{"type":"Point","coordinates":[8.6522285,50.1197976]}}

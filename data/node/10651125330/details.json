@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10651125330","properties":{"amenity":"vending_machine","operator":"Grilltresor","payment:cash":"yes","payment:girocard":"yes","vending":"eggs;meat;drinks","id":"node/10651125330"},"geometry":{"type":"Point","coordinates":[10.9505295,49.5949098]}}
+{"type":"Feature","id":"node/10651125330","properties":{"amenity":"vending_machine","check_date":"2025-07-30","operator":"Grilltresor","payment:cash":"yes","payment:girocard":"yes","vending":"eggs;meat;drinks","id":"node/10651125330"},"geometry":{"type":"Point","coordinates":[10.9505295,49.5949098]}}

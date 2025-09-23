@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5519083671","properties":{"name":"Versmarkt Willighagen","product":"eggs","shop":"farm","id":"node/5519083671"},"geometry":{"type":"Point","coordinates":[4.3500988,52.0099152]}}
+{"type":"Feature","id":"node/5519083671","properties":{"check_date:opening_hours":"2025-07-24","name":"Versmarkt Willighagen","opening_hours:signed":"no","product":"eggs","shop":"farm","wheelchair":"yes","id":"node/5519083671"},"geometry":{"type":"Point","coordinates":[4.3500988,52.0099152]}}

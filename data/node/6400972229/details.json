@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6400972229","properties":{"amenity":"vending_machine","currency:EUR":"yes","vending":"food;eggs;regional","id":"node/6400972229"},"geometry":{"type":"Point","coordinates":[8.6155288,49.6755036]}}
+{"type":"Feature","id":"node/6400972229","properties":{"amenity":"vending_machine","check_date":"2025-08-08","currency:EUR":"yes","vending":"food;eggs;regional","id":"node/6400972229"},"geometry":{"type":"Point","coordinates":[8.6155288,49.6755036]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/5098465","properties":{"amenity":"marketplace","lit":"yes","surface":"paving_stones","id":"way/5098465"},"geometry":{"type":"Point","coordinates":[16.504898,47.5026548]}}
+{"type":"Feature","id":"way/5098465","properties":{"amenity":"marketplace","lit":"yes","name":"Hauptplatz","opening_hours":"24/7","surface":"paving_stones","id":"way/5098465"},"geometry":{"type":"Point","coordinates":[16.504898,47.5026548]}}

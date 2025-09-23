@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7838822453","properties":{"amenity":"vending_machine","name":"Milchautomat","operator":"Kanzler's Hofladen","vending":"milk","id":"node/7838822453"},"geometry":{"type":"Point","coordinates":[11.8704306,48.0811807]}}
+{"type":"Feature","id":"node/7838822453","properties":{"amenity":"vending_machine","name":"Genuss Huttn","operator":"Kanzler's Hofladen","vending":"eggs;drinks;food","id":"node/7838822453"},"geometry":{"type":"Point","coordinates":[11.870406,48.0810445]}}
