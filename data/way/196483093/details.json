@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/196483093","properties":{"building":"yes","craft":"beekeeper","operator":"Imkerverein Zeitz","website":"https://www.imker-zeitz.de/","id":"way/196483093"},"geometry":{"type":"Point","coordinates":[12.1251701,51.0499279]}}
+{"type":"Feature","id":"way/196483093","properties":{"building":"yes","craft":"beekeeper","name":"Imkerverein Zeitz","operator":"Imkerverein Zeitz","website":"https://www.imker-zeitz.de/","id":"way/196483093"},"geometry":{"type":"Point","coordinates":[12.1251701,51.0499279]}}

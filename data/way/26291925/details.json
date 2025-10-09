@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/26291925","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","lit":"yes","name":"Marktplatz","opening_hours":"24/7","supervised":"no","surface":"sett","wheelchair":"yes","id":"way/26291925"},"geometry":{"type":"Point","coordinates":[12.4565897,51.8822388]}}
+{"type":"Feature","id":"way/26291925","properties":{"amenity":"marketplace","area":"yes","highway":"pedestrian","lit":"yes","supervised":"no","surface":"sett","wheelchair":"yes","id":"way/26291925"},"geometry":{"type":"Point","coordinates":[12.4565897,51.8822388]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/13098219347","properties":{"amenity":"vending_machine","check_date":"2025-08-26","vending":"food;ice_cream","id":"node/13098219347"},"geometry":{"type":"Point","coordinates":[11.1985037,48.0635921]}}
+{"type":"Feature","id":"node/13098219347","properties":{"amenity":"vending_machine","check_date":"2025-08-26","currency:EUR":"yes","payment:cash":"yes","payment:debit_cards":"yes","vending":"food;ice_cream","id":"node/13098219347"},"geometry":{"type":"Point","coordinates":[11.1985037,48.0635921]}}

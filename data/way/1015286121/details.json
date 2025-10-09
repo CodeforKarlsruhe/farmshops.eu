@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1015286121","properties":{"building":"yes","name":"Ferme Van Landschoot","shop":"farm","id":"way/1015286121"},"geometry":{"type":"Point","coordinates":[4.3946056,50.5490193]}}
+{"type":"Feature","id":"way/1015286121","properties":{"building":"yes","name":"Ferme Van Landschoot","shop":"farm","source:geometry:date":"2016-08-16","source:geometry:ref":"Picc/1081024","id":"way/1015286121"},"geometry":{"type":"Point","coordinates":[4.3941929,50.549088]}}

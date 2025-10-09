@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5293754932","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-04-26","name":"Farmářské trhy Prosek","opening_hours":"Mo-Fr 08:00-16:00","id":"node/5293754932"},"geometry":{"type":"Point","coordinates":[14.490327,50.1283268]}}
+{"type":"Feature","id":"node/5293754932","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-04-26","name":"Farmářské trhy Prosek","opening_hours":"Mo-Fr 08:00-16:00","wheelchair":"yes","id":"node/5293754932"},"geometry":{"type":"Point","coordinates":[14.490327,50.1283268]}}

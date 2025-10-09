@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1354440749","properties":{"amenity":"marketplace","name":"Rynek Gminny","opening_hours":"Tu,Fr 07:00-13:00","wheelchair":"yes","id":"way/1354440749"},"geometry":{"type":"Point","coordinates":[15.8320004,52.8349486]}}
+{"type":"Feature","id":"way/1354440749","properties":{"amenity":"marketplace","end_date:note:pl":"Rynek skończy działanie po otw. nowego targowiska miejskiego","name":"Rynek Gminny","opening_hours":"Tu,Fr 07:00-15:00","wheelchair":"yes","id":"way/1354440749"},"geometry":{"type":"Point","coordinates":[15.8320004,52.8349486]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5182436822","properties":{"name":"Hofladen Ulrich","shop":"farm","id":"node/5182436822"},"geometry":{"type":"Point","coordinates":[8.2112852,47.2328614]}}
+{"type":"Feature","id":"node/5182436822","properties":{"name":"Hofladen Ulrich","opening_hours":"24/7","payment:app":"no","payment:cash":"yes","payment:coins":"yes","payment:notes":"yes","payment:qr_code":"yes","payment:twint":"yes","shop":"farm","id":"node/5182436822"},"geometry":{"type":"Point","coordinates":[8.2112852,47.2328614]}}
