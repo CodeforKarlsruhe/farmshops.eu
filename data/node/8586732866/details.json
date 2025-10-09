@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8586732866","properties":{"name":"Eier, Gelee, Sirup","shop":"farm","id":"node/8586732866"},"geometry":{"type":"Point","coordinates":[8.7938734,53.7920031]}}
+{"type":"Feature","id":"node/8586732866","properties":{"addr:city":"Cuxhaven","addr:housenumber":"46","addr:postcode":"27478","addr:street":"Osterende","name":"Hofladen Kamps","shop":"farm","id":"node/8586732866"},"geometry":{"type":"Point","coordinates":[8.7939498,53.7919247]}}

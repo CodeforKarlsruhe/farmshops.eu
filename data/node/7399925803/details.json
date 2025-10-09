@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7399925803","properties":{"amenity":"vending_machine","description:covid19":"Distributeur","opening_hours:covid19":"24/7","vending":"food","id":"node/7399925803"},"geometry":{"type":"Point","coordinates":[6.6099414,47.0564262]}}
+{"type":"Feature","id":"node/7399925803","properties":{"amenity":"vending_machine","vending":"food","id":"node/7399925803"},"geometry":{"type":"Point","coordinates":[6.6099414,47.0564262]}}

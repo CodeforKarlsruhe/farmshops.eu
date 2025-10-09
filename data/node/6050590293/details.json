@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6050590293","properties":{"name":"Hof Sonnenberg","shop":"farm","website":"http://www.hofsonnenberg.de","id":"node/6050590293"},"geometry":{"type":"Point","coordinates":[7.0826464,51.2268335]}}
+{"type":"Feature","id":"node/6050590293","properties":{"name":"Hof Sonnenberg","opening_hours":"Tu-Fr 14:00-18:00; Sa 09:00-12:00","shop":"farm","website":"http://www.hofsonnenberg.de","id":"node/6050590293"},"geometry":{"type":"Point","coordinates":[7.0826464,51.2268335]}}

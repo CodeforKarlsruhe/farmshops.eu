@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5150051029","properties":{"name":"Mühlenladen","phone":"07042-33914","shop":"farm","website":"https://fessler-muehle.de/","id":"node/5150051029"},"geometry":{"type":"Point","coordinates":[9.0184061,48.9632686]}}
+{"type":"Feature","id":"node/5150051029","properties":{"name":"Mühlenladen","opening_hours":"We-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00","phone":"07042-33914","shop":"farm","website":"https://fessler-muehle.de/","id":"node/5150051029"},"geometry":{"type":"Point","coordinates":[9.0184061,48.9632686]}}
