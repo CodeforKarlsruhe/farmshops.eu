@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1302240647","properties":{"amenity":"marketplace","note":"Tu+Fr 08-12 Uhr","id":"way/1302240647"},"geometry":{"type":"Point","coordinates":[12.0291203,53.4615893]}}
+{"type":"Feature","id":"way/1302240647","properties":{"amenity":"marketplace","name":"Am Markt","note":"Tu+Fr 08-12 Uhr","opening_hours":"Tu,Fr 08:00-12:00; Mo,We,Th,Sa,Su off; ","id":"way/1302240647"},"geometry":{"type":"Point","coordinates":[12.0291203,53.4615893]}}

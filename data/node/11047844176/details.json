@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11047844176","properties":{"amenity":"vending_machine","currency:EUR":"yes","note":"3.50€ / 10 Eier (Stand 07/23)","payment:cash":"yes","vending":"eggs","id":"node/11047844176"},"geometry":{"type":"Point","coordinates":[11.1172534,49.5539492]}}
+{"type":"Feature","id":"node/11047844176","properties":{"amenity":"vending_machine","check_date":"2025-11-06","currency:EUR":"yes","note":"3.50€ / 10 Eier (Stand 07/23)","payment:cash":"yes","vending":"eggs","id":"node/11047844176"},"geometry":{"type":"Point","coordinates":[11.1172534,49.5539492]}}

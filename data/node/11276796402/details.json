@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11276796402","properties":{"opening_hours":"24/7","payment:cash":"yes","shop":"farm","id":"node/11276796402"},"geometry":{"type":"Point","coordinates":[10.8413118,49.5483552]}}
+{"type":"Feature","id":"node/11276796402","properties":{"opening_hours":"24/7","payment:cash":"yes","shop":"farm","wheelchair":"yes","id":"node/11276796402"},"geometry":{"type":"Point","coordinates":[10.8413118,49.5483552]}}

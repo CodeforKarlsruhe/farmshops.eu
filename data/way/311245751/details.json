@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/311245751","properties":{"amenity":"marketplace","name":"Rynek miejski","id":"way/311245751"},"geometry":{"type":"Point","coordinates":[16.469514,53.2730196]}}
+{"type":"Feature","id":"way/311245751","properties":{"alt_name":"Plac Zesłańców Sybiru","amenity":"marketplace","name":"Rynek miejski","wheelchair":"yes","id":"way/311245751"},"geometry":{"type":"Point","coordinates":[16.469514,53.2730196]}}

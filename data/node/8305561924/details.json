@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8305561924","properties":{"amenity":"vending_machine","name":"Wuppertaler Perlen","vending":"eggs","id":"node/8305561924"},"geometry":{"type":"Point","coordinates":[7.1112386,51.2869727]}}
+{"type":"Feature","id":"node/8305561924","properties":{"amenity":"vending_machine","check_date":"2025-11-24","name":"Wuppertaler Perlen","vending":"eggs","id":"node/8305561924"},"geometry":{"type":"Point","coordinates":[7.1112386,51.2869727]}}

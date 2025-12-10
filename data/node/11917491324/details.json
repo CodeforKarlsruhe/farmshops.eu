@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11917491324","properties":{"amenity":"marketplace","name":"Wochenmarkt Müllheim","opening_hours":"Tu,Fr,Sa 08:00-12:30","wheelchair":"yes","id":"node/11917491324"},"geometry":{"type":"Point","coordinates":[7.6295362,47.8061878]}}
+{"type":"Feature","id":"node/11917491324","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-11-09","name":"Wochenmarkt Müllheim","opening_hours":"Tu,Fr,Sa 08:00-12:30","wheelchair":"yes","id":"node/11917491324"},"geometry":{"type":"Point","coordinates":[7.6295362,47.8061878]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9131231209","properties":{"amenity":"vending_machine","operator":"Metzgerei Boll","vending":"food","id":"node/9131231209"},"geometry":{"type":"Point","coordinates":[8.0781711,47.6420958]}}
+{"type":"Feature","id":"node/9131231209","properties":{"amenity":"vending_machine","check_date":"2025-10-26","operator":"Metzgerei Boll","vending":"food","id":"node/9131231209"},"geometry":{"type":"Point","coordinates":[8.0781711,47.6420958]}}

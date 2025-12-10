@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/13195326109","properties":{"name":"Gutsladen","shop":"farm","id":"node/13195326109"},"geometry":{"type":"Point","coordinates":[11.4027291,48.1370849]}}
+{"type":"Feature","id":"node/13195326109","properties":{"name":"Gutsladen","shop":"farm","toilets:wheelchair":"yes","wheelchair":"yes","id":"node/13195326109"},"geometry":{"type":"Point","coordinates":[11.4027291,48.1370849]}}

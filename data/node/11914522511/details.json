@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11914522511","properties":{"description":"Salat, Obst, Eier","name":"Steighof 1","shop":"farm","id":"node/11914522511"},"geometry":{"type":"Point","coordinates":[8.686327,47.4690685]}}
+{"type":"Feature","id":"node/11914522511","properties":{"check_date:opening_hours":"2025-10-14","description":"Salat, Obst, Eier","name":"Steighof 1","opening_hours:signed":"no","shop":"farm","wheelchair":"no","id":"node/11914522511"},"geometry":{"type":"Point","coordinates":[8.686327,47.4690685]}}

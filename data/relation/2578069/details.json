@@ -1,1 +1,1 @@
-{"type":"Feature","id":"relation/2578069","properties":{"amenity":"marketplace","name":"Graf-Wilhelm-Platz","surface":"paving_stones","type":"multipolygon","id":"relation/2578069"},"geometry":{"type":"Point","coordinates":[7.0820654,51.1706239]}}
+{"type":"Feature","id":"relation/2578069","properties":{"addr:place":"Mitte","amenity":"marketplace","name":"Graf-Wilhelm-Platz","operator":"Solingen","type":"multipolygon","id":"relation/2578069"},"geometry":{"type":"Point","coordinates":[7.0817825,51.1705685]}}

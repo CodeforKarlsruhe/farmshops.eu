@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/34468455","properties":{"landuse":"farmland","name":"Elfrich GbR","organic":"yes","shop":"farm","id":"way/34468455"},"geometry":{"type":"Point","coordinates":[7.6353137,52.1893071]}}
+{"type":"Feature","id":"way/34468455","properties":{"name":"Elfrich GbR","organic":"yes","shop":"farm","id":"way/34468455"},"geometry":{"type":"Point","coordinates":[7.6353137,52.1893071]}}

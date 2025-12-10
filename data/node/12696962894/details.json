@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12696962894","properties":{"amenity":"vending_machine","description":"Plats à emporter","vending":"food","id":"node/12696962894"},"geometry":{"type":"Point","coordinates":[7.0015895,47.7728228]}}
+{"type":"Feature","id":"node/12696962894","properties":{"amenity":"vending_machine","description":"Plats à emporter","operator":"Le train des Saveurs","vending":"food","website":"https://le-train-des-saveurs-90.eatbu.com/?lang=fr","id":"node/12696962894"},"geometry":{"type":"Point","coordinates":[7.0015895,47.7728228]}}

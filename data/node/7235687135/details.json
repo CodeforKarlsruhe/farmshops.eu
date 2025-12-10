@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7235687135","properties":{"amenity":"vending_machine","operator":"Käserei Bürki","vending":"milk;food","id":"node/7235687135"},"geometry":{"type":"Point","coordinates":[9.5500167,47.4228155]}}
+{"type":"Feature","id":"node/7235687135","properties":{"amenity":"vending_machine","operator":"Käserei Bürki","payment:credit_cards":"yes","payment:twint":"yes","vending":"milk;food;eggs","website":"https://kaesereibuerki.ch","id":"node/7235687135"},"geometry":{"type":"Point","coordinates":[9.5500167,47.4228155]}}

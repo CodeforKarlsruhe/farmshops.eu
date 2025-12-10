@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6790207773","properties":{"amenity":"vending_machine","vending":"milk;soft_ice","id":"node/6790207773"},"geometry":{"type":"Point","coordinates":[10.3512178,47.7353398]}}
+{"type":"Feature","id":"node/6790207773","properties":{"amenity":"vending_machine","operator":"Milchbrüder","vending":"milk;soft_ice","id":"node/6790207773"},"geometry":{"type":"Point","coordinates":[10.3512178,47.7353398]}}
