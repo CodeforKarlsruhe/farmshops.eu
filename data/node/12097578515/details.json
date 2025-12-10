@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12097578515","properties":{"shop":"farm","id":"node/12097578515"},"geometry":{"type":"Point","coordinates":[8.9060369,52.922147]}}
+{"type":"Feature","id":"node/12097578515","properties":{"addr:city":"Syke","addr:housenumber":"17","addr:postcode":"28857","addr:street":"Geestrand","name":"Buschhof","opening_hours":"Mo-Su 08:00-20:00","operator":"Carolin Seevers","organic":"only","phone":"+49 176 60727194","shop":"farm","website":"https://buschhof-osterholz.de","id":"node/12097578515"},"geometry":{"type":"Point","coordinates":[8.9060369,52.922147]}}

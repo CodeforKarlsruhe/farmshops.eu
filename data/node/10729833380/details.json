@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10729833380","properties":{"amenity":"vending_machine","vending":"cheese","website":"https://www.kaeserei-beer.ch/","id":"node/10729833380"},"geometry":{"type":"Point","coordinates":[9.1739364,47.6512834]}}
+{"type":"Feature","id":"node/10729833380","properties":{"amenity":"vending_machine","check_date":"2025-10-18","vending":"cheese","website":"https://www.kaeserei-beer.ch/","id":"node/10729833380"},"geometry":{"type":"Point","coordinates":[9.1739364,47.6512834]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9918937082","properties":{"amenity":"vending_machine","name":"Früchte-Box","operator":"Der Seehof","vending":"fruit","id":"node/9918937082"},"geometry":{"type":"Point","coordinates":[9.7783872,53.5231166]}}
+{"type":"Feature","id":"node/9918937082","properties":{"amenity":"vending_machine","check_date":"2025-10-28","name":"Früchte-Box","operator":"Der Seehof","vending":"fruit; juice; potatoes","id":"node/9918937082"},"geometry":{"type":"Point","coordinates":[9.7783872,53.5231166]}}

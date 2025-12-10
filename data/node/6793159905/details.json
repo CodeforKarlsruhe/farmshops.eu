@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6793159905","properties":{"produce":"eggs","shop":"farm","id":"node/6793159905"},"geometry":{"type":"Point","coordinates":[10.547328,53.436148]}}
+{"type":"Feature","id":"node/6793159905","properties":{"addr:city":"Lütau","addr:housenumber":"8","addr:postcode":"21483","addr:street":"Katthof","produce":"eggs","shop":"farm","id":"node/6793159905"},"geometry":{"type":"Point","coordinates":[10.547328,53.436148]}}

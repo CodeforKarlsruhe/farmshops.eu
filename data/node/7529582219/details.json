@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7529582219","properties":{"amenity":"vending_machine","vending":"food;milk;eggs","id":"node/7529582219"},"geometry":{"type":"Point","coordinates":[8.8008095,48.8252263]}}
+{"type":"Feature","id":"node/7529582219","properties":{"amenity":"vending_machine","check_date":"2025-10-18","vending":"food;milk;eggs","id":"node/7529582219"},"geometry":{"type":"Point","coordinates":[8.8008095,48.8252263]}}

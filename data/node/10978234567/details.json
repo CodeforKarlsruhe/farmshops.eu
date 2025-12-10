@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10978234567","properties":{"name":"’t Boerenwinkeltje","opening_hours":"Tu 09:00-17:00, Th-Sa 09:00-17:00","shop":"farm","website":"https://www.tboerenwinkeltje.nl","id":"node/10978234567"},"geometry":{"type":"Point","coordinates":[5.5857237,52.0113604]}}
+{"type":"Feature","id":"node/10978234567","properties":{"name":"'t Boerenwinkeltje","opening_hours":"Tu 09:00-17:00; Th-Sa 09:00-17:00","shop":"farm","website":"https://www.tboerenwinkeltje.nl","id":"node/10978234567"},"geometry":{"type":"Point","coordinates":[5.5857237,52.0113604]}}

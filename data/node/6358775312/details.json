@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6358775312","properties":{"amenity":"vending_machine","operator":"Bauernhof Notkersegg","vending":"food","id":"node/6358775312"},"geometry":{"type":"Point","coordinates":[9.4026682,47.4247624]}}
+{"type":"Feature","id":"node/6358775312","properties":{"addr:housenumber":"120","addr:street":"Speicherstrasse","amenity":"vending_machine","check_date":"2025-11-08","operator":"Bauernhof Notkersegg","vending":"food","website":"https://www.bauernhof-notkersegg.ch/","id":"node/6358775312"},"geometry":{"type":"Point","coordinates":[9.4026682,47.4247624]}}

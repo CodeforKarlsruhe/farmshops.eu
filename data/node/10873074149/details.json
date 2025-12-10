@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10873074149","properties":{"amenity":"vending_machine","food":"sweets","level":"0","vending":"coffee;food","id":"node/10873074149"},"geometry":{"type":"Point","coordinates":[7.093637,50.7170736]}}
+{"type":"Feature","id":"node/10873074149","properties":{"amenity":"vending_machine","check_date":"2025-12-09","food":"sweets","level":"0","vending":"coffee;food","id":"node/10873074149"},"geometry":{"type":"Point","coordinates":[7.093637,50.7170736]}}

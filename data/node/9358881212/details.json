@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9358881212","properties":{"amenity":"vending_machine","name":"Pizzaautomat","operator":"Rewe Kelm","payment:cards":"only","vending":"pizza;food","id":"node/9358881212"},"geometry":{"type":"Point","coordinates":[9.4552549,51.2920954]}}
+{"type":"Feature","id":"node/9358881212","properties":{"amenity":"vending_machine","check_date":"2025-11-03","name":"Pizzaautomat","operator":"Rewe Kelm","payment:cards":"only","vending":"pizza;food","id":"node/9358881212"},"geometry":{"type":"Point","coordinates":[9.4552549,51.2920954]}}

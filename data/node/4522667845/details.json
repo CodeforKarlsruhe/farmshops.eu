@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4522667845","properties":{"amenity":"vending_machine","currency:EUR":"yes","operator":"Stecherhof","payment:coins":"yes","vending":"eggs","id":"node/4522667845"},"geometry":{"type":"Point","coordinates":[11.4274478,47.2593963]}}
+{"type":"Feature","id":"node/4522667845","properties":{"amenity":"vending_machine","check_date":"2025-10-19","currency:EUR":"yes","operator":"Stecherhof","payment:coins":"yes","vending":"eggs","id":"node/4522667845"},"geometry":{"type":"Point","coordinates":[11.4274478,47.2593963]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12000458309","properties":{"amenity":"marketplace","id":"node/12000458309"},"geometry":{"type":"Point","coordinates":[7.030823,51.0412152]}}
+{"type":"Feature","id":"node/12000458309","properties":{"addr:street":"Graf-Galen-Platz","amenity":"marketplace","name":"Graf-Galen-Platz","website":"https://www.leverkusen.de/stadt-erleben/freizeit/wochenmaerkte","id":"node/12000458309"},"geometry":{"type":"Point","coordinates":[7.030823,51.0412152]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3977606339","properties":{"lastcheck":"2016-01-30","name":"Bauernladen Fünfschilling","opening_hours":"Mo-Sa 08:00-20:00","shop":"farm","id":"node/3977606339"},"geometry":{"type":"Point","coordinates":[7.6018743,47.647238]}}
+{"type":"Feature","id":"node/3977606339","properties":{"check_date":"2025-11-06","check_date:opening_hours":"2025-11-06","name":"Bauernladen Fünfschilling","opening_hours":"Mo-Fr 08:00-18:00; Sa 08:00-19:00","shop":"farm","id":"node/3977606339"},"geometry":{"type":"Point","coordinates":[7.6018743,47.647238]}}

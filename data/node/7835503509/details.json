@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7835503509","properties":{"amenity":"marketplace","check_date":"2024-01-09","name":"Marktplatz","opening_hours":"We, Sa 08:00-13:00","id":"node/7835503509"},"geometry":{"type":"Point","coordinates":[10.7165784,52.4181129]}}
+{"type":"Feature","id":"node/7835503509","properties":{"amenity":"marketplace","check_date":"2024-01-09","name":"Marktplatz","opening_hours":"We, Sa 08:00-13:00","wheelchair":"limited","id":"node/7835503509"},"geometry":{"type":"Point","coordinates":[10.7165784,52.4181129]}}

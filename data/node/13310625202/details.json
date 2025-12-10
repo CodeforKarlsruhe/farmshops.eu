@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/13310625202","properties":{"amenity":"vending_machine","food:cheese":"yes","food:eggs":"yes","food:milk":"yes","operator":"https://www.zuiveldriehoek.nl/","payment:cash":"yes","payment:contactless":"yes","vending":"food","id":"node/13310625202"},"geometry":{"type":"Point","coordinates":[4.878603,51.648288]}}

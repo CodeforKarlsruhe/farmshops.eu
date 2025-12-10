@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/938889575","properties":{"description":"Get your milk and eggs here, Open Monday, Wednesday, Friday","shop":"farm","id":"node/938889575"},"geometry":{"type":"Point","coordinates":[9.8411072,49.7874806]}}
+{"type":"Feature","id":"node/938889575","properties":{"description":"Get your milk and eggs here, Open Monday, Wednesday, Friday","name":"Eier und (manchmal) mehr","opening_hours":"24/7","shop":"farm","id":"node/938889575"},"geometry":{"type":"Point","coordinates":[9.8411072,49.7874806]}}

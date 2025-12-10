@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/922963683","properties":{"amenity":"marketplace","highway":"pedestrian","name":"Marktplatz","opening_hours":"Sa 08:00-13:00; We 08:00-13:00","surface":"sett","id":"way/922963683"},"geometry":{"type":"Point","coordinates":[8.6185075,52.3025945]}}
+{"type":"Feature","id":"way/922963683","properties":{"amenity":"marketplace","highway":"pedestrian","lit":"yes","name":"Marktplatz","opening_hours":"Sa 08:00-13:00; We 08:00-13:00","surface":"sett","id":"way/922963683"},"geometry":{"type":"Point","coordinates":[8.6185075,52.3025945]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11783620474","properties":{"amenity":"vending_machine","covered":"yes","indoor":"no","vending":"food","id":"node/11783620474"},"geometry":{"type":"Point","coordinates":[5.0390803,50.9880322]}}
+{"type":"Feature","id":"node/11783620474","properties":{"amenity":"vending_machine","covered":"yes","indoor":"no","name":"Koked korte keten","vending":"food","website":"https://koked.be/","id":"node/11783620474"},"geometry":{"type":"Point","coordinates":[5.0390991,50.9880186]}}

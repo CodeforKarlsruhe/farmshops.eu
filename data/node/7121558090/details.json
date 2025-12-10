@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7121558090","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Milkomat","payment:coins":"yes","vending":"milk","id":"node/7121558090"},"geometry":{"type":"Point","coordinates":[11.3579894,47.2672075]}}
+{"type":"Feature","id":"node/7121558090","properties":{"amenity":"vending_machine","check_date":"2025-11-16","currency:EUR":"yes","name":"Milkomat","payment:coins":"yes","vending":"milk","id":"node/7121558090"},"geometry":{"type":"Point","coordinates":[11.3579894,47.2672075]}}

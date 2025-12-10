@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4047640172","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Edeka Windmann","vending":"food;meat","id":"node/4047640172"},"geometry":{"type":"Point","coordinates":[8.6818168,51.7348725]}}
+{"type":"Feature","id":"node/4047640172","properties":{"amenity":"vending_machine","food:meat":"yes","opening_hours":"24/7","operator":"Edeka Windmann","vending":"food","id":"node/4047640172"},"geometry":{"type":"Point","coordinates":[8.6818168,51.7348725]}}

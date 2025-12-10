@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8121176644","properties":{"amenity":"vending_machine","description":"Milchautomat","drink:milk":"yes","payment:cash":"yes","payment:maestro":"yes","vending":"food","id":"node/8121176644"},"geometry":{"type":"Point","coordinates":[15.2693361,47.4097268]}}
+{"type":"Feature","id":"node/8121176644","properties":{"amenity":"vending_machine","description":"Milchautomat","drink:milk":"yes","payment:cash":"yes","payment:maestro":"yes","vending":"milk","id":"node/8121176644"},"geometry":{"type":"Point","coordinates":[15.2693361,47.4097268]}}

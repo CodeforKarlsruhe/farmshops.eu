@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5638397464","properties":{"amenity":"vending_machine","name":"Neckartaler Freilandeier","operator":"Familie Jenz GbR","payment:cash":"yes","vending":"food","id":"node/5638397464"},"geometry":{"type":"Point","coordinates":[9.3225593,48.6616268]}}
+{"type":"Feature","id":"node/5638397464","properties":{"amenity":"vending_machine","check_date":"2025-11-02","name":"Neckartaler Freilandeier","operator":"Familie Jenz GbR","payment:cash":"yes","vending":"food","id":"node/5638397464"},"geometry":{"type":"Point","coordinates":[9.3225593,48.6616268]}}

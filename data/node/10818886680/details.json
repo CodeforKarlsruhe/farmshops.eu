@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10818886680","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Glindemanns Landei","opening_hours":"24/7","payment:cash":"yes","vending":"food","id":"node/10818886680"},"geometry":{"type":"Point","coordinates":[10.568937,52.2239768]}}
+{"type":"Feature","id":"node/10818886680","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Glindemanns Landei","opening_hours":"24/7","payment:cash":"yes","vending":"food","id":"node/10818886680"},"geometry":{"type":"Point","coordinates":[10.5689142,52.2239649]}}
