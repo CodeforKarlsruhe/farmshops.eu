@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11181960223","properties":{"amenity":"vending_machine","payment:coins":"only","vending":"seeds;bird_food","id":"node/11181960223"},"geometry":{"type":"Point","coordinates":[8.5174004,51.6972103]}}
+{"type":"Feature","id":"node/11181960223","properties":{"amenity":"vending_machine","check_date":"2025-12-18","payment:coins":"only","vending":"seeds;bird_food","id":"node/11181960223"},"geometry":{"type":"Point","coordinates":[8.5174004,51.6972103]}}

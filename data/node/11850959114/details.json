@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11850959114","properties":{"amenity":"vending_machine","indoor":"yes","vending":"eggs, noodles, potatoes, sweet potatoes","id":"node/11850959114"},"geometry":{"type":"Point","coordinates":[10.6272487,49.708706]}}
+{"type":"Feature","id":"node/11850959114","properties":{"amenity":"vending_machine","indoor":"yes","vending":"eggs;noodles;potatoes;sweet potatoes","id":"node/11850959114"},"geometry":{"type":"Point","coordinates":[10.6272487,49.708706]}}

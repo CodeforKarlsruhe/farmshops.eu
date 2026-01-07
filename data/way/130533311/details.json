@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/130533311","properties":{"amenity":"marketplace","bicycle":"yes","highway":"pedestrian","lit":"yes","name":"Bürgermeister-Bongartz-Platz","surface":"paving_stones","id":"way/130533311"},"geometry":{"type":"Point","coordinates":[6.6860957,51.4502564]}}
+{"type":"Feature","id":"way/130533311","properties":{"amenity":"marketplace","bicycle":"yes","highway":"pedestrian","lit":"yes","name":"Bürgermeister-Bongartz-Platz","opening_hours":"24/7","surface":"paving_stones","id":"way/130533311"},"geometry":{"type":"Point","coordinates":[6.6860842,51.450251]}}

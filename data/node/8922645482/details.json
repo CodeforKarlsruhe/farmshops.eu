@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8922645482","properties":{"amenity":"vending_machine","opening_hours":"24/7","operator":"Peter Happacher - Metzgerei Imbiss","vending":"meat","id":"node/8922645482"},"geometry":{"type":"Point","coordinates":[10.9156521,48.3554356]}}
+{"type":"Feature","id":"node/8922645482","properties":{"amenity":"vending_machine","check_date":"2026-01-03","opening_hours":"24/7","operator":"Peter Happacher - Metzgerei Imbiss","vending":"meat","id":"node/8922645482"},"geometry":{"type":"Point","coordinates":[10.9156521,48.3554356]}}
