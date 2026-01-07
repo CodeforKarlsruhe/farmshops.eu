@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12337858131","properties":{"name":"Hofladen","operator":"Simmang","shop":"farm","id":"node/12337858131"},"geometry":{"type":"Point","coordinates":[14.1380475,51.2255977]}}
+{"type":"Feature","id":"node/12337858131","properties":{"name":"Hofladen","opening_hours":"Tu 09:00-12:00; Th 15:00-18:00","operator":"Franz Simmang","phone":"+49 35793 5418","shop":"farm","website":"https://www.imkereibedarf-simmang.de/","id":"node/12337858131"},"geometry":{"type":"Point","coordinates":[14.1380475,51.2255977]}}

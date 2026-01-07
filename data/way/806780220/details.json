@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/806780220","properties":{"landuse":"orchard","name":"Self-Pick strawberry","shop":"farm","id":"way/806780220"},"geometry":{"type":"Point","coordinates":[7.8555696,47.5613509]}}
+{"type":"Feature","id":"way/806780220","properties":{"landuse":"orchard","name":"Self-Pick strawberry","produce":"strawberry","shop":"farm","id":"way/806780220"},"geometry":{"type":"Point","coordinates":[7.8555696,47.5613509]}}

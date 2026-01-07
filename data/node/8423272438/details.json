@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8423272438","properties":{"amenity":"marketplace","name":"Marché hebdomadaire","opening_hours":"Sa 08:00-13:00","id":"node/8423272438"},"geometry":{"type":"Point","coordinates":[6.8436889,47.4806945]}}
+{"type":"Feature","id":"node/8423272438","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-12-20","name":"Marché hebdomadaire","opening_hours":"Sa 08:00-13:00","id":"node/8423272438"},"geometry":{"type":"Point","coordinates":[6.8436889,47.4806945]}}

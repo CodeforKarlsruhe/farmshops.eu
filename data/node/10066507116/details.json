@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10066507116","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Les paniers de Martine","vending":"fruit & vegetables","id":"node/10066507116"},"geometry":{"type":"Point","coordinates":[5.6647732,50.7923853]}}
+{"type":"Feature","id":"node/10066507116","properties":{"amenity":"vending_machine","check_date":"2025-12-27","currency:EUR":"yes","name":"Les paniers de Martine","vending":"fruit & vegetables","id":"node/10066507116"},"geometry":{"type":"Point","coordinates":[5.6647732,50.7923853]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10568614997","properties":{"amenity":"vending_machine","covered":"yes","indoor":"yes","vending":"milk","id":"node/10568614997"},"geometry":{"type":"Point","coordinates":[10.2142483,52.4716933]}}
+{"type":"Feature","id":"node/10568614997","properties":{"amenity":"vending_machine","check_date":"2025-12-22","covered":"yes","indoor":"yes","vending":"milk","id":"node/10568614997"},"geometry":{"type":"Point","coordinates":[10.2142483,52.4716933]}}

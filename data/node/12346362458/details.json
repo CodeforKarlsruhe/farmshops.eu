@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12346362458","properties":{"name":"Schöre Shop","shop":"farm","website":"https://schoere.de/shop/","id":"node/12346362458"},"geometry":{"type":"Point","coordinates":[9.6590599,47.6565661]}}
+{"type":"Feature","id":"node/12346362458","properties":{"name":"Schöre Shop","product":"beer,liquor,meat","shop":"farm","website":"https://schoere.de/shop/","id":"node/12346362458"},"geometry":{"type":"Point","coordinates":[9.6590599,47.6565661]}}

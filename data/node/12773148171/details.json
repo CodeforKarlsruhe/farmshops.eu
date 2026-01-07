@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12773148171","properties":{"amenity":"marketplace","building":"no","name":"Landwasser Wochenmarkt","opening_hours":"Wed 8:00-13:00, Sat 8:00-13:00","id":"node/12773148171"},"geometry":{"type":"Point","coordinates":[7.8085094,48.0239811]}}
+{"type":"Feature","id":"node/12773148171","properties":{"amenity":"marketplace","name":"Landwasser Wochenmarkt","opening_hours":"Wed 8:00-13:00, Sat 8:00-13:00","id":"node/12773148171"},"geometry":{"type":"Point","coordinates":[7.8085094,48.0239811]}}

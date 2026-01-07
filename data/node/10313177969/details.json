@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10313177969","properties":{"shop":"farm","id":"node/10313177969"},"geometry":{"type":"Point","coordinates":[10.8926803,50.9682601]}}
+{"type":"Feature","id":"node/10313177969","properties":{"addr:city":"Erfurt","addr:country":"DE","addr:housenumber":"20","addr:postcode":"99092","addr:street":"Amtmann-Wincopp-Straße","addr:suburb":"Ermstedt","shop":"farm","id":"node/10313177969"},"geometry":{"type":"Point","coordinates":[10.8926277,50.9682118]}}

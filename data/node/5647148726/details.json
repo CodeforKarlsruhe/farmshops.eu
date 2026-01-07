@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5647148726","properties":{"amenity":"marketplace","opening_hours":"Fr 7:00-12:30;Apr-Oct Tu 7:00-12:30;PH off","wheelchair":"yes","id":"node/5647148726"},"geometry":{"type":"Point","coordinates":[8.8652921,54.1341772]}}
+{"type":"Feature","id":"node/5647148726","properties":{"amenity":"marketplace","opening_hours":"Nov-Mar Fr 7:00-12:30;Apr-Oct Tu,Fr 7:00-12:30;PH off","wheelchair":"yes","id":"node/5647148726"},"geometry":{"type":"Point","coordinates":[8.8618106,54.1319614]}}

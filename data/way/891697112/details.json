@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/891697112","properties":{"addr:city":"Weinsberg","addr:postcode":"74189","addr:street":"Kanalstraße","amenity":"marketplace","opening_hours":"Sa 08:00-12:00; PH off","id":"way/891697112"},"geometry":{"type":"Point","coordinates":[9.2862381,49.1500938]}}
+{"type":"Feature","id":"way/891697112","properties":{"amenity":"marketplace","opening_hours":"Sa 08:00-12:00; PH off","id":"way/891697112"},"geometry":{"type":"Point","coordinates":[9.2862381,49.1500938]}}

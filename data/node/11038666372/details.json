@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11038666372","properties":{"amenity":"vending_machine","payment:cash":"yes","vending":"eggs","id":"node/11038666372"},"geometry":{"type":"Point","coordinates":[11.4792626,48.7714589]}}
+{"type":"Feature","id":"node/11038666372","properties":{"amenity":"vending_machine","check_date":"2025-12-31","payment:cash":"yes","vending":"eggs","id":"node/11038666372"},"geometry":{"type":"Point","coordinates":[11.4792626,48.7714589]}}

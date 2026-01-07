@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4350708075","properties":{"shop":"farm","id":"node/4350708075"},"geometry":{"type":"Point","coordinates":[8.0297505,49.1963075]}}
+{"type":"Feature","id":"node/4350708075","properties":{"addr:city":"Ranschbach","addr:housenumber":"69","addr:postcode":"76829","addr:street":"Weinstraße","craft":"winery","name":"Häckerhof - Weingut Werner und Lore Kiefer","shop":"farm","id":"node/4350708075"},"geometry":{"type":"Point","coordinates":[8.0298423,49.1963256]}}

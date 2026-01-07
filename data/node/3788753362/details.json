@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3788753362","properties":{"amenity":"marketplace","name":"Bauernmarkt Altstätten","opening_hours":"May-Oct Sa 09:00-13:00","id":"node/3788753362"},"geometry":{"type":"Point","coordinates":[9.5388106,47.3774622]}}
+{"type":"Feature","id":"node/3788753362","properties":{"amenity":"marketplace","check_date:opening_hours":"2025-12-20","name":"Bauernmarkt Altstätten","opening_hours":"May-Oct Sa 09:00-13:00","id":"node/3788753362"},"geometry":{"type":"Point","coordinates":[9.5388106,47.3774622]}}
