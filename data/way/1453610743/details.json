@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/1453610743","properties":{"addr:city":"Wolfsburg","addr:postcode":"38440","amenity":"marketplace","name":"Markplatz Rathausplatz","id":"way/1453610743"},"geometry":{"type":"Point","coordinates":[10.7864207,52.4207928]}}
+{"type":"Feature","id":"way/1453610743","properties":{"addr:city":"Wolfsburg","addr:postcode":"38440","amenity":"marketplace","name":"Markplatz Rathausplatz","opening_hours":"24/7","id":"way/1453610743"},"geometry":{"type":"Point","coordinates":[10.7864207,52.4207928]}}

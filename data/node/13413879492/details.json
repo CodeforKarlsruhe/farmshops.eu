@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/13413879492","properties":{"product":"food,fruit","shop":"farm","id":"node/13413879492"},"geometry":{"type":"Point","coordinates":[9.6284023,47.6855099]}}
+{"type":"Feature","id":"node/13413879492","properties":{"description":"Obstverkauf","product":"food,fruit","shop":"farm","id":"node/13413879492"},"geometry":{"type":"Point","coordinates":[9.6284023,47.6855099]}}

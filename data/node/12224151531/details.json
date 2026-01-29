@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12224151531","properties":{"amenity":"vending_machine","covered":"yes","operator":"Natuurelles","operator:type":"private","vending":"food","id":"node/12224151531"},"geometry":{"type":"Point","coordinates":[4.5367385,50.8363856]}}
+{"type":"Feature","id":"node/12224151531","properties":{"amenity":"vending_machine","covered":"yes","operator":"PSARI","operator:type":"private","vending":"food","id":"node/12224151531"},"geometry":{"type":"Point","coordinates":[4.5367385,50.8363856]}}

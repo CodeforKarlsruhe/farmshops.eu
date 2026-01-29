@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11049084863","properties":{"shop":"farm","id":"node/11049084863"},"geometry":{"type":"Point","coordinates":[15.6482367,48.2881555]}}
+{"type":"Feature","id":"node/11049084863","properties":{"addr:housenumber":"19","addr:postcode":"3125","addr:street":"St. Pöltner Straße","contact:facebook":"PepiOmasSpeis","name":"Pepi Oma's Speis","shop":"farm","website":"https://www.soschmecktnoe.at/pepi-omas-speis","id":"node/11049084863"},"geometry":{"type":"Point","coordinates":[15.6482367,48.2881555]}}

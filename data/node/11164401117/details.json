@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11164401117","properties":{"amenity":"vending_machine","name":"Eier Verkaufsstelle","vending":"eggs","id":"node/11164401117"},"geometry":{"type":"Point","coordinates":[9.1566706,49.1057859]}}
+{"type":"Feature","id":"node/11164401117","properties":{"amenity":"vending_machine","check_date":"2026-01-11","name":"Eier Verkaufsstelle","vending":"eggs","id":"node/11164401117"},"geometry":{"type":"Point","coordinates":[9.1566706,49.1057859]}}

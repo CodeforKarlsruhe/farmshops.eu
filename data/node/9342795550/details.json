@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9342795550","properties":{"amenity":"marketplace","name":"Regional Vegetables","opening_hours":"Th 08:00-13:00","id":"node/9342795550"},"geometry":{"type":"Point","coordinates":[13.5821454,49.4856821]}}
+{"type":"Feature","id":"node/9342795550","properties":{"amenity":"marketplace","note:en":"Regional Vegetables","opening_hours":"Th 08:00-13:00","id":"node/9342795550"},"geometry":{"type":"Point","coordinates":[13.5821454,49.4856821]}}

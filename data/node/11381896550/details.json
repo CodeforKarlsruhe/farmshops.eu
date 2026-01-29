@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11381896550","properties":{"amenity":"vending_machine","description":"potato chips; instant noodles","level":"0","survey:date":"2023-11-28","vending":"food","id":"node/11381896550"},"geometry":{"type":"Point","coordinates":[9.9331477,51.5395388]}}
+{"type":"Feature","id":"node/11381896550","properties":{"amenity":"vending_machine","check_date":"2026-01-12","description":"potato chips; instant noodles","level":"0","vending":"food","id":"node/11381896550"},"geometry":{"type":"Point","coordinates":[9.9331477,51.5395388]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4847995324","properties":{"amenity":"marketplace","name":"Afrikanderplein","opening_hours":"\"Markt op woensdag en zaterdag\"","operator":"Gemeente Rotterdam","id":"node/4847995324"},"geometry":{"type":"Point","coordinates":[4.4994229,51.900117]}}
+{"type":"Feature","id":"node/4847995324","properties":{"amenity":"marketplace","name":"Afrikaanderplein","opening_hours":"We 08:00-17:30; Sa 08:00-17:00","operator":"Gemeente Rotterdam","id":"node/4847995324"},"geometry":{"type":"Point","coordinates":[4.4994229,51.900117]}}
