@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9102955953","properties":{"amenity":"vending_machine","check_date":"2025-02-16","name":"Grillbar","vending":"food","id":"node/9102955953"},"geometry":{"type":"Point","coordinates":[8.5027987,51.8739565]}}
+{"type":"Feature","id":"node/9102955953","properties":{"description":"Steht unbenutzt im Verkaufsraum.","disused:amenity":"vending_machine","name":"Grillbar","vending":"food","id":"node/9102955953"},"geometry":{"type":"Point","coordinates":[8.5028402,51.8738886]}}

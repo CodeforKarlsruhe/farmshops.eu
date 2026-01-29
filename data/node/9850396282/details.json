@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9850396282","properties":{"amenity":"restaurant","cuisine":"italian","name":"La Putia- Sicilia di Alessandro Megna","phone":"0676 3707180","shop":"farm","id":"node/9850396282"},"geometry":{"type":"Point","coordinates":[14.5629529,48.4768583]}}
+{"type":"Feature","id":"node/9850396282","properties":{"amenity":"restaurant","cuisine":"italian","name":"La Putia- Sicilia di Alessandro Megna","phone":"+43 676 3707180","shop":"farm","id":"node/9850396282"},"geometry":{"type":"Point","coordinates":[14.5629529,48.4768583]}}

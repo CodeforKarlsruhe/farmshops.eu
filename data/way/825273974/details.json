@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/825273974","properties":{"building":"yes","name":"Eier","shop":"farm","id":"way/825273974"},"geometry":{"type":"Point","coordinates":[15.0487472,48.7782425]}}
+{"type":"Feature","id":"way/825273974","properties":{"building":"yes","contact:website":"https://waldviertler-eier.at/","name":"Waldviertler Eier","shop":"farm","vending":"eggs","id":"way/825273974"},"geometry":{"type":"Point","coordinates":[15.0486708,48.778329]}}

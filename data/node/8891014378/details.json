@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8891014378","properties":{"shop":"farm","id":"node/8891014378"},"geometry":{"type":"Point","coordinates":[9.1824599,46.728568]}}
+{"type":"Feature","id":"node/8891014378","properties":{"addr:housenumber":"283","addr:postcode":"7143","addr:street":"Via Zigliolas","level":"0","name":"Hofladen Sutvitg","opening_hours":"Mo-Su 08:00-19:00","shop":"farm","id":"node/8891014378"},"geometry":{"type":"Point","coordinates":[9.1824599,46.728568]}}
