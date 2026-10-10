@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4350967860","properties":{"amenity":"vending_machine","check_date":"2025-05-28","indoor":"yes","vending":"food","id":"node/4350967860"},"geometry":{"type":"Point","coordinates":[11.0077977,49.551729]}}
+{"type":"Feature","id":"node/4350967860","properties":{"amenity":"vending_machine","check_date":"2026-09-03","indoor":"yes","vending":"food;ice_cream;eggs;coffee","id":"node/4350967860"},"geometry":{"type":"Point","coordinates":[11.0077977,49.551729]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9523819665","properties":{"check_date":"2025-12-26","name":"Täufers Hofladen","shop":"farm","id":"node/9523819665"},"geometry":{"type":"Point","coordinates":[10.7501523,49.3090721]}}
+{"type":"Feature","id":"node/9523819665","properties":{"check_date":"2026-05-15","check_date:opening_hours":"2026-05-15","name":"Täufers Hofladen","opening_hours":"24/7","shop":"farm","id":"node/9523819665"},"geometry":{"type":"Point","coordinates":[10.7501523,49.3090721]}}

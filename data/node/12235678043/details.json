@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12235678043","properties":{"name":"Ds chliinä Thoner Eier-Hüsli","shop":"farm","id":"node/12235678043"},"geometry":{"type":"Point","coordinates":[9.0656434,46.9964133]}}
+{"type":"Feature","id":"node/12235678043","properties":{"addr:city":"Schwanden","addr:housenumber":"21","addr:postcode":"8762","addr:street":"Thon","name":"Ds chliinä Thoner Eier-Hüsli","opening_hours":"24/7","payment:cash":"yes","payment:twint":"yes","shop":"farm","id":"node/12235678043"},"geometry":{"type":"Point","coordinates":[9.0655279,46.9962917]}}

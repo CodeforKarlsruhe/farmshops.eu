@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7827927177","properties":{"addr:city":"Natters","addr:housenumber":"1","addr:postcode":"6161","addr:street":"Schulstraße","name":"Wieser Hof","shop":"farm","id":"node/7827927177"},"geometry":{"type":"Point","coordinates":[11.3745782,47.2332617]}}
+{"type":"Feature","id":"node/7827927177","properties":{"addr:city":"Natters","addr:housenumber":"1","addr:postcode":"6161","addr:street":"Schulstraße","check_date":"2026-07-18","name":"Wieser Hof","shop":"farm","id":"node/7827927177"},"geometry":{"type":"Point","coordinates":[11.3745782,47.2332617]}}

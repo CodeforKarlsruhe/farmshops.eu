@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8026598413","properties":{"amenity":"vending_machine","operator":"Kaufland","vending":"milk","id":"node/8026598413"},"geometry":{"type":"Point","coordinates":[11.4387069,48.7361864]}}
+{"type":"Feature","id":"node/8026598413","properties":{"amenity":"vending_machine","indoor":"yes","operator":"Kaufland","vending":"milk","id":"node/8026598413"},"geometry":{"type":"Point","coordinates":[11.4387069,48.7361864]}}

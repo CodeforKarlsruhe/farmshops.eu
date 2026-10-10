@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/14132912813","properties":{"amenity":"vending_machine","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:girocard":"yes","vending":"eggs;ice_cream;drinks;milk;sweets;water","id":"node/14132912813"},"geometry":{"type":"Point","coordinates":[11.2236905,49.6653107]}}

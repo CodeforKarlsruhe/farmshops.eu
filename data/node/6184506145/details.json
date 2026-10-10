@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/6184506145","properties":{"amenity":"vending_machine","name":"Eier","payment:coins":"yes","vending":"food","id":"node/6184506145"},"geometry":{"type":"Point","coordinates":[10.6322718,52.3718767]}}
+{"type":"Feature","id":"node/6184506145","properties":{"amenity":"vending_machine","check_date":"2026-10-08","name":"Eier","payment:coins":"yes","vending":"food","id":"node/6184506145"},"geometry":{"type":"Point","coordinates":[10.6322718,52.3718767]}}

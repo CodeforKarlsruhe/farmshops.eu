@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12063563655","properties":{"shop":"farm","id":"node/12063563655"},"geometry":{"type":"Point","coordinates":[8.6916899,46.9342438]}}
+{"type":"Feature","id":"node/12063563655","properties":{"addr:housenumber":"2","addr:postcode":"6452","addr:street":"Liedernen","name":"Alpkäserei Bissig","shop":"farm","id":"node/12063563655"},"geometry":{"type":"Point","coordinates":[8.6916899,46.9342438]}}

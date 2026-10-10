@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/99794890","properties":{"building":"yes","shop":"farm","id":"way/99794890"},"geometry":{"type":"Point","coordinates":[9.604728,51.0648187]}}
+{"type":"Feature","id":"way/99794890","properties":{"addr:housenumber":"26","addr:postcode":"34326","addr:street":"Binsförther Straße","building":"yes","check_date":"2026-03-05","email":"info@biohof-ruhlengut.de","name":"Biohof Ruhlengut","shop":"farm","website":"https://www.biohof-ruhlengut.de/","id":"way/99794890"},"geometry":{"type":"Point","coordinates":[9.604728,51.0648187]}}

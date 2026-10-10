@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9257794218","properties":{"name":"Weidschöpli","shop":"farm","website":"https://hofchaesi.ch/weidsch%C3%B6pli","id":"node/9257794218"},"geometry":{"type":"Point","coordinates":[7.9996401,47.3530427]}}
+{"type":"Feature","id":"node/9257794218","properties":{"name":"Weidschöpli","opening_hours":"24/7","payment:cards":"yes","payment:twint":"yes","shop":"farm","vending":"eggs;cheese;milk;honey;potatoes","website":"https://hofchaesi.ch/weidsch%C3%B6pli","id":"node/9257794218"},"geometry":{"type":"Point","coordinates":[7.9997982,47.3531264]}}

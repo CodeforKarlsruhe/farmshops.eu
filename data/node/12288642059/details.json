@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/12288642059","properties":{"amenity":"vending_machine","check_date":"2024-10-25","operator":"Hartmann Hof","payment:cards":"no","payment:cash":"yes","payment:credit_cards":"no","payment:debit_cards":"no","vending":"eggs;drinks;food;ice_cream","id":"node/12288642059"},"geometry":{"type":"Point","coordinates":[8.3384408,49.6576711]}}

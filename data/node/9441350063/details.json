@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9441350063","properties":{"amenity":"vending_machine","indoor":"yes","level":"1","operator":"Zugvogel","vending":"food","wheelchair":"yes","id":"node/9441350063"},"geometry":{"type":"Point","coordinates":[11.5354884,48.142584]}}
+{"type":"Feature","id":"node/9441350063","properties":{"amenity":"vending_machine","check_date":"2026-01-24","indoor":"yes","level":"1","operator":"zoells.de","ref":"1059711","vending":"food","wheelchair":"yes","id":"node/9441350063"},"geometry":{"type":"Point","coordinates":[11.5354986,48.1425792]}}

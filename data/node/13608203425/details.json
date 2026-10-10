@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/13608203425","properties":{"amenity":"vending_machine","currency:CZK":"yes","payment:cash":"yes","payment:coins":"yes","payment:credit_cards":"no","payment:notes":"yes","payment:qr_code":"yes","vending":"milk;food;chesses","id":"node/13608203425"},"geometry":{"type":"Point","coordinates":[13.7517046,50.4094322]}}

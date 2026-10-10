@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8761740223","properties":{"shop":"farm","website":"https://kirchweg-greppen.ch","id":"node/8761740223"},"geometry":{"type":"Point","coordinates":[8.4296988,47.051258]}}
+{"type":"Feature","id":"node/8761740223","properties":{"check_date":"2026-05-01","opening_hours":"24/7","payment:cash":"yes","payment:twint":"yes","shop":"farm","website":"https://kirchweg-greppen.ch","wheelchair":"yes","id":"node/8761740223"},"geometry":{"type":"Point","coordinates":[8.4296988,47.051258]}}

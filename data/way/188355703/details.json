@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/188355703","properties":{"amenity":"marketplace","opening_hours":"We,Sa 07:00-13:00","id":"way/188355703"},"geometry":{"type":"Point","coordinates":[6.9189354,50.9951453]}}
+{"type":"Feature","id":"way/188355703","properties":{"amenity":"marketplace","check_date":"2026-06-01","name":"Wochenmarkt Longerich","opening_hours":"We,Sa 07:00-13:00","wheelchair":"yes","id":"way/188355703"},"geometry":{"type":"Point","coordinates":[6.9189354,50.9951453]}}

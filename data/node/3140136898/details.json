@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3140136898","properties":{"craft":"beekeeper","name:signed":"no","shop":"honey","id":"node/3140136898"},"geometry":{"type":"Point","coordinates":[13.1527745,50.8695532]}}
+{"type":"Feature","id":"node/3140136898","properties":{"check_date:opening_hours":"2026-08-09","craft":"beekeeper","name:signed":"no","opening_hours:signed":"no","shop":"honey","id":"node/3140136898"},"geometry":{"type":"Point","coordinates":[13.1527745,50.8695532]}}

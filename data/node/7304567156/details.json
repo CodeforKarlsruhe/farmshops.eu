@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7304567156","properties":{"name":"Fannerls Bauernladen","shop":"farm","id":"node/7304567156"},"geometry":{"type":"Point","coordinates":[12.2189716,48.6118799]}}
+{"type":"Feature","id":"node/7304567156","properties":{"name":"Fannerls Bauernladen","opening_hours":"Fr 07:00-18:00; Sa 06:30-12:00","shop":"farm","id":"node/7304567156"},"geometry":{"type":"Point","coordinates":[12.2189716,48.6118799]}}

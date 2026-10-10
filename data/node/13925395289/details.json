@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/13925395289","properties":{"amenity":"vending_machine","check_date":"2026-06-10","indoor":"yes","level":"0","operator":"Delikomat","payment:cash":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","vending":"food;drinks","id":"node/13925395289"},"geometry":{"type":"Point","coordinates":[15.4169361,49.6702645]}}
