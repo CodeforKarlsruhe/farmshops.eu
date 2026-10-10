@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9508266100","properties":{"amenity":"vending_machine","name":"hin & weg (Tausch-Hütte)","vending":"food","id":"node/9508266100"},"geometry":{"type":"Point","coordinates":[11.6216686,48.2970259]}}
+{"type":"Feature","id":"node/9508266100","properties":{"amenity":"vending_machine","indoor":"yes","name":"hin & weg (Tausch-Hütte)","vending":"food","id":"node/9508266100"},"geometry":{"type":"Point","coordinates":[11.6216686,48.2970259]}}

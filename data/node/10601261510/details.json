@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10601261510","properties":{"amenity":"marketplace","name":"Groote Markt","id":"node/10601261510"},"geometry":{"type":"Point","coordinates":[6.9291903,52.313624]}}
+{"type":"Feature","id":"node/10601261510","properties":{"amenity":"marketplace","name":"Groote Markt","opening_hours":"Mo 12:00-17:00; Sa 09:00-17:00","id":"node/10601261510"},"geometry":{"type":"Point","coordinates":[6.9291903,52.313624]}}

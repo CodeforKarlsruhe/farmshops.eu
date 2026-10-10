@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4980488185","properties":{"amenity":"vending_machine","check_date":"2023-09-04","name":"Slovenské syry","source":"survey","vending":"food","id":"node/4980488185"},"geometry":{"type":"Point","coordinates":[17.0764964,48.1684897]}}
+{"type":"Feature","id":"node/4980488185","properties":{"amenity":"vending_machine","check_date":"2026-02-07","name":"Slovenské syry","source":"survey","vending":"food","website":"https://www.syromat.sk","id":"node/4980488185"},"geometry":{"type":"Point","coordinates":[17.0764964,48.1684897]}}

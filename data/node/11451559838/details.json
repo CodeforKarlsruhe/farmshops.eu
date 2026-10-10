@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11451559838","properties":{"addr:city":"Sankt Veit in der Südsteiermark","addr:housenumber":"47","addr:postcode":"8423","addr:street":"Seibersdorf","craft":"beekeeper","name":"Imker August Dobay","operator":"August Dobay","id":"node/11451559838"},"geometry":{"type":"Point","coordinates":[15.6794733,46.7300122]}}
+{"type":"Feature","id":"node/11451559838","properties":{"craft":"beekeeper","name":"Imker August Dobay","operator":"August Dobay","id":"node/11451559838"},"geometry":{"type":"Point","coordinates":[15.6794056,46.7301327]}}

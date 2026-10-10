@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7836978631","properties":{"amenity":"vending_machine","covered":"yes","vending":"seafood","id":"node/7836978631"},"geometry":{"type":"Point","coordinates":[12.3798387,47.8310384]}}
+{"type":"Feature","id":"node/7836978631","properties":{"amenity":"vending_machine","check_date":"2026-08-27","covered":"yes","vending":"seafood","id":"node/7836978631"},"geometry":{"type":"Point","coordinates":[12.3798387,47.8310384]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8004189102","properties":{"payment:cash":"yes","payment:coins":"yes","shop":"farm","id":"node/8004189102"},"geometry":{"type":"Point","coordinates":[8.6195399,49.4065427]}}
+{"type":"Feature","id":"node/8004189102","properties":{"name":"Blumen selbst schneiden. Karlheinz Koch","opening_hours":"Mo-Su,PH 09:00+","payment:cash":"yes","payment:coins":"yes","payment:credit_cards":"no","payment:debit_cards":"no","shop":"farm","wheelchair":"no","id":"node/8004189102"},"geometry":{"type":"Point","coordinates":[8.6195399,49.4065427]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/5034526410","properties":{"amenity":"marketplace","name":"Wochenmarkt Burladingen","id":"node/5034526410"},"geometry":{"type":"Point","coordinates":[9.113371,48.2893474]}}
+{"type":"Feature","id":"node/5034526410","properties":{"amenity":"marketplace","name":"Wochenmarkt Burladingen","wheelchair":"yes","id":"node/5034526410"},"geometry":{"type":"Point","coordinates":[9.113371,48.2893474]}}

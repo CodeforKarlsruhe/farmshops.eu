@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12118787192","properties":{"name":"Lädle am Stormehof","shop":"farm","id":"node/12118787192"},"geometry":{"type":"Point","coordinates":[9.5558882,50.5915784]}}
+{"type":"Feature","id":"node/12118787192","properties":{"name":"Lädle am Stormehof","opening_hours":"Mo-Su 07:30-20:00","shop":"farm","id":"node/12118787192"},"geometry":{"type":"Point","coordinates":[9.5558882,50.5915784]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/456498015","properties":{"name":"Beerenland","note":"Verschiedene Obstarten selbst zu pflücken","shop":"farm","id":"node/456498015"},"geometry":{"type":"Point","coordinates":[11.2358593,49.4914287]}}
+{"type":"Feature","id":"node/456498015","properties":{"check_date:opening_hours":"2026-05-30","name":"Beerenland","note":"Verschiedene Obstarten selbst zu pflücken","opening_hours:signed":"no","shop":"farm","id":"node/456498015"},"geometry":{"type":"Point","coordinates":[11.2358593,49.4914287]}}

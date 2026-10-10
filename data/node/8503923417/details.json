@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8503923417","properties":{"name":"BioBergün Hofladen","shop":"farm","id":"node/8503923417"},"geometry":{"type":"Point","coordinates":[9.7484273,46.6269088]}}
+{"type":"Feature","id":"node/8503923417","properties":{"addr:city":"Bergün/Bravuogn","addr:housenumber":"70","addr:street":"Veja Alvra","name":"BioBergün Hofladen","organic":"only","shop":"farm","website":"https://www.bioberguen.ch","id":"node/8503923417"},"geometry":{"type":"Point","coordinates":[9.7484273,46.6269088]}}

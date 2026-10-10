@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8809660168","properties":{"amenity":"vending_machine","operator":"Heil-Hof","payment:cash":"yes","payment:coins":"yes","vending":"milk;food;bread;eggs","id":"node/8809660168"},"geometry":{"type":"Point","coordinates":[11.4069173,47.2825243]}}
+{"type":"Feature","id":"node/8809660168","properties":{"amenity":"vending_machine","check_date":"2026-04-19","operator":"Heil-Hof","payment:cash":"yes","payment:coins":"yes","vending":"milk;food;bread;eggs","id":"node/8809660168"},"geometry":{"type":"Point","coordinates":[11.4069173,47.2825243]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/841466214","properties":{"amenity":"marketplace","source":"survey","id":"way/841466214"},"geometry":{"type":"Point","coordinates":[13.3710637,49.7373552]}}
+{"type":"Feature","id":"way/841466214","properties":{"amenity":"marketplace","name":"Chodské tržiště","opening_hours":"Sa,Su 06:00-12:00","source":"survey","id":"way/841466214"},"geometry":{"type":"Point","coordinates":[13.3710637,49.7373552]}}

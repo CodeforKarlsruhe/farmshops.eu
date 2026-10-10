@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8435352820","properties":{"amenity":"marketplace","name":"Obstverkauf","opening_hours":"24/7","operator":"Erich Gußmann","phone":"+49 7032 72677","id":"node/8435352820"},"geometry":{"type":"Point","coordinates":[8.9232522,48.5769696]}}
+{"type":"Feature","id":"node/8435352820","properties":{"name":"Obstverkauf","opening_hours":"24/7","operator":"Erich Gußmann","payment:cash":"yes","phone":"+49 7032 72677","shop":"farm","id":"node/8435352820"},"geometry":{"type":"Point","coordinates":[8.9232316,48.5769643]}}

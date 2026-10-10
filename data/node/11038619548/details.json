@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/11038619548","properties":{"amenity":"vending_machine","description":"meat, eggs","opening_hours":"24/7","operator":"Vennbachhof","vending":"food","id":"node/11038619548"},"geometry":{"type":"Point","coordinates":[6.2878606,51.1959254]}}
+{"type":"Feature","id":"node/11038619548","properties":{"amenity":"vending_machine","check_date":"2026-04-24","description":"meat, eggs","opening_hours":"24/7","operator":"Vennbachhof","vending":"food","id":"node/11038619548"},"geometry":{"type":"Point","coordinates":[6.2877718,51.1960709]}}

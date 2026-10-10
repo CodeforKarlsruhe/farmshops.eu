@@ -19,7 +19,7 @@ fi
 echo 'loop finished'
 
 number=$(find data -type f | wc -l)
-let number-=2
+let number-=1
 echo "Anzahl der Nodes: $number"
 git add data/*
 git commit -m "🗃 - Datenupdate $number"

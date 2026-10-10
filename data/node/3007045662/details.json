@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3007045662","properties":{"shop":"farm","id":"node/3007045662"},"geometry":{"type":"Point","coordinates":[9.5128821,48.8840093]}}
+{"type":"Feature","id":"node/3007045662","properties":{"addr:city":"Rudersberg","addr:postcode":"73635","addr:street":"Kirchenackerweg","name":"Hofladen Klemens","payment:cards":"yes","payment:cash":"yes","shop":"farm","id":"node/3007045662"},"geometry":{"type":"Point","coordinates":[9.5128821,48.8840093]}}

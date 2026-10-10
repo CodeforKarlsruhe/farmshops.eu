@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8308239829","properties":{"amenity":"marketplace","name":"Antik- und Trödelmarkt Goerzallee","opening_hours":"Su 06:00-16:00","id":"node/8308239829"},"geometry":{"type":"Point","coordinates":[13.2877921,52.4176783]}}
+{"type":"Feature","id":"node/8308239829","properties":{"amenity":"marketplace","check_date:opening_hours":"2026-07-28","name":"Antik- und Trödelmarkt Goerzallee","opening_hours":"Su 06:00-16:00","id":"node/8308239829"},"geometry":{"type":"Point","coordinates":[13.2877921,52.4176783]}}

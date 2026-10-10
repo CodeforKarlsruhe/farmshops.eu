@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9860605857","properties":{"amenity":"vending_machine","note":"platba do kasičky","payment:cards":"no","payment:cash":"yes","vending":"drinks;food","id":"node/9860605857"},"geometry":{"type":"Point","coordinates":[13.8200876,50.0123655]}}
+{"type":"Feature","id":"node/9860605857","properties":{"amenity":"vending_machine","indoor":"yes","note":"platba do kasičky","payment:cards":"no","payment:cash":"yes","vending":"drinks;food","id":"node/9860605857"},"geometry":{"type":"Point","coordinates":[13.8200876,50.0123655]}}

@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/13866920179","properties":{"amenity":"vending_machine","operator":"Werni‘s Snackomat - 24/7","payment:coins":"yes","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:notes":"no","payment:qr_code":"no","vending":"drinks;food;sweets","id":"node/13866920179"},"geometry":{"type":"Point","coordinates":[9.3934396,53.019379]}}
