@@ -201,7 +201,7 @@ markers.addLayer(geojson1);
 map.addLayer(markers);
 console.log(lastUpdate);
 
-var sidebar = L.control.sidebar('sidebar').addTo(map);
+var sidebar = L.control.sidebar({ container: 'sidebar' }).addTo(map);
 
 var tilesAuswahl = {
     "OpenStreetMap": tiles,

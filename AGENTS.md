@@ -10,12 +10,11 @@ farmshops.eu — a static GitHub Pages site (no build step, no framework, no tes
 - `js/direktvermarkter.js` — map setup, marker types, clustering. On marker click it lazy-fetches `data/<type>/<id>/details.json` via `$.getJSON`.
 - `js/popupcontent.js` — popup HTML rendering plus ad-hoc German translations of common OSM tags. Edit here for popup changes.
 - `data/` — GENERATED (~27k files, committed). Never hand-edit; regenerate (below).
-- `hu/` — separate experimental Hungarian site with its own `index.html`, `update_data.js` (Hungary bbox), `package.json` and `update.sh`. Quirk: `hu/node_modules/` is committed to the repo (`.gitignore` only covers root `/node_modules`), so running `npm install` there creates tracked-file churn.
-- `contribute/` — standalone "suggest an entry" page (own HTML/CSS/JS, i18next locales in `contribute/locales/`). Separate mini-app, no build.
+- `contribute/` — standalone "suggest an entry" page (own HTML/CSS/JS, i18next locales in `contribute/locales/`). Separate mini-app, no build. Still loads Leaflet 1.0.0/jQuery/select2/i18next from cdnjs — not vendored yet.
 
 ## Updating the map data (main workflow)
 
-- DACH region: `npm install && node update_data.js` (repo root). Hungary: `cd hu && npm install && node update_data.js`. Requires a modern Node (CI uses Node 24); the only dependency is `osmtogeojson`.
+- `npm install && node update_data.js` (repo root, DACH region). Requires a modern Node (CI uses Node 24); the only dependency is `osmtogeojson`.
 - The script first deletes the entire `data/` directory, then queries the Overpass API (`overpass-api.de`, `[timeout:742]`) — takes several minutes and needs network access.
 - The script sends a descriptive User-Agent — overpass-api.de answers requests without one with HTTP 406, which used to crash the update. Under load overpass-api.de answers "server too busy" (504); the script retries 3 times (waiting 3 and 5 minutes between attempts), then exits 1 with a clear message — just re-run it if it still fails.
 - A full DACH run takes several minutes (the Overpass query allows up to 742s server-side). The script uses `node:https` rather than `fetch` on purpose: `fetch` aborts requests whose response headers take more than 5 minutes. Each attempt has a 15-minute inactivity timeout. If Overpass returns zero features, the script refuses to overwrite `data/` and exits 1.
@@ -23,15 +22,22 @@ farmshops.eu — a static GitHub Pages site (no build step, no framework, no tes
 - Category mapping lives in `getSimpleNode()` in `update_data.js` (`shop=farm`→farm, `craft=beekeeper`→beekeeper, `amenity=marketplace`→marketplace, `amenity=vending_machine`→vending_machine) and must stay in sync with `pointToLayer` in `js/direktvermarkter.js`; unknown categories render as a black "?" marker.
 - Commit messages count nodes as `find data -type f | wc -l` minus 1 (for `farmshopGeoJson.js`).
 - `update.sh` automates pull → update → commit (`🗃 - Datenupdate <n>`) → push. Only pass `update.sh <user> <token>` if you intend the credentialed `https://user:token@github.com/...` push; otherwise run it without arguments.
-- CI (`.github/workflows/update-data-dach.yml` and `update-data-hu.yml`, `workflow_dispatch` only, Node 24 with `actions/checkout@v7`, `actions/setup-node@v7`, `peter-evans/create-pull-request@v8`) runs the same script and opens a PR from branch `update-data`. Prefer PRs over direct pushes to master for data updates.
+- CI (`.github/workflows/update-data-dach.yml`, `workflow_dispatch` only, Node 24 with `actions/checkout@v7`, `actions/setup-node@v7`, `peter-evans/create-pull-request@v8`) runs the same script and opens a PR from branch `update-data`. Prefer PRs over direct pushes to master for data updates.
 
 ## Working on the frontend
 
 - No build/lint/test pipeline: edit `index.html`, `js/`, `css/` directly and reload. `npm test` is a placeholder that always exits 1.
 - Serve over HTTP (e.g. `python3 -m http.server`) — marker popups use `$.getJSON`, which fails on `file://`.
-- All third-party libraries are vendored in `js/` and `css/`. Do not add CDN dependencies; the page deliberately self-hosts everything (privacy statement in the sidebar).
+- All third-party libraries are vendored in `js/` and `css/` (historical convention: dist files are copied in, no npm for the frontend). Do not add CDN dependencies; the page deliberately self-hosts everything (privacy statement in the sidebar).
+
+### Vendored library versions (updated Oct 2026)
+
+- **Leaflet 1.9.4** — latest *stable*. Do NOT jump to 2.0.0-alpha.1: it is a pre-release with breaking changes (ESM-only, `new L.Map()` instead of `L.map()`, removed legacy `DomUtil`/`Util` APIs) and the plugins still target 1.x. Revisit 2.0 when it is stable and markercluster & co. support it.
+- leaflet.markercluster **1.5.3** (latest, peers `^1.3.1`), leaflet-extra-markers **1.2.2** (2.0.1 exists but ships source-only ESM with no dist to vendor), leaflet-sidebar-v2 **3.2.3**, leaflet.locatecontrol **0.90.1** (also 2.0-ready), jquery **3.7.1** (4.0.0 exists; site only uses `$.getJSON`), opening_hours **3.15.0** (bundled with suncalc via esbuild into `js/opening_hours+deps.min.js`, exposing global `opening_hours` — rebuild the same way if updated), Font Awesome **6.7.2** (7.x exists; 6.7.2 kept because it still aliases `fa-map-marker`), leaflet.Permalink (unmaintained upstream, no releases — vendored file kept as-is).
+- To update a library: `npm pack <pkg>@<version>`, copy the dist files into `js/` + `css/` (plus `webfonts/` for Font Awesome, `css/images/` for Leaflet), keep filenames stable so `index.html` tags don't change (only the jquery tag has the version in its name), sync the `.map` files, then verify the map in a browser (markers, clusters, popup, sidebar, locate control).
 
 ## Misc gotchas
 
+- The experimental Hungarian site `hu/` was removed (Oct 2026); its workflow `update-data-hu.yml` was deleted with it.
 - `package.json` repository/homepage point to `CodeforKarlsruhe/direktvermarkter`, but the git remote is `CodeforKarlsruhe/farmshops.eu` (index.html links to both). Historical inconsistency — don't mass-rewrite URLs.
 - Deployment is GitHub Pages from `master` (CNAME = farmshops.eu); there is no CI build step.
