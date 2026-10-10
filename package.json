@@ -4,7 +4,7 @@
   "description": "Data viewer for farmshops, milk and food vending machines and other direct marketers on openstreetmap.",
   "main": "update_data.js",
   "devDependencies": {
-    "osmtogeojson": "^2.2.12"
+    "osmtogeojson": "^3.0.0-beta.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
