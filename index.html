@@ -34,9 +34,9 @@
 
 <body>
     <script src="data/farmshopGeoJson.js"></script>
-    <div id="sidebar" class="sidebar collapsed">
+    <div id="sidebar" class="leaflet-sidebar collapsed">
         <!-- Nav tabs -->
-        <div class="sidebar-tabs">
+        <div class="leaflet-sidebar-tabs">
             <ul role="tablist">
                 <li>
                     <a href="#home" role="tab" alt="info" title="Was ist das hier und wie pflege ich die Daten?">&#9776;</a>
@@ -62,11 +62,11 @@
         </div>
 
         <!-- Tab panes -->
-        <div class="sidebar-content">
-            <div class="sidebar-pane" id="home">
-                <h1 class="sidebar-header">
+        <div class="leaflet-sidebar-content">
+            <div class="leaflet-sidebar-pane" id="home">
+                <h1 class="leaflet-sidebar-header">
                     farmshops.eu - Direktvermarkter-Karte
-                    <span class="sidebar-close"></span>
+                    <span class="leaflet-sidebar-close"></span>
                 </h1>
                 <h3>Was ist das hier?</h3>
 
@@ -175,9 +175,9 @@
 
             </div>
 
-            <div class="sidebar-pane" id="info">
-                <h1 class="sidebar-header">Impressum und Datenschutz
-                    <span class="sidebar-close"></span>
+            <div class="leaflet-sidebar-pane" id="info">
+                <h1 class="leaflet-sidebar-header">Impressum und Datenschutz
+                    <span class="leaflet-sidebar-close"></span>
                 </h1>
 
                 <img src="img/codeforkarlsruhe.png" alt="Logo Code for Karlsruhe" width="200px" style="display: block;margin-left: auto;margin-right: auto">
@@ -234,12 +234,12 @@
         </div>
     </div>
 
-    <div id="map" class="sidebar-map"></div>
+    <div id="map"></div>
 
 
     <script src="js/leaflet.js"></script>
     <script src="js/leaflet.permalink.min.js"></script>
-    <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/jquery-3.7.1.min.js"></script>
     <link rel="stylesheet" href="css/leaflet.extra-markers.min.css">
     <script src="js/leaflet.extra-markers.min.js"></script>
     <script src="js/leaflet.markercluster.js"></script>
