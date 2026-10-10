@@ -49,7 +49,7 @@ Die Anzeige der Daten im Popup wird in popupcontent.js definiert. Dort findet au
 
 ## Datenabgleich
 Die Daten stammen aus OSM und werden vom script update_data.js aktualisiert. Siehe dazu auch #6
-Es ist ein node script, dass nach installation des Packets "query-overpass" mit "node update_data.js" ausgeführt werden kann.
+Es ist ein node script, dass nach `npm install` mit `node update_data.js` ausgeführt werden kann (Node 18 oder neuer, da es globales `fetch` verwendet).
 
 Für ein konfortables Update mit automatischen Commit gibt es das shell script update.sh, das auf lange Sicht auch regelmäßig automatisch ausgeführt werden soll.
 
