@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/4278578853","properties":{"amenity":"vending_machine","name":"Milchautomat","vending":"milk","id":"node/4278578853"},"geometry":{"type":"Point","coordinates":[10.0339427,48.3415691]}}
+{"type":"Feature","id":"node/4278578853","properties":{"amenity":"vending_machine","check_date":"2026-02-03","name":"Milchautomat","vending":"milk","id":"node/4278578853"},"geometry":{"type":"Point","coordinates":[10.0339427,48.3415691]}}

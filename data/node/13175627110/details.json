@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/13175627110","properties":{"payment:cash":"yes","self_service":"only","shop":"farm","id":"node/13175627110"},"geometry":{"type":"Point","coordinates":[8.1411749,47.3806304]}}
+{"type":"Feature","id":"node/13175627110","properties":{"name":"Zublers Hofladen","payment:cash":"yes","self_service":"only","shop":"farm","id":"node/13175627110"},"geometry":{"type":"Point","coordinates":[8.1411749,47.3806304]}}

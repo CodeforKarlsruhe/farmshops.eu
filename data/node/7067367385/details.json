@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7067367385","properties":{"addr:street":"Rombois","name":"Gaec Voireuchon","organic":"only","shop":"farm","id":"node/7067367385"},"geometry":{"type":"Point","coordinates":[6.9063538,47.4197077]}}
+{"type":"Feature","id":"node/7067367385","properties":{"addr:street":"Rombois","name":"Gaec Voireuchon","opening_hours":"We, Fr 09:00-17:00","organic":"only","phone":"+33 3 81 35 74 23","shop":"farm","id":"node/7067367385"},"geometry":{"type":"Point","coordinates":[6.9063538,47.4197077]}}

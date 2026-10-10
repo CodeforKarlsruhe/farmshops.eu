@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/14232908592","properties":{"amenity":"vending_machine","operator":"Fruhmann","payment:cards":"yes","payment:cash":"yes","payment:coins":"yes","payment:contactless":"yes","payment:notes":"yes","vending":"drinks;food;sweets;eggs","id":"node/14232908592"},"geometry":{"type":"Point","coordinates":[13.9294692,46.6248658]}}

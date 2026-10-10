@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/10879513630","properties":{"name":"Obst & Gemüse","payment:cash":"yes","payment:girocard":"yes","shop":"farm","id":"node/10879513630"},"geometry":{"type":"Point","coordinates":[13.3873244,52.489625]}}
+{"type":"Feature","id":"node/10879513630","properties":{"name":"Obst & Gemüse","payment:cash":"yes","payment:girocard":"yes","shop":"farm","wheelchair":"yes","id":"node/10879513630"},"geometry":{"type":"Point","coordinates":[13.3873244,52.489625]}}

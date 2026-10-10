@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/9717671503","properties":{"amenity":"vending_machine","automated":"no","description":"Kühlschrank","food":"eggs;honey","payment:cash":"only","vending":"food","id":"node/9717671503"},"geometry":{"type":"Point","coordinates":[9.2775169,48.3087923]}}
+{"type":"Feature","id":"node/9717671503","properties":{"amenity":"vending_machine","automated":"no","check_date":"2026-05-14","description":"Kühlschrank","food":"eggs;honey","payment:cash":"only","vending":"food","id":"node/9717671503"},"geometry":{"type":"Point","coordinates":[9.2775169,48.3087923]}}

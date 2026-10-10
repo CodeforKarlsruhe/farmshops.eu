@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/12769343641","properties":{"amenity":"vending_machine","payment:coins":"yes","vending":"milk","id":"node/12769343641"},"geometry":{"type":"Point","coordinates":[15.3995937,50.4670685]}}
+{"type":"Feature","id":"node/12769343641","properties":{"addr:city":"Soběraz","amenity":"vending_machine","currency:CZK":"yes","name":"Automat na mléko","payment:coins":"yes","vending":"milk","id":"node/12769343641"},"geometry":{"type":"Point","coordinates":[15.3996615,50.4670328]}}

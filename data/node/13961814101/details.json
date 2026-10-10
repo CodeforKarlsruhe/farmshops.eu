@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/13961814101","properties":{"amenity":"vending_machine","operator":"Luther","payment:cash":"no","payment:coins":"no","payment:credit_cards":"yes","payment:girocard":"yes","vending":"food;drinks","id":"node/13961814101"},"geometry":{"type":"Point","coordinates":[11.0531614,50.2953239]}}

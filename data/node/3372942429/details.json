@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/3372942429","properties":{"amenity":"vending_machine","name":"Eierautomat","vending":"food","id":"node/3372942429"},"geometry":{"type":"Point","coordinates":[16.2480841,48.3137761]}}
+{"type":"Feature","id":"node/3372942429","properties":{"amenity":"vending_machine","currency:EUR":"yes","name":"Eierautomat","payment:coins":"yes","payment:notes":"yes","vending":"eggs","id":"node/3372942429"},"geometry":{"type":"Point","coordinates":[16.2477765,48.3138183]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/13495349152","properties":{"name":"Hühnerhof Fink","shop":"farm","id":"node/13495349152"},"geometry":{"type":"Point","coordinates":[11.3060338,49.369045]}}
+{"type":"Feature","id":"node/13495349152","properties":{"check_date":"2026-03-22","name":"Hühnerhof Fink","opening_hours":"Mo,We,Th,Fr,Sa,Su 00:00+; Tu off; Fr 14:00+","shop":"farm","wheelchair":"limited","id":"node/13495349152"},"geometry":{"type":"Point","coordinates":[11.3060576,49.3690591]}}

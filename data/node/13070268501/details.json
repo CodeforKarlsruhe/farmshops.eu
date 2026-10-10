@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/13070268501","properties":{"shop":"farm","id":"node/13070268501"},"geometry":{"type":"Point","coordinates":[8.3392654,52.1021546]}}
+{"type":"Feature","id":"node/13070268501","properties":{"amenity":"vending_machine","fee":"yes","vending":"eggs","id":"node/13070268501"},"geometry":{"type":"Point","coordinates":[8.3393043,52.1021091]}}

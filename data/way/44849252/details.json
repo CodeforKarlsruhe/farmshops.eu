@@ -1,1 +1,1 @@
-{"type":"Feature","id":"way/44849252","properties":{"amenity":"marketplace","id":"way/44849252"},"geometry":{"type":"Point","coordinates":[14.629769,52.1492833]}}
+{"type":"Feature","id":"way/44849252","properties":{"amenity":"marketplace","name":"Bauernmarkt","opening_hours":"Mo-Su 00:00-24:00","id":"way/44849252"},"geometry":{"type":"Point","coordinates":[14.629769,52.1492833]}}

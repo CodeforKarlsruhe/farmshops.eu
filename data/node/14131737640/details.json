@@ -1,0 +1,1 @@
+{"type":"Feature","id":"node/14131737640","properties":{"amenity":"vending_machine","opening_hours":"24/7","payment:coins":"no","payment:credit_cards":"yes","payment:debit_cards":"yes","payment:notes":"no","payment:qr_code":"no","vending":"cheese;eggs;fruit;meat;potatoes","id":"node/14131737640"},"geometry":{"type":"Point","coordinates":[6.2007668,48.9611305]}}

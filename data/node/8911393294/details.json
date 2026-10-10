@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8911393294","properties":{"amenity":"cafe","name":"Gut Birkenmoor","produce":"strawberry","shop":"farm","id":"node/8911393294"},"geometry":{"type":"Point","coordinates":[10.0692385,54.4433771]}}
+{"type":"Feature","id":"node/8911393294","properties":{"amenity":"cafe","check_date":"2026-09-24","name":"Feldcafé Gut Birkenmoor","opening_hours":"Mo-Fr,Su off; Sa 13:00-18:00","produce":"strawberry","shop":"farm","id":"node/8911393294"},"geometry":{"type":"Point","coordinates":[10.0690681,54.445212]}}

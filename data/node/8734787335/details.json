@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/8734787335","properties":{"name":"'t Hoeveke","shop":"farm","id":"node/8734787335"},"geometry":{"type":"Point","coordinates":[4.2700674,50.7374074]}}
+{"type":"Feature","id":"node/8734787335","properties":{"entrance:automatic_door":"no","entrance:door":"hinged","entrance:kerb:height":"0.14","entrance:step_count":"1","entrance:width":"0.9","name":"'t Hoeveke","ramp:wheelchair":"yes","shop":"farm","wheelchair":"yes","id":"node/8734787335"},"geometry":{"type":"Point","coordinates":[4.2700518,50.7373829]}}
