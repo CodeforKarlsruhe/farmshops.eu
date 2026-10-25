@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/14065871325","properties":{"name":"Bernsteinreiter Service Point","shop":"farm","id":"node/14065871325"},"geometry":{"type":"Point","coordinates":[11.6664465,53.6668818]}}
+{"type":"Feature","id":"node/14065871325","properties":{"check_date:opening_hours":"2026-10-11","name":"Bernsteinreiter Service Point","opening_hours:signed":"no","shop":"farm","id":"node/14065871325"},"geometry":{"type":"Point","coordinates":[11.6664465,53.6668818]}}

@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/14119640626","properties":{"name":"Karls","produce":"strawberries","seasonal":"yes","shop":"farm","wheelchair":"yes","id":"node/14119640626"},"geometry":{"type":"Point","coordinates":[13.0779721,54.3090951]}}
+{"type":"Feature","id":"node/14119640626","properties":{"name":"Karls","payment:debit_cards":"yes","produce":"strawberries","seasonal":"yes","shop":"farm","wheelchair":"yes","id":"node/14119640626"},"geometry":{"type":"Point","coordinates":[13.0779721,54.3090951]}}

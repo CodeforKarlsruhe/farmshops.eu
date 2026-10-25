@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/13898665678","properties":{"name":"Sabines Gsälzladen","opening_hours":"24/7","payment:cash":"yes","shop":"farm","id":"node/13898665678"},"geometry":{"type":"Point","coordinates":[9.0863967,48.4922628]}}
+{"type":"Feature","id":"node/13898665678","properties":{"name":"Sabines Gsälzladen","opening_hours":"24/7","payment:cash":"yes","payment:credit_cards":"no","payment:debit_cards":"no","shop":"farm","id":"node/13898665678"},"geometry":{"type":"Point","coordinates":[9.0863967,48.4922628]}}
