@@ -1,1 +1,1 @@
-{"type":"Feature","id":"node/7777978598","properties":{"amenity":"vending_machine","vending":"cheese","id":"node/7777978598"},"geometry":{"type":"Point","coordinates":[8.2136851,46.7421796]}}
+{"type":"Feature","id":"node/7777978598","properties":{"amenity":"vending_machine","check_date":"2026-10-12","vending":"cheese","id":"node/7777978598"},"geometry":{"type":"Point","coordinates":[8.2136851,46.7421796]}}
